@@ -1,0 +1,13 @@
+<application>
+  <component name="DistinctDevice">
+    <option name="androidVersion" value="9" />
+    <option name="emui" value="9.1.0" />
+    <option name="model" value="vog-al00" />
+    <option name="phoneName" value="p30 pro" />
+    <option name="status" value="ready" />
+    <option name="total" value="4" />
+    <option name="valid" value="4" />
+    <option name="xres" value="1080" />
+    <option name="yres" value="2340" />
+  </component>
+</application>
