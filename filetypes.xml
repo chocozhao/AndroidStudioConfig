@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="supplysample" type="JSON" />
-      <mapping ext="wav" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
