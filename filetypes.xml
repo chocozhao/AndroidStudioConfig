@@ -2,7 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="supplysample" type="JSON" />
+      <mapping pattern="AppDb" type="PLAIN_TEXT" />
       <mapping ext="wav" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
