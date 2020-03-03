@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Activity Scope" />
+      <item value="Provides" />
+      <item value="Inject" />
       <item value="set Up Banner" />
       <item value="Fragment has not been attached yet." />
       <item value="contains" />
@@ -15,8 +18,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="13" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
