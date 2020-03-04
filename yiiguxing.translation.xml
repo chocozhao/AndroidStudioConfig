@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Round" />
+      <item value="Cust" />
+      <item value="Cust Round" />
+      <item value="Blur" />
       <item value="任务中心" />
       <item value="积分管理" />
       <item value="累计" />
@@ -43,8 +47,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="42" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
