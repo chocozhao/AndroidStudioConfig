@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="任务中心" />
+      <item value="积分管理" />
+      <item value="累计" />
+      <item value="Grand" />
+      <item value="frozen" />
+      <item value="angle" />
       <item value="compare To" />
       <item value="divide" />
       <item value="Constructs a new {@code BigDecimal} instance from the given int * {@code val}. The scale of the result is 0." />
@@ -37,9 +43,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="34" />
-        <entry key="FRENCH" value="1" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="38" />
+        <entry key="FRENCH" value="2" />
       </map>
     </option>
   </component>
