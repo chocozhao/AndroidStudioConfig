@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Bind View Holder" />
+      <item value="get Item View Type" />
       <item value="divide by zero" />
       <item value="instanceof" />
       <item value="expend" />
@@ -49,13 +51,11 @@
       <item value="Inject" />
       <item value="set Up Banner" />
       <item value="Fragment has not been attached yet." />
-      <item value="contains" />
-      <item value="FragmentManager is already executing transactions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
