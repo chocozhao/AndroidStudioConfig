@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expend" />
+      <item value="消耗" />
+      <item value="获取" />
       <item value="weight" />
       <item value="Buy Max" />
       <item value="Current" />
@@ -48,14 +51,11 @@
       <item value="FragmentManager is already executing transactions" />
       <item value="obtain App Component From Context" />
       <item value="avlb" />
-      <item value="deposit" />
-      <item value="context" />
-      <item value="amount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
