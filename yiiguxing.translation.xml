@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="兑换" />
+      <item value="Point" />
+      <item value="point" />
+      <item value="积分" />
+      <item value="积分兑换" />
       <item value="签到" />
       <item value="grid Layout Manager" />
       <item value="horizontal Layout Manager" />
@@ -46,16 +51,11 @@
       <item value="移除" />
       <item value="智能收款" />
       <item value="渠道开通" />
-      <item value="Omitted" />
-      <item value="Omitted request body" />
-      <item value="Retry With Delay" />
-      <item value="retry When" />
-      <item value="subscribe On" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
