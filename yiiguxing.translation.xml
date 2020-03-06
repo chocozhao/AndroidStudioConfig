@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="number Decimal" />
       <item value="输入" />
       <item value="兑换" />
       <item value="Point" />
@@ -50,12 +51,11 @@
       <item value="Response" />
       <item value="Activity Scope" />
       <item value="移除" />
-      <item value="智能收款" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
