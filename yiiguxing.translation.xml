@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="状态" />
       <item value="Exception thrown on Scheduler.Worker thread. Add `onError` handling." />
       <item value="contains" />
       <item value="灰色" />
@@ -50,12 +51,11 @@
       <item value="累计" />
       <item value="Grand" />
       <item value="frozen" />
-      <item value="angle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="74" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
