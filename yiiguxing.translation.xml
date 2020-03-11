@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Rounding necessary" />
       <item value="收款" />
       <item value="Notice" />
       <item value="normal Stroke Color" />
@@ -50,12 +51,11 @@
       <item value="Round" />
       <item value="Cust" />
       <item value="Cust Round" />
-      <item value="Blur" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="78" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="79" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
