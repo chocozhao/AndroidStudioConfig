@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="layout Params" />
       <item value="show Content" />
       <item value="marquee" />
       <item value="singleline" />
@@ -50,12 +51,11 @@
       <item value="消耗" />
       <item value="获取" />
       <item value="weight" />
-      <item value="Buy Max" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
-        <entry key="ENGLISH" value="92" />
+        <entry key="CHINESE" value="92" />
+        <entry key="ENGLISH" value="93" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
