@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="MINUTE" />
+      <item value="is 24 Hour Mode" />
       <item value="SECOND" />
+      <item value="MINUTE" />
       <item value="MILLISECOND" />
       <item value="DAY OF WEEK IN MONTH" />
       <item value="DAY OF WEEK" />
@@ -50,12 +51,11 @@
       <item value="Current" />
       <item value="Inventory" />
       <item value="on Warning For Inventory" />
-      <item value="on Warning For Buy Max" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="CHINESE" value="88" />
+        <entry key="ENGLISH" value="89" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
