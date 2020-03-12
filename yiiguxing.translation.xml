@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="protocol" />
       <item value="rotation" />
       <item value="Visible" />
       <item value="编辑" />
@@ -50,12 +51,11 @@
       <item value="date" />
       <item value="Suspicious namespace and prefix combination less... (Ctrl+F1) Inspection info:Accidental misspellings in namespace declarations can lead to some very obscure error messages. This check looks for potential misspellings to help track these down. Issue id: NamespaceTypo" />
       <item value="深色" />
-      <item value="浅色" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="102" />
+        <entry key="ENGLISH" value="103" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
