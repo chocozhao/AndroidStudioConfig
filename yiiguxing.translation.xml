@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Visible" />
+      <item value="编辑" />
       <item value="if Room" />
       <item value="always" />
       <item value="with Text" />
@@ -49,13 +51,11 @@
       <item value="深色" />
       <item value="浅色" />
       <item value="圆角" />
-      <item value="on Bind View Holder" />
-      <item value="get Item View Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="100" />
+        <entry key="ENGLISH" value="101" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
