@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Index Out Of Bounds Exception" />
       <item value="Accent" />
       <item value="The initial day of the dialog." />
       <item value="The initial month of the dialog." />
@@ -50,12 +51,11 @@
       <item value="point" />
       <item value="积分" />
       <item value="积分兑换" />
-      <item value="签到" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="109" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
