@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Batch" />
+      <item value="fit" />
+      <item value="fit Center" />
+      <item value="scale Type" />
       <item value="加" />
       <item value="multiply" />
       <item value="middle" />
@@ -47,15 +51,11 @@
       <item value="DAY OF YEAR" />
       <item value="Override" />
       <item value="Rounding necessary" />
-      <item value="收款" />
-      <item value="Notice" />
-      <item value="normal Stroke Color" />
-      <item value="com.yzf.smlking.App cannot be cast to android.app.Activity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="127" />
+        <entry key="ENGLISH" value="128" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
