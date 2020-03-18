@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fill Viewport" />
       <item value="统计" />
       <item value="直属" />
       <item value="itemView may not be null" />
@@ -50,12 +51,11 @@
       <item value="is 24 Hour Mode" />
       <item value="SECOND" />
       <item value="MINUTE" />
-      <item value="MILLISECOND" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="CHINESE" value="131" />
+        <entry key="ENGLISH" value="132" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
