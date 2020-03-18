@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="With GitHub for mobile, you can: Organize tasks in a swipe: Get your inbox to zero in no time—swipe to finish a task or save the notification to return to it later. Give feedback and respond to issues: Respond to comments while you’re on the go. Review and merge pull requests: Merge and mark pull requests to breeze through your workflow, wherever you are." />
       <item value="fill Viewport" />
       <item value="统计" />
       <item value="直属" />
@@ -50,11 +51,10 @@
       <item value="singleline" />
       <item value="is 24 Hour Mode" />
       <item value="SECOND" />
-      <item value="MINUTE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
+        <entry key="CHINESE" value="132" />
         <entry key="ENGLISH" value="132" />
         <entry key="FRENCH" value="2" />
       </map>
