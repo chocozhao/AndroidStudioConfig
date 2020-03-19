@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="共用等级" />
       <item value="anim" />
       <item value="zoom" />
       <item value="supply" />
@@ -50,12 +51,11 @@
       <item value="The initial year of the dialog." />
       <item value="MONTH" />
       <item value="protocol" />
-      <item value="rotation" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="139" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="ENGLISH" value="140" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
       </map>
