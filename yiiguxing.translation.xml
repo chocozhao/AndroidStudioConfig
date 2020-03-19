@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Number Format Exception" />
       <item value="条形码" />
       <item value="扫" />
       <item value="查询" />
@@ -50,12 +51,11 @@
       <item value="Visible" />
       <item value="编辑" />
       <item value="if Room" />
-      <item value="always" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="136" />
-        <entry key="ENGLISH" value="137" />
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="138" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
