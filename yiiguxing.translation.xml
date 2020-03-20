@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Handler dispatch failed; nested exception is java.lang.StackOverflowError" />
+      <item value="consume" />
       <item value="半自动模式" />
       <item value="半自动Mode" />
       <item value="autoMode" />
@@ -15,7 +17,6 @@
       <item value="扫" />
       <item value="查询" />
       <item value="蓝色" />
-      <item value="consume" />
       <item value="结算" />
       <item value="积分" />
       <item value="消费" />
@@ -50,12 +51,11 @@
       <item value="NEUTRAL" />
       <item value="POSITIVE" />
       <item value="Index Out Of Bounds Exception" />
-      <item value="Accent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="140" />
-        <entry key="ENGLISH" value="141" />
+        <entry key="CHINESE" value="142" />
+        <entry key="ENGLISH" value="143" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
       </map>
