@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="半自动模式" />
+      <item value="半自动Mode" />
+      <item value="autoMode" />
+      <item value="全自动" />
+      <item value="半自动" />
       <item value="共用等级" />
       <item value="anim" />
       <item value="zoom" />
@@ -46,16 +51,11 @@
       <item value="POSITIVE" />
       <item value="Index Out Of Bounds Exception" />
       <item value="Accent" />
-      <item value="The initial day of the dialog." />
-      <item value="The initial month of the dialog." />
-      <item value="The initial year of the dialog." />
-      <item value="MONTH" />
-      <item value="protocol" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="139" />
-        <entry key="ENGLISH" value="140" />
+        <entry key="CHINESE" value="140" />
+        <entry key="ENGLISH" value="141" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
       </map>
