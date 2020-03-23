@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Clickable" />
       <item value="coupon" />
       <item value="contains" />
       <item value="详情" />
@@ -50,12 +51,11 @@
       <item value="recycler Scrollbar Style" />
       <item value="recycler Scrollbar None" />
       <item value="检查" />
-      <item value="查看" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="149" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
       </map>
