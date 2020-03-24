@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="入账" />
       <item value="Extern" />
       <item value="手续费" />
       <item value="bring To Front" />
@@ -50,12 +51,11 @@
       <item value="solid" />
       <item value="stroke" />
       <item value="电量" />
-      <item value="Description：" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="152" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="153" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
