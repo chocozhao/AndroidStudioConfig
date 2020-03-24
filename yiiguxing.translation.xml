@@ -1,12 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Number Format Exception" />
+      <item value="amount" />
       <item value="升级" />
       <item value="入账" />
       <item value="Extern" />
       <item value="手续费" />
       <item value="bring To Front" />
-      <item value="amount" />
       <item value="set Clickable" />
       <item value="coupon" />
       <item value="contains" />
@@ -23,7 +24,6 @@
       <item value="anim" />
       <item value="zoom" />
       <item value="supply" />
-      <item value="Number Format Exception" />
       <item value="条形码" />
       <item value="扫" />
       <item value="查询" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="153" />
-        <entry key="ENGLISH" value="154" />
+        <entry key="CHINESE" value="155" />
+        <entry key="ENGLISH" value="156" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
