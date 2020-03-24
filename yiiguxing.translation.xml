@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="升级" />
       <item value="入账" />
       <item value="Extern" />
       <item value="手续费" />
@@ -50,7 +51,6 @@
       <item value="卡槽" />
       <item value="solid" />
       <item value="stroke" />
-      <item value="电量" />
     </histories>
     <option name="languageScores">
       <map>
