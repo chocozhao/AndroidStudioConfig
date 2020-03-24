@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bill" />
       <item value="Number Format Exception" />
       <item value="amount" />
       <item value="升级" />
@@ -50,12 +51,11 @@
       <item value="card Corner Radius" />
       <item value="卡槽" />
       <item value="solid" />
-      <item value="stroke" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="155" />
-        <entry key="ENGLISH" value="156" />
+        <entry key="CHINESE" value="156" />
+        <entry key="ENGLISH" value="157" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
