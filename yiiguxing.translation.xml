@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="constructor" />
       <item value="The following has evaluated to null or missing:" />
       <item value="column" />
       <item value="relative" />
@@ -50,12 +51,11 @@
       <item value="scale Type" />
       <item value="加" />
       <item value="multiply" />
-      <item value="middle" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="159" />
-        <entry key="ENGLISH" value="159" />
+        <entry key="ENGLISH" value="160" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
