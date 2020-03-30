@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="views must not be attached when created" />
+      <item value="ViewHolder views must not be attached when created." />
       <item value="ViewHolder views must not be attached when created. Ensure that you are not passing 'true' to the attachToRoot parameter of LayoutInflater.inflate" />
       <item value="更改" />
       <item value="java.lang.Illegal Argument Exception" />
@@ -49,13 +51,11 @@
       <item value="统计" />
       <item value="itemView may not be null" />
       <item value="商户" />
-      <item value="nest" />
-      <item value="Batch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="164" />
-        <entry key="ENGLISH" value="165" />
+        <entry key="CHINESE" value="166" />
+        <entry key="ENGLISH" value="167" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
