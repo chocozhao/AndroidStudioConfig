@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Called attach on a child which is not detached" />
       <item value="* Set of bits in {@link #imeOptions} that provide alternative actions * associated with the &quot;enter&quot; key. This both helps the IME provide * better feedback about what the enter key will do, and also allows it * to provide alternative mechanisms for providing that command." />
       <item value="IME MASK ACTION" />
       <item value="IME ACTION UNSPECIFIED" />
@@ -12,7 +13,6 @@
       <item value="IME ACTION PREVIOUS" />
       <item value="IME ACTION DONE" />
       <item value="number Signed" />
-      <item value="Called attach on a child which is not detached" />
       <item value="样式" />
       <item value="Inconsistency detected" />
       <item value="views must not be attached when created" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="180" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="CHINESE" value="181" />
+        <entry key="ENGLISH" value="182" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
