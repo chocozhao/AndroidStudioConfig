@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="if enabled, the set label count will be forced, meaning that the exact * specified count of labels will * be drawn and evenly distributed alongside the axis - this might cause labels * to have uneven values" />
       <item value="Negative Array Size Exception" />
       <item value="abstract" />
       <item value="Set the marker to the chart" />
@@ -50,12 +51,11 @@
       <item value="bring To Front" />
       <item value="set Clickable" />
       <item value="coupon" />
-      <item value="contains" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="191" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="192" />
+        <entry key="ENGLISH" value="193" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
