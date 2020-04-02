@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="abstract" />
       <item value="Set the marker to the chart" />
       <item value="For bounds control" />
       <item value="to use for it" />
@@ -50,12 +51,11 @@
       <item value="coupon" />
       <item value="contains" />
       <item value="详情" />
-      <item value="Consume" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="188" />
-        <entry key="ENGLISH" value="189" />
+        <entry key="CHINESE" value="189" />
+        <entry key="ENGLISH" value="190" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
