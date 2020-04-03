@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="GC overhead limit exceeded" />
       <item value="protocol" />
       <item value="Corner Type" />
       <item value="Rounded Corners Transformation" />
@@ -50,12 +51,11 @@
       <item value="amount" />
       <item value="升级" />
       <item value="入账" />
-      <item value="Extern" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
-        <entry key="ENGLISH" value="197" />
+        <entry key="CHINESE" value="197" />
+        <entry key="ENGLISH" value="198" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
