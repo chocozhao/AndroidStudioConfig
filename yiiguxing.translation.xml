@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="protocol" />
       <item value="Corner Type" />
       <item value="Rounded Corners Transformation" />
       <item value="头像" />
@@ -50,12 +51,11 @@
       <item value="升级" />
       <item value="入账" />
       <item value="Extern" />
-      <item value="手续费" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="195" />
-        <entry key="ENGLISH" value="196" />
+        <entry key="CHINESE" value="196" />
+        <entry key="ENGLISH" value="197" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
