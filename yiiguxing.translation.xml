@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Corner Type" />
+      <item value="Rounded Corners Transformation" />
       <item value="头像" />
       <item value="if enabled, the set label count will be forced, meaning that the exact * specified count of labels will * be drawn and evenly distributed alongside the axis - this might cause labels * to have uneven values" />
       <item value="Negative Array Size Exception" />
@@ -49,13 +51,11 @@
       <item value="入账" />
       <item value="Extern" />
       <item value="手续费" />
-      <item value="bring To Front" />
-      <item value="set Clickable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="193" />
-        <entry key="ENGLISH" value="194" />
+        <entry key="CHINESE" value="195" />
+        <entry key="ENGLISH" value="196" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
