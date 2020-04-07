@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets the used x-axis offset for the labels on this axis." />
       <item value="Drag" />
       <item value="Scale" />
       <item value="GC overhead limit exceeded" />
@@ -50,12 +51,11 @@
       <item value="直属" />
       <item value="bill" />
       <item value="Number Format Exception" />
-      <item value="amount" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="200" />
-        <entry key="ENGLISH" value="200" />
+        <entry key="ENGLISH" value="201" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
