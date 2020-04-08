@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Warning For Buy Max" />
+      <item value="on Warning For Inventory" />
       <item value="The latest stable release of Android Studio is now available for download. Android Studio 3.6.2 is a major new release and includes performance improvements, bug fixes and new features. Quality-driven improvements across code editing and debugging Faster builds from compiler and packaging optimizations (requires Android Gradle plugin 3.6.0 or higher) Support for Jetpack View Binding, a compile-time safe replacement for 'findViewById()' Improved memory leak detection for your Activities and Fragments when using Profilers New support for adding classes without restarting your app in Apply Changes Quickly switch between code and design modes with the new Split view in the Design Editors Better JNI editor experience with Kotlin and native C++ projects All improvements through IntelliJ IDEA 2019.2.4" />
       <item value="To determine what is calling variant.getJavaCompiler(), use -Pandroid.debug.obsoleteApi=true on the command line to display more information." />
       <item value="proceed" />
@@ -49,13 +51,11 @@
       <item value="number Signed" />
       <item value="样式" />
       <item value="Inconsistency detected" />
-      <item value="views must not be attached when created" />
-      <item value="ViewHolder views must not be attached when created." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="216" />
-        <entry key="ENGLISH" value="216" />
+        <entry key="CHINESE" value="217" />
+        <entry key="ENGLISH" value="218" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
