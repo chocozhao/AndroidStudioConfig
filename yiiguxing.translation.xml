@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="divide" />
       <item value="刷新" />
       <item value="Between" />
       <item value="Constraint Layout" />
@@ -50,12 +51,11 @@
       <item value="IME ACTION GO" />
       <item value="IME ACTION SEARCH" />
       <item value="IME ACTION SEND" />
-      <item value="IME ACTION NEXT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="223" />
-        <entry key="ENGLISH" value="224" />
+        <entry key="CHINESE" value="226" />
+        <entry key="ENGLISH" value="227" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
