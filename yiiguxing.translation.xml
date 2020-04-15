@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="刷新" />
       <item value="单选" />
       <item value="编号" />
       <item value="级别" />
@@ -16,7 +17,6 @@
       <item value="Switched" />
       <item value="PREVIOUS" />
       <item value="divide" />
-      <item value="刷新" />
       <item value="Between" />
       <item value="Constraint Layout" />
       <item value="计划" />
