@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="付费升级" />
+      <item value="直接升级" />
+      <item value="直接" />
       <item value="Floating" />
       <item value="You need to use a Theme.AppCompat theme (or descendant) with this activity." />
       <item value="zoom" />
@@ -48,14 +51,11 @@
       <item value="GC overhead limit exceeded" />
       <item value="protocol" />
       <item value="Corner Type" />
-      <item value="Rounded Corners Transformation" />
-      <item value="头像" />
-      <item value="if enabled, the set label count will be forced, meaning that the exact * specified count of labels will * be drawn and evenly distributed alongside the axis - this might cause labels * to have uneven values" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="235" />
-        <entry key="ENGLISH" value="236" />
+        <entry key="CHINESE" value="236" />
+        <entry key="ENGLISH" value="237" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
