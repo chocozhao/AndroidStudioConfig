@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Merge conflict for: AndroidManifest.xml This file must be fixed by hand. Errors encountered during the merge:  * Overlay manifest:package attribute declared at template AndroidManifest.xml:2:2-41 value=(com.yzf.aposking.ui.activitys) &#9;has a different value=(com.yzf.aposking) declared in main manifest at current AndroidManifest.xml:4:5-31 &#9;Suggestion: remove the overlay declaration at template AndroidManifest.xml &#9;and place it in the build.gradle: &#9;&#9;flavorName { &#9;&#9;&#9;applicationId = &quot;com.yzf.aposking.ui.activitys&quot; &#9;&#9;}   If you proceed the resulting project may not compile or not work as intended" />
       <item value="static" />
       <item value="刷新" />
       <item value="单选" />
@@ -50,11 +51,10 @@
       <item value="abstract" />
       <item value="Set the marker to the chart" />
       <item value="For bounds control" />
-      <item value="to use for it" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="232" />
+        <entry key="CHINESE" value="233" />
         <entry key="ENGLISH" value="233" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
