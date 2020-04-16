@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="金色" />
       <item value="付费升级" />
       <item value="直接升级" />
       <item value="直接" />
@@ -50,7 +51,6 @@
       <item value="Sets the used x-axis offset for the labels on this axis." />
       <item value="GC overhead limit exceeded" />
       <item value="protocol" />
-      <item value="Corner Type" />
     </histories>
     <option name="languageScores">
       <map>
