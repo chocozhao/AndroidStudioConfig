@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="checked" />
       <item value="Sticky" />
       <item value="can Loop" />
       <item value="金色" />
@@ -50,12 +51,11 @@
       <item value="editable" />
       <item value="Around" />
       <item value="Aspect" />
-      <item value="Sets the used x-axis offset for the labels on this axis." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="238" />
-        <entry key="ENGLISH" value="239" />
+        <entry key="CHINESE" value="239" />
+        <entry key="ENGLISH" value="240" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
