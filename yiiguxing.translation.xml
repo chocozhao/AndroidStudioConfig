@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tag" />
       <item value="start" />
       <item value="Status" />
       <item value="instantiate" />
@@ -50,12 +51,11 @@
       <item value="Deceleration friction coefficient in [0 ; 1] interval, higher values * indicate that speed will decrease slowly, for example if it set to 0, it * will stop immediately. 1 is an invalid value, and will be converted to * 0.999f automatically." />
       <item value="滚动" />
       <item value="轮播" />
-      <item value="Scale" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="243" />
-        <entry key="ENGLISH" value="244" />
+        <entry key="CHINESE" value="244" />
+        <entry key="ENGLISH" value="245" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
