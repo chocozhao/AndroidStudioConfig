@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Show the toast for a short period of time." />
       <item value="tag" />
       <item value="start" />
       <item value="Status" />
@@ -50,12 +51,11 @@
       <item value="Animates the rendering of the chart on the y-axis with the specified * animation time. If animate(...) is called, no further calling of * invalidate() is necessary to refresh the chart. ANIMATIONS ONLY WORK FOR * API LEVEL 11 (Android 3.0.x) AND HIGHER." />
       <item value="Deceleration friction coefficient in [0 ; 1] interval, higher values * indicate that speed will decrease slowly, for example if it set to 0, it * will stop immediately. 1 is an invalid value, and will be converted to * 0.999f automatically." />
       <item value="滚动" />
-      <item value="轮播" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="244" />
-        <entry key="ENGLISH" value="245" />
+        <entry key="CHINESE" value="245" />
+        <entry key="ENGLISH" value="246" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
