@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="备注" />
       <item value="金" />
       <item value="instanceof" />
       <item value="integration" />
@@ -50,7 +51,6 @@
       <item value="Pointcut" />
       <item value="on Warning For Buy Max" />
       <item value="on Warning For Inventory" />
-      <item value="The latest stable release of Android Studio is now available for download. Android Studio 3.6.2 is a major new release and includes performance improvements, bug fixes and new features. Quality-driven improvements across code editing and debugging Faster builds from compiler and packaging optimizations (requires Android Gradle plugin 3.6.0 or higher) Support for Jetpack View Binding, a compile-time safe replacement for 'findViewById()' Improved memory leak detection for your Activities and Fragments when using Profilers New support for adding classes without restarting your app in Apply Changes Quickly switch between code and design modes with the new Split view in the Design Editors Better JNI editor experience with Kotlin and native C++ projects All improvements through IntelliJ IDEA 2019.2.4" />
     </histories>
     <option name="languageScores">
       <map>
