@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="方案一" />
+      <item value="方案" />
+      <item value="配置" />
       <item value="备注" />
       <item value="金" />
       <item value="instanceof" />
@@ -48,9 +51,6 @@
       <item value="Between" />
       <item value="Constraint Layout" />
       <item value="计划" />
-      <item value="Pointcut" />
-      <item value="on Warning For Buy Max" />
-      <item value="on Warning For Inventory" />
     </histories>
     <option name="languageScores">
       <map>
