@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="relation" />
+      <item value="账号关联" />
       <item value="方案一" />
       <item value="方案" />
       <item value="配置" />
@@ -49,12 +51,10 @@
       <item value="PREVIOUS" />
       <item value="divide" />
       <item value="Between" />
-      <item value="Constraint Layout" />
-      <item value="计划" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="253" />
+        <entry key="CHINESE" value="254" />
         <entry key="ENGLISH" value="254" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
