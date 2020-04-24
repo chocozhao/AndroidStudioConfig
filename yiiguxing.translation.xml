@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Coordinator" />
       <item value="relation" />
       <item value="账号关联" />
       <item value="方案一" />
@@ -50,7 +51,6 @@
       <item value="Switched" />
       <item value="PREVIOUS" />
       <item value="divide" />
-      <item value="Between" />
     </histories>
     <option name="languageScores">
       <map>
