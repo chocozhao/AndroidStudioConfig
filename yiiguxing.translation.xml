@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="快速" />
+      <item value="备注" />
       <item value="申购" />
       <item value="relate" />
       <item value="Coordinator" />
@@ -9,7 +11,6 @@
       <item value="方案一" />
       <item value="方案" />
       <item value="配置" />
-      <item value="备注" />
       <item value="金" />
       <item value="instanceof" />
       <item value="integration" />
@@ -50,7 +51,6 @@
       <item value="In the color picker for XML or design tools, Android Studio now populates the color resources in your app for you to quickly choose and replace color resources values." />
       <item value="This version of Android Studio includes updates to several design tools, including the Layout Editor and Resource Manager." />
       <item value="This panel describes some of the new features and behavior changes included in this update." />
-      <item value="Switched" />
     </histories>
     <option name="languageScores">
       <map>
