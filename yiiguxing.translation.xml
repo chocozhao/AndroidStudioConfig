@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="积分兑换" />
       <item value="快速" />
       <item value="备注" />
       <item value="申购" />
@@ -50,7 +51,6 @@
       <item value="Design editors, such as the Layout Editor and Navigation Editor, now provide a Split view that enables you to see both the Design and Code views of your UI at the same time. To enable split view, click the Split icon in the top-right corner of the editor window." />
       <item value="In the color picker for XML or design tools, Android Studio now populates the color resources in your app for you to quickly choose and replace color resources values." />
       <item value="This version of Android Studio includes updates to several design tools, including the Layout Editor and Resource Manager." />
-      <item value="This panel describes some of the new features and behavior changes included in this update." />
     </histories>
     <option name="languageScores">
       <map>
