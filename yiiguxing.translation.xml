@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pal" />
+      <item value="Lite" />
+      <item value="Lite Pal" />
+      <item value="const" />
+      <item value="feeds" />
+      <item value="init" />
+      <item value="comments" />
+      <item value="common" />
+      <item value="世界" />
       <item value="angle" />
       <item value="积分兑换" />
       <item value="快速" />
@@ -42,23 +51,15 @@
       <item value="static" />
       <item value="刷新" />
       <item value="单选" />
-      <item value="编号" />
-      <item value="级别" />
-      <item value="dimension" />
-      <item value="Dimensions" />
-      <item value="When downloading SDK components and tools using the SDK Manager, Android Studio now allows you to resume downloads that were interrupted (for example, due to a network issue) instead of restarting the download from the beginning. This enhancement is especially helpful for large downloads, such as the Android Emulator or system images, when internet connectivity is unreliable." />
-      <item value="To enable or disable Gradle's offline mode, first select View &gt; Tool Windows &gt; Gradle from the menu bar. Then, near the top of the Gradle window, click Toggle Offline Mode ." />
-      <item value="View binding provides compile-time safety when referencing views in your code. You can now replace findViewById() with the auto-generated binding class reference. To start using View binding, include the following in each module's build.gradle file:" />
-      <item value="Design editors, such as the Layout Editor and Navigation Editor, now provide a Split view that enables you to see both the Design and Code views of your UI at the same time. To enable split view, click the Split icon in the top-right corner of the editor window." />
-      <item value="In the color picker for XML or design tools, Android Studio now populates the color resources in your app for you to quickly choose and replace color resources values." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="256" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="CHINESE" value="260" />
+        <entry key="ENGLISH" value="261" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="SWEDISH" value="1" />
       </map>
     </option>
   </component>
