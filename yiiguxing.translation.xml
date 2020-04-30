@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Synthesizer" />
+      <item value="Duration" />
       <item value="Speech Recognizer With Recorder" />
       <item value="Speech" />
       <item value="Any" />
@@ -49,13 +51,11 @@
       <item value="直接升级" />
       <item value="直接" />
       <item value="Floating" />
-      <item value="You need to use a Theme.AppCompat theme (or descendant) with this activity." />
-      <item value="zoom" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="266" />
-        <entry key="ENGLISH" value="267" />
+        <entry key="CHINESE" value="268" />
+        <entry key="ENGLISH" value="269" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
