@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="推送" />
       <item value="expire" />
       <item value="Synthesizer" />
       <item value="Duration" />
@@ -50,12 +51,11 @@
       <item value="金色" />
       <item value="付费升级" />
       <item value="直接升级" />
-      <item value="直接" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="269" />
-        <entry key="ENGLISH" value="270" />
+        <entry key="CHINESE" value="270" />
+        <entry key="ENGLISH" value="271" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
