@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="On Error Not Implemented Exception" />
       <item value="thumb" />
       <item value="shadow" />
       <item value="推送" />
@@ -50,12 +51,11 @@
       <item value="checked" />
       <item value="Sticky" />
       <item value="can Loop" />
-      <item value="金色" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="272" />
-        <entry key="ENGLISH" value="273" />
+        <entry key="CHINESE" value="273" />
+        <entry key="ENGLISH" value="274" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
