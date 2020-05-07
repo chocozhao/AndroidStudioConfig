@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="network" />
+      <item value="网络" />
       <item value="On Error Not Implemented Exception" />
       <item value="thumb" />
       <item value="shadow" />
@@ -49,13 +51,11 @@
       <item value="instantiate" />
       <item value="set Up" />
       <item value="checked" />
-      <item value="Sticky" />
-      <item value="can Loop" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="273" />
-        <entry key="ENGLISH" value="274" />
+        <entry key="CHINESE" value="275" />
+        <entry key="ENGLISH" value="275" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
