@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dark" />
       <item value="span Count" />
       <item value="orientation" />
       <item value="Grid Layout" />
@@ -50,12 +51,11 @@
       <item value="integration" />
       <item value="camera" />
       <item value="Complete" />
-      <item value="use Diff setting up a new instance to data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="280" />
-        <entry key="ENGLISH" value="281" />
+        <entry key="CHINESE" value="281" />
+        <entry key="ENGLISH" value="282" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
