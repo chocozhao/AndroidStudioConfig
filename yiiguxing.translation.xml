@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="span Count" />
+      <item value="orientation" />
+      <item value="Grid Layout" />
+      <item value="Staggered" />
       <item value="extend" />
       <item value="secret" />
       <item value="Increasing the unauthenticated rate limit for OAuth applications If your OAuth application needs to make unauthenticated calls with a higher rate limit, you can pass your app's client ID and secret before the endpoint route." />
@@ -47,15 +51,11 @@
       <item value="camera" />
       <item value="Complete" />
       <item value="use Diff setting up a new instance to data" />
-      <item value="Omitted request body" />
-      <item value="protocols" />
-      <item value="Show the toast for a short period of time." />
-      <item value="tag" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="276" />
-        <entry key="ENGLISH" value="277" />
+        <entry key="CHINESE" value="280" />
+        <entry key="ENGLISH" value="281" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
