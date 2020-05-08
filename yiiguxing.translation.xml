@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="extend" />
       <item value="secret" />
       <item value="Increasing the unauthenticated rate limit for OAuth applications If your OAuth application needs to make unauthenticated calls with a higher rate limit, you can pass your app's client ID and secret before the endpoint route." />
       <item value="API rate limit exceeded for 59.149.170.8. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)" />
@@ -50,12 +51,11 @@
       <item value="protocols" />
       <item value="Show the toast for a short period of time." />
       <item value="tag" />
-      <item value="start" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="276" />
-        <entry key="ENGLISH" value="276" />
+        <entry key="ENGLISH" value="277" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
