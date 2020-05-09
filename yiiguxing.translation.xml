@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reached" />
+      <item value="Suffix" />
+      <item value="The suffix of the number." />
+      <item value="The height of the unreached area." />
+      <item value="The progress area bar color." />
+      <item value="The bar unreached area color." />
+      <item value="Current progress, can not exceed the max progress." />
+      <item value="*" />
+      <item value="current" />
       <item value="finsh" />
       <item value="完成" />
       <item value="奖金" />
@@ -42,20 +51,11 @@
       <item value="快速" />
       <item value="备注" />
       <item value="申购" />
-      <item value="relate" />
-      <item value="Coordinator" />
-      <item value="relation" />
-      <item value="账号关联" />
-      <item value="方案一" />
-      <item value="方案" />
-      <item value="配置" />
-      <item value="金" />
-      <item value="instanceof" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="283" />
-        <entry key="ENGLISH" value="283" />
+        <entry key="CHINESE" value="293" />
+        <entry key="ENGLISH" value="294" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
