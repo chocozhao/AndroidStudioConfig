@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="thumb" />
+      <item value="pressed" />
+      <item value="default" />
       <item value="Returns the left padding of this view. If there are inset and enabled * scrollbars, this value may include the space required to display the * scrollbars as well." />
       <item value="the left padding in pixels" />
       <item value="m Current Draw Text" />
@@ -48,14 +51,11 @@
       <item value="Staggered" />
       <item value="extend" />
       <item value="secret" />
-      <item value="Increasing the unauthenticated rate limit for OAuth applications If your OAuth application needs to make unauthenticated calls with a higher rate limit, you can pass your app's client ID and secret before the endpoint route." />
-      <item value="API rate limit exceeded for 59.149.170.8. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)" />
-      <item value="尊重" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="327" />
-        <entry key="ENGLISH" value="328" />
+        <entry key="CHINESE" value="330" />
+        <entry key="ENGLISH" value="331" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
