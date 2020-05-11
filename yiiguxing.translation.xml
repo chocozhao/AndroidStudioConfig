@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="m Current Draw Text" />
+      <item value="m Suffix" />
+      <item value="prefix" />
       <item value="Padding Left" />
       <item value="Rect F" />
       <item value="calculate Draw Rect F Without Progress Text" />
@@ -48,14 +51,11 @@
       <item value="尊重" />
       <item value="network" />
       <item value="网络" />
-      <item value="On Error Not Implemented Exception" />
-      <item value="thumb" />
-      <item value="shadow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="320" />
-        <entry key="ENGLISH" value="321" />
+        <entry key="CHINESE" value="325" />
+        <entry key="ENGLISH" value="326" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
