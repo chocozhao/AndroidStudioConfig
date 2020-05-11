@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Seek" />
+      <item value="Seek Bar" />
       <item value="thumb" />
       <item value="pressed" />
       <item value="default" />
@@ -49,13 +51,11 @@
       <item value="orientation" />
       <item value="Grid Layout" />
       <item value="Staggered" />
-      <item value="extend" />
-      <item value="secret" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="331" />
-        <entry key="ENGLISH" value="332" />
+        <entry key="CHINESE" value="333" />
+        <entry key="ENGLISH" value="334" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
