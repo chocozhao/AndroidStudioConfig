@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="proceed" />
+      <item value="Named" />
+      <item value="Policy on when async requests are executed." />
+      <item value="Dispatcher" />
+      <item value="max Requests Per Host" />
+      <item value="Each dispatcher uses an {@link ExecutorService} to run calls internally. If you supply your * own executor, it should be able to run {@linkplain #getMaxRequests the configured maximum} number * of calls concurrently." />
+      <item value="Policy on when async requests are executed" />
       <item value="calculate Draw Rect F" />
       <item value="calculate Draw Rect F Without Progress Text" />
       <item value="The Paint of the progress text." />
@@ -44,18 +51,11 @@
       <item value="Speech Recognizer With Recorder" />
       <item value="Speech" />
       <item value="Any" />
-      <item value="companion" />
-      <item value="Subscriber will be called in Android's main thread (sometimes referred to as UI thread). If the posting thread is * the main thread, event handler methods will be called directly. Event handlers using this mode must return * quickly to avoid blocking the main thread." />
-      <item value="const" />
-      <item value="Pal" />
-      <item value="Lite" />
-      <item value="Lite Pal" />
-      <item value="feeds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="303" />
-        <entry key="ENGLISH" value="304" />
+        <entry key="CHINESE" value="311" />
+        <entry key="ENGLISH" value="312" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
