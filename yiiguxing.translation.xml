@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mission" />
       <item value="mission" />
       <item value="The raw measured width of this view" />
       <item value="Measured" />
@@ -50,12 +51,11 @@
       <item value="The bar unreached area color." />
       <item value="Current progress, can not exceed the max progress." />
       <item value="*" />
-      <item value="current" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="342" />
-        <entry key="ENGLISH" value="343" />
+        <entry key="CHINESE" value="343" />
+        <entry key="ENGLISH" value="344" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
