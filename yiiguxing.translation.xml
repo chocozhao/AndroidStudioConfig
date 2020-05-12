@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="默认" />
       <item value="* Current user preference for the scaling factor for fonts, relative * to the base density scaling." />
       <item value="Mission" />
       <item value="mission" />
@@ -50,12 +51,11 @@
       <item value="The height of the unreached area." />
       <item value="The progress area bar color." />
       <item value="The bar unreached area color." />
-      <item value="Current progress, can not exceed the max progress." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="344" />
-        <entry key="ENGLISH" value="345" />
+        <entry key="CHINESE" value="345" />
+        <entry key="ENGLISH" value="346" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
