@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The raw measured width of this view" />
+      <item value="Measured" />
+      <item value="UNSPECIFIED" />
+      <item value="Measure specification mode: The parent has not imposed any constraint * on the child. It can be whatever size it wants." />
       <item value="done" />
       <item value="mission" />
       <item value="Density" />
@@ -47,15 +51,11 @@
       <item value="Current progress, can not exceed the max progress." />
       <item value="*" />
       <item value="current" />
-      <item value="finsh" />
-      <item value="完成" />
-      <item value="奖金" />
-      <item value="Dark" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="337" />
-        <entry key="ENGLISH" value="338" />
+        <entry key="CHINESE" value="341" />
+        <entry key="ENGLISH" value="342" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
