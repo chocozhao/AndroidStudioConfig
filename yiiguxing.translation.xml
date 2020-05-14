@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="straight forward" />
+      <item value="straightforward" />
+      <item value="Value to return if this preference does not exist." />
+      <item value="def" />
       <item value="get Trans Fee" />
       <item value="could not find Fragment constructor" />
       <item value="Valid" />
@@ -47,15 +51,11 @@
       <item value="The text that to be drawn in onDraw()." />
       <item value="The width of the text that to be drawn." />
       <item value="Rect F Without" />
-      <item value="Rect" />
-      <item value="Determine if need to draw unreached area." />
-      <item value="Suggested" />
-      <item value="Reached" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="350" />
-        <entry key="ENGLISH" value="351" />
+        <entry key="CHINESE" value="353" />
+        <entry key="ENGLISH" value="353" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
