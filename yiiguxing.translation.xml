@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="thumb" />
+      <item value="Bounds" />
+      <item value="Anti Alias" />
       <item value="搜索" />
       <item value="三十" />
       <item value="七" />
@@ -31,7 +34,6 @@
       <item value="Percentage" />
       <item value="Seek" />
       <item value="Seek Bar" />
-      <item value="thumb" />
       <item value="pressed" />
       <item value="default" />
       <item value="Returns the left padding of this view. If there are inset and enabled * scrollbars, this value may include the space required to display the * scrollbars as well." />
@@ -49,17 +51,16 @@
       <item value="The Paint of the progress text." />
       <item value="The drawn text start." />
       <item value="proceed" />
-      <item value="Named" />
-      <item value="Policy on when async requests are executed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="358" />
-        <entry key="ENGLISH" value="359" />
+        <entry key="CHINESE" value="361" />
+        <entry key="ENGLISH" value="362" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SWEDISH" value="1" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
