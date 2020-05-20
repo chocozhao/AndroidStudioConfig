@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Done" />
+      <item value="progress" />
       <item value="Return the width of the text." />
       <item value="Return in bounds (allocated by the caller) the smallest rectangle that * encloses all of the characters, with an implied origin at (0,0)." />
       <item value="thumb" />
@@ -49,13 +51,11 @@
       <item value="Reached bar area rect." />
       <item value="calculate" />
       <item value="descent" />
-      <item value="ascent" />
-      <item value="The Paint of the progress text." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="363" />
-        <entry key="ENGLISH" value="364" />
+        <entry key="CHINESE" value="365" />
+        <entry key="ENGLISH" value="366" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
