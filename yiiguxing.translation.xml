@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Canvas " />
+      <item value="Paint" />
+      <item value="Draw" />
       <item value="Done" />
       <item value="progress" />
       <item value="Return the width of the text." />
@@ -48,13 +51,10 @@
       <item value="Padding Left" />
       <item value="Rect F" />
       <item value="calculate Draw Rect F Without Progress Text" />
-      <item value="Reached bar area rect." />
-      <item value="calculate" />
-      <item value="descent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="365" />
+        <entry key="CHINESE" value="366" />
         <entry key="ENGLISH" value="366" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
