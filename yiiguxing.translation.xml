@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Determines the starting index of the stack trace, after method calls made by this class." />
       <item value="积分排行榜" />
       <item value="camera" />
       <item value="picasso" />
@@ -50,12 +51,11 @@
       <item value="the left padding in pixels" />
       <item value="m Current Draw Text" />
       <item value="m Suffix" />
-      <item value="prefix" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="367" />
-        <entry key="ENGLISH" value="368" />
+        <entry key="CHINESE" value="368" />
+        <entry key="ENGLISH" value="369" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
