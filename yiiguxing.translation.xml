@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Suggestion" />
       <item value="this, to allow builder pattern" />
       <item value="res code for the default active color" />
       <item value="Anti Alias" />
@@ -50,12 +51,11 @@
       <item value="Seek Bar" />
       <item value="pressed" />
       <item value="default" />
-      <item value="Returns the left padding of this view. If there are inset and enabled * scrollbars, this value may include the space required to display the * scrollbars as well." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="371" />
-        <entry key="ENGLISH" value="372" />
+        <entry key="CHINESE" value="372" />
+        <entry key="ENGLISH" value="373" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
