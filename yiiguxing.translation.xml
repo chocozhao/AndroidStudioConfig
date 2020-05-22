@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="积分排行榜" />
       <item value="camera" />
       <item value="picasso" />
       <item value="Canvas " />
@@ -50,12 +51,11 @@
       <item value="m Current Draw Text" />
       <item value="m Suffix" />
       <item value="prefix" />
-      <item value="Padding Left" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="367" />
-        <entry key="ENGLISH" value="367" />
+        <entry key="ENGLISH" value="368" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
