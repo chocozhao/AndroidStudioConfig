@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="后端" />
       <item value="Bal" />
       <item value="剩余" />
       <item value="赠送" />
@@ -50,12 +51,11 @@
       <item value="done" />
       <item value="Density" />
       <item value="Percentage" />
-      <item value="Seek" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="374" />
-        <entry key="ENGLISH" value="374" />
+        <entry key="ENGLISH" value="375" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="2" />
         <entry key="LATIN" value="2" />
