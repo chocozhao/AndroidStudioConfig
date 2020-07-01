@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="确认" />
+      <item value="金额" />
+      <item value="数量" />
+      <item value="编号" />
       <item value="expand" />
       <item value="后端" />
       <item value="Bal" />
@@ -47,15 +51,11 @@
       <item value="Mission" />
       <item value="mission" />
       <item value="The raw measured width of this view" />
-      <item value="Measured" />
-      <item value="Measure specification mode: The parent has not imposed any constraint * on the child. It can be whatever size it wants." />
-      <item value="done" />
-      <item value="Density" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="375" />
-        <entry key="ENGLISH" value="376" />
+        <entry key="CHINESE" value="376" />
+        <entry key="ENGLISH" value="377" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="2" />
         <entry key="LATIN" value="2" />
