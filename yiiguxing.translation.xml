@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="可选" />
+      <item value="选择" />
       <item value="确认" />
       <item value="金额" />
       <item value="数量" />
@@ -49,8 +51,6 @@
       <item value="默认" />
       <item value="* Current user preference for the scaling factor for fonts, relative * to the base density scaling." />
       <item value="Mission" />
-      <item value="mission" />
-      <item value="The raw measured width of this view" />
     </histories>
     <option name="languageScores">
       <map>
