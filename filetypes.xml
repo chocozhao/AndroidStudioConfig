@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="webp" type="Image" />
       <mapping pattern="supplysample" type="JSON" />
       <mapping pattern="unicorn#cheese#" type="PLAIN_TEXT" />
       <mapping pattern="AppDb" type="PLAIN_TEXT" />
-      <mapping ext="bks" type="PLAIN_TEXT" />
       <mapping ext="wav" type="PLAIN_TEXT" />
+      <mapping ext="bks" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
