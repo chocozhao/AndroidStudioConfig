@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="screen Orientation" />
+      <item value="portrait" />
+      <item value="订单" />
       <item value="member" />
       <item value="override Pending Transition" />
       <item value="Activity Transition" />
@@ -48,14 +51,11 @@
       <item value="def" />
       <item value="get Trans Fee" />
       <item value="could not find Fragment constructor" />
-      <item value="Valid" />
-      <item value="Popup" />
-      <item value="Enabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="379" />
-        <entry key="ENGLISH" value="380" />
+        <entry key="CHINESE" value="382" />
+        <entry key="ENGLISH" value="383" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="2" />
         <entry key="LATIN" value="2" />
