@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="override Pending Transition" />
+      <item value="Activity Transition" />
       <item value="可选" />
       <item value="选择" />
       <item value="确认" />
@@ -49,13 +51,11 @@
       <item value="Popup" />
       <item value="Enabled" />
       <item value="默认" />
-      <item value="* Current user preference for the scaling factor for fonts, relative * to the base density scaling." />
-      <item value="Mission" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="376" />
-        <entry key="ENGLISH" value="377" />
+        <entry key="CHINESE" value="378" />
+        <entry key="ENGLISH" value="379" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="2" />
         <entry key="LATIN" value="2" />
