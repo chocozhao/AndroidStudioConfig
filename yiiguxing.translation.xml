@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Member Fragment" />
       <item value="详情" />
       <item value="indicator" />
       <item value="set Adjust Mode" />
@@ -50,12 +51,11 @@
       <item value="UNSPECIFIED" />
       <item value="static" />
       <item value="straight forward" />
-      <item value="straightforward" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="386" />
-        <entry key="ENGLISH" value="387" />
+        <entry key="CHINESE" value="387" />
+        <entry key="ENGLISH" value="388" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="2" />
         <entry key="LATIN" value="2" />
