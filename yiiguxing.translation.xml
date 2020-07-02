@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="黄色" />
+      <item value="渐变" />
+      <item value="圆角" />
       <item value="Member Fragment" />
       <item value="详情" />
       <item value="indicator" />
@@ -48,14 +51,11 @@
       <item value="Modified" />
       <item value="改变商户状态" />
       <item value="The resource's current display metrics." />
-      <item value="UNSPECIFIED" />
-      <item value="static" />
-      <item value="straight forward" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="387" />
-        <entry key="ENGLISH" value="388" />
+        <entry key="CHINESE" value="388" />
+        <entry key="ENGLISH" value="389" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="2" />
         <entry key="LATIN" value="2" />
