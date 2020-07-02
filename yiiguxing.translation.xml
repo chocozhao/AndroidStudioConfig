@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Adjust Mode" />
       <item value="parent" />
       <item value="screen Orientation" />
       <item value="portrait" />
@@ -50,12 +51,11 @@
       <item value="straightforward" />
       <item value="Value to return if this preference does not exist." />
       <item value="def" />
-      <item value="get Trans Fee" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="383" />
-        <entry key="ENGLISH" value="384" />
+        <entry key="CHINESE" value="384" />
+        <entry key="ENGLISH" value="385" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="2" />
         <entry key="LATIN" value="2" />
