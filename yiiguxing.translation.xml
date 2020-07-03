@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="下一个" />
       <item value="喜" />
       <item value="今喜卡" />
       <item value="客服" />
@@ -50,7 +51,6 @@
       <item value="积分排行榜" />
       <item value="camera" />
       <item value="picasso" />
-      <item value="Canvas " />
     </histories>
     <option name="languageScores">
       <map>
