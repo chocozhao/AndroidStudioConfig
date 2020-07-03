@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="内容" />
+      <item value="标签" />
       <item value="general" />
       <item value="取消" />
       <item value="搜索" />
@@ -49,13 +51,11 @@
       <item value="Bal" />
       <item value="剩余" />
       <item value="赠送" />
-      <item value="Suggestion" />
-      <item value="this, to allow builder pattern" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="400" />
-        <entry key="ENGLISH" value="401" />
+        <entry key="CHINESE" value="401" />
+        <entry key="ENGLISH" value="402" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
         <entry key="LATIN" value="2" />
