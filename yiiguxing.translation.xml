@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="搜索" />
       <item value="查看" />
       <item value="Piano" />
       <item value="取消" />
@@ -50,7 +51,6 @@
       <item value="Suggestion" />
       <item value="this, to allow builder pattern" />
       <item value="res code for the default active color" />
-      <item value="Anti Alias" />
     </histories>
     <option name="languageScores">
       <map>
