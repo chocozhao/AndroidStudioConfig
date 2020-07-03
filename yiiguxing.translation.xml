@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="取消" />
+      <item value="Spannable" />
+      <item value="scrollbars" />
       <item value="下一个" />
       <item value="喜" />
       <item value="今喜卡" />
@@ -48,15 +51,12 @@
       <item value="Anti Alias" />
       <item value="刷新" />
       <item value="Determines the starting index of the stack trace, after method calls made by this class." />
-      <item value="积分排行榜" />
-      <item value="camera" />
-      <item value="picasso" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="396" />
-        <entry key="ENGLISH" value="397" />
-        <entry key="FRENCH" value="2" />
+        <entry key="CHINESE" value="398" />
+        <entry key="ENGLISH" value="399" />
+        <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
