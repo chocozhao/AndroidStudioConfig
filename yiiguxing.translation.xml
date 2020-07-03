@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="客服" />
+      <item value="方式" />
+      <item value="付款" />
+      <item value="时间" />
+      <item value="data" />
+      <item value="提交" />
+      <item value="paid" />
+      <item value="实付" />
+      <item value="减免" />
+      <item value="price" />
+      <item value="原价" />
+      <item value="商品" />
+      <item value="status" />
       <item value="黄色" />
       <item value="渐变" />
       <item value="圆角" />
@@ -38,24 +51,11 @@
       <item value="Canvas " />
       <item value="Paint" />
       <item value="Draw" />
-      <item value="Done" />
-      <item value="progress" />
-      <item value="Return the width of the text." />
-      <item value="Return in bounds (allocated by the caller) the smallest rectangle that * encloses all of the characters, with an implied origin at (0,0)." />
-      <item value="thumb" />
-      <item value="Bounds" />
-      <item value="搜索" />
-      <item value="三十" />
-      <item value="七" />
-      <item value="7" />
-      <item value="Modified" />
-      <item value="改变商户状态" />
-      <item value="The resource's current display metrics." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="388" />
-        <entry key="ENGLISH" value="389" />
+        <entry key="CHINESE" value="396" />
+        <entry key="ENGLISH" value="397" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="2" />
         <entry key="LATIN" value="2" />
