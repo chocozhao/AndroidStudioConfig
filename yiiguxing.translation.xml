@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="取消" />
       <item value="搜索" />
       <item value="查看" />
       <item value="Piano" />
-      <item value="取消" />
       <item value="Spannable" />
       <item value="scrollbars" />
       <item value="下一个" />
