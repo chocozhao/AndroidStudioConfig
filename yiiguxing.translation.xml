@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FLAG ACTIVITY CLEAR TOP" />
       <item value="have you declared this activity in your AndroidManifest.xml?" />
       <item value="declared" />
       <item value="选择" />
@@ -50,12 +51,11 @@
       <item value="数量" />
       <item value="编号" />
       <item value="expand" />
-      <item value="后端" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="403" />
-        <entry key="ENGLISH" value="404" />
+        <entry key="CHINESE" value="405" />
+        <entry key="ENGLISH" value="405" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
         <entry key="LATIN" value="2" />
