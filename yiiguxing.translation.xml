@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="have you declared this activity in your AndroidManifest.xml?" />
+      <item value="declared" />
       <item value="选择" />
       <item value="刷新" />
       <item value="内容" />
@@ -49,13 +51,11 @@
       <item value="编号" />
       <item value="expand" />
       <item value="后端" />
-      <item value="Bal" />
-      <item value="剩余" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="401" />
-        <entry key="ENGLISH" value="402" />
+        <entry key="CHINESE" value="403" />
+        <entry key="ENGLISH" value="404" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
         <entry key="LATIN" value="2" />
