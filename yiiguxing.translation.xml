@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="选择" />
       <item value="刷新" />
       <item value="内容" />
       <item value="标签" />
@@ -42,7 +43,6 @@
       <item value="override Pending Transition" />
       <item value="Activity Transition" />
       <item value="可选" />
-      <item value="选择" />
       <item value="确认" />
       <item value="金额" />
       <item value="数量" />
