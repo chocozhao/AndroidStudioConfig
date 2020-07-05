@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Label" />
+      <item value="门店" />
+      <item value="产品" />
+      <item value="商品" />
+      <item value="普通" />
       <item value="FLAG ACTIVITY CLEAR TOP" />
       <item value="have you declared this activity in your AndroidManifest.xml?" />
       <item value="declared" />
@@ -29,7 +34,6 @@
       <item value="减免" />
       <item value="price" />
       <item value="原价" />
-      <item value="商品" />
       <item value="status" />
       <item value="黄色" />
       <item value="渐变" />
@@ -47,15 +51,11 @@
       <item value="Activity Transition" />
       <item value="可选" />
       <item value="确认" />
-      <item value="金额" />
-      <item value="数量" />
-      <item value="编号" />
-      <item value="expand" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="405" />
-        <entry key="ENGLISH" value="405" />
+        <entry key="CHINESE" value="406" />
+        <entry key="ENGLISH" value="407" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
         <entry key="LATIN" value="2" />
