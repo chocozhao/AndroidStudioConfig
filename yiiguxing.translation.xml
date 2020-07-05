@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ime Options" />
       <item value="Label" />
       <item value="门店" />
       <item value="产品" />
@@ -50,12 +51,12 @@
       <item value="override Pending Transition" />
       <item value="Activity Transition" />
       <item value="可选" />
-      <item value="确认" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="406" />
+        <entry key="CHINESE" value="407" />
         <entry key="ENGLISH" value="407" />
+        <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
         <entry key="LATIN" value="2" />
