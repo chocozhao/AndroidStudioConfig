@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the position of the ViewHolder in terms of the latest layout pass." />
       <item value="物流" />
       <item value="obtain Coupons Success" />
       <item value="Relief" />
@@ -50,12 +51,11 @@
       <item value="set Adjust Mode" />
       <item value="parent" />
       <item value="screen Orientation" />
-      <item value="portrait" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="413" />
-        <entry key="ENGLISH" value="414" />
+        <entry key="CHINESE" value="414" />
+        <entry key="ENGLISH" value="415" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
