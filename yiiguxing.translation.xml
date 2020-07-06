@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="obtain Coupons Success" />
       <item value="Relief" />
       <item value="Reduce" />
       <item value="详情" />
@@ -50,12 +51,11 @@
       <item value="screen Orientation" />
       <item value="portrait" />
       <item value="订单" />
-      <item value="member" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="411" />
-        <entry key="ENGLISH" value="412" />
+        <entry key="CHINESE" value="412" />
+        <entry key="ENGLISH" value="413" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
