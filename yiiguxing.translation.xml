@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="确认收货" />
       <item value="Trace" />
       <item value="paymentTraceId" />
       <item value="cannot be cast to" />
@@ -50,12 +51,11 @@
       <item value="渐变" />
       <item value="圆角" />
       <item value="Member Fragment" />
-      <item value="indicator" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="416" />
-        <entry key="ENGLISH" value="416" />
+        <entry key="ENGLISH" value="417" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
