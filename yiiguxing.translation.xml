@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Prefix" />
+      <item value="托管" />
+      <item value="学校" />
+      <item value="校内" />
       <item value="确认收货" />
       <item value="Trace" />
       <item value="paymentTraceId" />
@@ -47,15 +51,11 @@
       <item value="price" />
       <item value="原价" />
       <item value="status" />
-      <item value="黄色" />
-      <item value="渐变" />
-      <item value="圆角" />
-      <item value="Member Fragment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="416" />
-        <entry key="ENGLISH" value="417" />
+        <entry key="CHINESE" value="417" />
+        <entry key="ENGLISH" value="418" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
