@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="complete" />
+      <item value="完成" />
+      <item value="已取消" />
+      <item value="待付款" />
+      <item value="待发货" />
       <item value="Prefix" />
       <item value="托管" />
       <item value="学校" />
@@ -46,16 +51,11 @@
       <item value="data" />
       <item value="提交" />
       <item value="paid" />
-      <item value="实付" />
-      <item value="减免" />
-      <item value="price" />
-      <item value="原价" />
-      <item value="status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="417" />
-        <entry key="ENGLISH" value="418" />
+        <entry key="CHINESE" value="419" />
+        <entry key="ENGLISH" value="419" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
