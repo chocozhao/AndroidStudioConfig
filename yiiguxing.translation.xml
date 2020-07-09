@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Tooltip Text" />
+      <item value="tip Text" />
       <item value="Concurrent Modification Exception" />
       <item value="存储" />
       <item value="Request" />
@@ -49,13 +51,11 @@
       <item value="喜" />
       <item value="今喜卡" />
       <item value="客服" />
-      <item value="方式" />
-      <item value="付款" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="421" />
-        <entry key="ENGLISH" value="422" />
+        <entry key="CHINESE" value="423" />
+        <entry key="ENGLISH" value="424" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
