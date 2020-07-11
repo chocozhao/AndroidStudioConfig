@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Area Stat" />
+      <item value="Street No" />
+      <item value="District" />
+      <item value="Geo 2 Address Result Object" />
+      <item value="Address Component" />
+      <item value="adcode" />
+      <item value="println needs a message" />
+      <item value="Province" />
+      <item value="Nation" />
+      <item value="Accuracy" />
+      <item value="Altitude" />
+      <item value="Provider" />
+      <item value="Town" />
+      <item value="Direction" />
+      <item value="Village" />
       <item value="get Category" />
       <item value="get Street" />
       <item value="start Location" />
@@ -36,31 +51,16 @@
       <item value="物流" />
       <item value="obtain Coupons Success" />
       <item value="Relief" />
-      <item value="Reduce" />
-      <item value="详情" />
-      <item value="Exclusive" />
-      <item value="ime Options" />
-      <item value="Label" />
-      <item value="门店" />
-      <item value="产品" />
-      <item value="商品" />
-      <item value="普通" />
-      <item value="FLAG ACTIVITY CLEAR TOP" />
-      <item value="have you declared this activity in your AndroidManifest.xml?" />
-      <item value="declared" />
-      <item value="选择" />
-      <item value="刷新" />
-      <item value="内容" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="436" />
-        <entry key="ENGLISH" value="437" />
+        <entry key="CHINESE" value="452" />
+        <entry key="ENGLISH" value="452" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
         <entry key="LATIN" value="2" />
-        <entry key="ROMANIAN" value="1" />
+        <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="INDONESIAN" value="2" />
