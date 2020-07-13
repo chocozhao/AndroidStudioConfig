@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="handle" />
       <item value="Omitted request body" />
       <item value="协议" />
       <item value="Area Stat" />
@@ -50,12 +51,11 @@
       <item value="paymentTraceId" />
       <item value="cannot be cast to" />
       <item value="Returns the position of the ViewHolder in terms of the latest layout pass." />
-      <item value="物流" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="453" />
-        <entry key="ENGLISH" value="454" />
+        <entry key="CHINESE" value="454" />
+        <entry key="ENGLISH" value="455" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
