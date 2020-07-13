@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="排序" />
+      <item value="尖角" />
+      <item value="弹出" />
+      <item value="from X Scale" />
+      <item value="from Y Scale" />
+      <item value="duration" />
+      <item value="pivot X" />
+      <item value="AXIS PULL AFTER" />
+      <item value="AXIS CLIP" />
+      <item value="WRAP CONTENT" />
+      <item value="NO GRAVITY" />
+      <item value="gravity" />
+      <item value="set Outside Touchable" />
+      <item value="show As Drop Down" />
       <item value="handle" />
       <item value="Omitted request body" />
       <item value="协议" />
@@ -37,25 +51,11 @@
       <item value="存储" />
       <item value="Request" />
       <item value="Current" />
-      <item value="complete" />
-      <item value="完成" />
-      <item value="已取消" />
-      <item value="待付款" />
-      <item value="待发货" />
-      <item value="Prefix" />
-      <item value="托管" />
-      <item value="学校" />
-      <item value="校内" />
-      <item value="确认收货" />
-      <item value="Trace" />
-      <item value="paymentTraceId" />
-      <item value="cannot be cast to" />
-      <item value="Returns the position of the ViewHolder in terms of the latest layout pass." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="454" />
-        <entry key="ENGLISH" value="455" />
+        <entry key="CHINESE" value="467" />
+        <entry key="ENGLISH" value="468" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
