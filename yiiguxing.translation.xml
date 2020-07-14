@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="显示" />
       <item value="排序" />
       <item value="尖角" />
       <item value="弹出" />
@@ -50,7 +51,6 @@
       <item value="Concurrent Modification Exception" />
       <item value="存储" />
       <item value="Request" />
-      <item value="Current" />
     </histories>
     <option name="languageScores">
       <map>
