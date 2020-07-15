@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The image data set is empty." />
       <item value="has Load Once" />
       <item value="is Prepared" />
       <item value="reload" />
@@ -50,12 +51,11 @@
       <item value="Param" />
       <item value="original" />
       <item value="Response" />
-      <item value="get Title Container" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="476" />
-        <entry key="ENGLISH" value="477" />
+        <entry key="CHINESE" value="477" />
+        <entry key="ENGLISH" value="478" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
