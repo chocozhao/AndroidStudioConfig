@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="auto" />
+      <item value="auto Refresh" />
+      <item value="on Refresh" />
+      <item value="on Refresh Complete" />
+      <item value="is Support Loading View" />
+      <item value="enable Refresh" />
       <item value="undefined" />
       <item value="on Received Title" />
       <item value="兑换" />
@@ -45,17 +51,11 @@
       <item value="Altitude" />
       <item value="Provider" />
       <item value="Town" />
-      <item value="Direction" />
-      <item value="Village" />
-      <item value="get Category" />
-      <item value="get Street" />
-      <item value="start Location" />
-      <item value="define" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="482" />
-        <entry key="ENGLISH" value="483" />
+        <entry key="CHINESE" value="486" />
+        <entry key="ENGLISH" value="487" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
@@ -63,6 +63,7 @@
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="1" />
+        <entry key="GREEK" value="1" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
