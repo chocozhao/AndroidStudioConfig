@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Cover Refresh" />
+      <item value="Cover" />
       <item value="init Event And Data" />
       <item value="business" />
       <item value="Expected an int but was 160.999 at line 1 column 446 path" />
@@ -49,13 +51,11 @@
       <item value="Address Component" />
       <item value="adcode" />
       <item value="println needs a message" />
-      <item value="Province" />
-      <item value="Nation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="489" />
-        <entry key="ENGLISH" value="490" />
+        <entry key="CHINESE" value="491" />
+        <entry key="ENGLISH" value="492" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
