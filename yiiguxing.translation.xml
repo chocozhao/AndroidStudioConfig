@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="business" />
       <item value="Expected an int but was 160.999 at line 1 column 446 path" />
       <item value="get Vip Reduce Amount" />
       <item value="auto" />
@@ -50,11 +51,10 @@
       <item value="Province" />
       <item value="Nation" />
       <item value="Accuracy" />
-      <item value="Altitude" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="488" />
+        <entry key="CHINESE" value="489" />
         <entry key="ENGLISH" value="489" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
