@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="state Always Hidden" />
+      <item value="adjust Nothing" />
+      <item value="window Soft Input Mode" />
+      <item value="portrait" />
+      <item value="screen Orientation" />
       <item value="Record" />
       <item value="导出" />
       <item value="Attempt to get length of null array" />
@@ -46,16 +51,11 @@
       <item value="pivot X" />
       <item value="AXIS PULL AFTER" />
       <item value="AXIS CLIP" />
-      <item value="WRAP CONTENT" />
-      <item value="NO GRAVITY" />
-      <item value="gravity" />
-      <item value="set Outside Touchable" />
-      <item value="show As Drop Down" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="503" />
-        <entry key="ENGLISH" value="504" />
+        <entry key="CHINESE" value="508" />
+        <entry key="ENGLISH" value="509" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
