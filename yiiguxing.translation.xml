@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fake DB" />
+      <item value="set Default Child" />
       <item value="on Seek Complete" />
       <item value="retry" />
       <item value="Room" />
@@ -49,13 +51,11 @@
       <item value="reload" />
       <item value="container View Id" />
       <item value="has Prefix" />
-      <item value="time Stamp" />
-      <item value="count Down Interval" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="517" />
-        <entry key="ENGLISH" value="518" />
+        <entry key="CHINESE" value="519" />
+        <entry key="ENGLISH" value="520" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
