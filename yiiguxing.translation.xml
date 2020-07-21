@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="guide" />
       <item value="java Max Heap Size" />
       <item value="Single" />
       <item value="state Always Hidden" />
@@ -50,12 +51,11 @@
       <item value="from X Scale" />
       <item value="from Y Scale" />
       <item value="duration" />
-      <item value="pivot X" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="510" />
-        <entry key="ENGLISH" value="511" />
+        <entry key="CHINESE" value="511" />
+        <entry key="ENGLISH" value="512" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
