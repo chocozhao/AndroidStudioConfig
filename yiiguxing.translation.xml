@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="优选" />
+      <item value="亲子" />
+      <item value="亲子玩乐" />
       <item value="评分" />
       <item value="课程" />
       <item value="Square Relative Layout" />
@@ -48,9 +51,6 @@
       <item value="Expected an int but was 160.999 at line 1 column 446 path" />
       <item value="get Vip Reduce Amount" />
       <item value="auto" />
-      <item value="auto Refresh" />
-      <item value="on Refresh" />
-      <item value="on Refresh Complete" />
     </histories>
     <option name="languageScores">
       <map>
