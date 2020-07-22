@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Only the original thread that created a view hierarchy can touch its views." />
       <item value="条形" />
       <item value="Encoding Utils" />
       <item value="Encode Utils" />
@@ -50,12 +51,11 @@
       <item value="兑换" />
       <item value="get Js Access Entrace" />
       <item value="processor" />
-      <item value="The image data set is empty." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="522" />
-        <entry key="ENGLISH" value="523" />
+        <entry key="CHINESE" value="523" />
+        <entry key="ENGLISH" value="524" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
