@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scrollbars" />
+      <item value="fill Viewport" />
+      <item value="fading Edge" />
+      <item value="over Scroll Mode" />
+      <item value="ellipsize" />
+      <item value="focusable In Touch Mode" />
+      <item value="foucusable In Touch Mode" />
+      <item value="never" />
+      <item value="Error inflating class &lt;unknown&gt;" />
+      <item value="nested Scrolling Enabled" />
       <item value="托管" />
       <item value="辅导" />
       <item value="兴趣" />
@@ -16,10 +26,7 @@
       <item value="CENTER" />
       <item value="focusable" />
       <item value="marquee" />
-      <item value="ellipsize" />
       <item value="placeholder" />
-      <item value="fill Viewport" />
-      <item value="scrollbars" />
       <item value="Complete" />
       <item value="价格" />
       <item value="分" />
@@ -27,8 +34,6 @@
       <item value="Preferrend" />
       <item value="评分" />
       <item value="换一换" />
-      <item value="over Scroll Mode" />
-      <item value="nested Scrolling Enabled" />
       <item value="亲子" />
       <item value="亲子玩乐" />
       <item value="课程" />
@@ -46,16 +51,11 @@
       <item value="on Seek Complete" />
       <item value="retry" />
       <item value="Room" />
-      <item value="Replay" />
-      <item value="perform Click Chapter" />
-      <item value="修复" />
-      <item value="推荐" />
-      <item value="guide" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="552" />
-        <entry key="ENGLISH" value="553" />
+        <entry key="CHINESE" value="567" />
+        <entry key="ENGLISH" value="568" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
