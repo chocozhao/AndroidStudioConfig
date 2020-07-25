@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No such property: variantConfiguration for class: com.android.build.gradle.internal.variant.ApplicationVariantData" />
       <item value="handle Store Tags" />
       <item value="同色" />
       <item value="Online" />
@@ -50,12 +51,11 @@
       <item value="discount" />
       <item value="线下" />
       <item value="Only the original thread that created a view hierarchy can touch its views." />
-      <item value="条形" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="575" />
-        <entry key="ENGLISH" value="575" />
+        <entry key="ENGLISH" value="576" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
