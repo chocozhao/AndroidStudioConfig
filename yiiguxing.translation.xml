@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="目标" />
+      <item value="区别" />
+      <item value="tag" />
+      <item value="标识" />
+      <item value="标志" />
+      <item value="请求" />
       <item value="第一" />
       <item value="Query map contained null value for key 'filterTag'" />
       <item value="选中的标签" />
@@ -45,17 +51,11 @@
       <item value="marquee" />
       <item value="placeholder" />
       <item value="Complete" />
-      <item value="价格" />
-      <item value="分" />
-      <item value="优选" />
-      <item value="Preferrend" />
-      <item value="评分" />
-      <item value="换一换" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="583" />
-        <entry key="ENGLISH" value="584" />
+        <entry key="CHINESE" value="584" />
+        <entry key="ENGLISH" value="585" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
