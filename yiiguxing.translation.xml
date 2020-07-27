@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="课程" />
       <item value="注册" />
       <item value="layout collapse Mode" />
       <item value="layout scroll Flags" />
@@ -49,7 +50,6 @@
       <item value="换一换" />
       <item value="亲子" />
       <item value="亲子玩乐" />
-      <item value="课程" />
       <item value="Square Relative Layout" />
     </histories>
     <option name="languageScores">
