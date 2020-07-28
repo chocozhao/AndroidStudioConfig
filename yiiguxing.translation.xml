@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bindings already cleared." />
+      <item value="Bindings already cleared" />
       <item value="unexpected end of stream on Connection" />
       <item value="Fragment already added" />
       <item value="目标" />
@@ -49,13 +51,11 @@
       <item value="smooth Scroll To" />
       <item value="Fling the scroll view" />
       <item value="CENTER" />
-      <item value="focusable" />
-      <item value="marquee" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="586" />
-        <entry key="ENGLISH" value="587" />
+        <entry key="CHINESE" value="588" />
+        <entry key="ENGLISH" value="589" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
