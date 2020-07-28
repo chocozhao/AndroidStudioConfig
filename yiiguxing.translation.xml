@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="thread Model" />
       <item value="declared Methods" />
       <item value="Bindings already cleared." />
       <item value="Bindings already cleared" />
@@ -50,12 +51,11 @@
       <item value="Coordinator Layout" />
       <item value="Scale" />
       <item value="smooth Scroll To" />
-      <item value="Fling the scroll view" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="589" />
-        <entry key="ENGLISH" value="590" />
+        <entry key="CHINESE" value="591" />
+        <entry key="ENGLISH" value="592" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
