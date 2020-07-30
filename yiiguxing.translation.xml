@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot resolve constructor 'Intent(anonymous android.view.View.OnClickListener, java.lang.Class&lt;com.example.hotrepair.VLayout.VLayoutMainActivity&gt;)'" />
       <item value="Chips" />
       <item value="Chips Layout Manager" />
       <item value="Square Image View" />
@@ -50,11 +51,10 @@
       <item value="托管" />
       <item value="辅导" />
       <item value="兴趣" />
-      <item value="非会员" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="597" />
+        <entry key="CHINESE" value="598" />
         <entry key="ENGLISH" value="598" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
