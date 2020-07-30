@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Adapter delegates its responsibility to sub adapters" />
       <item value="java.lang.NumberFormatException: Expected an int but was 251501475489681408 at line 1 column 1758 path $.result" />
       <item value="Sets the maximum number of ViewHolders to hold in the pool before discarding." />
       <item value="Cannot resolve constructor 'Intent(anonymous android.view.View.OnClickListener, java.lang.Class&lt;com.example.hotrepair.VLayout.VLayoutMainActivity&gt;)'" />
@@ -50,12 +51,11 @@
       <item value="never" />
       <item value="Error inflating class &lt;unknown&gt;" />
       <item value="nested Scrolling Enabled" />
-      <item value="托管" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="599" />
-        <entry key="ENGLISH" value="600" />
+        <entry key="CHINESE" value="600" />
+        <entry key="ENGLISH" value="601" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
