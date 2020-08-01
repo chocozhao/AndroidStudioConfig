@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Parent Position" />
+      <item value="The position of the view int the adapter" />
       <item value="on Event" />
       <item value="on Page End" />
       <item value="on Page Start" />
@@ -49,13 +51,11 @@
       <item value="同色" />
       <item value="Online" />
       <item value="Query map contained null value for key 'district'." />
-      <item value="Query map contained null value for key 'district'" />
-      <item value="is Sync Change" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="609" />
-        <entry key="ENGLISH" value="610" />
+        <entry key="CHINESE" value="612" />
+        <entry key="ENGLISH" value="613" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="2" />
