@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You need to use a Theme.AppCompat theme (or descendant) with this activity." />
+      <item value="Illegal State Exception" />
+      <item value="Circle" />
       <item value="Sweep Gradient" />
       <item value="SRC ATOP" />
       <item value="外层" />
@@ -48,14 +51,11 @@
       <item value="Executor Service" />
       <item value="接收" />
       <item value="人" />
-      <item value="跳" />
-      <item value="thread Model" />
-      <item value="declared Methods" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="630" />
-        <entry key="ENGLISH" value="631" />
+        <entry key="CHINESE" value="633" />
+        <entry key="ENGLISH" value="634" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
