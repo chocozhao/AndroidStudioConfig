@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="draw Arc" />
+      <item value="Rect F" />
+      <item value="Invalidate" />
+      <item value="post Invalidate" />
+      <item value="Rect" />
+      <item value="get Font Metrics" />
+      <item value="Anti Alias" />
+      <item value="CENTER" />
+      <item value="Align" />
+      <item value="进度" />
       <item value="You need to use a Theme.AppCompat theme (or descendant) with this activity." />
       <item value="Illegal State Exception" />
       <item value="Circle" />
@@ -41,21 +51,11 @@
       <item value="static" />
       <item value="Calling startActivity() from outside of an Activity context requires the FLAG_ACTIVITY_NEW_TASK flag. Is this really what you want?" />
       <item value="Notify" />
-      <item value="Adapter delegates its responsibility to sub adapters" />
-      <item value="java.lang.NumberFormatException: Expected an int but was 251501475489681408 at line 1 column 1758 path $.result" />
-      <item value="Sets the maximum number of ViewHolders to hold in the pool before discarding." />
-      <item value="Cannot resolve constructor 'Intent(anonymous android.view.View.OnClickListener, java.lang.Class&lt;com.example.hotrepair.VLayout.VLayoutMainActivity&gt;)'" />
-      <item value="Chips" />
-      <item value="Chips Layout Manager" />
-      <item value="切换" />
-      <item value="Executor Service" />
-      <item value="接收" />
-      <item value="人" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="633" />
-        <entry key="ENGLISH" value="634" />
+        <entry key="CHINESE" value="645" />
+        <entry key="ENGLISH" value="646" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
@@ -66,7 +66,7 @@
         <entry key="SWEDISH" value="1" />
         <entry key="GREEK" value="1" />
         <entry key="ITALIAN" value="1" />
-        <entry key="INDONESIAN" value="2" />
+        <entry key="INDONESIAN" value="3" />
       </map>
     </option>
   </component>
