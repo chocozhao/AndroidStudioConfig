@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="小控件" />
+      <item value="插件" />
       <item value="draw Arc" />
       <item value="Rect F" />
       <item value="Invalidate" />
@@ -49,13 +51,11 @@
       <item value="自定义" />
       <item value="Omitted request body" />
       <item value="static" />
-      <item value="Calling startActivity() from outside of an Activity context requires the FLAG_ACTIVITY_NEW_TASK flag. Is this really what you want?" />
-      <item value="Notify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="645" />
-        <entry key="ENGLISH" value="646" />
+        <entry key="CHINESE" value="646" />
+        <entry key="ENGLISH" value="647" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
