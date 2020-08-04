@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="接入" />
+      <item value="友盟" />
       <item value="小控件" />
       <item value="插件" />
       <item value="draw Arc" />
@@ -49,8 +51,6 @@
       <item value="widget" />
       <item value="wight" />
       <item value="自定义" />
-      <item value="Omitted request body" />
-      <item value="static" />
     </histories>
     <option name="languageScores">
       <map>
