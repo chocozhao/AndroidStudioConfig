@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="theme is now deprecated. Please move to using android:theme instead." />
       <item value="get Device Id For General" />
       <item value="last" />
       <item value="current" />
@@ -50,12 +51,11 @@
       <item value="get Parent Position" />
       <item value="The position of the view int the adapter" />
       <item value="on Event" />
-      <item value="on Page End" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="651" />
-        <entry key="ENGLISH" value="652" />
+        <entry key="CHINESE" value="652" />
+        <entry key="ENGLISH" value="653" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
