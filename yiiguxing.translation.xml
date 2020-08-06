@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Spannable String" />
+      <item value="Rich Text Utils" />
+      <item value="guide" />
+      <item value="Coupons" />
       <item value="theme is now deprecated. Please move to using android:theme instead." />
       <item value="get Device Id For General" />
       <item value="last" />
@@ -47,15 +51,11 @@
       <item value="距离" />
       <item value="透明" />
       <item value="圆角" />
-      <item value="focusable" />
-      <item value="get Parent Position" />
-      <item value="The position of the view int the adapter" />
-      <item value="on Event" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="652" />
-        <entry key="ENGLISH" value="653" />
+        <entry key="CHINESE" value="656" />
+        <entry key="ENGLISH" value="657" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
