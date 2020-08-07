@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Subscriber class com.jzg.tg.parent.ui.order.activity.MyOrderListActivity and its super classes have no public methods with the @Subscribe annotation" />
       <item value="接收" />
       <item value="Post" />
       <item value="set On Load More Listener" />
@@ -50,12 +51,11 @@
       <item value="ANTI ALIAS FLAG" />
       <item value="Route" />
       <item value="Autowired" />
-      <item value="翻页" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="666" />
-        <entry key="ENGLISH" value="667" />
+        <entry key="CHINESE" value="667" />
+        <entry key="ENGLISH" value="668" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
