@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="阅读" />
+      <item value="Supports syntax highlighting for arbitrary file types, controlled by" />
       <item value="apply To Canvas" />
       <item value="clip Rect" />
       <item value="rotate" />
@@ -49,13 +51,11 @@
       <item value="View Discount Rate" />
       <item value="Scale" />
       <item value="get Scale X" />
-      <item value="用例" />
-      <item value="canvas" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="673" />
-        <entry key="ENGLISH" value="674" />
+        <entry key="CHINESE" value="674" />
+        <entry key="ENGLISH" value="675" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
