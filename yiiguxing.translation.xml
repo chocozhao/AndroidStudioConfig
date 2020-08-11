@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Possible causes for this unexpected error include:" />
+      <item value="Unable to find method 'org.gradle.api.tasks.compile.CompileOptions.setBootClasspath(Ljava/lang/String;)V'." />
+      <item value="Your project may be using a third-party plugin which is not compatible with the other plugins in the project or the version of Gradle requested by the project." />
+      <item value="Unable to find method 'org.gradle.api.tasks.compile.CompileOptions.setBootClasspath(Ljava/lang/String;)V'. Possible causes for this unexpected error include: Gradle's dependency cache may be corrupt (this sometimes occurs after a network connection timeout.) Re-download dependencies and sync project (requires network) The state of a Gradle build process (daemon) may be corrupt. Stopping all Gradle daemons may solve this problem. Stop Gradle build processes (requires restart) Your project may be using a third-party plugin which is not compatible with the other plugins in the project or the version of Gradle requested by the project. In the case of corrupt Gradle processes, you can also try closing the IDE and then killing all Java processes." />
       <item value="The state of a Gradle build process (daemon) may be corrupt. Stopping all Gradle daemons may solve this problem." />
       <item value="Unable to find method 'org.gradle.api.tasks.compile.CompileOptions.setBootClasspath(Ljava/lang/String;)V'. Possible causes for this unexpected error include: Gradle's dependency cache may be corrupt (this sometimes occurs after a network connection timeout.)" />
-      <item value="Your project may be using a third-party plugin which is not compatible with the other plugins in the project or the version of Gradle requested by the project." />
       <item value="In the case of corrupt Gradle processes, you can also try closing the IDE and then killing all Java processes." />
       <item value="Gradle's dependency cache may be corrupt (this sometimes occurs after a network connection timeout.)" />
       <item value="Trust anchor for certification path not found." />
@@ -48,14 +51,11 @@
       <item value="get Font Metrics" />
       <item value="Anti Alias" />
       <item value="CENTER" />
-      <item value="Align" />
-      <item value="进度" />
-      <item value="You need to use a Theme.AppCompat theme (or descendant) with this activity." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="684" />
-        <entry key="ENGLISH" value="685" />
+        <entry key="CHINESE" value="688" />
+        <entry key="ENGLISH" value="689" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
