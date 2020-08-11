@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CIRCLE" />
+      <item value="show Failure Msg" />
+      <item value="MSG TYPE SHARE BOARD" />
       <item value="Possible causes for this unexpected error include:" />
       <item value="Unable to find method 'org.gradle.api.tasks.compile.CompileOptions.setBootClasspath(Ljava/lang/String;)V'." />
       <item value="Your project may be using a third-party plugin which is not compatible with the other plugins in the project or the version of Gradle requested by the project." />
@@ -48,14 +51,11 @@
       <item value="Invalidate" />
       <item value="post Invalidate" />
       <item value="Rect" />
-      <item value="get Font Metrics" />
-      <item value="Anti Alias" />
-      <item value="CENTER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="688" />
-        <entry key="ENGLISH" value="689" />
+        <entry key="CHINESE" value="691" />
+        <entry key="ENGLISH" value="692" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
