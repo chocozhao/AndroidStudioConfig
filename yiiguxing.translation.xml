@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="距离" />
+      <item value="非会员" />
       <item value="KITKAT" />
       <item value="resolve" />
       <item value="CIRCLE" />
@@ -49,13 +51,11 @@
       <item value="小控件" />
       <item value="插件" />
       <item value="draw Arc" />
-      <item value="Rect F" />
-      <item value="Invalidate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="693" />
-        <entry key="ENGLISH" value="693" />
+        <entry key="ENGLISH" value="694" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
