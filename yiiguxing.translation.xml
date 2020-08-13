@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bindings already cleared." />
       <item value="教育品牌" />
       <item value="亲子服务" />
       <item value="距离" />
@@ -50,12 +51,11 @@
       <item value="No Class Def Found Error" />
       <item value="接入" />
       <item value="友盟" />
-      <item value="小控件" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="693" />
-        <entry key="ENGLISH" value="694" />
+        <entry key="CHINESE" value="695" />
+        <entry key="ENGLISH" value="696" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
