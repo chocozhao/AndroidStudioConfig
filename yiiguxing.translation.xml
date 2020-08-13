@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="教育品牌" />
+      <item value="亲子服务" />
       <item value="距离" />
       <item value="非会员" />
       <item value="KITKAT" />
@@ -49,8 +51,6 @@
       <item value="接入" />
       <item value="友盟" />
       <item value="小控件" />
-      <item value="插件" />
-      <item value="draw Arc" />
     </histories>
     <option name="languageScores">
       <map>
