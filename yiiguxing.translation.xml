@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The view type of this ViewHolder." />
       <item value="multi Dex Enabled" />
       <item value="has Prefix" />
       <item value="内容" />
@@ -50,12 +51,11 @@
       <item value="Coupons" />
       <item value="theme is now deprecated. Please move to using android:theme instead." />
       <item value="get Device Id For General" />
-      <item value="last" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="700" />
-        <entry key="ENGLISH" value="701" />
+        <entry key="CHINESE" value="701" />
+        <entry key="ENGLISH" value="702" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
