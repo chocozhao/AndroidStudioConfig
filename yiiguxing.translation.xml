@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="GRAVITY" />
       <item value="province" />
       <item value="The view type of this ViewHolder." />
       <item value="multi Dex Enabled" />
@@ -50,12 +51,11 @@
       <item value="Rich Text Utils" />
       <item value="guide" />
       <item value="Coupons" />
-      <item value="theme is now deprecated. Please move to using android:theme instead." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="702" />
-        <entry key="ENGLISH" value="703" />
+        <entry key="CHINESE" value="703" />
+        <entry key="ENGLISH" value="704" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
