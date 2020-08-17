@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to allocate a 28000012 byte allocation with 4194176 free bytes and 4MB until OOM" />
+      <item value="second child view must be instance ILoadingView" />
       <item value="tooltip Text" />
       <item value="duration" />
       <item value="scale" />
@@ -49,13 +51,11 @@
       <item value="Post" />
       <item value="set On Load More Listener" />
       <item value="set Load More Status" />
-      <item value="is Refresh" />
-      <item value="get Load More View Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="711" />
-        <entry key="ENGLISH" value="712" />
+        <entry key="CHINESE" value="714" />
+        <entry key="ENGLISH" value="715" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
