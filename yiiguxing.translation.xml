@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tooltip Text" />
       <item value="duration" />
       <item value="scale" />
       <item value="alpha" />
@@ -50,12 +51,11 @@
       <item value="set Load More Status" />
       <item value="is Refresh" />
       <item value="get Load More View Count" />
-      <item value="on Load More Complete" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="710" />
-        <entry key="ENGLISH" value="711" />
+        <entry key="CHINESE" value="711" />
+        <entry key="ENGLISH" value="712" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
