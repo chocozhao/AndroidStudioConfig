@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="recycle" />
       <item value="Failed to allocate a 28000012 byte allocation with 4194208 free bytes and 10MB until OOM" />
       <item value="quality must be 0..100" />
       <item value="Failed to allocate a 28000012 byte allocation with 4194176 free bytes and 4MB until OOM" />
@@ -50,12 +51,11 @@
       <item value="translate" />
       <item value="Subscriber class com.jzg.tg.parent.ui.order.activity.MyOrderListActivity and its super classes have no public methods with the @Subscribe annotation" />
       <item value="接收" />
-      <item value="Post" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="716" />
-        <entry key="ENGLISH" value="717" />
+        <entry key="CHINESE" value="717" />
+        <entry key="ENGLISH" value="718" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
