@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="duration" />
+      <item value="scale" />
+      <item value="alpha" />
+      <item value="下拉" />
+      <item value="Alpha" />
+      <item value="background Alpha" />
       <item value="show As Drop Down" />
       <item value="GRAVITY" />
       <item value="province" />
@@ -45,17 +51,11 @@
       <item value="is Refresh" />
       <item value="get Load More View Count" />
       <item value="on Load More Complete" />
-      <item value="set Enable Load More" />
-      <item value="is Support Loading View" />
-      <item value="Can not perform this action after onSaveInstanceState" />
-      <item value="Spannable String" />
-      <item value="Rich Text Utils" />
-      <item value="guide" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="704" />
-        <entry key="ENGLISH" value="705" />
+        <entry key="CHINESE" value="710" />
+        <entry key="ENGLISH" value="711" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
