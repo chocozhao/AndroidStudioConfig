@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Geolocation Permissions Show Prompt" />
       <item value="LOCATION" />
       <item value="on Permissions Granted" />
       <item value="ACCESS COARSE LOCATION" />
       <item value="ACCESS FINE LOCATION" />
-      <item value="on Geolocation Permissions Show Prompt" />
       <item value="uses Cleartext Traffic" />
       <item value="should Override Url Loading" />
       <item value="pressed Translation Z" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="728" />
-        <entry key="ENGLISH" value="729" />
+        <entry key="CHINESE" value="729" />
+        <entry key="ENGLISH" value="730" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
