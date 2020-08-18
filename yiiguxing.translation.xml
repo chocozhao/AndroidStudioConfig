@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="trace" />
+      <item value="Remote Target #LOCALHOST" />
       <item value="pages-schoolList-index.3748aaeb.js:1 [Intervention] Ignored attempt to cancel a touchstart event with cancelable=false, for example because scrolling is in progress and cannot be interrupted." />
       <item value="Ignored attempt to cancel a touchstart event with cancelable=false, for example because scrolling is in progress and cannot be interrupted." />
       <item value="A cookie associated with a cross-site resource at http://hm.baidu.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application&gt;Storage&gt;Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032" />
@@ -49,8 +51,6 @@
       <item value="Coordinator Layout" />
       <item value="Custom Swipe Refresh Layout" />
       <item value="Bindings already cleared." />
-      <item value="教育品牌" />
-      <item value="亲子服务" />
     </histories>
     <option name="languageScores">
       <map>
