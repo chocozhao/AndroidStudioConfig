@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ERR CLEARTEXT NOT PERMITTED" />
       <item value="has Prefix" />
       <item value="Split Touch Enabled" />
       <item value="Only request geolocation information in response " />
@@ -50,12 +51,11 @@
       <item value="background Alpha" />
       <item value="show As Drop Down" />
       <item value="GRAVITY" />
-      <item value="province" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="739" />
-        <entry key="ENGLISH" value="740" />
+        <entry key="CHINESE" value="740" />
+        <entry key="ENGLISH" value="741" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
