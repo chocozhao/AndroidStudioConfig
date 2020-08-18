@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="uid=10229(com.jzg.tg.parent) GBD-Thread identical 6 lines" />
+      <item value="Setting auto_time has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value." />
+      <item value="Response for this geolocation request has been received. Ignoring subsequent responses" />
+      <item value="internal" />
       <item value="ERR CLEARTEXT NOT PERMITTED" />
       <item value="has Prefix" />
       <item value="Split Touch Enabled" />
@@ -17,7 +21,6 @@
       <item value="A cookie associated with a cross-site resource at http://hm.baidu.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application&gt;Storage&gt;Cookies and see more details at" />
       <item value=" trace" />
       <item value="Options " />
-      <item value="Response for this geolocation request has been received. Ignoring subsequent responses" />
       <item value="Already have a pending vsync event. There should only be one at a time." />
       <item value="This class is used to manage permissions for the WebView's Geolocation JavaScript API. Geolocation permissions are applied to an origin, which consists of the host, scheme and port of a URI. In order for web content to use the Geolocation API, permission must be granted for that content's origin. This class stores Geolocation permissions. An origin's permission state can be either allowed or denied. This class uses Strings to represent an origin. When an origin attempts to use the Geolocation API, but no permission state is currently set for that origin, WebChromeClient#onGeolocationPermissionsShowPrompt(String,GeolocationPermissions.Callback) is called. This allows the permission state to be set for that origin. The methods of this class can be used to modify and interrogate the stored Geolocation permissions at any time." />
       <item value="GoogleApiClient connecting is in step STEP_SERVICE_BINDINGS_AND_SIGN_IN but received callback for step STEP_GETTING_REMOTE_SERVICE" />
@@ -48,14 +51,11 @@
       <item value="alpha" />
       <item value="下拉" />
       <item value="Alpha" />
-      <item value="background Alpha" />
-      <item value="show As Drop Down" />
-      <item value="GRAVITY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="740" />
-        <entry key="ENGLISH" value="741" />
+        <entry key="CHINESE" value="744" />
+        <entry key="ENGLISH" value="745" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
