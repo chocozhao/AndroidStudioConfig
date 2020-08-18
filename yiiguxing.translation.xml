@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lines" />
+      <item value="Invalid drawable added to LayerDrawable! Drawable already belongs to another owner but does not expose a constant state" />
       <item value="uid=10229(com.jzg.tg.parent) GBD-Thread identical 6 lines" />
       <item value="Setting auto_time has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value." />
       <item value="Response for this geolocation request has been received. Ignoring subsequent responses" />
@@ -49,13 +51,11 @@
       <item value="duration" />
       <item value="scale" />
       <item value="alpha" />
-      <item value="下拉" />
-      <item value="Alpha" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="744" />
-        <entry key="ENGLISH" value="745" />
+        <entry key="CHINESE" value="746" />
+        <entry key="ENGLISH" value="747" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
