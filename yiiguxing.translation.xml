@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Only request geolocation information in response to a user gesture." />
+      <item value="Only request geolocation information in response " />
+      <item value="Only request geolocation information in response to a user gesture. getPosition @ pages-schoolList-index.3748aaeb.js:formatted:1 onLoad @ pages-schoolList-index.3748aaeb.js:formatted:1 tt @ chunk-vendors.201fd964.js:265 kr.__call_hook @ chunk-vendors.201fd964.js:265 i @ chunk-vendors.201fd964.js:39 o @ chunk-vendors.201fd964.js:39 created @ chunk-vendors.201fd964.js:39 tt @ chunk-vendors.201fd964.js:265 $n @ chunk-vendors.201fd964.js:265 e._init @ chunk-vendors.201fd964.js:265 o @ chunk-vendors.201fd964.js:265 an @ chunk-vendors.201fd964.js:265 init @ chunk-vendors.201fd964.js:265 p @ chunk-vendors.201fd964.js:265 h @ chunk-vendors.201fd964.js:265 S @ chunk-vendors.201fd964.js:265 Y @ chunk-vendors.201fd964.js:265 S @ chunk-vendors.201fd964.js:265 Y @ chunk-vendors.201fd964.js:265 (anonymous) @ chunk-vendors.201fd964.js:265 En.e._update @ chunk-vendors.201fd964.js:265 r @ chunk-vendors.201fd964.js:265 nr.get @ chunk-vendors.201fd964.js:265 nr.run @ chunk-vendors.201fd964.js:265 Jn @ chunk-vendors.201fd964.js:265 (anonymous) @ chunk-vendors.201fd964.js:265 ut @ chunk-vendors.201fd964.js:265" />
+      <item value="Uncaught ReferenceError: routerCallBack is not defined" />
       <item value="trace" />
       <item value="Remote Target #LOCALHOST" />
       <item value="pages-schoolList-index.3748aaeb.js:1 [Intervention] Ignored attempt to cancel a touchstart event with cancelable=false, for example because scrolling is in progress and cannot be interrupted." />
@@ -47,10 +51,6 @@
       <item value="The view type of this ViewHolder." />
       <item value="multi Dex Enabled" />
       <item value="has Prefix" />
-      <item value="内容" />
-      <item value="Coordinator Layout" />
-      <item value="Custom Swipe Refresh Layout" />
-      <item value="Bindings already cleared." />
     </histories>
     <option name="languageScores">
       <map>
