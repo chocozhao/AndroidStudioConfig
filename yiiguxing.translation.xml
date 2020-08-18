@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Bounds" />
       <item value="lines" />
       <item value="Invalid drawable added to LayerDrawable! Drawable already belongs to another owner but does not expose a constant state" />
       <item value="uid=10229(com.jzg.tg.parent) GBD-Thread identical 6 lines" />
@@ -50,12 +51,11 @@
       <item value="tooltip Text" />
       <item value="duration" />
       <item value="scale" />
-      <item value="alpha" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="746" />
-        <entry key="ENGLISH" value="747" />
+        <entry key="CHINESE" value="747" />
+        <entry key="ENGLISH" value="748" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
