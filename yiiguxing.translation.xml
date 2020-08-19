@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Max Views In Row" />
+      <item value="set Row Strategy" />
+      <item value="set Scrolling Enabled" />
+      <item value="透明" />
+      <item value="Grid" />
       <item value="set Bounds" />
       <item value="lines" />
       <item value="Invalid drawable added to LayerDrawable! Drawable already belongs to another owner but does not expose a constant state" />
@@ -46,16 +51,11 @@
       <item value="recycle" />
       <item value="Failed to allocate a 28000012 byte allocation with 4194208 free bytes and 10MB until OOM" />
       <item value="quality must be 0..100" />
-      <item value="Failed to allocate a 28000012 byte allocation with 4194176 free bytes and 4MB until OOM" />
-      <item value="second child view must be instance ILoadingView" />
-      <item value="tooltip Text" />
-      <item value="duration" />
-      <item value="scale" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="747" />
-        <entry key="ENGLISH" value="748" />
+        <entry key="CHINESE" value="752" />
+        <entry key="ENGLISH" value="753" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
