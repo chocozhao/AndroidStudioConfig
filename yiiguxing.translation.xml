@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="成功" />
       <item value="set User Visible Hint" />
       <item value="has Load Once" />
       <item value="is Prepared" />
@@ -50,12 +51,11 @@
       <item value="should Override Url Loading" />
       <item value="pressed Translation Z" />
       <item value="上" />
-      <item value="下" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="757" />
-        <entry key="ENGLISH" value="758" />
+        <entry key="CHINESE" value="758" />
+        <entry key="ENGLISH" value="759" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
