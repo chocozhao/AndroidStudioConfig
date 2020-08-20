@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="公用" />
       <item value="科目" />
       <item value="搜索" />
       <item value="第一" />
@@ -50,7 +51,6 @@
       <item value="on Permissions Granted" />
       <item value="ACCESS COARSE LOCATION" />
       <item value="ACCESS FINE LOCATION" />
-      <item value="uses Cleartext Traffic" />
     </histories>
     <option name="languageScores">
       <map>
