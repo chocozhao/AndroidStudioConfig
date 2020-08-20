@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="collapse" />
       <item value="enable Load More" />
       <item value="contains" />
       <item value="is Collapse" />
@@ -50,12 +51,11 @@
       <item value="GoogleApiClient connecting is in step STEP_SERVICE_BINDINGS_AND_SIGN_IN but received callback for step STEP_GETTING_REMOTE_SERVICE" />
       <item value="Fatal signal 5 (SIGTRAP), code -6 (SI_TKILL) in tid 29322 (m.jzg.tg.parent), pid 29322 (m.jzg.tg.parent)" />
       <item value="Please include Java exception stack in crash report" />
-      <item value="[ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint (unset) for first_image_paint" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="764" />
-        <entry key="ENGLISH" value="765" />
+        <entry key="CHINESE" value="765" />
+        <entry key="ENGLISH" value="766" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
