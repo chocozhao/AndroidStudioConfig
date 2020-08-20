@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Collapse" />
+      <item value="get Total Scroll Range" />
+      <item value="COLLAPSED" />
+      <item value="STATE EXPANDED" />
       <item value="公用" />
       <item value="科目" />
       <item value="搜索" />
@@ -47,15 +51,11 @@
       <item value="[ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint (unset) for first_image_paint" />
       <item value="Invalid first_paint (unset) for first_image_paint" />
       <item value="on Geolocation Permissions Show Prompt" />
-      <item value="LOCATION" />
-      <item value="on Permissions Granted" />
-      <item value="ACCESS COARSE LOCATION" />
-      <item value="ACCESS FINE LOCATION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="758" />
-        <entry key="ENGLISH" value="759" />
+        <entry key="CHINESE" value="762" />
+        <entry key="ENGLISH" value="763" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
