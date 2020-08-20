@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="contains" />
       <item value="is Collapse" />
       <item value="get Total Scroll Range" />
       <item value="COLLAPSED" />
@@ -50,12 +51,11 @@
       <item value="Please include Java exception stack in crash report" />
       <item value="[ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint (unset) for first_image_paint" />
       <item value="Invalid first_paint (unset) for first_image_paint" />
-      <item value="on Geolocation Permissions Show Prompt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="762" />
-        <entry key="ENGLISH" value="763" />
+        <entry key="CHINESE" value="763" />
+        <entry key="ENGLISH" value="764" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
