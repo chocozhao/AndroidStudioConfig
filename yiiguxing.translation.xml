@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No adapter attached; skipping layout" />
       <item value="use Diff setting up a new instance to data" />
       <item value="collapse" />
       <item value="enable Load More" />
@@ -50,12 +51,11 @@
       <item value="Already have a pending vsync event. There should only be one at a time." />
       <item value="This class is used to manage permissions for the WebView's Geolocation JavaScript API. Geolocation permissions are applied to an origin, which consists of the host, scheme and port of a URI. In order for web content to use the Geolocation API, permission must be granted for that content's origin. This class stores Geolocation permissions. An origin's permission state can be either allowed or denied. This class uses Strings to represent an origin. When an origin attempts to use the Geolocation API, but no permission state is currently set for that origin, WebChromeClient#onGeolocationPermissionsShowPrompt(String,GeolocationPermissions.Callback) is called. This allows the permission state to be set for that origin. The methods of this class can be used to modify and interrogate the stored Geolocation permissions at any time." />
       <item value="GoogleApiClient connecting is in step STEP_SERVICE_BINDINGS_AND_SIGN_IN but received callback for step STEP_GETTING_REMOTE_SERVICE" />
-      <item value="Fatal signal 5 (SIGTRAP), code -6 (SI_TKILL) in tid 29322 (m.jzg.tg.parent), pid 29322 (m.jzg.tg.parent)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="766" />
-        <entry key="ENGLISH" value="767" />
+        <entry key="CHINESE" value="767" />
+        <entry key="ENGLISH" value="768" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
