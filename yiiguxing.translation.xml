@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Browser Support Scheme" />
+      <item value="ERR UNKNOWN URL SCHEME" />
       <item value="orderPayCallBack is not defined" />
       <item value="REQUEST ACTION PAY" />
       <item value="pay Invoice CB" />
@@ -49,13 +51,11 @@
       <item value="ERR CLEARTEXT NOT PERMITTED" />
       <item value="has Prefix" />
       <item value="Split Touch Enabled" />
-      <item value="Only request geolocation information in response " />
-      <item value="Avoid using document.write()." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="783" />
-        <entry key="ENGLISH" value="783" />
+        <entry key="CHINESE" value="784" />
+        <entry key="ENGLISH" value="785" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
