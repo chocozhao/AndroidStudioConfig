@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invalid item position 3" />
+      <item value="Inconsistency detected" />
+      <item value="center Crop" />
       <item value="is Browser Support Scheme" />
       <item value="ERR UNKNOWN URL SCHEME" />
       <item value="orderPayCallBack is not defined" />
@@ -48,14 +51,11 @@
       <item value="Setting auto_time has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value." />
       <item value="Response for this geolocation request has been received. Ignoring subsequent responses" />
       <item value="internal" />
-      <item value="ERR CLEARTEXT NOT PERMITTED" />
-      <item value="has Prefix" />
-      <item value="Split Touch Enabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="784" />
-        <entry key="ENGLISH" value="785" />
+        <entry key="CHINESE" value="788" />
+        <entry key="ENGLISH" value="789" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
