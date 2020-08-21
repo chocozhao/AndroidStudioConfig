@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="orderPayCallBack is not defined" />
+      <item value="REQUEST ACTION PAY" />
+      <item value="pay Invoice CB" />
+      <item value="payInvoiceCB is not defined" />
       <item value="that was originally added here" />
       <item value="on Collapsed State Change" />
       <item value="call Js" />
@@ -47,15 +51,11 @@
       <item value="Split Touch Enabled" />
       <item value="Only request geolocation information in response " />
       <item value="Avoid using document.write()." />
-      <item value="Only request geolocation information in response to a user gesture." />
-      <item value="Only request geolocation information in response to a user gesture. getPosition @ pages-schoolList-index.3748aaeb.js:formatted:1 onLoad @ pages-schoolList-index.3748aaeb.js:formatted:1 tt @ chunk-vendors.201fd964.js:265 kr.__call_hook @ chunk-vendors.201fd964.js:265 i @ chunk-vendors.201fd964.js:39 o @ chunk-vendors.201fd964.js:39 created @ chunk-vendors.201fd964.js:39 tt @ chunk-vendors.201fd964.js:265 $n @ chunk-vendors.201fd964.js:265 e._init @ chunk-vendors.201fd964.js:265 o @ chunk-vendors.201fd964.js:265 an @ chunk-vendors.201fd964.js:265 init @ chunk-vendors.201fd964.js:265 p @ chunk-vendors.201fd964.js:265 h @ chunk-vendors.201fd964.js:265 S @ chunk-vendors.201fd964.js:265 Y @ chunk-vendors.201fd964.js:265 S @ chunk-vendors.201fd964.js:265 Y @ chunk-vendors.201fd964.js:265 (anonymous) @ chunk-vendors.201fd964.js:265 En.e._update @ chunk-vendors.201fd964.js:265 r @ chunk-vendors.201fd964.js:265 nr.get @ chunk-vendors.201fd964.js:265 nr.run @ chunk-vendors.201fd964.js:265 Jn @ chunk-vendors.201fd964.js:265 (anonymous) @ chunk-vendors.201fd964.js:265 ut @ chunk-vendors.201fd964.js:265" />
-      <item value="Uncaught ReferenceError: routerCallBack is not defined" />
-      <item value="trace" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="780" />
-        <entry key="ENGLISH" value="781" />
+        <entry key="CHINESE" value="783" />
+        <entry key="ENGLISH" value="783" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
