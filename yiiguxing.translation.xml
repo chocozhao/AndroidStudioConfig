@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Inconsistency detected. Invalid item position 3(offset:3).state:4" />
       <item value="Invalid item position 3" />
       <item value="Inconsistency detected" />
       <item value="center Crop" />
@@ -50,12 +51,11 @@
       <item value="uid=10229(com.jzg.tg.parent) GBD-Thread identical 6 lines" />
       <item value="Setting auto_time has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value." />
       <item value="Response for this geolocation request has been received. Ignoring subsequent responses" />
-      <item value="internal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="788" />
-        <entry key="ENGLISH" value="789" />
+        <entry key="CHINESE" value="789" />
+        <entry key="ENGLISH" value="790" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
