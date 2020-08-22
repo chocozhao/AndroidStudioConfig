@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="show Lines" />
+      <item value="DEFAULT MAX LINES" />
       <item value="compare To" />
       <item value="ERR NAME NOT RESOLVED" />
       <item value="Inconsistency detected. Invalid item position 3(offset:3).state:4" />
@@ -49,13 +51,11 @@
       <item value="Grid" />
       <item value="set Bounds" />
       <item value="lines" />
-      <item value="Invalid drawable added to LayerDrawable! Drawable already belongs to another owner but does not expose a constant state" />
-      <item value="uid=10229(com.jzg.tg.parent) GBD-Thread identical 6 lines" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="791" />
-        <entry key="ENGLISH" value="792" />
+        <entry key="CHINESE" value="793" />
+        <entry key="ENGLISH" value="794" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
