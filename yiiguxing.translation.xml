@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sale Num" />
       <item value="Total Row" />
       <item value="inspections" />
       <item value="highlighting" />
@@ -50,18 +51,17 @@
       <item value="main Brand Vo" />
       <item value="set Max Views In Row" />
       <item value="set Row Strategy" />
-      <item value="set Scrolling Enabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="795" />
+        <entry key="CHINESE" value="796" />
         <entry key="ENGLISH" value="796" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
-        <entry key="LATIN" value="2" />
+        <entry key="LATIN" value="3" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="1" />
