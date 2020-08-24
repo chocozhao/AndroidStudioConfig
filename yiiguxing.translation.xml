@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inspections" />
+      <item value="highlighting" />
       <item value="is Expand" />
       <item value="show Lines" />
       <item value="DEFAULT MAX LINES" />
@@ -49,12 +51,10 @@
       <item value="set Row Strategy" />
       <item value="set Scrolling Enabled" />
       <item value="透明" />
-      <item value="Grid" />
-      <item value="set Bounds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="794" />
+        <entry key="CHINESE" value="795" />
         <entry key="ENGLISH" value="795" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
