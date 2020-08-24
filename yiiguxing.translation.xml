@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Total Row" />
       <item value="inspections" />
       <item value="highlighting" />
       <item value="is Expand" />
@@ -50,12 +51,11 @@
       <item value="set Max Views In Row" />
       <item value="set Row Strategy" />
       <item value="set Scrolling Enabled" />
-      <item value="透明" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="795" />
-        <entry key="ENGLISH" value="795" />
+        <entry key="ENGLISH" value="796" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
