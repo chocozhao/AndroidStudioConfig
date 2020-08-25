@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Max Lines" />
+      <item value="Ellipsize" />
+      <item value="set Ellipsize" />
       <item value="has More" />
       <item value="sale Num" />
       <item value="Total Row" />
@@ -48,14 +51,11 @@
       <item value="set User Visible Hint" />
       <item value="has Load Once" />
       <item value="is Prepared" />
-      <item value="brand Vo List" />
-      <item value="main Brand Vo" />
-      <item value="set Max Views In Row" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="796" />
-        <entry key="ENGLISH" value="797" />
+        <entry key="CHINESE" value="800" />
+        <entry key="ENGLISH" value="801" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
