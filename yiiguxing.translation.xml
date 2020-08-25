@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="collapsed" />
       <item value="sub Sequence" />
       <item value="The application could not be installed: INSTALL_FAILED_USER_RESTRICTED" />
       <item value="Installation did not succeed." />
@@ -50,12 +51,11 @@
       <item value="No adapter attached; skipping layout" />
       <item value="use Diff setting up a new instance to data" />
       <item value="collapse" />
-      <item value="enable Load More" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="815" />
-        <entry key="ENGLISH" value="816" />
+        <entry key="CHINESE" value="816" />
+        <entry key="ENGLISH" value="817" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
