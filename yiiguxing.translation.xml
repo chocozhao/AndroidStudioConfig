@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Top And Bottom Offset" />
+      <item value="get Top And Bottom Offset" />
+      <item value="会员" />
+      <item value="Collapsing Toolbar Layout" />
+      <item value="slide" />
       <item value="alpha" />
       <item value="Circle Movement Method" />
       <item value="set Movement Method" />
@@ -46,16 +51,11 @@
       <item value="成功" />
       <item value="router Call Back" />
       <item value="with revoked permission android.permission.CALL_PHONE" />
-      <item value="Permission Denial" />
-      <item value="Security Exception" />
-      <item value="Process Record" />
-      <item value="static" />
-      <item value="on View Detached From Window" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="820" />
-        <entry key="ENGLISH" value="821" />
+        <entry key="CHINESE" value="826" />
+        <entry key="ENGLISH" value="827" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
