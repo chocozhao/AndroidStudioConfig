@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get View Tree Observer" />
       <item value="小专栏" />
       <item value="reverse Layout" />
       <item value="get Ellipsize" />
@@ -31,7 +32,6 @@
       <item value="get Line End" />
       <item value="add On Pre Draw Listener" />
       <item value="on Pre Draw" />
-      <item value="get View Tree Observer" />
       <item value="line End Index" />
       <item value="set Max Lines" />
       <item value="Ellipsize" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="841" />
-        <entry key="ENGLISH" value="842" />
+        <entry key="CHINESE" value="842" />
+        <entry key="ENGLISH" value="843" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
