@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Ellipsize" />
       <item value="fling" />
       <item value="smooth Scroll To" />
       <item value="on Nested Scroll Accepted" />
@@ -50,12 +51,11 @@
       <item value="is Browser Support Scheme" />
       <item value="ERR UNKNOWN URL SCHEME" />
       <item value="orderPayCallBack is not defined" />
-      <item value="REQUEST ACTION PAY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="838" />
-        <entry key="ENGLISH" value="839" />
+        <entry key="CHINESE" value="839" />
+        <entry key="ENGLISH" value="840" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
