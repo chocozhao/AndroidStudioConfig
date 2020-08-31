@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Origin Price" />
+      <item value="start Request By Filter" />
+      <item value="collapse" />
       <item value="销售" />
       <item value="售" />
       <item value="价格" />
@@ -48,14 +51,11 @@
       <item value="add On Pre Draw Listener" />
       <item value="on Pre Draw" />
       <item value="line End Index" />
-      <item value="Ellipsize" />
-      <item value="set Ellipsize" />
-      <item value="has More" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="848" />
-        <entry key="ENGLISH" value="849" />
+        <entry key="CHINESE" value="852" />
+        <entry key="ENGLISH" value="853" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
