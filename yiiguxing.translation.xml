@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="agency" />
+      <item value="机构" />
+      <item value="优选机构" />
       <item value="汇总" />
       <item value="Integer.MAX VALUE" />
       <item value="set Max Lines" />
@@ -48,13 +51,10 @@
       <item value="DEFAULT MAX LINES" />
       <item value="compare To" />
       <item value="ERR NAME NOT RESOLVED" />
-      <item value="Inconsistency detected. Invalid item position 3(offset:3).state:4" />
-      <item value="Invalid item position 3" />
-      <item value="Inconsistency detected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="845" />
+        <entry key="CHINESE" value="846" />
         <entry key="ENGLISH" value="846" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
