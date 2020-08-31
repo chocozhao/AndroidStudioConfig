@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="销售" />
+      <item value="售" />
+      <item value="价格" />
       <item value="绿色" />
       <item value="亲子" />
       <item value="线上" />
@@ -48,9 +51,6 @@
       <item value="Ellipsize" />
       <item value="set Ellipsize" />
       <item value="has More" />
-      <item value="sale Num" />
-      <item value="Total Row" />
-      <item value="inspections" />
     </histories>
     <option name="languageScores">
       <map>
