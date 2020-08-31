@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Coupons Api" />
+      <item value="限时购" />
+      <item value="限时" />
       <item value="agency" />
       <item value="机构" />
       <item value="优选机构" />
@@ -48,14 +51,11 @@
       <item value="highlighting" />
       <item value="is Expand" />
       <item value="show Lines" />
-      <item value="DEFAULT MAX LINES" />
-      <item value="compare To" />
-      <item value="ERR NAME NOT RESOLVED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="846" />
-        <entry key="ENGLISH" value="846" />
+        <entry key="CHINESE" value="847" />
+        <entry key="ENGLISH" value="848" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
