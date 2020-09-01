@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Spannable" />
+      <item value="Coupons Api" />
       <item value="read: unexpected EOF!" />
       <item value="Sales" />
       <item value="Preferred Agency Fragment" />
@@ -13,7 +15,6 @@
       <item value="绿色" />
       <item value="亲子" />
       <item value="线上" />
-      <item value="Coupons Api" />
       <item value="限时购" />
       <item value="限时" />
       <item value="agency" />
@@ -50,15 +51,14 @@
       <item value="INSTALL FAILED USER RESTRICTED" />
       <item value="is Scroll Container" />
       <item value="省略" />
-      <item value="get Line End" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="855" />
-        <entry key="ENGLISH" value="856" />
+        <entry key="CHINESE" value="857" />
+        <entry key="ENGLISH" value="857" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="FRENCH" value="3" />
+        <entry key="FRENCH" value="4" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
         <entry key="LATIN" value="3" />
