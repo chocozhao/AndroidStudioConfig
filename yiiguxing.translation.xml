@@ -1,7 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Detached From Recycler View" />
       <item value="Spannable" />
+      <item value="index Of" />
+      <item value="Style Span" />
+      <item value="SPAN EXCLUSIVE EXCLUSIVE" />
+      <item value="Absolute Size Span" />
       <item value="Coupons Api" />
       <item value="read: unexpected EOF!" />
       <item value="Sales" />
@@ -46,19 +51,14 @@
       <item value="截取内容" />
       <item value="collapsed" />
       <item value="sub Sequence" />
-      <item value="The application could not be installed: INSTALL_FAILED_USER_RESTRICTED" />
-      <item value="Installation did not succeed." />
-      <item value="INSTALL FAILED USER RESTRICTED" />
-      <item value="is Scroll Container" />
-      <item value="省略" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="857" />
-        <entry key="ENGLISH" value="857" />
+        <entry key="CHINESE" value="861" />
+        <entry key="ENGLISH" value="862" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="FRENCH" value="4" />
+        <entry key="FRENCH" value="5" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
         <entry key="LATIN" value="3" />
