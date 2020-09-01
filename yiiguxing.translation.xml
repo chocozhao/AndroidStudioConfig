@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="read: unexpected EOF!" />
       <item value="Sales" />
       <item value="Preferred Agency Fragment" />
       <item value="get Origin Price" />
@@ -50,12 +51,11 @@
       <item value="is Scroll Container" />
       <item value="省略" />
       <item value="get Line End" />
-      <item value="add On Pre Draw Listener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="854" />
-        <entry key="ENGLISH" value="855" />
+        <entry key="CHINESE" value="855" />
+        <entry key="ENGLISH" value="856" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
