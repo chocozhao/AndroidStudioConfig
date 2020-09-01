@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SPAN" />
+      <item value="EXCLUSIVE" />
+      <item value="SPAN EXCLUSIVE EXCLUSIVE" />
       <item value="加粗" />
       <item value="商品信息" />
       <item value="catalog" />
@@ -12,7 +15,6 @@
       <item value="Spannable" />
       <item value="index Of" />
       <item value="Style Span" />
-      <item value="SPAN EXCLUSIVE EXCLUSIVE" />
       <item value="Absolute Size Span" />
       <item value="Coupons Api" />
       <item value="read: unexpected EOF!" />
@@ -49,13 +51,11 @@
       <item value="Collapsing Toolbar Layout" />
       <item value="layout collapse Mode" />
       <item value="set Top And Bottom Offset" />
-      <item value="get Top And Bottom Offset" />
-      <item value="会员" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="867" />
-        <entry key="ENGLISH" value="868" />
+        <entry key="CHINESE" value="871" />
+        <entry key="ENGLISH" value="872" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="5" />
