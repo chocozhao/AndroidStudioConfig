@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rectangle" />
+      <item value="shape" />
+      <item value="state pressed" />
+      <item value="圆角" />
       <item value="on Detached From Recycler View" />
       <item value="Spannable" />
       <item value="index Of" />
@@ -47,15 +51,11 @@
       <item value="slide" />
       <item value="alpha" />
       <item value="Circle Movement Method" />
-      <item value="set Movement Method" />
-      <item value="截取内容" />
-      <item value="collapsed" />
-      <item value="sub Sequence" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="861" />
-        <entry key="ENGLISH" value="862" />
+        <entry key="CHINESE" value="865" />
+        <entry key="ENGLISH" value="866" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="5" />
