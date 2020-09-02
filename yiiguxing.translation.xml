@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="仓库" />
       <item value="init Attrs" />
       <item value="plus" />
       <item value="Expand Text View" />
@@ -50,12 +51,11 @@
       <item value="reverse Layout" />
       <item value="get Ellipsize" />
       <item value="fling" />
-      <item value="smooth Scroll To" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="879" />
-        <entry key="ENGLISH" value="880" />
+        <entry key="CHINESE" value="880" />
+        <entry key="ENGLISH" value="881" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
