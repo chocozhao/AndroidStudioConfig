@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Support Loading View" />
       <item value="init Bill Board" />
       <item value="on Detached From Window" />
       <item value="Explosion" />
@@ -50,12 +51,11 @@
       <item value="on Nested Pre Scroll" />
       <item value="No Scroll View Pager" />
       <item value="on Collapsed State Change" />
-      <item value="exit Until Collapsed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="874" />
-        <entry key="ENGLISH" value="875" />
+        <entry key="CHINESE" value="876" />
+        <entry key="ENGLISH" value="877" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="5" />
