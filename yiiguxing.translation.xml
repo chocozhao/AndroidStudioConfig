@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="utils" />
+      <item value="工具" />
       <item value="lazy" />
       <item value="仓库" />
       <item value="init Attrs" />
@@ -49,13 +51,11 @@
       <item value="set Max Lines" />
       <item value="get View Tree Observer" />
       <item value="小专栏" />
-      <item value="reverse Layout" />
-      <item value="get Ellipsize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="881" />
-        <entry key="ENGLISH" value="882" />
+        <entry key="CHINESE" value="883" />
+        <entry key="ENGLISH" value="883" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
