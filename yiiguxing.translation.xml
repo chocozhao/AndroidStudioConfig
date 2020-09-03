@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No Retrofit annotation found. (parameter #1) for method StoreApi.getLimitedPurchase" />
+      <item value="No Retrofit annotation found." />
+      <item value="No Retrofit annotation found. (parameter #1)" />
+      <item value="sales" />
       <item value="get Title View" />
       <item value="get Indicator" />
       <item value="透明" />
@@ -47,15 +51,11 @@
       <item value="绿色" />
       <item value="亲子" />
       <item value="线上" />
-      <item value="限时购" />
-      <item value="限时" />
-      <item value="agency" />
-      <item value="机构" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="887" />
-        <entry key="ENGLISH" value="888" />
+        <entry key="CHINESE" value="890" />
+        <entry key="ENGLISH" value="891" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
