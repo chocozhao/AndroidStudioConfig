@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Title View" />
+      <item value="get Indicator" />
+      <item value="透明" />
       <item value="Mutable List" />
       <item value="chocozhao" />
       <item value="列表单选" />
@@ -48,14 +51,11 @@
       <item value="限时" />
       <item value="agency" />
       <item value="机构" />
-      <item value="优选机构" />
-      <item value="汇总" />
-      <item value="Integer.MAX VALUE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="885" />
-        <entry key="ENGLISH" value="885" />
+        <entry key="CHINESE" value="887" />
+        <entry key="ENGLISH" value="888" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
