@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="navigation Icon" />
       <item value="fits System Windows" />
       <item value="Reduce" />
       <item value="get Title View" />
@@ -50,12 +51,11 @@
       <item value="Spannable" />
       <item value="index Of" />
       <item value="Style Span" />
-      <item value="Absolute Size Span" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="903" />
-        <entry key="ENGLISH" value="904" />
+        <entry key="CHINESE" value="904" />
+        <entry key="ENGLISH" value="905" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
