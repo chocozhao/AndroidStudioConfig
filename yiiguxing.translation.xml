@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reduce" />
       <item value="get Title View" />
       <item value="get Indicator" />
       <item value="Owner PID: 12644 Our PID: 10344 Owner Operation: Our operation:" />
@@ -50,12 +51,11 @@
       <item value="Style Span" />
       <item value="Absolute Size Span" />
       <item value="Coupons Api" />
-      <item value="read: unexpected EOF!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="901" />
-        <entry key="ENGLISH" value="902" />
+        <entry key="CHINESE" value="902" />
+        <entry key="ENGLISH" value="903" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
