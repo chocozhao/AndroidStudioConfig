@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Collapse" />
+      <item value="is Collapse" />
       <item value="Coupons" />
       <item value="SPAN EXCLUSIVE EXCLUSIVE" />
       <item value="处理" />
@@ -49,13 +51,11 @@
       <item value="加粗" />
       <item value="商品信息" />
       <item value="catalog" />
-      <item value="rectangle" />
-      <item value="shape" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="912" />
-        <entry key="ENGLISH" value="913" />
+        <entry key="CHINESE" value="915" />
+        <entry key="ENGLISH" value="916" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
