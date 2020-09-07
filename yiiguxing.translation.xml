@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Push Conversation Manager" />
       <item value="改变" />
       <item value="current Page" />
       <item value="Collapse" />
@@ -50,12 +51,11 @@
       <item value="Explosion" />
       <item value="SPAN" />
       <item value="EXCLUSIVE" />
-      <item value="加粗" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="917" />
-        <entry key="ENGLISH" value="918" />
+        <entry key="CHINESE" value="918" />
+        <entry key="ENGLISH" value="919" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
