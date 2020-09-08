@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="card" />
+      <item value="set Circle Click Listener" />
+      <item value="must Know Pic List" />
       <item value="COMMAND SENDAUTH" />
       <item value="LAUNCHMINIWX" />
       <item value="Min Program" />
@@ -48,14 +51,11 @@
       <item value="utils" />
       <item value="工具" />
       <item value="lazy" />
-      <item value="仓库" />
-      <item value="init Attrs" />
-      <item value="plus" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="922" />
-        <entry key="ENGLISH" value="923" />
+        <entry key="CHINESE" value="925" />
+        <entry key="ENGLISH" value="926" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
