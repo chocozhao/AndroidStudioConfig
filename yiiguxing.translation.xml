@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="监控" />
       <item value="Failed resolution" />
       <item value="Failed resolution of: Lorg/apache/http/impl/client/DefaultHttpClient" />
       <item value="No Class Def Found Error" />
@@ -50,12 +51,11 @@
       <item value="No Retrofit annotation found. (parameter #1)" />
       <item value="sales" />
       <item value="透明" />
-      <item value="Mutable List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="930" />
-        <entry key="ENGLISH" value="931" />
+        <entry key="CHINESE" value="931" />
+        <entry key="ENGLISH" value="932" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
