@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="req" />
+      <item value="Base Req" />
       <item value="_GETMESSAGE FROM WX" />
       <item value="SHOWMESSAGE FROM WX" />
       <item value="The minSdk version should not be declared in the android manifest file. You can move the version from the manifest to the defaultConfig in the build.gradle file" />
@@ -49,13 +51,11 @@
       <item value="Reduce" />
       <item value="get Title View" />
       <item value="get Indicator" />
-      <item value="Owner PID: 12644 Our PID: 10344 Owner Operation: Our operation:" />
-      <item value="Timeout waiting to lock journal cache (C:\Users\ASUS\.gradle\caches\journal-1). It is currently in use by another Gradle instance." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="944" />
-        <entry key="ENGLISH" value="945" />
+        <entry key="CHINESE" value="946" />
+        <entry key="ENGLISH" value="947" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
