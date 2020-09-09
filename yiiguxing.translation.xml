@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The minSdk version should not be declared in the android manifest file. You can move the version from the manifest to the defaultConfig in the build.gradle file" />
+      <item value="go To Show Msg" />
+      <item value="go To Get Msg" />
       <item value="find" />
       <item value="find_" />
       <item value="托管" />
@@ -48,14 +51,11 @@
       <item value="Timeout waiting to lock journal cache (C:\Users\ASUS\.gradle\caches\journal-1). It is currently in use by another Gradle instance." />
       <item value="The compiler bundled to Kotlin plugin (1.3.72) is older than external compiler used for building modules:" />
       <item value="This may cause different set of errors and warnings reported in IDE." />
-      <item value="popular" />
-      <item value="Limited Purchase" />
-      <item value="set Round Radius" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="939" />
-        <entry key="ENGLISH" value="940" />
+        <entry key="CHINESE" value="942" />
+        <entry key="ENGLISH" value="943" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
