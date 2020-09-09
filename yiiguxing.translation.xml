@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="COMMAND SHOWMESSAGE FROM WX" />
+      <item value="COMMAND GETMESSAGE FROM WX" />
+      <item value="Req" />
+      <item value="Resp" />
+      <item value="COMMAND OPEN BUSINESS WEBVIEW" />
+      <item value="COMMAND OPEN BUSINESS VIEW" />
+      <item value="COMMAND LAUNCH WX MINIPROGRAM" />
+      <item value="COMMAND SUBSCRIBE MESSAGE" />
       <item value="req" />
       <item value="Base Req" />
       <item value="_GETMESSAGE FROM WX" />
@@ -43,19 +51,11 @@
       <item value="处理" />
       <item value="Clickable Span" />
       <item value="set Span" />
-      <item value="抢购" />
-      <item value="enable Refresh" />
-      <item value="get End Interpolator" />
-      <item value="navigation Icon" />
-      <item value="fits System Windows" />
-      <item value="Reduce" />
-      <item value="get Title View" />
-      <item value="get Indicator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="946" />
-        <entry key="ENGLISH" value="947" />
+        <entry key="CHINESE" value="953" />
+        <entry key="ENGLISH" value="954" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
@@ -66,6 +66,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="1" />
+        <entry key="SLOVAK" value="1" />
         <entry key="GREEK" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="INDONESIAN" value="3" />
