@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="托管" />
+      <item value="报名" />
       <item value="has Prefix" />
       <item value="礼物" />
       <item value="Online Course Sign Up" />
@@ -49,13 +51,11 @@
       <item value="set Round Radius" />
       <item value="Gone" />
       <item value="is Support Loading View" />
-      <item value="Ge Tui" />
-      <item value="Intent Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="936" />
-        <entry key="ENGLISH" value="937" />
+        <entry key="CHINESE" value="937" />
+        <entry key="ENGLISH" value="938" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
