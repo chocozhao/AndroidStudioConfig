@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="监控" />
+      <item value="跳转" />
       <item value="shop Id" />
       <item value="Route Parse Utils" />
       <item value="COMMAND SHOWMESSAGE FROM WX" />
@@ -27,7 +29,6 @@
       <item value="Online Course Sign Up" />
       <item value="update Ys Access Token" />
       <item value="get End View" />
-      <item value="监控" />
       <item value="Failed resolution" />
       <item value="Failed resolution of: Lorg/apache/http/impl/client/DefaultHttpClient" />
       <item value="No Class Def Found Error" />
@@ -50,12 +51,11 @@
       <item value="is Collapse" />
       <item value="Coupons" />
       <item value="SPAN EXCLUSIVE EXCLUSIVE" />
-      <item value="处理" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="955" />
-        <entry key="ENGLISH" value="956" />
+        <entry key="CHINESE" value="956" />
+        <entry key="ENGLISH" value="957" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
