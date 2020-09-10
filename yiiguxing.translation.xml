@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="监控" />
       <item value="限时购" />
       <item value="has Load Once" />
-      <item value="监控" />
       <item value="跳转" />
       <item value="shop Id" />
       <item value="Route Parse Utils" />
