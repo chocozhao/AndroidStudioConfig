@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="垂直" />
       <item value="Zoom" />
       <item value="ZoomHeader" />
       <item value="监控" />
@@ -50,12 +51,11 @@
       <item value="线" />
       <item value="Push Conversation Manager" />
       <item value="改变" />
-      <item value="current Page" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="959" />
-        <entry key="ENGLISH" value="959" />
+        <entry key="ENGLISH" value="960" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
