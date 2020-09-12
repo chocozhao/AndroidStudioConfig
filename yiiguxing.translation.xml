@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Entry for Matisse's media selection." />
       <item value="Could not resolve project :matisse." />
       <item value="垂直" />
       <item value="Zoom" />
@@ -50,12 +51,11 @@
       <item value="pool" />
       <item value="Complex" />
       <item value="线" />
-      <item value="Push Conversation Manager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="960" />
-        <entry key="ENGLISH" value="961" />
+        <entry key="CHINESE" value="961" />
+        <entry key="ENGLISH" value="962" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
