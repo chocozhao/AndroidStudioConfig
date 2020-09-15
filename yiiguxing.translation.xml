@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="contact" />
+      <item value="Action" />
+      <item value="Child Circle" />
+      <item value="query Time Stamp" />
+      <item value="方案" />
+      <item value="set Span" />
+      <item value="Multi Item Entity" />
+      <item value="set Span Size Lookup" />
+      <item value="Online" />
+      <item value="Multiple" />
       <item value="show Single Media Type" />
       <item value="Entry for Matisse's media selection." />
       <item value="Could not resolve project :matisse." />
@@ -41,21 +51,11 @@
       <item value="Failed resolution of: Lorg/apache/http/impl/client/DefaultHttpClient" />
       <item value="No Class Def Found Error" />
       <item value="is Can See" />
-      <item value="camera" />
-      <item value="card" />
-      <item value="set Circle Click Listener" />
-      <item value="must Know Pic List" />
-      <item value="COMMAND SENDAUTH" />
-      <item value="LAUNCHMINIWX" />
-      <item value="Min Program" />
-      <item value="open" />
-      <item value="pool" />
-      <item value="Complex" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="962" />
-        <entry key="ENGLISH" value="963" />
+        <entry key="CHINESE" value="972" />
+        <entry key="ENGLISH" value="972" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
