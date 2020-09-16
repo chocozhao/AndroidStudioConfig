@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="RIPPLE" />
+      <item value="STATIC" />
       <item value="菜单" />
       <item value="我的" />
       <item value="通知" />
@@ -49,13 +51,11 @@
       <item value="has Prefix" />
       <item value="礼物" />
       <item value="Online Course Sign Up" />
-      <item value="update Ys Access Token" />
-      <item value="get End View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="972" />
-        <entry key="ENGLISH" value="973" />
+        <entry key="CHINESE" value="974" />
+        <entry key="ENGLISH" value="975" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
