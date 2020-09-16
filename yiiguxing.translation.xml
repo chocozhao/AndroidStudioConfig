@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="白色" />
+      <item value="Active" />
       <item value="Local Broadcast Manager" />
       <item value="register Receive" />
       <item value="if true hides badge on tab selection" />
@@ -49,13 +51,11 @@
       <item value="go To Show Msg" />
       <item value="go To Get Msg" />
       <item value="find" />
-      <item value="find_" />
-      <item value="托管" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="979" />
-        <entry key="ENGLISH" value="980" />
+        <entry key="CHINESE" value="981" />
+        <entry key="ENGLISH" value="982" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
