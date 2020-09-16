@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Local Broadcast Manager" />
+      <item value="register Receive" />
       <item value="if true hides badge on tab selection" />
       <item value="Shape Badge Item" />
       <item value="RIPPLE" />
@@ -49,13 +51,11 @@
       <item value="find" />
       <item value="find_" />
       <item value="托管" />
-      <item value="报名" />
-      <item value="has Prefix" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="977" />
-        <entry key="ENGLISH" value="978" />
+        <entry key="CHINESE" value="979" />
+        <entry key="ENGLISH" value="980" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
