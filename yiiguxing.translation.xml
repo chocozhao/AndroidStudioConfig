@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="get Visibility" />
       <item value="is Cover Refresh" />
+      <item value="on Loading Complete" />
+      <item value="get Visibility" />
       <item value="clip Children" />
       <item value="init Event And Data" />
       <item value="Null Pointer Exception" />
@@ -50,12 +51,11 @@
       <item value="COMMAND SUBSCRIBE MESSAGE" />
       <item value="req" />
       <item value="Base Req" />
-      <item value="_GETMESSAGE FROM WX" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="986" />
-        <entry key="ENGLISH" value="987" />
+        <entry key="CHINESE" value="988" />
+        <entry key="ENGLISH" value="989" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
