@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="clip Children" />
+      <item value="init Event And Data" />
+      <item value="Null Pointer Exception" />
       <item value="白色" />
       <item value="Active" />
       <item value="Local Broadcast Manager" />
@@ -48,14 +51,11 @@
       <item value="_GETMESSAGE FROM WX" />
       <item value="SHOWMESSAGE FROM WX" />
       <item value="The minSdk version should not be declared in the android manifest file. You can move the version from the manifest to the defaultConfig in the build.gradle file" />
-      <item value="go To Show Msg" />
-      <item value="go To Get Msg" />
-      <item value="find" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="981" />
-        <entry key="ENGLISH" value="982" />
+        <entry key="CHINESE" value="984" />
+        <entry key="ENGLISH" value="985" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
