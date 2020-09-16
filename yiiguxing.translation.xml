@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="我的" />
+      <item value="通知" />
       <item value="功能" />
       <item value="contact" />
       <item value="Action" />
@@ -49,8 +51,6 @@
       <item value="update Ys Access Token" />
       <item value="get End View" />
       <item value="Failed resolution" />
-      <item value="Failed resolution of: Lorg/apache/http/impl/client/DefaultHttpClient" />
-      <item value="No Class Def Found Error" />
     </histories>
     <option name="languageScores">
       <map>
