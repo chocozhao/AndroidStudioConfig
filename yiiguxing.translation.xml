@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Visibility" />
+      <item value="is Cover Refresh" />
       <item value="clip Children" />
       <item value="init Event And Data" />
       <item value="Null Pointer Exception" />
@@ -49,13 +51,11 @@
       <item value="req" />
       <item value="Base Req" />
       <item value="_GETMESSAGE FROM WX" />
-      <item value="SHOWMESSAGE FROM WX" />
-      <item value="The minSdk version should not be declared in the android manifest file. You can move the version from the manifest to the defaultConfig in the build.gradle file" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="984" />
-        <entry key="ENGLISH" value="985" />
+        <entry key="CHINESE" value="986" />
+        <entry key="ENGLISH" value="987" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
