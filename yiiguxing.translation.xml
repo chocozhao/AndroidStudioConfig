@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ensure that you are not passing 'true' to the attachToRoot parameter of LayoutInflater" />
+      <item value="ViewHolder views must not be attached when created" />
       <item value="离校" />
       <item value="动态" />
       <item value="签到" />
@@ -49,13 +51,11 @@
       <item value="set Span" />
       <item value="Multi Item Entity" />
       <item value="set Span Size Lookup" />
-      <item value="Online" />
-      <item value="Multiple" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1009" />
-        <entry key="ENGLISH" value="1010" />
+        <entry key="CHINESE" value="1011" />
+        <entry key="ENGLISH" value="1012" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
