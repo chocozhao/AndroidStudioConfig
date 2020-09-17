@@ -1,13 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="layout collapse Mode" />
+      <item value="window Soft Input Mode" />
+      <item value="content Inset Start" />
+      <item value="adjust Nothing" />
+      <item value="state Always Hidden" />
+      <item value="ViewHolder views must not be attached when created." />
       <item value="Ensure that you are not passing 'true' to the attachToRoot parameter of LayoutInflater" />
       <item value="ViewHolder views must not be attached when created" />
       <item value="离校" />
       <item value="动态" />
       <item value="签到" />
       <item value="蓝色" />
-      <item value="content Inset Start" />
       <item value="action Bar Size" />
       <item value="badge height padding" />
       <item value="badge corner radius" />
@@ -46,16 +51,11 @@
       <item value="contact" />
       <item value="Action" />
       <item value="Child Circle" />
-      <item value="query Time Stamp" />
-      <item value="方案" />
-      <item value="set Span" />
-      <item value="Multi Item Entity" />
-      <item value="set Span Size Lookup" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1011" />
-        <entry key="ENGLISH" value="1012" />
+        <entry key="CHINESE" value="1017" />
+        <entry key="ENGLISH" value="1018" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
