@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ensure that you are not passing 'true' to the attachToRoot parameter of LayoutInflater" />
+      <item value="ViewHolder views must not be attached when created." />
+      <item value="Illegal State Exception" />
       <item value="check Out Count" />
       <item value="student Count" />
       <item value="un Check" />
@@ -14,8 +17,6 @@
       <item value="content Inset Start" />
       <item value="adjust Nothing" />
       <item value="state Always Hidden" />
-      <item value="ViewHolder views must not be attached when created." />
-      <item value="Ensure that you are not passing 'true' to the attachToRoot parameter of LayoutInflater" />
       <item value="ViewHolder views must not be attached when created" />
       <item value="离校" />
       <item value="动态" />
@@ -50,12 +51,11 @@
       <item value="register Receive" />
       <item value="if true hides badge on tab selection" />
       <item value="Shape Badge Item" />
-      <item value="RIPPLE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1024" />
-        <entry key="ENGLISH" value="1024" />
+        <entry key="CHINESE" value="1026" />
+        <entry key="ENGLISH" value="1027" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
