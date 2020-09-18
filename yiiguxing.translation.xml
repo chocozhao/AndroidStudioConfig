@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="init Page Config" />
+      <item value="get Navigation On Click Listener" />
+      <item value="on Key Down" />
+      <item value="课程" />
+      <item value="课堂" />
+      <item value="学生签到" />
       <item value="Capture Activity" />
       <item value="Customer Helper" />
       <item value="properties" />
@@ -13,7 +19,6 @@
       <item value="un Check" />
       <item value="今日" />
       <item value="进入" />
-      <item value="课程" />
       <item value="Timetable" />
       <item value="change Light Mode" />
       <item value="layout collapse Mode" />
@@ -46,16 +51,11 @@
       <item value="is Cover Refresh" />
       <item value="on Loading Complete" />
       <item value="get Visibility" />
-      <item value="clip Children" />
-      <item value="init Event And Data" />
-      <item value="Null Pointer Exception" />
-      <item value="白色" />
-      <item value="Active" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1030" />
-        <entry key="ENGLISH" value="1031" />
+        <entry key="CHINESE" value="1035" />
+        <entry key="ENGLISH" value="1036" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
