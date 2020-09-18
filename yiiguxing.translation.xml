@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="用户信息" />
       <item value="init Page Config" />
       <item value="get Navigation On Click Listener" />
       <item value="on Key Down" />
@@ -50,12 +51,11 @@
       <item value="is Dark Mode" />
       <item value="is Cover Refresh" />
       <item value="on Loading Complete" />
-      <item value="get Visibility" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1035" />
-        <entry key="ENGLISH" value="1036" />
+        <entry key="CHINESE" value="1036" />
+        <entry key="ENGLISH" value="1037" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
