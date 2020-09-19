@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Hide On Select" />
+      <item value="include Font Padding" />
       <item value="get Index Page" />
       <item value="Fake DB" />
       <item value="Face Manager" />
@@ -49,13 +51,11 @@
       <item value="set Active Color" />
       <item value="In Active" />
       <item value="Catalog Name" />
-      <item value="Nick" />
-      <item value="get User Signature" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1041" />
-        <entry key="ENGLISH" value="1042" />
+        <entry key="CHINESE" value="1043" />
+        <entry key="ENGLISH" value="1044" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
