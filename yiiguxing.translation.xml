@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="offset to make star shape look straight" />
+      <item value="refresh's margin if set" />
+      <item value="refresh Margin" />
+      <item value="if true hides badge on tab selection" />
+      <item value="get Sub Instance" />
+      <item value="if the badge is hidden" />
+      <item value="to allow builder pattern" />
       <item value="set Hide On Select" />
       <item value="set Edge Margin In Dp" />
       <item value="set Size In Dp" />
@@ -44,18 +51,11 @@
       <item value="layout collapse Mode" />
       <item value="window Soft Input Mode" />
       <item value="content Inset Start" />
-      <item value="adjust Nothing" />
-      <item value="state Always Hidden" />
-      <item value="ViewHolder views must not be attached when created" />
-      <item value="离校" />
-      <item value="动态" />
-      <item value="签到" />
-      <item value="蓝色" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1059" />
-        <entry key="ENGLISH" value="1060" />
+        <entry key="CHINESE" value="1069" />
+        <entry key="ENGLISH" value="1070" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
