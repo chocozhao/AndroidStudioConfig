@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fake DB" />
+      <item value="Face Manager" />
       <item value="签退" />
       <item value="考勤" />
       <item value="override" />
@@ -49,13 +51,11 @@
       <item value="Nick" />
       <item value="get User Signature" />
       <item value="get Catalog Name" />
-      <item value="完成" />
-      <item value="timetable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1038" />
-        <entry key="ENGLISH" value="1039" />
+        <entry key="CHINESE" value="1040" />
+        <entry key="ENGLISH" value="1041" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
