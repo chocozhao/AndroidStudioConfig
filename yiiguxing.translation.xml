@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="钱包" />
+      <item value="update Coupon" />
       <item value="if the badge is hidden" />
       <item value="by hiding it." />
       <item value="if hide is called before the initialisation of bottom-bar this will handle that" />
@@ -49,13 +51,11 @@
       <item value="Face Manager" />
       <item value="签退" />
       <item value="考勤" />
-      <item value="override" />
-      <item value="用户信息" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1096" />
-        <entry key="ENGLISH" value="1097" />
+        <entry key="CHINESE" value="1098" />
+        <entry key="ENGLISH" value="1099" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
