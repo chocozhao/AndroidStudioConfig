@@ -1,8 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="hide" />
+      <item value="if the badge is hidden" />
+      <item value="by hiding it." />
+      <item value="if hide is called before the initialisation of bottom-bar this will handle that" />
+      <item value="if hidden hide" />
+      <item value="whether to animate the change" />
       <item value="this, to allow builder pattern" />
+      <item value="hide" />
       <item value="offset to make star shape look straight" />
       <item value="Class only access methods" />
       <item value="SHAPE HEART" />
@@ -27,7 +32,6 @@
       <item value="refresh Margin" />
       <item value="if true hides badge on tab selection" />
       <item value="get Sub Instance" />
-      <item value="if the badge is hidden" />
       <item value="to allow builder pattern" />
       <item value="set Hide On Select" />
       <item value="set Edge Margin In Dp" />
@@ -47,15 +51,11 @@
       <item value="考勤" />
       <item value="override" />
       <item value="用户信息" />
-      <item value="init Page Config" />
-      <item value="get Navigation On Click Listener" />
-      <item value="on Key Down" />
-      <item value="课程" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1089" />
-        <entry key="ENGLISH" value="1090" />
+        <entry key="CHINESE" value="1096" />
+        <entry key="ENGLISH" value="1097" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
