@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Chain validation failed" />
+      <item value="javax.net.ssl.SSLHandshakeException: Chain validation failed" />
+      <item value="Please invoke the 'FileDownloader#setup' before using FileDownloader. If you want to register some components on FileDownloader" />
+      <item value="Exception In Initializer Error" />
+      <item value="cannot be instantiated" />
+      <item value="Instantiation Exception" />
+      <item value="Unable to find explicit activity class" />
       <item value="have you declared this activity in your AndroidManifest.xml" />
       <item value="btn Retry" />
       <item value="get Default Save Root Path" />
@@ -11,7 +18,6 @@
       <item value="appLocation is not defined" />
       <item value="get Absolute Path" />
       <item value="Attempt to invoke virtual method 'java.io.File android.content.Context.getExternalCacheDir()' on a null object reference" />
-      <item value="Exception In Initializer Error" />
       <item value="钱包" />
       <item value="update Coupon" />
       <item value="if the badge is hidden" />
@@ -45,17 +51,11 @@
       <item value="refresh Margin" />
       <item value="if true hides badge on tab selection" />
       <item value="get Sub Instance" />
-      <item value="to allow builder pattern" />
-      <item value="set Hide On Select" />
-      <item value="set Edge Margin In Dp" />
-      <item value="set Size In Dp" />
-      <item value="to convert dp to pixel" />
-      <item value="SHAPE OVAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1112" />
-        <entry key="ENGLISH" value="1113" />
+        <entry key="CHINESE" value="1119" />
+        <entry key="ENGLISH" value="1120" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
