@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Absolute Path" />
+      <item value="get Default Save Root Path" />
+      <item value="Attempt to invoke virtual method 'java.io.File android.content.Context.getExternalCacheDir()' on a null object reference" />
+      <item value="Exception In Initializer Error" />
       <item value="钱包" />
       <item value="update Coupon" />
       <item value="if the badge is hidden" />
@@ -47,15 +51,11 @@
       <item value="Shape Badge Item" />
       <item value="include Font Padding" />
       <item value="get Index Page" />
-      <item value="Fake DB" />
-      <item value="Face Manager" />
-      <item value="签退" />
-      <item value="考勤" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1098" />
-        <entry key="ENGLISH" value="1099" />
+        <entry key="CHINESE" value="1103" />
+        <entry key="ENGLISH" value="1104" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
