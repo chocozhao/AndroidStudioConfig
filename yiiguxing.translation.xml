@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hide" />
+      <item value="this, to allow builder pattern" />
       <item value="offset to make star shape look straight" />
       <item value="Class only access methods" />
       <item value="SHAPE HEART" />
@@ -31,7 +33,6 @@
       <item value="set Edge Margin In Dp" />
       <item value="set Size In Dp" />
       <item value="to convert dp to pixel" />
-      <item value="this, to allow builder pattern" />
       <item value="SHAPE OVAL" />
       <item value="SOURCE" />
       <item value="SHAPE RECTANGLE" />
@@ -50,12 +51,11 @@
       <item value="get Navigation On Click Listener" />
       <item value="on Key Down" />
       <item value="课程" />
-      <item value="课堂" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1087" />
-        <entry key="ENGLISH" value="1088" />
+        <entry key="CHINESE" value="1089" />
+        <entry key="ENGLISH" value="1090" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
