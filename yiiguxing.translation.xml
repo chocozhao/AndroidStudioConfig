@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="quick Call Js" />
+      <item value="quick" />
+      <item value="appLocation is not defined" />
       <item value="get Absolute Path" />
       <item value="get Default Save Root Path" />
       <item value="Attempt to invoke virtual method 'java.io.File android.content.Context.getExternalCacheDir()' on a null object reference" />
@@ -48,14 +51,11 @@
       <item value="SHAPE RECTANGLE" />
       <item value="SHAPE STAR_3_VERTICES" />
       <item value="new shape that needs to be drawn" />
-      <item value="Shape Badge Item" />
-      <item value="include Font Padding" />
-      <item value="get Index Page" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1103" />
-        <entry key="ENGLISH" value="1104" />
+        <entry key="CHINESE" value="1107" />
+        <entry key="ENGLISH" value="1108" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
