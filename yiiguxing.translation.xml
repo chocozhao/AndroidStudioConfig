@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="m Force Exit Receive" />
+      <item value="FORCE EXIT ACTION" />
       <item value="but local changes will be kept intact" />
       <item value="files won't change,files will be reverted to the state of the selected commit" />
       <item value="files won't change,differences will be staged for commit" />
@@ -49,13 +51,11 @@
       <item value="properties" />
       <item value="has Prefix" />
       <item value="Ensure that you are not passing 'true' to the attachToRoot parameter of LayoutInflater" />
-      <item value="ViewHolder views must not be attached when created." />
-      <item value="Illegal State Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1079" />
-        <entry key="ENGLISH" value="1079" />
+        <entry key="CHINESE" value="1080" />
+        <entry key="ENGLISH" value="1081" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
