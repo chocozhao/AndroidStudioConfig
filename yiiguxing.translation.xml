@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="btn Retry" />
       <item value="get Default Save Root Path" />
       <item value="CACHE APK PATH" />
       <item value="is Hidden" />
@@ -50,12 +51,11 @@
       <item value="to convert dp to pixel" />
       <item value="SHAPE OVAL" />
       <item value="SOURCE" />
-      <item value="SHAPE RECTANGLE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1110" />
-        <entry key="ENGLISH" value="1111" />
+        <entry key="CHINESE" value="1111" />
+        <entry key="ENGLISH" value="1112" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
