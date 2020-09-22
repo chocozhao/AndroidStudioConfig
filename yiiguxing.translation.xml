@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="offset to make star shape look straight" />
+      <item value="Class only access methods" />
+      <item value="SHAPE HEART" />
+      <item value="draw's specified shape" />
+      <item value="Library internal methods" />
+      <item value="fixed_" />
+      <item value="fixed" />
+      <item value="shifting" />
       <item value="m Force Exit Receive" />
       <item value="FORCE EXIT ACTION" />
       <item value="but local changes will be kept intact" />
@@ -13,7 +21,6 @@
       <item value="is Prepared" />
       <item value="has Load Once" />
       <item value="is Registered" />
-      <item value="offset to make star shape look straight" />
       <item value="refresh's margin if set" />
       <item value="refresh Margin" />
       <item value="if true hides badge on tab selection" />
@@ -25,7 +32,6 @@
       <item value="set Size In Dp" />
       <item value="to convert dp to pixel" />
       <item value="this, to allow builder pattern" />
-      <item value="SHAPE HEART" />
       <item value="SHAPE OVAL" />
       <item value="SOURCE" />
       <item value="SHAPE RECTANGLE" />
@@ -45,17 +51,11 @@
       <item value="on Key Down" />
       <item value="课程" />
       <item value="课堂" />
-      <item value="学生签到" />
-      <item value="Capture Activity" />
-      <item value="Customer Helper" />
-      <item value="properties" />
-      <item value="has Prefix" />
-      <item value="Ensure that you are not passing 'true' to the attachToRoot parameter of LayoutInflater" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1080" />
-        <entry key="ENGLISH" value="1081" />
+        <entry key="CHINESE" value="1087" />
+        <entry key="ENGLISH" value="1088" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
