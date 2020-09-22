@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="create KeyFactory instance failed." />
       <item value="Chain validation failed" />
       <item value="javax.net.ssl.SSLHandshakeException: Chain validation failed" />
       <item value="Please invoke the 'FileDownloader#setup' before using FileDownloader. If you want to register some components on FileDownloader" />
@@ -50,12 +51,11 @@
       <item value="refresh's margin if set" />
       <item value="refresh Margin" />
       <item value="if true hides badge on tab selection" />
-      <item value="get Sub Instance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1119" />
-        <entry key="ENGLISH" value="1120" />
+        <entry key="CHINESE" value="1120" />
+        <entry key="ENGLISH" value="1121" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
