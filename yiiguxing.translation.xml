@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unable to start activity ComponentInfo" />
+      <item value="single Task" />
       <item value="通知" />
       <item value="切换Tab" />
       <item value="切换" />
@@ -49,13 +51,11 @@
       <item value="Library internal methods" />
       <item value="fixed_" />
       <item value="fixed" />
-      <item value="shifting" />
-      <item value="m Force Exit Receive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1139" />
-        <entry key="ENGLISH" value="1140" />
+        <entry key="CHINESE" value="1141" />
+        <entry key="ENGLISH" value="1142" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
