@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="completed" />
+      <item value="on Pending" />
       <item value="Coupons" />
       <item value="toggle" />
       <item value="whether to animate the change" />
@@ -49,13 +51,11 @@
       <item value="Unresolved conflicts remaining in the project.Then you may continue rebase. You also may abort rebase to restore the original branch and stop rebasing." />
       <item value="Override" />
       <item value="is First Show Card" />
-      <item value="is Visible" />
-      <item value="is Prepared" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1132" />
-        <entry key="ENGLISH" value="1133" />
+        <entry key="CHINESE" value="1134" />
+        <entry key="ENGLISH" value="1135" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
