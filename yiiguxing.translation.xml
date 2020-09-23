@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="通知" />
+      <item value="切换Tab" />
+      <item value="切换" />
       <item value="add Unread Watcher" />
       <item value="Session Manager" />
       <item value="java.lang.ClassCastException: com.tencent.qcloud.uikit.common.component.picture.internal.ui.widget.CheckRadioView cannot be cast to com.zhihu.matisse.internal.ui.widget.MatisseCheckRadioView" />
@@ -48,14 +51,11 @@
       <item value="fixed" />
       <item value="shifting" />
       <item value="m Force Exit Receive" />
-      <item value="FORCE EXIT ACTION" />
-      <item value="but local changes will be kept intact" />
-      <item value="files won't change,files will be reverted to the state of the selected commit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1138" />
-        <entry key="ENGLISH" value="1139" />
+        <entry key="CHINESE" value="1139" />
+        <entry key="ENGLISH" value="1140" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
