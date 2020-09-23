@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="java.lang.ClassCastException: com.tencent.qcloud.uikit.common.component.picture.internal.ui.widget.CheckRadioView cannot be cast to com.zhihu.matisse.internal.ui.widget.MatisseCheckRadioView" />
+      <item value="Matisse" />
       <item value="completed" />
       <item value="on Pending" />
       <item value="Coupons" />
@@ -49,13 +51,11 @@
       <item value="files won't change,files will be reverted to the state of the selected commit" />
       <item value="files won't change,differences will be staged for commit" />
       <item value="Unresolved conflicts remaining in the project.Then you may continue rebase. You also may abort rebase to restore the original branch and stop rebasing." />
-      <item value="Override" />
-      <item value="is First Show Card" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1134" />
-        <entry key="ENGLISH" value="1135" />
+        <entry key="CHINESE" value="1136" />
+        <entry key="ENGLISH" value="1137" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
