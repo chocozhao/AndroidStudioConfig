@@ -3,9 +3,10 @@
     <extensionMap>
       <mapping ext="webp" type="Image" />
       <mapping pattern="supplysample" type="JSON" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="unicorn#cheese#" type="PLAIN_TEXT" />
-      <mapping pattern="AppDb" type="PLAIN_TEXT" />
       <mapping pattern="read" type="PLAIN_TEXT" />
+      <mapping pattern="AppDb" type="PLAIN_TEXT" />
       <mapping ext="wav" type="PLAIN_TEXT" />
       <mapping ext="bks" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
