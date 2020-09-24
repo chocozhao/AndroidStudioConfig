@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Minimum supported Gradle version is 6.1.1. Current version is 5.6.4." />
+      <item value="Your project may be using a third-party plugin which is not compatible with the other plugins in the project or the version of Gradle requested by the project." />
+      <item value="The state of a Gradle build process (daemon) may be corrupt. Stopping all Gradle daemons may solve this problem." />
+      <item value="Unable to load class 'org.gradle.api.internal.java.usagecontext.LazyConfigurationUsageContext'. Possible causes for this unexpected error include: Gradle's dependency cache may be corrupt (this sometimes occurs after a network connection timeout.) Re-download dependencies and sync project (requires network)" />
+      <item value="com.novoda.release.internal.compat.gradle 5_3.Android Software Component Compat Gradle_5_3" />
       <item value="Could not create an instance of type" />
       <item value="No Class Def Found Error" />
       <item value="Lazy Configuration Usage Context" />
@@ -46,16 +51,11 @@
       <item value="quick Call Js" />
       <item value="quick" />
       <item value="appLocation is not defined" />
-      <item value="get Absolute Path" />
-      <item value="Attempt to invoke virtual method 'java.io.File android.content.Context.getExternalCacheDir()' on a null object reference" />
-      <item value="钱包" />
-      <item value="update Coupon" />
-      <item value="if the badge is hidden" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1151" />
-        <entry key="ENGLISH" value="1152" />
+        <entry key="CHINESE" value="1156" />
+        <entry key="ENGLISH" value="1157" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
