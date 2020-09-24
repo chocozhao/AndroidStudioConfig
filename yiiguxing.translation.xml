@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Navigation On Click Listener" />
       <item value="on Page Selected" />
       <item value="Payload" />
       <item value="com.github.franmontiel:Persistent Cookie Jar:v 1.0.1" />
@@ -50,12 +51,11 @@
       <item value="this, to allow builder pattern" />
       <item value="hide" />
       <item value="offset to make star shape look straight" />
-      <item value="Class only access methods" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1146" />
-        <entry key="ENGLISH" value="1147" />
+        <entry key="CHINESE" value="1147" />
+        <entry key="ENGLISH" value="1148" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
