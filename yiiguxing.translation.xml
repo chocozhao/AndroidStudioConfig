@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not create an instance of type" />
+      <item value="No Class Def Found Error" />
+      <item value="Lazy Configuration Usage Context" />
+      <item value="Cause: org/gradle/api/internal/java/usagecontext/LazyConfigurationUsageContext" />
       <item value="get Navigation On Click Listener" />
       <item value="on Page Selected" />
       <item value="Payload" />
@@ -47,15 +51,11 @@
       <item value="钱包" />
       <item value="update Coupon" />
       <item value="if the badge is hidden" />
-      <item value="if hidden hide" />
-      <item value="this, to allow builder pattern" />
-      <item value="hide" />
-      <item value="offset to make star shape look straight" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1147" />
-        <entry key="ENGLISH" value="1148" />
+        <entry key="CHINESE" value="1151" />
+        <entry key="ENGLISH" value="1152" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
