@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="com.github.franmontiel:Persistent Cookie Jar:v 1.0.1" />
       <item value="NORMAL" />
       <item value="java.security.cert.CertPathValidatorException: Trust anchor for certification path not found." />
       <item value="Unable to start activity ComponentInfo" />
@@ -50,12 +51,11 @@
       <item value="Class only access methods" />
       <item value="SHAPE HEART" />
       <item value="draw's specified shape" />
-      <item value="Library internal methods" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1143" />
-        <entry key="ENGLISH" value="1144" />
+        <entry key="CHINESE" value="1144" />
+        <entry key="ENGLISH" value="1145" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
