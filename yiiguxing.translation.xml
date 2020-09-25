@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reveal Layout" />
       <item value="abstract" />
       <item value="Ext" />
       <item value="is Prepared" />
       <item value="has Load Once" />
-      <item value="Reveal Layout" />
       <item value="Load Service" />
       <item value="Minimum supported Gradle version is 6.1.1. Current version is 5.6.4." />
       <item value="Your project may be using a third-party plugin which is not compatible with the other plugins in the project or the version of Gradle requested by the project." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1163" />
-        <entry key="ENGLISH" value="1164" />
+        <entry key="CHINESE" value="1164" />
+        <entry key="ENGLISH" value="1165" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
