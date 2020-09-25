@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="abstract" />
+      <item value="Ext" />
       <item value="is Prepared" />
       <item value="has Load Once" />
       <item value="Reveal Layout" />
@@ -49,13 +51,11 @@
       <item value="Instantiation Exception" />
       <item value="Unable to find explicit activity class" />
       <item value="have you declared this activity in your AndroidManifest.xml" />
-      <item value="btn Retry" />
-      <item value="get Default Save Root Path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1161" />
-        <entry key="ENGLISH" value="1162" />
+        <entry key="CHINESE" value="1163" />
+        <entry key="ENGLISH" value="1164" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
