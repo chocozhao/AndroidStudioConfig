@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Constraint Layout" />
       <item value="inner" />
       <item value="Multi Dex" />
       <item value="Reveal Layout" />
@@ -50,12 +51,11 @@
       <item value="Please invoke the 'FileDownloader#setup' before using FileDownloader. If you want to register some components on FileDownloader" />
       <item value="Exception In Initializer Error" />
       <item value="cannot be instantiated" />
-      <item value="Instantiation Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1165" />
-        <entry key="ENGLISH" value="1166" />
+        <entry key="CHINESE" value="1166" />
+        <entry key="ENGLISH" value="1167" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
