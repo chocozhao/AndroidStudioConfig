@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Browser Support Scheme" />
       <item value="Shows to user how easy he can make same action using only keyboard(menus and toolbar button mouse clicks initiates shortcut display)" />
       <item value="This navigation graph is not referenced from any layout files (expected to find it in at least one layout file with a NavHostFragment with app:navGraph=&quot;@navigation/nav_graph&quot; attribute). Navigation resource files must be referenced from a NavHostFragment in a layout in order to be relevant. Issue id: UnusedNavigation" />
       <item value="Destination" />
@@ -50,12 +51,11 @@
       <item value="callback from bottom navigation tab when it is selected" />
       <item value="returns if BadgeTextView's reference is valid" />
       <item value="by hiding it." />
-      <item value="if hide is called before the initialisation of bottom-bar this will handle that" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1171" />
-        <entry key="ENGLISH" value="1171" />
+        <entry key="ENGLISH" value="1172" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
