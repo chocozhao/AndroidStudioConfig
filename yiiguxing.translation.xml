@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="publish" />
       <item value="navigation" />
       <item value="Cannot inline bytecode built with JVM target 1.8 into bytecode that is being built with JVM target 1.6. Please specify proper '-jvm-target' option" />
       <item value="constraintlayout" />
@@ -50,12 +51,11 @@
       <item value="to allow builder pattern" />
       <item value="create KeyFactory instance failed." />
       <item value="Chain validation failed" />
-      <item value="javax.net.ssl.SSLHandshakeException: Chain validation failed" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1168" />
-        <entry key="ENGLISH" value="1168" />
+        <entry key="ENGLISH" value="1169" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
