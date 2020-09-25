@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inner" />
+      <item value="Multi Dex" />
       <item value="Reveal Layout" />
       <item value="abstract" />
       <item value="Ext" />
@@ -49,20 +51,18 @@
       <item value="Exception In Initializer Error" />
       <item value="cannot be instantiated" />
       <item value="Instantiation Exception" />
-      <item value="Unable to find explicit activity class" />
-      <item value="have you declared this activity in your AndroidManifest.xml" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1164" />
-        <entry key="ENGLISH" value="1165" />
+        <entry key="CHINESE" value="1165" />
+        <entry key="ENGLISH" value="1166" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
         <entry key="LATIN" value="3" />
-        <entry key="ROMANIAN" value="3" />
+        <entry key="ROMANIAN" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="1" />
