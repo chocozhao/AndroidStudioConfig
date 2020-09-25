@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="navigation" />
+      <item value="Cannot inline bytecode built with JVM target 1.8 into bytecode that is being built with JVM target 1.6. Please specify proper '-jvm-target' option" />
       <item value="constraintlayout" />
       <item value="Constraint Layout" />
       <item value="inner" />
@@ -49,12 +51,10 @@
       <item value="create KeyFactory instance failed." />
       <item value="Chain validation failed" />
       <item value="javax.net.ssl.SSLHandshakeException: Chain validation failed" />
-      <item value="Please invoke the 'FileDownloader#setup' before using FileDownloader. If you want to register some components on FileDownloader" />
-      <item value="Exception In Initializer Error" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1167" />
+        <entry key="CHINESE" value="1168" />
         <entry key="ENGLISH" value="1168" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
