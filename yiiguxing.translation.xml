@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="离校" />
+      <item value="签退" />
       <item value="班级" />
       <item value="record" />
       <item value="记录" />
       <item value="菜单" />
-      <item value="离校" />
       <item value="on Enter" />
       <item value="Content" />
       <item value="on Leave" />
@@ -50,7 +51,6 @@
       <item value="get Navigation On Click Listener" />
       <item value="on Page Selected" />
       <item value="Payload" />
-      <item value="com.github.franmontiel:Persistent Cookie Jar:v 1.0.1" />
     </histories>
     <option name="languageScores">
       <map>
