@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="动态" />
+      <item value="community" />
+      <item value="trends" />
       <item value="ERR UNKNOWN URL SCHEME" />
       <item value="is Browser Support Scheme" />
       <item value="Shows to user how easy he can make same action using only keyboard(menus and toolbar button mouse clicks initiates shortcut display)" />
@@ -48,14 +51,11 @@
       <item value="on Pending" />
       <item value="Coupons" />
       <item value="toggle" />
-      <item value="whether to animate the change" />
-      <item value="callback from bottom navigation tab when it is selected" />
-      <item value="returns if BadgeTextView's reference is valid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1172" />
-        <entry key="ENGLISH" value="1173" />
+        <entry key="CHINESE" value="1175" />
+        <entry key="ENGLISH" value="1176" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
