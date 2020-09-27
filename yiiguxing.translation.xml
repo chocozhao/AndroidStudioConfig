@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="菜单" />
+      <item value="离校" />
+      <item value="on Enter" />
+      <item value="Content" />
+      <item value="on Leave" />
       <item value="接退" />
       <item value="Compilation Failed Exception" />
       <item value="Abort Exception" />
@@ -46,16 +51,11 @@
       <item value="NORMAL" />
       <item value="java.security.cert.CertPathValidatorException: Trust anchor for certification path not found." />
       <item value="Unable to start activity ComponentInfo" />
-      <item value="single Task" />
-      <item value="通知" />
-      <item value="切换Tab" />
-      <item value="切换" />
-      <item value="add Unread Watcher" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1181" />
-        <entry key="ENGLISH" value="1182" />
+        <entry key="CHINESE" value="1185" />
+        <entry key="ENGLISH" value="1186" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
