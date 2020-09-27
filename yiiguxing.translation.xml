@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="variable" />
       <item value="动态" />
       <item value="community" />
       <item value="trends" />
@@ -50,12 +51,11 @@
       <item value="completed" />
       <item value="on Pending" />
       <item value="Coupons" />
-      <item value="toggle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1175" />
-        <entry key="ENGLISH" value="1176" />
+        <entry key="CHINESE" value="1176" />
+        <entry key="ENGLISH" value="1177" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
