@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="班级" />
       <item value="record" />
       <item value="记录" />
       <item value="菜单" />
@@ -50,12 +51,11 @@
       <item value="on Page Selected" />
       <item value="Payload" />
       <item value="com.github.franmontiel:Persistent Cookie Jar:v 1.0.1" />
-      <item value="NORMAL" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1186" />
-        <entry key="ENGLISH" value="1186" />
+        <entry key="ENGLISH" value="1187" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
