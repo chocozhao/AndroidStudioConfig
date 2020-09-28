@@ -1,11 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Grade" />
+      <item value="年级" />
+      <item value="squad" />
+      <item value="班" />
+      <item value="班级" />
       <item value="on Back Pressed" />
       <item value="alling startActivity() from outside of an Activity context requires the FLAG_ACTIVITY_NEW_TASK flag. Is this really what you want" />
       <item value="离校" />
       <item value="签退" />
-      <item value="班级" />
       <item value="record" />
       <item value="记录" />
       <item value="菜单" />
@@ -47,15 +51,11 @@
       <item value="Unable to load class 'org.gradle.api.internal.java.usagecontext.LazyConfigurationUsageContext'. Possible causes for this unexpected error include: Gradle's dependency cache may be corrupt (this sometimes occurs after a network connection timeout.) Re-download dependencies and sync project (requires network)" />
       <item value="com.novoda.release.internal.compat.gradle 5_3.Android Software Component Compat Gradle_5_3" />
       <item value="Could not create an instance of type" />
-      <item value="No Class Def Found Error" />
-      <item value="Lazy Configuration Usage Context" />
-      <item value="Cause: org/gradle/api/internal/java/usagecontext/LazyConfigurationUsageContext" />
-      <item value="get Navigation On Click Listener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1188" />
-        <entry key="ENGLISH" value="1189" />
+        <entry key="CHINESE" value="1191" />
+        <entry key="ENGLISH" value="1192" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
