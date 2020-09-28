@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enable Load More" />
       <item value="须知" />
       <item value="provider" />
       <item value="Grade" />
@@ -50,12 +51,11 @@
       <item value="Minimum supported Gradle version is 6.1.1. Current version is 5.6.4." />
       <item value="Your project may be using a third-party plugin which is not compatible with the other plugins in the project or the version of Gradle requested by the project." />
       <item value="The state of a Gradle build process (daemon) may be corrupt. Stopping all Gradle daemons may solve this problem." />
-      <item value="Unable to load class 'org.gradle.api.internal.java.usagecontext.LazyConfigurationUsageContext'. Possible causes for this unexpected error include: Gradle's dependency cache may be corrupt (this sometimes occurs after a network connection timeout.) Re-download dependencies and sync project (requires network)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1192" />
-        <entry key="ENGLISH" value="1193" />
+        <entry key="CHINESE" value="1193" />
+        <entry key="ENGLISH" value="1194" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
