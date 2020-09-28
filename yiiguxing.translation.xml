@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="alling startActivity() from outside of an Activity context requires the FLAG_ACTIVITY_NEW_TASK flag. Is this really what you want" />
       <item value="离校" />
       <item value="签退" />
       <item value="班级" />
@@ -50,12 +51,11 @@
       <item value="Cause: org/gradle/api/internal/java/usagecontext/LazyConfigurationUsageContext" />
       <item value="get Navigation On Click Listener" />
       <item value="on Page Selected" />
-      <item value="Payload" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1186" />
-        <entry key="ENGLISH" value="1187" />
+        <entry key="CHINESE" value="1187" />
+        <entry key="ENGLISH" value="1188" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
