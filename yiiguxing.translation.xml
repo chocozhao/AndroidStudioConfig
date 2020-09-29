@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="须知" />
       <item value="透明" />
       <item value="蓝色" />
       <item value="Emulator: audio: Failed to create voice `adc'" />
@@ -13,7 +14,6 @@
       <item value="Center Crop" />
       <item value="ellipsize" />
       <item value="全选" />
-      <item value="须知" />
       <item value="marquee" />
       <item value="on Key Down" />
       <item value="can Go Back" />
