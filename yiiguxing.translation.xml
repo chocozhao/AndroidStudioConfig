@@ -1,12 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="确认" />
+      <item value="全选" />
+      <item value="须知" />
       <item value="marquee" />
       <item value="on Key Down" />
       <item value="can Go Back" />
       <item value="办理" />
       <item value="enable Load More" />
-      <item value="须知" />
       <item value="provider" />
       <item value="Grade" />
       <item value="年级" />
@@ -49,13 +51,11 @@
       <item value="Reveal Layout" />
       <item value="abstract" />
       <item value="Ext" />
-      <item value="is Prepared" />
-      <item value="has Load Once" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1198" />
-        <entry key="ENGLISH" value="1199" />
+        <entry key="CHINESE" value="1199" />
+        <entry key="ENGLISH" value="1200" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
