@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Deselected" />
       <item value="黑色" />
       <item value="if addHeaderView will be return 1, if not will be return 0" />
       <item value="接退" />
@@ -50,12 +51,11 @@
       <item value="is Browser Support Scheme" />
       <item value="Shows to user how easy he can make same action using only keyboard(menus and toolbar button mouse clicks initiates shortcut display)" />
       <item value="This navigation graph is not referenced from any layout files (expected to find it in at least one layout file with a NavHostFragment with app:navGraph=&quot;@navigation/nav_graph&quot; attribute). Navigation resource files must be referenced from a NavHostFragment in a layout in order to be relevant. Issue id: UnusedNavigation" />
-      <item value="Destination" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1211" />
-        <entry key="ENGLISH" value="1212" />
+        <entry key="CHINESE" value="1212" />
+        <entry key="ENGLISH" value="1213" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
