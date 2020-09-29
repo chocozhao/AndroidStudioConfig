@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="蓝色" />
       <item value="Emulator: audio: Failed to create voice `adc'" />
       <item value="Emulator: dsound: Attempt to initialize voice without DirectSoundCapture object" />
       <item value="确认" />
@@ -50,12 +51,11 @@
       <item value="start Destination" />
       <item value="publish" />
       <item value="navigation" />
-      <item value="Cannot inline bytecode built with JVM target 1.8 into bytecode that is being built with JVM target 1.6. Please specify proper '-jvm-target' option" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1208" />
-        <entry key="ENGLISH" value="1209" />
+        <entry key="CHINESE" value="1209" />
+        <entry key="ENGLISH" value="1210" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
