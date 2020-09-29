@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="接退" />
       <item value="须知" />
       <item value="透明" />
       <item value="蓝色" />
@@ -9,7 +10,6 @@
       <item value="确认" />
       <item value="operate" />
       <item value="操作" />
-      <item value="接退" />
       <item value="Glide Circle Transform" />
       <item value="Center Crop" />
       <item value="ellipsize" />
