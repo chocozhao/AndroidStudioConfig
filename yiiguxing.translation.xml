@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="确认" />
+      <item value="operate" />
+      <item value="操作" />
       <item value="接退" />
       <item value="Glide Circle Transform" />
       <item value="Center Crop" />
       <item value="ellipsize" />
-      <item value="确认" />
       <item value="全选" />
       <item value="须知" />
       <item value="marquee" />
@@ -49,13 +51,11 @@
       <item value="Cannot inline bytecode built with JVM target 1.8 into bytecode that is being built with JVM target 1.6. Please specify proper '-jvm-target' option" />
       <item value="constraintlayout" />
       <item value="Constraint Layout" />
-      <item value="inner" />
-      <item value="Multi Dex" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1205" />
-        <entry key="ENGLISH" value="1206" />
+        <entry key="CHINESE" value="1206" />
+        <entry key="ENGLISH" value="1207" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
