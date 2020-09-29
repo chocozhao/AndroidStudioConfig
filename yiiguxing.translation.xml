@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="接退" />
+      <item value="Glide Circle Transform" />
+      <item value="Center Crop" />
+      <item value="ellipsize" />
       <item value="确认" />
       <item value="全选" />
       <item value="须知" />
@@ -25,7 +29,6 @@
       <item value="on Enter" />
       <item value="Content" />
       <item value="on Leave" />
-      <item value="接退" />
       <item value="Compilation Failed Exception" />
       <item value="Abort Exception" />
       <item value="Program type already present: com.baidu.bottom.service.BottomReceiver" />
@@ -48,14 +51,11 @@
       <item value="Constraint Layout" />
       <item value="inner" />
       <item value="Multi Dex" />
-      <item value="Reveal Layout" />
-      <item value="abstract" />
-      <item value="Ext" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1199" />
-        <entry key="ENGLISH" value="1200" />
+        <entry key="CHINESE" value="1205" />
+        <entry key="ENGLISH" value="1206" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
