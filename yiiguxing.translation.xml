@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unable to delete file" />
       <item value="原因" />
       <item value="家长不接" />
       <item value="不来" />
@@ -50,12 +51,11 @@
       <item value="record" />
       <item value="记录" />
       <item value="菜单" />
-      <item value="on Enter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1218" />
-        <entry key="ENGLISH" value="1219" />
+        <entry key="CHINESE" value="1219" />
+        <entry key="ENGLISH" value="1220" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
