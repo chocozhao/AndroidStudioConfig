@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="原因" />
+      <item value="留言" />
+      <item value="确认" />
+      <item value="取消" />
       <item value="灰色" />
       <item value="办理" />
       <item value="办理离校" />
@@ -20,7 +24,6 @@
       <item value="蓝色" />
       <item value="Emulator: audio: Failed to create voice `adc'" />
       <item value="Emulator: dsound: Attempt to initialize voice without DirectSoundCapture object" />
-      <item value="确认" />
       <item value="operate" />
       <item value="操作" />
       <item value="Glide Circle Transform" />
@@ -48,9 +51,6 @@
       <item value="Content" />
       <item value="on Leave" />
       <item value="Compilation Failed Exception" />
-      <item value="Abort Exception" />
-      <item value="Program type already present: com.baidu.bottom.service.BottomReceiver" />
-      <item value="����: �Ҳ�������" />
     </histories>
     <option name="languageScores">
       <map>
