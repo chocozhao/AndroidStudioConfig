@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <histories>
       <item value="原因" />
+      <item value="家长不接" />
+      <item value="不来" />
+      <item value="其他" />
       <item value="留言" />
       <item value="确认" />
       <item value="取消" />
@@ -48,9 +51,6 @@
       <item value="记录" />
       <item value="菜单" />
       <item value="on Enter" />
-      <item value="Content" />
-      <item value="on Leave" />
-      <item value="Compilation Failed Exception" />
     </histories>
     <option name="languageScores">
       <map>
