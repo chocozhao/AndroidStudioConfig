@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Received Chrome Client" />
       <item value="get Indicator" />
       <item value="set Auto Cancel Badge" />
       <item value="CONTENT" />
@@ -50,12 +51,11 @@
       <item value="动态" />
       <item value="community" />
       <item value="trends" />
-      <item value="ERR UNKNOWN URL SCHEME" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1215" />
-        <entry key="ENGLISH" value="1216" />
+        <entry key="CHINESE" value="1216" />
+        <entry key="ENGLISH" value="1217" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
