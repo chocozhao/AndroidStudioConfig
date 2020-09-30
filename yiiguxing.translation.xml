@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="接退通知" />
+      <item value="通知" />
       <item value="Anchor" />
       <item value="Received Chrome Client" />
       <item value="get Indicator" />
@@ -49,13 +51,11 @@
       <item value="����: �Ҳ�������" />
       <item value="nickname" />
       <item value="variable" />
-      <item value="动态" />
-      <item value="community" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1217" />
-        <entry key="ENGLISH" value="1218" />
+        <entry key="CHINESE" value="1218" />
+        <entry key="ENGLISH" value="1219" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
