@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="办理" />
       <item value="接退通知" />
       <item value="通知" />
       <item value="Anchor" />
@@ -27,7 +28,6 @@
       <item value="marquee" />
       <item value="on Key Down" />
       <item value="can Go Back" />
-      <item value="办理" />
       <item value="enable Load More" />
       <item value="provider" />
       <item value="Grade" />
