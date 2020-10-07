@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="should Override Url Loading" />
+      <item value="should" />
       <item value="starts With" />
       <item value="Unable to delete directory 'E:\project\tuoguan-business-android\app\build' Failed to delete some children. This might happen because a process has files open or has its working directory set in the target directory." />
       <item value="Unable to delete file" />
@@ -49,13 +51,11 @@
       <item value="on Back Pressed" />
       <item value="alling startActivity() from outside of an Activity context requires the FLAG_ACTIVITY_NEW_TASK flag. Is this really what you want" />
       <item value="离校" />
-      <item value="签退" />
-      <item value="record" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1221" />
-        <entry key="ENGLISH" value="1222" />
+        <entry key="CHINESE" value="1223" />
+        <entry key="ENGLISH" value="1224" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
