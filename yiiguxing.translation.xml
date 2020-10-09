@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Can Load" />
+      <item value="is Support Loading View" />
+      <item value="enable Refresh" />
       <item value="register" />
       <item value="请求" />
       <item value="should Override Url Loading" />
@@ -48,14 +51,11 @@
       <item value="Grade" />
       <item value="年级" />
       <item value="squad" />
-      <item value="班" />
-      <item value="班级" />
-      <item value="on Back Pressed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1226" />
-        <entry key="ENGLISH" value="1227" />
+        <entry key="CHINESE" value="1229" />
+        <entry key="ENGLISH" value="1230" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
