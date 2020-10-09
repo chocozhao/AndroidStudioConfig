@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="register" />
+      <item value="请求" />
       <item value="should Override Url Loading" />
       <item value="should" />
       <item value="starts With" />
@@ -49,13 +51,11 @@
       <item value="班" />
       <item value="班级" />
       <item value="on Back Pressed" />
-      <item value="alling startActivity() from outside of an Activity context requires the FLAG_ACTIVITY_NEW_TASK flag. Is this really what you want" />
-      <item value="离校" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1223" />
-        <entry key="ENGLISH" value="1224" />
+        <entry key="CHINESE" value="1226" />
+        <entry key="ENGLISH" value="1227" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="6" />
