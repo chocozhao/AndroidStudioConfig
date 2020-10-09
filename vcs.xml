@@ -26,6 +26,10 @@
           <option name="url" value="http://jsvn.52jtg.com:3000/jintuoguan/tuoguan-teacher-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://jsvn.52jtg.com:3000/jintuoguan/tuanguan-camera-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\project" />
