@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Admin" />
       <item value="公安" />
       <item value="安备" />
       <item value="资质证件" />
@@ -50,12 +51,11 @@
       <item value="家长不接" />
       <item value="不来" />
       <item value="其他" />
-      <item value="留言" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1263" />
-        <entry key="ENGLISH" value="1264" />
+        <entry key="CHINESE" value="1264" />
+        <entry key="ENGLISH" value="1265" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="7" />
