@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="公安" />
+      <item value="安备" />
+      <item value="资质证件" />
+      <item value="资质" />
       <item value="横向" />
       <item value="水平" />
       <item value="background Alpha" />
@@ -47,10 +51,6 @@
       <item value="不来" />
       <item value="其他" />
       <item value="留言" />
-      <item value="确认" />
-      <item value="取消" />
-      <item value="办理" />
-      <item value="办理离校" />
     </histories>
     <option name="languageScores">
       <map>
