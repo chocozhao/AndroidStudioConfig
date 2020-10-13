@@ -1,6 +1,31 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="横向" />
+      <item value="水平" />
+      <item value="background Alpha" />
+      <item value="get Receiver User Phone" />
+      <item value="Expected a string but was BEGIN_ARRAY at line 1 column 38 path" />
+      <item value="set Enabled" />
+      <item value="Focusable" />
+      <item value="灰色" />
+      <item value="Linked" />
+      <item value="set Checked" />
+      <item value="自定义" />
+      <item value="setup With View Pager" />
+      <item value="nested Scrolling Enabled" />
+      <item value="Cooperation" />
+      <item value="JSON parse error: Cannot deserialize instance of `java.util.ArrayList` out of START_OBJECT" />
+      <item value="START OBJECT" />
+      <item value="接退" />
+      <item value="待接退" />
+      <item value="Non-body HTTP method cannot contain @Body." />
+      <item value="name Value Pairs" />
+      <item value="scrollbars" />
+      <item value="operate" />
+      <item value="agent" />
+      <item value="inviter" />
+      <item value="Linked Hash Map" />
       <item value="is Cover Refresh" />
       <item value="enable Refresh" />
       <item value="is Support Hidden" />
@@ -24,41 +49,16 @@
       <item value="留言" />
       <item value="确认" />
       <item value="取消" />
-      <item value="灰色" />
       <item value="办理" />
       <item value="办理离校" />
-      <item value="接退通知" />
-      <item value="通知" />
-      <item value="Anchor" />
-      <item value="Received Chrome Client" />
-      <item value="get Indicator" />
-      <item value="set Auto Cancel Badge" />
-      <item value="CONTENT" />
-      <item value="on Deselected" />
-      <item value="黑色" />
-      <item value="if addHeaderView will be return 1, if not will be return 0" />
-      <item value="接退" />
-      <item value="须知" />
-      <item value="透明" />
-      <item value="蓝色" />
-      <item value="Emulator: audio: Failed to create voice `adc'" />
-      <item value="Emulator: dsound: Attempt to initialize voice without DirectSoundCapture object" />
-      <item value="operate" />
-      <item value="操作" />
-      <item value="Glide Circle Transform" />
-      <item value="Center Crop" />
-      <item value="ellipsize" />
-      <item value="全选" />
-      <item value="marquee" />
-      <item value="on Key Down" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1236" />
-        <entry key="ENGLISH" value="1237" />
+        <entry key="CHINESE" value="1263" />
+        <entry key="ENGLISH" value="1264" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="FRENCH" value="6" />
+        <entry key="FRENCH" value="7" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
         <entry key="LATIN" value="3" />
