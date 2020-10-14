@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Auto Cancel Badge" />
       <item value="set Inner Pager Title View" />
       <item value="is Admin" />
       <item value="公安" />
@@ -50,12 +51,11 @@
       <item value="Unable to delete file" />
       <item value="原因" />
       <item value="家长不接" />
-      <item value="不来" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1266" />
-        <entry key="ENGLISH" value="1267" />
+        <entry key="CHINESE" value="1267" />
+        <entry key="ENGLISH" value="1268" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="7" />
