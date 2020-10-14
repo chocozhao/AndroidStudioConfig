@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="校内" />
       <item value="INVISIBLE" />
       <item value="show Context Menu" />
       <item value="set Auto Cancel Badge" />
@@ -50,12 +51,11 @@
       <item value="should" />
       <item value="starts With" />
       <item value="Unable to delete directory 'E:\project\tuoguan-business-android\app\build' Failed to delete some children. This might happen because a process has files open or has its working directory set in the target directory." />
-      <item value="Unable to delete file" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1270" />
-        <entry key="ENGLISH" value="1271" />
+        <entry key="CHINESE" value="1271" />
+        <entry key="ENGLISH" value="1272" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="7" />
