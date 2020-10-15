@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NO GRAVITY" />
+      <item value="Rect" />
       <item value="Delivered" />
       <item value="get Global Visible Rect" />
       <item value="is Focusable" />
@@ -49,13 +51,11 @@
       <item value="inviter" />
       <item value="Linked Hash Map" />
       <item value="is Cover Refresh" />
-      <item value="enable Refresh" />
-      <item value="is Support Hidden" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1286" />
-        <entry key="ENGLISH" value="1287" />
+        <entry key="CHINESE" value="1288" />
+        <entry key="ENGLISH" value="1289" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="7" />
