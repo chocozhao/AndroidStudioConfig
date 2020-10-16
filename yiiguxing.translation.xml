@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="差价" />
       <item value="刷新" />
       <item value="is Show" />
       <item value="NO GRAVITY" />
@@ -50,7 +51,6 @@
       <item value="scrollbars" />
       <item value="operate" />
       <item value="agent" />
-      <item value="inviter" />
     </histories>
     <option name="languageScores">
       <map>
