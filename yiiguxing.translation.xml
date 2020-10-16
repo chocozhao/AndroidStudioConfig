@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Key Down" />
+      <item value="on Back Pressed" />
       <item value="has Load Once" />
       <item value="node" />
       <item value="max Ems" />
@@ -49,13 +51,11 @@
       <item value="START OBJECT" />
       <item value="接退" />
       <item value="待接退" />
-      <item value="Non-body HTTP method cannot contain @Body." />
-      <item value="name Value Pairs" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1294" />
-        <entry key="ENGLISH" value="1295" />
+        <entry key="CHINESE" value="1296" />
+        <entry key="ENGLISH" value="1297" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="7" />
