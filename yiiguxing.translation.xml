@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="确认" />
       <item value="空" />
       <item value="课堂动态" />
       <item value="课堂" />
@@ -50,7 +51,6 @@
       <item value="Linked" />
       <item value="set Checked" />
       <item value="自定义" />
-      <item value="setup With View Pager" />
     </histories>
     <option name="languageScores">
       <map>
