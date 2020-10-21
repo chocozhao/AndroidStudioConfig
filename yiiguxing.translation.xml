@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Trends" />
+      <item value="Trends Adapter" />
+      <item value="elevation" />
       <item value="橙色" />
       <item value="Attempt to use @BindView for an already bound ID 2131297195 on" />
       <item value="确认" />
@@ -48,14 +51,11 @@
       <item value="get Receiver User Phone" />
       <item value="Expected a string but was BEGIN_ARRAY at line 1 column 38 path" />
       <item value="set Enabled" />
-      <item value="Focusable" />
-      <item value="灰色" />
-      <item value="Linked" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1303" />
-        <entry key="ENGLISH" value="1304" />
+        <entry key="CHINESE" value="1306" />
+        <entry key="ENGLISH" value="1307" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="7" />
