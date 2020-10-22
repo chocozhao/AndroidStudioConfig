@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sender" />
       <item value="评论" />
       <item value="删除" />
       <item value="Footer" />
@@ -50,14 +51,14 @@
       <item value="资质证件" />
       <item value="资质" />
       <item value="横向" />
-      <item value="水平" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1310" />
+        <entry key="CHINESE" value="1311" />
         <entry key="ENGLISH" value="1311" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
+        <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="7" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
