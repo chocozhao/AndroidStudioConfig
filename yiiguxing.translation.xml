@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Footer" />
       <item value="动态" />
       <item value="set Header And Empty" />
       <item value="Trends" />
@@ -50,12 +51,11 @@
       <item value="水平" />
       <item value="background Alpha" />
       <item value="get Receiver User Phone" />
-      <item value="Expected a string but was BEGIN_ARRAY at line 1 column 38 path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1308" />
-        <entry key="ENGLISH" value="1309" />
+        <entry key="CHINESE" value="1309" />
+        <entry key="ENGLISH" value="1310" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="7" />
