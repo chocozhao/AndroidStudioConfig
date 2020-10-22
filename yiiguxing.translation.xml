@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="评论" />
+      <item value="删除" />
       <item value="Footer" />
       <item value="动态" />
       <item value="set Header And Empty" />
@@ -49,13 +51,11 @@
       <item value="资质" />
       <item value="横向" />
       <item value="水平" />
-      <item value="background Alpha" />
-      <item value="get Receiver User Phone" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1309" />
-        <entry key="ENGLISH" value="1310" />
+        <entry key="CHINESE" value="1310" />
+        <entry key="ENGLISH" value="1311" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="7" />
