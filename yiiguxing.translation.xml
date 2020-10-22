@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Force Update" />
       <item value="Sender" />
       <item value="评论" />
       <item value="删除" />
@@ -50,12 +51,11 @@
       <item value="安备" />
       <item value="资质证件" />
       <item value="资质" />
-      <item value="横向" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1311" />
-        <entry key="ENGLISH" value="1311" />
+        <entry key="ENGLISH" value="1312" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
