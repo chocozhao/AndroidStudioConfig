@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Query Params" />
       <item value="写" />
       <item value="可见" />
       <item value="contain" />
@@ -50,12 +51,11 @@
       <item value="override this method if you want to override click event logic" />
       <item value="Register a callback to be invoked when an item in this RecyclerView has" />
       <item value="详情" />
-      <item value="get Item View Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1321" />
-        <entry key="ENGLISH" value="1322" />
+        <entry key="CHINESE" value="1322" />
+        <entry key="ENGLISH" value="1323" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
