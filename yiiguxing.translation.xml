@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="可见" />
       <item value="刷新" />
       <item value="可见学员" />
       <item value="is Force Update" />
@@ -50,7 +51,6 @@
       <item value="is Admin" />
       <item value="公安" />
       <item value="安备" />
-      <item value="资质证件" />
     </histories>
     <option name="languageScores">
       <map>
