@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="回复" />
+      <item value="点赞" />
       <item value="is Outside" />
       <item value="internal" />
       <item value="内置" />
@@ -49,13 +51,11 @@
       <item value="get Global Visible Rect" />
       <item value="is Focusable" />
       <item value="complete" />
-      <item value="payment" />
-      <item value="delivered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1325" />
-        <entry key="ENGLISH" value="1326" />
+        <entry key="CHINESE" value="1326" />
+        <entry key="ENGLISH" value="1327" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
