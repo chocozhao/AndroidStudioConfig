@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="contain" />
+      <item value="Illegal Argument Exception" />
+      <item value="/children-daily/{id}/&quot; does not contain &quot;{Id}&quot;. (parameter #1) for method DynamicApi.getDeleteDynamics" />
+      <item value="&quot;/children-daily/{id}&quot; does not contain &quot;{Id}&quot;. (parameter #1) for method DynamicApi.getDeleteDynamics" />
+      <item value="URL &quot;children-daily/{id}&quot; does not contain &quot;{Id}&quot;. (parameter #1) for method DynamicApi.getDeleteDynamics" />
+      <item value="for method DynamicApi.getDeleteDynamics" />
       <item value="enable Load More" />
       <item value="可见" />
       <item value="刷新" />
@@ -45,17 +51,11 @@
       <item value="详情" />
       <item value="get Item View Type" />
       <item value="校内" />
-      <item value="INVISIBLE" />
-      <item value="show Context Menu" />
-      <item value="set Auto Cancel Badge" />
-      <item value="set Inner Pager Title View" />
-      <item value="is Admin" />
-      <item value="公安" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1313" />
-        <entry key="ENGLISH" value="1314" />
+        <entry key="CHINESE" value="1320" />
+        <entry key="ENGLISH" value="1321" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
