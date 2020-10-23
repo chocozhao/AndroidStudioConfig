@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Outside" />
+      <item value="internal" />
+      <item value="内置" />
       <item value="U" />
       <item value="内部" />
       <item value="get Query Params" />
@@ -48,14 +51,11 @@
       <item value="complete" />
       <item value="payment" />
       <item value="delivered" />
-      <item value="remove Sticky Event" />
-      <item value="孩子" />
-      <item value="override this method if you want to override click event logic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1324" />
-        <entry key="ENGLISH" value="1324" />
+        <entry key="CHINESE" value="1325" />
+        <entry key="ENGLISH" value="1326" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
