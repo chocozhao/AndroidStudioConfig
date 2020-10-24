@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="situation" />
+      <item value="notice" />
+      <item value="chat" />
+      <item value="alert" />
+      <item value="coupon" />
+      <item value="Situation" />
       <item value="json" />
       <item value="内容" />
       <item value="回复" />
@@ -45,17 +51,11 @@
       <item value="has Load Once" />
       <item value="node" />
       <item value="max Ems" />
-      <item value="差价" />
-      <item value="is Show" />
-      <item value="NO GRAVITY" />
-      <item value="Rect" />
-      <item value="Delivered" />
-      <item value="get Global Visible Rect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1327" />
-        <entry key="ENGLISH" value="1328" />
+        <entry key="CHINESE" value="1338" />
+        <entry key="ENGLISH" value="1339" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
