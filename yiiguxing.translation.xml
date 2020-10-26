@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="post Comment" />
       <item value="Preview" />
       <item value="Multimedia" />
       <item value="灰" />
@@ -50,12 +51,11 @@
       <item value="课堂" />
       <item value="You must pass in a non null View" />
       <item value="circle" />
-      <item value="on Key Down" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1342" />
-        <entry key="ENGLISH" value="1343" />
+        <entry key="CHINESE" value="1343" />
+        <entry key="ENGLISH" value="1344" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
