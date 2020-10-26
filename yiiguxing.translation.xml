@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="评论" />
       <item value="jump System Intent" />
       <item value="ACTION VIEW" />
       <item value="dispatch Internal" />
@@ -39,7 +40,6 @@
       <item value="可见学员" />
       <item value="is Force Update" />
       <item value="Sender" />
-      <item value="评论" />
       <item value="删除" />
       <item value="Footer" />
       <item value="动态" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1351" />
-        <entry key="ENGLISH" value="1352" />
+        <entry key="CHINESE" value="1352" />
+        <entry key="ENGLISH" value="1353" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
