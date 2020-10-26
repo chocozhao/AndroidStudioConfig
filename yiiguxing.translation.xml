@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="动态" />
+      <item value="circle" />
       <item value="FLAG ACTIVITY NEW TASK" />
       <item value="internal" />
       <item value="内置" />
@@ -46,16 +48,14 @@
       <item value="Sender" />
       <item value="删除" />
       <item value="Footer" />
-      <item value="动态" />
       <item value="set Header And Empty" />
       <item value="Trends" />
       <item value="Trends Adapter" />
-      <item value="elevation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1360" />
-        <entry key="ENGLISH" value="1361" />
+        <entry key="CHINESE" value="1362" />
+        <entry key="ENGLISH" value="1363" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
