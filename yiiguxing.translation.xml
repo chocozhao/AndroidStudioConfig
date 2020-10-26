@@ -1,11 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="评论" />
-      <item value="jump System Intent" />
-      <item value="ACTION VIEW" />
-      <item value="dispatch Internal" />
       <item value="FLAG ACTIVITY NEW TASK" />
+      <item value="internal" />
+      <item value="内置" />
+      <item value="jump 2 Market" />
+      <item value="jump System Intent" />
+      <item value="action" />
+      <item value="ACTION VIEW" />
+      <item value="u should init first" />
+      <item value="TRANSITION ANIMATION" />
+      <item value="评论" />
+      <item value="dispatch Internal" />
       <item value="post Comment" />
       <item value="Preview" />
       <item value="Multimedia" />
@@ -22,8 +28,6 @@
       <item value="回复" />
       <item value="点赞" />
       <item value="is Outside" />
-      <item value="internal" />
-      <item value="内置" />
       <item value="U" />
       <item value="内部" />
       <item value="get Query Params" />
@@ -47,15 +51,11 @@
       <item value="Trends" />
       <item value="Trends Adapter" />
       <item value="elevation" />
-      <item value="橙色" />
-      <item value="Attempt to use @BindView for an already bound ID 2131297195 on" />
-      <item value="确认" />
-      <item value="空" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1352" />
-        <entry key="ENGLISH" value="1353" />
+        <entry key="CHINESE" value="1360" />
+        <entry key="ENGLISH" value="1361" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
