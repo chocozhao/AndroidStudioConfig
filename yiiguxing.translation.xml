@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="jump System Intent" />
+      <item value="ACTION VIEW" />
+      <item value="dispatch Internal" />
+      <item value="FLAG ACTIVITY NEW TASK" />
       <item value="post Comment" />
       <item value="Preview" />
       <item value="Multimedia" />
@@ -47,15 +51,11 @@
       <item value="Attempt to use @BindView for an already bound ID 2131297195 on" />
       <item value="确认" />
       <item value="空" />
-      <item value="课堂动态" />
-      <item value="课堂" />
-      <item value="You must pass in a non null View" />
-      <item value="circle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1343" />
-        <entry key="ENGLISH" value="1344" />
+        <entry key="CHINESE" value="1351" />
+        <entry key="ENGLISH" value="1352" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
