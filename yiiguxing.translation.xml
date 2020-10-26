@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="On Touch" />
       <item value="situation" />
       <item value="notice" />
       <item value="chat" />
@@ -50,12 +51,11 @@
       <item value="on Back Pressed" />
       <item value="has Load Once" />
       <item value="node" />
-      <item value="max Ems" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1338" />
-        <entry key="ENGLISH" value="1339" />
+        <entry key="CHINESE" value="1339" />
+        <entry key="ENGLISH" value="1340" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
