@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="刷新" />
       <item value="取消" />
       <item value="init Bill Board" />
       <item value="has Load Once" />
@@ -48,7 +49,6 @@
       <item value="URL &quot;children-daily/{id}&quot; does not contain &quot;{Id}&quot;. (parameter #1) for method DynamicApi.getDeleteDynamics" />
       <item value="for method DynamicApi.getDeleteDynamics" />
       <item value="enable Load More" />
-      <item value="刷新" />
       <item value="可见学员" />
       <item value="is Force Update" />
     </histories>
