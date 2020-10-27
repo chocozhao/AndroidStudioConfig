@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="灰" />
       <item value="Rich Keyboard" />
       <item value="internal" />
       <item value="内置" />
@@ -19,7 +20,6 @@
       <item value="post Comment" />
       <item value="Preview" />
       <item value="Multimedia" />
-      <item value="灰" />
       <item value="On Touch" />
       <item value="situation" />
       <item value="notice" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1366" />
-        <entry key="ENGLISH" value="1367" />
+        <entry key="CHINESE" value="1367" />
+        <entry key="ENGLISH" value="1368" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
