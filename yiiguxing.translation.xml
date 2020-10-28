@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CATEGORY POST POLICY" />
       <item value="刷新" />
       <item value="取消" />
       <item value="init Bill Board" />
@@ -50,12 +51,11 @@
       <item value="for method DynamicApi.getDeleteDynamics" />
       <item value="enable Load More" />
       <item value="可见学员" />
-      <item value="is Force Update" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1370" />
-        <entry key="ENGLISH" value="1371" />
+        <entry key="CHINESE" value="1371" />
+        <entry key="ENGLISH" value="1372" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
