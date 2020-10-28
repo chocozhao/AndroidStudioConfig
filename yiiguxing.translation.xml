@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="by hiding it" />
+      <item value="if hide is called before the initialisation of bottom-bar this will handle that" />
+      <item value="if hidden hide" />
+      <item value="m Hide On Select" />
+      <item value="toggle" />
       <item value="this, to allow builder pattern" />
       <item value="whether to animate the change" />
       <item value="刷新" />
@@ -46,16 +51,11 @@
       <item value="写" />
       <item value="可见" />
       <item value="contain" />
-      <item value="Illegal Argument Exception" />
-      <item value="/children-daily/{id}/&quot; does not contain &quot;{Id}&quot;. (parameter #1) for method DynamicApi.getDeleteDynamics" />
-      <item value="&quot;/children-daily/{id}&quot; does not contain &quot;{Id}&quot;. (parameter #1) for method DynamicApi.getDeleteDynamics" />
-      <item value="URL &quot;children-daily/{id}&quot; does not contain &quot;{Id}&quot;. (parameter #1) for method DynamicApi.getDeleteDynamics" />
-      <item value="for method DynamicApi.getDeleteDynamics" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1374" />
-        <entry key="ENGLISH" value="1375" />
+        <entry key="CHINESE" value="1379" />
+        <entry key="ENGLISH" value="1380" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
