@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Receive Message Data" />
+      <item value="Notification Compat" />
+      <item value="dispatch" />
+      <item value="BROWSABLE" />
+      <item value="DEFAULT" />
+      <item value="VIEW" />
+      <item value="tgteacher" />
+      <item value="has Prefix" />
       <item value="Redirect" />
       <item value="by hiding it" />
       <item value="if hide is called before the initialisation of bottom-bar this will handle that" />
@@ -43,19 +51,11 @@
       <item value="Situation" />
       <item value="json" />
       <item value="内容" />
-      <item value="回复" />
-      <item value="点赞" />
-      <item value="is Outside" />
-      <item value="U" />
-      <item value="内部" />
-      <item value="get Query Params" />
-      <item value="写" />
-      <item value="可见" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1380" />
-        <entry key="ENGLISH" value="1381" />
+        <entry key="CHINESE" value="1388" />
+        <entry key="ENGLISH" value="1389" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
