@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Target" />
+      <item value="Intent" />
+      <item value="分发" />
+      <item value="Internal" />
+      <item value="get Target Intent" />
+      <item value="dispatch" />
+      <item value="parse Request" />
       <item value="Transparent Activity" />
       <item value="get Default Target" />
       <item value="is Outside" />
@@ -16,10 +23,8 @@
       <item value="to allow builder pattern" />
       <item value="whether to animate the change" />
       <item value="Public functionality methods" />
-      <item value="parse Request" />
       <item value="on Receive Message Data" />
       <item value="Notification Compat" />
-      <item value="dispatch" />
       <item value="BROWSABLE" />
       <item value="DEFAULT" />
       <item value="VIEW" />
@@ -46,16 +51,11 @@
       <item value="circle" />
       <item value="jump 2 Market" />
       <item value="jump System Intent" />
-      <item value="action" />
-      <item value="ACTION VIEW" />
-      <item value="u should init first" />
-      <item value="TRANSITION ANIMATION" />
-      <item value="评论" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1405" />
-        <entry key="ENGLISH" value="1406" />
+        <entry key="CHINESE" value="1415" />
+        <entry key="ENGLISH" value="1416" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
