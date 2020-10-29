@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parse Request" />
       <item value="on Receive Message Data" />
       <item value="Notification Compat" />
       <item value="dispatch" />
@@ -50,12 +51,11 @@
       <item value="coupon" />
       <item value="Situation" />
       <item value="json" />
-      <item value="内容" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1388" />
-        <entry key="ENGLISH" value="1389" />
+        <entry key="CHINESE" value="1389" />
+        <entry key="ENGLISH" value="1390" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
