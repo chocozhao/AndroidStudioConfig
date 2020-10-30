@@ -1,6 +1,29 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CDATA" />
+      <item value="一般" />
+      <item value="良好" />
+      <item value="评价" />
+      <item value="评论" />
+      <item value="fine" />
+      <item value="优秀" />
+      <item value="rank Level" />
+      <item value="rank Content" />
+      <item value="adjust Nothing" />
+      <item value="Func Layout" />
+      <item value="state Always Hidden" />
+      <item value="RESULT SHOWN" />
+      <item value="Input Method Manager" />
+      <item value="INPUT METHOD SERVICE" />
+      <item value="horizontal Margin" />
+      <item value="set Window Animations" />
+      <item value="set Attributes" />
+      <item value="SOFT INPUT ADJUST RESIZE" />
+      <item value="add On Global Layout Listener" />
+      <item value="on Auto Login Failed" />
+      <item value="Re Login Operator" />
+      <item value="Token Refresh Operator" />
       <item value="Target" />
       <item value="Intent" />
       <item value="分发" />
@@ -28,34 +51,11 @@
       <item value="BROWSABLE" />
       <item value="DEFAULT" />
       <item value="VIEW" />
-      <item value="tgteacher" />
-      <item value="has Prefix" />
-      <item value="Redirect" />
-      <item value="by hiding it" />
-      <item value="if hide is called before the initialisation of bottom-bar this will handle that" />
-      <item value="if hidden hide" />
-      <item value="m Hide On Select" />
-      <item value="this, to allow builder pattern" />
-      <item value="刷新" />
-      <item value="CATEGORY POST POLICY" />
-      <item value="取消" />
-      <item value="init Bill Board" />
-      <item value="has Load Once" />
-      <item value="tgvender" />
-      <item value="灰" />
-      <item value="Rich Keyboard" />
-      <item value="internal" />
-      <item value="内置" />
-      <item value="FLAG ACTIVITY NEW TASK" />
-      <item value="动态" />
-      <item value="circle" />
-      <item value="jump 2 Market" />
-      <item value="jump System Intent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1415" />
-        <entry key="ENGLISH" value="1416" />
+        <entry key="CHINESE" value="1434" />
+        <entry key="ENGLISH" value="1435" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
