@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="focusable" />
+      <item value="focusable In Touch Mode" />
       <item value="course Id" />
       <item value="内容" />
       <item value="CDATA" />
@@ -49,13 +51,11 @@
       <item value="whether to animate the change" />
       <item value="Public functionality methods" />
       <item value="on Receive Message Data" />
-      <item value="Notification Compat" />
-      <item value="BROWSABLE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1436" />
-        <entry key="ENGLISH" value="1437" />
+        <entry key="CHINESE" value="1439" />
+        <entry key="ENGLISH" value="1440" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
