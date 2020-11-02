@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Switch" />
       <item value="教育" />
       <item value="搜索" />
       <item value="发现" />
@@ -50,12 +51,11 @@
       <item value="is Outside" />
       <item value="可见" />
       <item value="multimedia" />
-      <item value="multimedia Model List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1446" />
-        <entry key="ENGLISH" value="1447" />
+        <entry key="CHINESE" value="1447" />
+        <entry key="ENGLISH" value="1448" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
