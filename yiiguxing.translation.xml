@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="搜索" />
       <item value="App Bar Layout" />
       <item value="Coordinator Layout" />
       <item value="热" />
@@ -8,7 +9,6 @@
       <item value="coupons" />
       <item value="Online" />
       <item value="改版" />
-      <item value="搜索" />
       <item value="focusable" />
       <item value="focusable In Touch Mode" />
       <item value="course Id" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1445" />
-        <entry key="ENGLISH" value="1446" />
+        <entry key="CHINESE" value="1446" />
+        <entry key="ENGLISH" value="1447" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
