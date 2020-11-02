@@ -1,7 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="教育" />
       <item value="搜索" />
+      <item value="发现" />
       <item value="App Bar Layout" />
       <item value="Coordinator Layout" />
       <item value="热" />
@@ -49,8 +51,6 @@
       <item value="可见" />
       <item value="multimedia" />
       <item value="multimedia Model List" />
-      <item value="红点" />
-      <item value="set Hide On Select" />
     </histories>
     <option name="languageScores">
       <map>
