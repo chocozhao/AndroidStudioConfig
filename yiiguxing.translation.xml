@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="热" />
+      <item value="热门" />
+      <item value="coupons" />
+      <item value="Online" />
       <item value="改版" />
       <item value="搜索" />
       <item value="focusable" />
@@ -47,15 +51,11 @@
       <item value="set Hide On Select" />
       <item value="is Hide On Select" />
       <item value="if the badge is hidden" />
-      <item value="is Hidden" />
-      <item value="toggle" />
-      <item value="to allow builder pattern" />
-      <item value="whether to animate the change" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1440" />
-        <entry key="ENGLISH" value="1441" />
+        <entry key="CHINESE" value="1443" />
+        <entry key="ENGLISH" value="1444" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
