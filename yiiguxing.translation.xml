@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="改版" />
+      <item value="搜索" />
       <item value="focusable" />
       <item value="focusable In Touch Mode" />
       <item value="course Id" />
@@ -49,13 +51,11 @@
       <item value="toggle" />
       <item value="to allow builder pattern" />
       <item value="whether to animate the change" />
-      <item value="Public functionality methods" />
-      <item value="on Receive Message Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1439" />
-        <entry key="ENGLISH" value="1440" />
+        <entry key="CHINESE" value="1440" />
+        <entry key="ENGLISH" value="1441" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
