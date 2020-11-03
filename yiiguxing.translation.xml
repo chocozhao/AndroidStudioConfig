@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="average Score" />
       <item value="is Support Loading View" />
       <item value="价格" />
       <item value="yellow" />
@@ -50,11 +51,10 @@
       <item value="Re Login Operator" />
       <item value="Token Refresh Operator" />
       <item value="Target" />
-      <item value="Intent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1453" />
+        <entry key="CHINESE" value="1454" />
         <entry key="ENGLISH" value="1454" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
