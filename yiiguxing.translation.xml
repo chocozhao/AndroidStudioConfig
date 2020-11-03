@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="门店" />
+      <item value="学校" />
       <item value="Pull To Refresh List View" />
       <item value="fits System Windows" />
       <item value="Switch" />
@@ -49,13 +51,11 @@
       <item value="dispatch" />
       <item value="parse Request" />
       <item value="Transparent Activity" />
-      <item value="get Default Target" />
-      <item value="is Outside" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1448" />
-        <entry key="ENGLISH" value="1449" />
+        <entry key="CHINESE" value="1449" />
+        <entry key="ENGLISH" value="1450" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
