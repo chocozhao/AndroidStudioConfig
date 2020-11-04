@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mark" />
+      <item value="标志" />
+      <item value="标识" />
       <item value="origin Price" />
       <item value="拓展" />
       <item value="protected" />
@@ -48,14 +51,11 @@
       <item value="RESULT SHOWN" />
       <item value="Input Method Manager" />
       <item value="INPUT METHOD SERVICE" />
-      <item value="horizontal Margin" />
-      <item value="set Window Animations" />
-      <item value="set Attributes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1459" />
-        <entry key="ENGLISH" value="1460" />
+        <entry key="CHINESE" value="1461" />
+        <entry key="ENGLISH" value="1461" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
