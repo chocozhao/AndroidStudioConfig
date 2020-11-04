@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="隐藏" />
+      <item value="on Load More Complete" />
       <item value="average Score" />
       <item value="is Support Loading View" />
       <item value="价格" />
@@ -49,13 +51,11 @@
       <item value="add On Global Layout Listener" />
       <item value="on Auto Login Failed" />
       <item value="Re Login Operator" />
-      <item value="Token Refresh Operator" />
-      <item value="Target" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1454" />
-        <entry key="ENGLISH" value="1454" />
+        <entry key="CHINESE" value="1455" />
+        <entry key="ENGLISH" value="1456" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
