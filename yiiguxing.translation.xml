@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="拓展" />
+      <item value="protected" />
+      <item value="set Enable Load More" />
       <item value="隐藏" />
       <item value="on Load More Complete" />
       <item value="average Score" />
@@ -48,14 +51,11 @@
       <item value="set Window Animations" />
       <item value="set Attributes" />
       <item value="SOFT INPUT ADJUST RESIZE" />
-      <item value="add On Global Layout Listener" />
-      <item value="on Auto Login Failed" />
-      <item value="Re Login Operator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1455" />
-        <entry key="ENGLISH" value="1456" />
+        <entry key="CHINESE" value="1458" />
+        <entry key="ENGLISH" value="1459" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
