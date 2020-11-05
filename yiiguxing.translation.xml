@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="split" />
       <item value="进入" />
       <item value="Catalog" />
       <item value="catalog Name" />
@@ -50,12 +51,11 @@
       <item value="评论" />
       <item value="fine" />
       <item value="优秀" />
-      <item value="rank Level" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1467" />
-        <entry key="ENGLISH" value="1468" />
+        <entry key="CHINESE" value="1470" />
+        <entry key="ENGLISH" value="1471" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
