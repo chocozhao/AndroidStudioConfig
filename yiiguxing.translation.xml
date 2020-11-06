@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="add Under Line" />
       <item value="任职" />
       <item value="resume" />
       <item value="get Except City" />
@@ -50,12 +51,11 @@
       <item value="course Id" />
       <item value="内容" />
       <item value="CDATA" />
-      <item value="一般" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1474" />
-        <entry key="ENGLISH" value="1475" />
+        <entry key="CHINESE" value="1475" />
+        <entry key="ENGLISH" value="1476" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
