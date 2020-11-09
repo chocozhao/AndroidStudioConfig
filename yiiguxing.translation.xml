@@ -1,8 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="渐变" />
+      <item value="省钱" />
+      <item value="相册" />
+      <item value="图片" />
+      <item value="招生" />
       <item value="老师" />
+      <item value="备注" />
+      <item value="查看" />
+      <item value="渐变" />
       <item value="evaluate" />
       <item value="联系" />
       <item value="介绍" />
@@ -45,12 +51,6 @@
       <item value="学校" />
       <item value="Pull To Refresh List View" />
       <item value="fits System Windows" />
-      <item value="Switch" />
-      <item value="教育" />
-      <item value="搜索" />
-      <item value="发现" />
-      <item value="App Bar Layout" />
-      <item value="Coordinator Layout" />
     </histories>
     <option name="languageScores">
       <map>
