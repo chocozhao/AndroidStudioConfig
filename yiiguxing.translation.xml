@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Container" />
+      <item value="m Menu Container" />
       <item value="证件上传" />
       <item value="名师登记" />
       <item value="Failed to delete some children. This might happen because a process has files open or has its working directory set in the target directory." />
@@ -49,13 +51,11 @@
       <item value="coupons" />
       <item value="Online" />
       <item value="改版" />
-      <item value="focusable" />
-      <item value="focusable In Touch Mode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1477" />
-        <entry key="ENGLISH" value="1478" />
+        <entry key="CHINESE" value="1479" />
+        <entry key="ENGLISH" value="1480" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
