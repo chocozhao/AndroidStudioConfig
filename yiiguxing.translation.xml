@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="content Inset Start" />
       <item value="管家" />
       <item value="on Get Ad List Finish" />
       <item value="省钱" />
@@ -50,12 +51,11 @@
       <item value="elevation" />
       <item value="距离" />
       <item value="门店" />
-      <item value="学校" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1484" />
-        <entry key="ENGLISH" value="1485" />
+        <entry key="CHINESE" value="1485" />
+        <entry key="ENGLISH" value="1486" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
