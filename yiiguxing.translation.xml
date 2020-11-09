@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You need to use a Theme.AppCompat theme (or descendant) with this activity" />
+      <item value="You need to use a Theme.AppCompat theme (or descendant) with this activity." />
       <item value="content Inset Start" />
       <item value="管家" />
       <item value="on Get Ad List Finish" />
@@ -49,13 +51,11 @@
       <item value="yellow" />
       <item value="限时" />
       <item value="elevation" />
-      <item value="距离" />
-      <item value="门店" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1485" />
-        <entry key="ENGLISH" value="1486" />
+        <entry key="CHINESE" value="1487" />
+        <entry key="ENGLISH" value="1488" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
