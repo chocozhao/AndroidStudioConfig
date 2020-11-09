@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="渐变" />
       <item value="老师" />
       <item value="evaluate" />
       <item value="联系" />
@@ -50,7 +51,6 @@
       <item value="发现" />
       <item value="App Bar Layout" />
       <item value="Coordinator Layout" />
-      <item value="热" />
     </histories>
     <option name="languageScores">
       <map>
