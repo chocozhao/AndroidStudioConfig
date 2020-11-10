@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Wee Of Today" />
+      <item value="get Current Year End Time" />
+      <item value="mark" />
+      <item value="标识" />
       <item value="working Time" />
       <item value="graduation" />
       <item value="birth" />
@@ -47,15 +51,11 @@
       <item value="get Except City" />
       <item value="文字" />
       <item value="公司" />
-      <item value="split" />
-      <item value="进入" />
-      <item value="Catalog" />
-      <item value="catalog Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1503" />
-        <entry key="ENGLISH" value="1504" />
+        <entry key="CHINESE" value="1507" />
+        <entry key="ENGLISH" value="1508" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
