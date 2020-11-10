@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Provinces" />
+      <item value="Region" />
+      <item value="Can be used for QueryBuilder and for referencing column names." />
+      <item value="Describe" />
+      <item value="Bottom Sheet Dialog" />
+      <item value="count" />
+      <item value="算" />
       <item value="exchanger Date Format" />
       <item value="get Current Year Start Time" />
       <item value="get Current Year End Time" />
@@ -44,18 +51,11 @@
       <item value="evaluate" />
       <item value="联系" />
       <item value="Container" />
-      <item value="m Menu Container" />
-      <item value="证件上传" />
-      <item value="Failed to delete some children. This might happen because a process has files open or has its working directory set in the target directory." />
-      <item value="add Under Line" />
-      <item value="任职" />
-      <item value="resume" />
-      <item value="get Except City" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1510" />
-        <entry key="ENGLISH" value="1511" />
+        <entry key="CHINESE" value="1516" />
+        <entry key="ENGLISH" value="1517" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
