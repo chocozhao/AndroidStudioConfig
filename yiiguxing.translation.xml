@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="m Is Data Inited" />
+      <item value="m Is View Inited" />
       <item value="dispatch Tab Select" />
       <item value="get Status Bar Dark" />
       <item value="SYSTEM UI FLAG LIGHT STATUS BAR" />
@@ -49,13 +51,11 @@
       <item value="protected" />
       <item value="set Enable Load More" />
       <item value="隐藏" />
-      <item value="on Load More Complete" />
-      <item value="average Score" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1495" />
-        <entry key="ENGLISH" value="1496" />
+        <entry key="CHINESE" value="1498" />
+        <entry key="ENGLISH" value="1499" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
