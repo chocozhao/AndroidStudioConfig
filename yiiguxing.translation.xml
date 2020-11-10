@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bind Values" />
+      <item value="Properties of entity RegionEntity." />
+      <item value="Can be used for QueryBuilder and for referencing column names. */" />
       <item value="Provinces" />
       <item value="Region" />
       <item value="Can be used for QueryBuilder and for referencing column names." />
@@ -48,14 +51,11 @@
       <item value="备注" />
       <item value="查看" />
       <item value="渐变" />
-      <item value="evaluate" />
-      <item value="联系" />
-      <item value="Container" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1516" />
-        <entry key="ENGLISH" value="1517" />
+        <entry key="CHINESE" value="1519" />
+        <entry key="ENGLISH" value="1520" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
