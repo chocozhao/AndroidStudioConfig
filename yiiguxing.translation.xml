@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="介绍" />
       <item value="基本信息" />
       <item value="名师登记" />
       <item value="登记" />
@@ -26,7 +27,6 @@
       <item value="渐变" />
       <item value="evaluate" />
       <item value="联系" />
-      <item value="介绍" />
       <item value="Container" />
       <item value="m Menu Container" />
       <item value="证件上传" />
