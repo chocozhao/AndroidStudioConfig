@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="get Status Bar Background" />
+      <item value="dispatch Tab Select" />
       <item value="get Status Bar Dark" />
+      <item value="SYSTEM UI FLAG LIGHT STATUS BAR" />
+      <item value="get Status Bar Background" />
       <item value="is All Translucent Windows" />
       <item value="You need to use a Theme.AppCompat theme (or descendant) with this activity" />
       <item value="You need to use a Theme.AppCompat theme (or descendant) with this activity." />
@@ -49,13 +51,11 @@
       <item value="隐藏" />
       <item value="on Load More Complete" />
       <item value="average Score" />
-      <item value="is Support Loading View" />
-      <item value="价格" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1490" />
-        <entry key="ENGLISH" value="1491" />
+        <entry key="CHINESE" value="1495" />
+        <entry key="ENGLISH" value="1496" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
