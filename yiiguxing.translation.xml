@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="working Time" />
+      <item value="graduation" />
+      <item value="birth" />
       <item value="提交" />
       <item value="介绍" />
       <item value="区域" />
@@ -48,14 +51,11 @@
       <item value="进入" />
       <item value="Catalog" />
       <item value="catalog Name" />
-      <item value="get Multi Rich Text" />
-      <item value="Rich Text Utils" />
-      <item value="add Recommend Header" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1500" />
-        <entry key="ENGLISH" value="1501" />
+        <entry key="CHINESE" value="1503" />
+        <entry key="ENGLISH" value="1504" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
