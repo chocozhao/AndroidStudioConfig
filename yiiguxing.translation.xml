@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="load Image No Cache Avatar" />
+      <item value="bitmap Transform" />
+      <item value="Center Crop" />
+      <item value="center Crop" />
       <item value="fit Center" />
       <item value="SIGNATURE" />
       <item value="woman" />
@@ -47,15 +51,11 @@
       <item value="content Inset Start" />
       <item value="管家" />
       <item value="on Get Ad List Finish" />
-      <item value="省钱" />
-      <item value="相册" />
-      <item value="图片" />
-      <item value="招生" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1522" />
-        <entry key="ENGLISH" value="1523" />
+        <entry key="CHINESE" value="1524" />
+        <entry key="ENGLISH" value="1525" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
