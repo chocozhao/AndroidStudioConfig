@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Translucent Windows" />
+      <item value="fits System Windows" />
+      <item value="Failed to delete some children. This might happen because a process has files open or has its working directory set in the target directory." />
       <item value="on Page Selected" />
       <item value="is Dark Mode" />
-      <item value="fits System Windows" />
       <item value="Failed to delete some children. This might happen because a process has files open or has its working directory set in the target directory" />
       <item value="placeholder" />
       <item value="load Image No Cache Avatar" />
@@ -49,13 +51,11 @@
       <item value="dispatch Tab Select" />
       <item value="get Status Bar Dark" />
       <item value="SYSTEM UI FLAG LIGHT STATUS BAR" />
-      <item value="get Status Bar Background" />
-      <item value="is All Translucent Windows" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1530" />
-        <entry key="ENGLISH" value="1531" />
+        <entry key="CHINESE" value="1533" />
+        <entry key="ENGLISH" value="1534" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
