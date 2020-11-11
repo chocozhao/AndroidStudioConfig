@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fit Center" />
       <item value="SIGNATURE" />
       <item value="woman" />
       <item value="女" />
@@ -50,12 +51,11 @@
       <item value="相册" />
       <item value="图片" />
       <item value="招生" />
-      <item value="老师" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1521" />
-        <entry key="ENGLISH" value="1522" />
+        <entry key="CHINESE" value="1522" />
+        <entry key="ENGLISH" value="1523" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
