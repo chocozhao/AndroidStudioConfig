@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="upload use up host" />
       <item value="upload Internal" />
       <item value="release" />
       <item value="placeholder" />
@@ -50,12 +51,11 @@
       <item value="名师登记" />
       <item value="登记" />
       <item value="m Is Data Inited" />
-      <item value="m Is View Inited" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1537" />
-        <entry key="ENGLISH" value="1538" />
+        <entry key="CHINESE" value="1538" />
+        <entry key="ENGLISH" value="1539" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
