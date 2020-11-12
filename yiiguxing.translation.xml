@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FLAG TRANSLUCENT STATUS" />
+      <item value="FLAG TRANSLUCENT NAVIGATION" />
       <item value="fit" />
       <item value="scale Type" />
       <item value="FLAG DRAWS SYSTEM BAR BACKGROUNDS" />
@@ -49,13 +51,11 @@
       <item value="提交" />
       <item value="介绍" />
       <item value="区域" />
-      <item value="教龄" />
-      <item value="年龄" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1543" />
-        <entry key="ENGLISH" value="1544" />
+        <entry key="CHINESE" value="1545" />
+        <entry key="ENGLISH" value="1546" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
