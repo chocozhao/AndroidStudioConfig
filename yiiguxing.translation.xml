@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="window Action Bar" />
       <item value="SYSTEM UI FLAG LAYOUT FULLSCREEN" />
       <item value="FLAG TRANSLUCENT STATUS" />
       <item value="FLAG TRANSLUCENT NAVIGATION" />
@@ -50,12 +51,11 @@
       <item value="graduation" />
       <item value="birth" />
       <item value="提交" />
-      <item value="介绍" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1546" />
-        <entry key="ENGLISH" value="1547" />
+        <entry key="CHINESE" value="1547" />
+        <entry key="ENGLISH" value="1548" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
