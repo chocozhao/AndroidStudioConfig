@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fits System Windows" />
       <item value="agent Id" />
       <item value="browse Num" />
       <item value="Condensed" />
@@ -10,7 +11,6 @@
       <item value="placeholder" />
       <item value="is Round" />
       <item value="set Translucent Windows" />
-      <item value="fits System Windows" />
       <item value="Failed to delete some children. This might happen because a process has files open or has its working directory set in the target directory." />
       <item value="on Page Selected" />
       <item value="is Dark Mode" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1538" />
-        <entry key="ENGLISH" value="1539" />
+        <entry key="CHINESE" value="1539" />
+        <entry key="ENGLISH" value="1540" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
