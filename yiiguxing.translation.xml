@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FLAG ACTIVITY CLEAR TOP" />
+      <item value="state Always Hidden" />
+      <item value="state Unspecified" />
       <item value="focusable" />
       <item value="focusable In Touch Mode" />
-      <item value="state Always Hidden" />
       <item value="Requires Api" />
       <item value="活动" />
       <item value="第一" />
@@ -49,13 +51,11 @@
       <item value="count" />
       <item value="算" />
       <item value="exchanger Date Format" />
-      <item value="get Current Year Start Time" />
-      <item value="get Current Year End Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1553" />
-        <entry key="ENGLISH" value="1554" />
+        <entry key="CHINESE" value="1556" />
+        <entry key="ENGLISH" value="1557" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
