@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inner" />
       <item value="hide Soft Keyboard" />
       <item value="volatile" />
       <item value="synchronized" />
@@ -50,12 +51,11 @@
       <item value="Region" />
       <item value="Can be used for QueryBuilder and for referencing column names." />
       <item value="Describe" />
-      <item value="Bottom Sheet Dialog" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1557" />
-        <entry key="ENGLISH" value="1557" />
+        <entry key="ENGLISH" value="1558" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
