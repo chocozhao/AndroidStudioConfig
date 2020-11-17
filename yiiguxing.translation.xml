@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="volatile" />
+      <item value="synchronized" />
       <item value="FLAG ACTIVITY CLEAR TOP" />
       <item value="state Always Hidden" />
       <item value="state Unspecified" />
@@ -49,8 +51,6 @@
       <item value="Describe" />
       <item value="Bottom Sheet Dialog" />
       <item value="count" />
-      <item value="算" />
-      <item value="exchanger Date Format" />
     </histories>
     <option name="languageScores">
       <map>
