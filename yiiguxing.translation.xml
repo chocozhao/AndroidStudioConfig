@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Capture" />
+      <item value="Recognize" />
       <item value="Path" />
       <item value="Field" />
       <item value="lazy" />
@@ -49,13 +51,11 @@
       <item value="女" />
       <item value="bind Values" />
       <item value="Properties of entity RegionEntity." />
-      <item value="Can be used for QueryBuilder and for referencing column names. */" />
-      <item value="Provinces" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1560" />
-        <entry key="ENGLISH" value="1561" />
+        <entry key="CHINESE" value="1561" />
+        <entry key="ENGLISH" value="1562" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
