@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="general Recognize Service" />
       <item value="record" />
       <item value="set Record Count" />
       <item value="可见" />
@@ -50,12 +51,11 @@
       <item value="bitmap Transform" />
       <item value="Center Crop" />
       <item value="center Crop" />
-      <item value="fit Center" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1566" />
-        <entry key="ENGLISH" value="1567" />
+        <entry key="CHINESE" value="1567" />
+        <entry key="ENGLISH" value="1568" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
