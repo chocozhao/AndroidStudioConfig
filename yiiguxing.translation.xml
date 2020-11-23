@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="剩余人数" />
+      <item value="on Register Success" />
       <item value="动态" />
       <item value="Cast to Collector requires API level 24 (current min is 19)" />
       <item value="Record Capture" />
@@ -49,13 +51,11 @@
       <item value="Failed to delete some children. This might happen because a process has files open or has its working directory set in the target directory." />
       <item value="on Page Selected" />
       <item value="is Dark Mode" />
-      <item value="Failed to delete some children. This might happen because a process has files open or has its working directory set in the target directory" />
-      <item value="load Image No Cache Avatar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1569" />
-        <entry key="ENGLISH" value="1570" />
+        <entry key="CHINESE" value="1571" />
+        <entry key="ENGLISH" value="1572" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
