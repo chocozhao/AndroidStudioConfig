@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="empty" />
+      <item value="Animator Set" />
+      <item value="get Global Visible Rect" />
       <item value="create From Asset" />
       <item value="transitive" />
       <item value="ORG" />
@@ -48,14 +51,11 @@
       <item value="set System Ui Visibility" />
       <item value="fits System Windows" />
       <item value="agent Id" />
-      <item value="browse Num" />
-      <item value="Condensed" />
-      <item value="upload use up host" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1577" />
-        <entry key="ENGLISH" value="1578" />
+        <entry key="CHINESE" value="1580" />
+        <entry key="ENGLISH" value="1581" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
