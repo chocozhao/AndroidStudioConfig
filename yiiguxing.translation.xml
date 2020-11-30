@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="subscribe" />
+      <item value="Observable" />
       <item value="empty" />
       <item value="Animator Set" />
       <item value="get Global Visible Rect" />
@@ -49,13 +51,11 @@
       <item value="scale Type" />
       <item value="FLAG DRAWS SYSTEM BAR BACKGROUNDS" />
       <item value="set System Ui Visibility" />
-      <item value="fits System Windows" />
-      <item value="agent Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1580" />
-        <entry key="ENGLISH" value="1581" />
+        <entry key="CHINESE" value="1582" />
+        <entry key="ENGLISH" value="1583" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
