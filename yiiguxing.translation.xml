@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="create From Asset" />
       <item value="transitive" />
       <item value="ORG" />
       <item value="PERSONAL" />
@@ -50,12 +51,11 @@
       <item value="browse Num" />
       <item value="Condensed" />
       <item value="upload use up host" />
-      <item value="upload Internal" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1577" />
-        <entry key="ENGLISH" value="1577" />
+        <entry key="ENGLISH" value="1578" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
