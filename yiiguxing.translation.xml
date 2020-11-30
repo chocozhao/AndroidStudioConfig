@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Static interface methods are only supported starting with Android N (--min-api 24): io.reactivex.rxjava3.disposables.Disposable io.reactivex.rxjava3.disposables.Disposable.disposed()" />
+      <item value="get Simple Name" />
+      <item value="on Complete" />
       <item value="subscribe" />
       <item value="Observable" />
       <item value="empty" />
@@ -48,14 +51,11 @@
       <item value="FLAG TRANSLUCENT STATUS" />
       <item value="FLAG TRANSLUCENT NAVIGATION" />
       <item value="fit" />
-      <item value="scale Type" />
-      <item value="FLAG DRAWS SYSTEM BAR BACKGROUNDS" />
-      <item value="set System Ui Visibility" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1582" />
-        <entry key="ENGLISH" value="1583" />
+        <entry key="CHINESE" value="1585" />
+        <entry key="ENGLISH" value="1586" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
