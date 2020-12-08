@@ -3,4 +3,7 @@
     <option name="FONT_SIZE" value="18" />
     <option name="FONT_FAMILY" value="Fira Code" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+  </component>
 </application>
