@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="error: src refspec master does not match any " />
+      <item value="error: refname refs/heads/master not found fatal: Branch rename failed " />
       <item value="Static interface methods are only supported starting with Android N (--min-api 24): io.reactivex.rxjava3.disposables.Disposable io.reactivex.rxjava3.disposables.Disposable.disposed()" />
       <item value="get Simple Name" />
       <item value="on Complete" />
@@ -49,12 +51,10 @@
       <item value="window Action Bar" />
       <item value="SYSTEM UI FLAG LAYOUT FULLSCREEN" />
       <item value="FLAG TRANSLUCENT STATUS" />
-      <item value="FLAG TRANSLUCENT NAVIGATION" />
-      <item value="fit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1585" />
+        <entry key="CHINESE" value="1586" />
         <entry key="ENGLISH" value="1586" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
