@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Autowired" />
       <item value="Sections" />
       <item value="To close all editor tabs, right-click a tab and select Close All. To close all tabs except the active one, press and click on the active tab." />
       <item value="To close all editor tabs except the current one, keep pressed and click on the current editor tab." />
@@ -50,12 +51,11 @@
       <item value="state Always Hidden" />
       <item value="state Unspecified" />
       <item value="focusable" />
-      <item value="focusable In Touch Mode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1588" />
-        <entry key="ENGLISH" value="1589" />
+        <entry key="CHINESE" value="1589" />
+        <entry key="ENGLISH" value="1590" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
