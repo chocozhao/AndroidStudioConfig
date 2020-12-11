@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="动态" />
       <item value="In Active" />
       <item value="Active" />
       <item value="约束" />
@@ -33,7 +34,6 @@
       <item value="lift" />
       <item value="剩余人数" />
       <item value="on Register Success" />
-      <item value="动态" />
       <item value="Cast to Collector requires API level 24 (current min is 19)" />
       <item value="Record Capture" />
       <item value="general Recognize Service" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1593" />
-        <entry key="ENGLISH" value="1594" />
+        <entry key="CHINESE" value="1594" />
+        <entry key="ENGLISH" value="1595" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
