@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="To close all editor tabs, right-click a tab and select Close All. To close all tabs except the active one, press and click on the active tab." />
+      <item value="To close all editor tabs except the current one, keep pressed and click on the current editor tab." />
+      <item value="Press Ctrl+Shift+V to choose from recent clipboard contents chunks and insert it." />
+      <item value="To verify that your regular expression is correct, place the caret within the expression you want to check, press Alt+Enter, and select Check RegExp. In the popup frame type a sample string that should match your regular expression. If the background turns green, the match occurred. If it turns red, there is no match or your expression probably contains a mistake." />
       <item value="Lottie Animation View" />
       <item value="The given artifact contains a string literal with a package reference 'android.support.v4.content' that cannot be safely rewritten. Libraries using reflection such as annotation processors need to be updated manually to add support for androidx." />
       <item value="error: src refspec master does not match any " />
@@ -47,14 +51,10 @@
       <item value="focusable" />
       <item value="focusable In Touch Mode" />
       <item value="Requires Api" />
-      <item value="活动" />
-      <item value="第一" />
-      <item value="Infinity" />
-      <item value="window Action Bar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1587" />
+        <entry key="CHINESE" value="1588" />
         <entry key="ENGLISH" value="1588" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
