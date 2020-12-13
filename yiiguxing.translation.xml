@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Attempt to invoke virtual method 'java.lang.Class java.lang.Object.getClass()' on a null object reference" />
+      <item value="Build Analyzer results available" />
       <item value="DSL element 'annotationProcessorOptions.includeCompileClasspath' is obsolete." />
       <item value="Compilation failed; see the compiler error output for details." />
       <item value="Please click 'OK' to perform a textual search and then update the build files manually" />
@@ -49,13 +51,11 @@
       <item value="Record Capture" />
       <item value="general Recognize Service" />
       <item value="record" />
-      <item value="set Record Count" />
-      <item value="可见" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1605" />
-        <entry key="ENGLISH" value="1606" />
+        <entry key="CHINESE" value="1608" />
+        <entry key="ENGLISH" value="1609" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
