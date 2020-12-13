@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The build file may be missing a Gradle plugin" />
       <item value="The project 'wanAndroid-chocozhao-Component' may be using a version of Gradle that does not contain the method." />
       <item value="Possible causes:" />
       <item value="The project 'wanAndroid-chocozhao-Component' may be using a version of the Android Gradle plug-in that does not contain the method (e.g. 'testCompile' was added in 1.1.0)." />
@@ -50,12 +51,11 @@
       <item value="Capture Activity" />
       <item value="录入" />
       <item value="Capture" />
-      <item value="Recognize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1601" />
-        <entry key="ENGLISH" value="1602" />
+        <entry key="CHINESE" value="1602" />
+        <entry key="ENGLISH" value="1603" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
