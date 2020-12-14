@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Provider Index" />
+      <item value="Interceptor Index" />
+      <item value="has already been loaded, trigger by" />
+      <item value="ARouter task pool No.1" />
+      <item value="production" />
+      <item value="providers" />
+      <item value="Maybe its does't exist, or didn't load." />
+      <item value="Load route meta" />
+      <item value="Show friendly tips for user." />
+      <item value="postcard" />
+      <item value="Autowired" />
       <item value="There is no route match the path" />
       <item value="InstantRun support error, com.android.tools.fd.runtime.Paths" />
       <item value="starts loading, trigger by" />
@@ -26,7 +37,6 @@
       <item value="Active" />
       <item value="约束" />
       <item value="Coordinator Layout" />
-      <item value="Autowired" />
       <item value="Sections" />
       <item value="To close all editor tabs, right-click a tab and select Close All. To close all tabs except the active one, press and click on the active tab." />
       <item value="To close all editor tabs except the current one, keep pressed and click on the current editor tab." />
@@ -41,21 +51,11 @@
       <item value="on Complete" />
       <item value="subscribe" />
       <item value="Observable" />
-      <item value="empty" />
-      <item value="Animator Set" />
-      <item value="get Global Visible Rect" />
-      <item value="create From Asset" />
-      <item value="transitive" />
-      <item value="ORG" />
-      <item value="PERSONAL" />
-      <item value="has Store" />
-      <item value="instantiate" />
-      <item value="retry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1617" />
-        <entry key="ENGLISH" value="1618" />
+        <entry key="CHINESE" value="1628" />
+        <entry key="ENGLISH" value="1629" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
