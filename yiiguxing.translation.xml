@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Resource named 'fragment_home' does not start with the project's resource prefix 'home_'; rename to 'home_fragment_home' ?" />
+      <item value="Constraint Layout" />
       <item value="Attempt to invoke virtual method 'java.lang.Class java.lang.Object.getClass()' on a null object reference" />
       <item value="Build Analyzer results available" />
       <item value="DSL element 'annotationProcessorOptions.includeCompileClasspath' is obsolete." />
@@ -49,13 +51,11 @@
       <item value="on Register Success" />
       <item value="Cast to Collector requires API level 24 (current min is 19)" />
       <item value="Record Capture" />
-      <item value="general Recognize Service" />
-      <item value="record" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1608" />
-        <entry key="ENGLISH" value="1609" />
+        <entry key="CHINESE" value="1610" />
+        <entry key="ENGLISH" value="1610" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
