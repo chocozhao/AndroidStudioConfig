@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot fit requested classes in a single dex file (# fields: 65628 &gt; 65536)" />
       <item value="Compilation avoidance If a dependent project has changed in an ABI-compatible way (only its private API has changed), then Java compilation tasks will be up-to-date. This means that if project A depends on project B and a class in B is changed in an ABI-compatible way (typically, changing only the body of a method), then Gradle won’t recompile A.  Some of the types of changes that do not affect the public API and are ignored:  Changing a method body  Changing a comment  Adding, removing or changing private methods, fields, or inner classes  Adding, removing or changing a resource  Changing the name of jars or directories in the classpath  Renaming a parameter  Since implementation details matter for annotation processors, they must be declared separately on the annotation processor path. Gradle ignores annotation processors on the compile classpath.  Example 7. Declaring annotation processors" />
       <item value="annotation Processor" />
       <item value="compile Only" />
@@ -50,12 +51,11 @@
       <item value="error: src refspec master does not match any " />
       <item value="error: refname refs/heads/master not found fatal: Branch rename failed " />
       <item value="Static interface methods are only supported starting with Android N (--min-api 24): io.reactivex.rxjava3.disposables.Disposable io.reactivex.rxjava3.disposables.Disposable.disposed()" />
-      <item value="get Simple Name" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1634" />
-        <entry key="ENGLISH" value="1634" />
+        <entry key="ENGLISH" value="1635" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
