@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="subscribe On" />
+      <item value="Subscribe" />
       <item value="subscribe" />
+      <item value="subscribe On" />
       <item value="Cannot fit requested classes in a single dex file (# fields: 65628 &gt; 65536)" />
       <item value="Compilation avoidance If a dependent project has changed in an ABI-compatible way (only its private API has changed), then Java compilation tasks will be up-to-date. This means that if project A depends on project B and a class in B is changed in an ABI-compatible way (typically, changing only the body of a method), then Gradle won’t recompile A.  Some of the types of changes that do not affect the public API and are ignored:  Changing a method body  Changing a comment  Adding, removing or changing private methods, fields, or inner classes  Adding, removing or changing a resource  Changing the name of jars or directories in the classpath  Renaming a parameter  Since implementation details matter for annotation processors, they must be declared separately on the annotation processor path. Gradle ignores annotation processors on the compile classpath.  Example 7. Declaring annotation processors" />
       <item value="annotation Processor" />
@@ -50,12 +51,11 @@
       <item value="Press Ctrl+Shift+V to choose from recent clipboard contents chunks and insert it." />
       <item value="To verify that your regular expression is correct, place the caret within the expression you want to check, press Alt+Enter, and select Check RegExp. In the popup frame type a sample string that should match your regular expression. If the background turns green, the match occurred. If it turns red, there is no match or your expression probably contains a mistake." />
       <item value="Lottie Animation View" />
-      <item value="error: src refspec master does not match any " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1637" />
-        <entry key="ENGLISH" value="1638" />
+        <entry key="CHINESE" value="1639" />
+        <entry key="ENGLISH" value="1640" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
