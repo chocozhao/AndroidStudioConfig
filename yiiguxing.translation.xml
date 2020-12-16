@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="map" />
+      <item value="println needs a message" />
       <item value="observe" />
       <item value="subscribe" />
       <item value="observe On" />
@@ -49,13 +51,11 @@
       <item value="动态" />
       <item value="In Active" />
       <item value="Active" />
-      <item value="约束" />
-      <item value="Coordinator Layout" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1646" />
-        <entry key="ENGLISH" value="1646" />
+        <entry key="CHINESE" value="1647" />
+        <entry key="ENGLISH" value="1648" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
