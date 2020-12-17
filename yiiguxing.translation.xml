@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="s.Network On Main Thread Exception" />
       <item value="Http Error: android.os.NetworkOnMainThreadException" />
       <item value="The zipper returned a null value" />
       <item value="Consumer" />
@@ -50,12 +51,11 @@
       <item value="Failed to update the version of the Android Gradle plugin." />
       <item value="Please click 'OK' to perform a textual search and then update the build files manuall" />
       <item value="Upgrade plugin to version 4.0.0 and sync project" />
-      <item value="动态" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1650" />
-        <entry key="ENGLISH" value="1651" />
+        <entry key="CHINESE" value="1652" />
+        <entry key="ENGLISH" value="1653" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
