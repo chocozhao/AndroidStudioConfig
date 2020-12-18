@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Only the original thread that created a view hierarchy can touch its views." />
       <item value="s.Network On Main Thread Exception" />
       <item value="Http Error: android.os.NetworkOnMainThreadException" />
       <item value="The zipper returned a null value" />
@@ -50,12 +51,11 @@
       <item value="Gradle DSL method not found: 'getDefaultroguardFile()'" />
       <item value="Failed to update the version of the Android Gradle plugin." />
       <item value="Please click 'OK' to perform a textual search and then update the build files manuall" />
-      <item value="Upgrade plugin to version 4.0.0 and sync project" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1652" />
-        <entry key="ENGLISH" value="1653" />
+        <entry key="CHINESE" value="1654" />
+        <entry key="ENGLISH" value="1655" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
