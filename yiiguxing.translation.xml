@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="placeholder" />
+      <item value="network Security Config" />
+      <item value="placeholder Drawble" />
       <item value="just" />
       <item value="Illegal State Exception" />
       <item value="Binary XML file line #2 in" />
@@ -48,14 +51,11 @@
       <item value="Resource named 'fragment_home' does not start with the project's resource prefix 'home_'; rename to 'home_fragment_home' ?" />
       <item value="Constraint Layout" />
       <item value="Build Analyzer results available" />
-      <item value="DSL element 'annotationProcessorOptions.includeCompileClasspath' is obsolete." />
-      <item value="Compilation failed; see the compiler error output for details." />
-      <item value="Please click 'OK' to perform a textual search and then update the build files manually" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1662" />
-        <entry key="ENGLISH" value="1663" />
+        <entry key="CHINESE" value="1665" />
+        <entry key="ENGLISH" value="1666" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
