@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Component" />
       <item value="Invalid byte order: ffff8950" />
       <item value="ExifInterface got an unsupported image format file(ExifInterface supports JPEG and some RAW image formats only) or a corrupted JPEG file to ExifInterface." />
       <item value="placeholder" />
@@ -50,11 +51,10 @@
       <item value="The group [app] starts loading, trigger by [/app/MainActivity][ ]" />
       <item value="Attempt to get length of null array" />
       <item value="Attempt to invoke virtual method 'java.lang.Class java.lang.Object.getClass()' on a null object reference" />
-      <item value="Resource named 'fragment_home' does not start with the project's resource prefix 'home_'; rename to 'home_fragment_home' ?" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1667" />
+        <entry key="CHINESE" value="1668" />
         <entry key="ENGLISH" value="1668" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
