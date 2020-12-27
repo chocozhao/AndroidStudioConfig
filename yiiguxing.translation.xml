@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The dimen &quot;fixed_label_active&quot; in values has no declaration in the base values folder; this can lead to crashes when the resource is queried in a configuration that does not match this qualifier" />
+      <item value="shifting" />
+      <item value="fixed" />
+      <item value="MODE FIXED" />
+      <item value="BACKGROUND STYLE DEFAULT" />
+      <item value="BACKGROUND STYLE RIPPLE" />
+      <item value="BACKGROUND STYLE STATIC" />
+      <item value="MODE SHIFTING NO TITLE" />
+      <item value=", to allow builder pattern" />
+      <item value="res code for the default active color" />
+      <item value="In Active" />
+      <item value="MODE FIXED NO TITLE" />
+      <item value="MODE SHIFTING" />
+      <item value="m Bottom Navigation Bar.set Mode(Bottom Navigation Bar.MODE SHIFTING);" />
+      <item value="MODE DEFAULT" />
       <item value="com.android.tools.r8.CompilationFailedException: Compilation failed to complete" />
       <item value="Program type already present" />
       <item value="Program type already present: com.cloud.music.mine.BuildConfig" />
@@ -36,26 +51,11 @@
       <item value="subscribe" />
       <item value="observe On" />
       <item value="from Iterable" />
-      <item value="课程" />
-      <item value="身高" />
-      <item value="Subscribe" />
-      <item value="subscribe On" />
-      <item value="Cannot fit requested classes in a single dex file (# fields: 65628 &gt; 65536)" />
-      <item value="Compilation avoidance If a dependent project has changed in an ABI-compatible way (only its private API has changed), then Java compilation tasks will be up-to-date. This means that if project A depends on project B and a class in B is changed in an ABI-compatible way (typically, changing only the body of a method), then Gradle won’t recompile A.  Some of the types of changes that do not affect the public API and are ignored:  Changing a method body  Changing a comment  Adding, removing or changing private methods, fields, or inner classes  Adding, removing or changing a resource  Changing the name of jars or directories in the classpath  Renaming a parameter  Since implementation details matter for annotation processors, they must be declared separately on the annotation processor path. Gradle ignores annotation processors on the compile classpath.  Example 7. Declaring annotation processors" />
-      <item value="annotation Processor" />
-      <item value="compile Only" />
-      <item value="Provider Index" />
-      <item value="Interceptor Index" />
-      <item value="has already been loaded, trigger by" />
-      <item value="ARouter task pool No.1" />
-      <item value="production" />
-      <item value="providers" />
-      <item value="Maybe its does't exist, or didn't load." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1674" />
-        <entry key="ENGLISH" value="1675" />
+        <entry key="CHINESE" value="1696" />
+        <entry key="ENGLISH" value="1696" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
