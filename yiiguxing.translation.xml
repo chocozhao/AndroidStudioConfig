@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="com.android.tools.r8.CompilationFailedException: Compilation failed to complete" />
+      <item value="Program type already present" />
+      <item value="Program type already present: com.cloud.music.mine.BuildConfig" />
+      <item value="Caused by: com.android.tools.r8.utils.AbortException: Error: Program type already present: com.cloud.music.mine.BuildConfig" />
       <item value="The given artifact contains a string literal with a package reference 'android.support.v4.content' that cannot be safely rewritten. Libraries using reflection such as annotation processors need to be updated manually to add support for androidx." />
       <item value="村" />
       <item value="云村" />
@@ -47,15 +51,11 @@
       <item value="production" />
       <item value="providers" />
       <item value="Maybe its does't exist, or didn't load." />
-      <item value="Load route meta" />
-      <item value="Show friendly tips for user." />
-      <item value="postcard" />
-      <item value="Autowired" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1670" />
-        <entry key="ENGLISH" value="1671" />
+        <entry key="CHINESE" value="1674" />
+        <entry key="ENGLISH" value="1675" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
