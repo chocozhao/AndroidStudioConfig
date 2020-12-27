@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The given artifact contains a string literal with a package reference 'android.support.v4.content' that cannot be safely rewritten. Libraries using reflection such as annotation processors need to be updated manually to add support for androidx." />
       <item value="村" />
       <item value="云村" />
       <item value="K歌" />
@@ -39,7 +40,6 @@
       <item value="Compilation avoidance If a dependent project has changed in an ABI-compatible way (only its private API has changed), then Java compilation tasks will be up-to-date. This means that if project A depends on project B and a class in B is changed in an ABI-compatible way (typically, changing only the body of a method), then Gradle won’t recompile A.  Some of the types of changes that do not affect the public API and are ignored:  Changing a method body  Changing a comment  Adding, removing or changing private methods, fields, or inner classes  Adding, removing or changing a resource  Changing the name of jars or directories in the classpath  Renaming a parameter  Since implementation details matter for annotation processors, they must be declared separately on the annotation processor path. Gradle ignores annotation processors on the compile classpath.  Example 7. Declaring annotation processors" />
       <item value="annotation Processor" />
       <item value="compile Only" />
-      <item value="The given artifact contains a string literal with a package reference 'android.support.v4.content' that cannot be safely rewritten. Libraries using reflection such as annotation processors need to be updated manually to add support for androidx." />
       <item value="Provider Index" />
       <item value="Interceptor Index" />
       <item value="has already been loaded, trigger by" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1668" />
-        <entry key="ENGLISH" value="1669" />
+        <entry key="CHINESE" value="1669" />
+        <entry key="ENGLISH" value="1670" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
