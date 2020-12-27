@@ -1,13 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BACKGROUND STYLE DEFAULT" />
+      <item value="BACKGROUND STYLE STATIC" />
+      <item value="inactive" />
+      <item value="grid" />
+      <item value="fixed" />
       <item value="The dimen &quot;fixed_label_active&quot; in values has no declaration in the base values folder; this can lead to crashes when the resource is queried in a configuration that does not match this qualifier" />
       <item value="shifting" />
-      <item value="fixed" />
       <item value="MODE FIXED" />
-      <item value="BACKGROUND STYLE DEFAULT" />
       <item value="BACKGROUND STYLE RIPPLE" />
-      <item value="BACKGROUND STYLE STATIC" />
       <item value="MODE SHIFTING NO TITLE" />
       <item value=", to allow builder pattern" />
       <item value="res code for the default active color" />
@@ -49,13 +51,11 @@
       <item value="println needs a message" />
       <item value="observe" />
       <item value="subscribe" />
-      <item value="observe On" />
-      <item value="from Iterable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1696" />
-        <entry key="ENGLISH" value="1696" />
+        <entry key="CHINESE" value="1701" />
+        <entry key="ENGLISH" value="1702" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
