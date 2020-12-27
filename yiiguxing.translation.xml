@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="collaborator" />
+      <item value="Component" />
       <item value="BACKGROUND STYLE DEFAULT" />
       <item value="BACKGROUND STYLE STATIC" />
       <item value="inactive" />
@@ -29,7 +31,6 @@
       <item value="我的" />
       <item value="播客" />
       <item value="发现" />
-      <item value="Component" />
       <item value="Invalid byte order: ffff8950" />
       <item value="ExifInterface got an unsupported image format file(ExifInterface supports JPEG and some RAW image formats only) or a corrupted JPEG file to ExifInterface." />
       <item value="placeholder" />
@@ -50,11 +51,10 @@
       <item value="map" />
       <item value="println needs a message" />
       <item value="observe" />
-      <item value="subscribe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1701" />
+        <entry key="CHINESE" value="1702" />
         <entry key="ENGLISH" value="1702" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
