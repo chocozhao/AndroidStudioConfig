@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ECONNREFUSED" />
+      <item value="Connect Exception" />
+      <item value="Using Network Security Config from resource public_network_security_config debugBuild: true" />
       <item value="公共" />
       <item value="配置" />
       <item value="npm WARN read-shrinkwrap This version of npm is compatible with lockfileVersion@1, but package-lock.json was generated for lockfileVersion@2. I'll try to do my best with it!  " />
@@ -48,14 +51,11 @@
       <item value="Reached framework class. Abandoning search." />
       <item value="Only the original thread that created a view hierarchy can touch its views." />
       <item value="s.Network On Main Thread Exception" />
-      <item value="Http Error: android.os.NetworkOnMainThreadException" />
-      <item value="The zipper returned a null value" />
-      <item value="Consumer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1702" />
-        <entry key="ENGLISH" value="1703" />
+        <entry key="CHINESE" value="1705" />
+        <entry key="ENGLISH" value="1706" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
