@@ -11,7 +11,6 @@
       <mapping ext="wav" type="PLAIN_TEXT" />
       <mapping ext="bks" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
-      <mapping ext="db" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
