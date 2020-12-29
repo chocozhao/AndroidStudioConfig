@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Preconditions" />
+      <item value="check Not Null" />
+      <item value="This view is not constrained. It only has designtime positions, so it will jump to (0,0) at runtime unless you add the constraints" />
+      <item value="Constraint Layout" />
       <item value="HOMEPAGE YUNBEI NEW SONG" />
       <item value="HOMEPAGE BLOCK FUN CLUB" />
       <item value="HOMEPAGE VOICELIST RCMD" />
@@ -47,15 +51,11 @@
       <item value="npm WARN read-shrinkwrap This version of npm is compatible with lockfileVersion@1, but package-lock.json was generated for lockfileVersion@2. I'll try to do my best with it!  " />
       <item value="collaborator" />
       <item value="Component" />
-      <item value="BACKGROUND STYLE DEFAULT" />
-      <item value="BACKGROUND STYLE STATIC" />
-      <item value="inactive" />
-      <item value="grid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1765" />
-        <entry key="ENGLISH" value="1766" />
+        <entry key="CHINESE" value="1767" />
+        <entry key="ENGLISH" value="1767" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
