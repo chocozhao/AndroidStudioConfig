@@ -1,6 +1,40 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="HOMEPAGE YUNBEI NEW SONG" />
+      <item value="HOMEPAGE BLOCK FUN CLUB" />
+      <item value="HOMEPAGE VOICELIST RCMD" />
+      <item value="HOMEPAGE BLOCK VIDEO PLAYLIST" />
+      <item value="HOMEPAGE PODCAST 24" />
+      <item value="HOMEPAGE BLOCK NEW ALBUM NEW SONG" />
+      <item value="OFFICIAL" />
+      <item value="HOMEPAGE BLOCK OFFICIAL PLAYLIST" />
+      <item value="HOMEPAGE MUSIC CALENDAR" />
+      <item value="STYLE" />
+      <item value="HOMEPAGE BLOCK STYLE RCMD" />
+      <item value="推荐" />
+      <item value="RCMD" />
+      <item value="HOMEPAGE BLOCK PLAYLIST RCMD" />
+      <item value="BLOCK STYLE RCMD" />
+      <item value="BLOCK PLAYLIST RCMD" />
+      <item value="SLIDE VOICELIST" />
+      <item value="HOMEPAGE SLIDE FUN CLUB" />
+      <item value="SINGLE" />
+      <item value="SLIDE SINGLE SONG" />
+      <item value="SLIDE PLAYABLE DRAGON BALL" />
+      <item value="BALL" />
+      <item value="DRAGON" />
+      <item value="PLAYABLE" />
+      <item value="SLIDE" />
+      <item value="ALBUM" />
+      <item value="DOUBLE" />
+      <item value="PLAYLIST" />
+      <item value="SONGLIST" />
+      <item value="ALIGN" />
+      <item value="CALENDAR" />
+      <item value="SHUFFLE" />
+      <item value="HOMEPAGE" />
+      <item value="Blocks" />
       <item value="unexpected EOF!" />
       <item value="Expected an int but was 4211006464 at line 1 column 12895 path" />
       <item value="resource Ext Info.play Count" />
@@ -17,45 +51,11 @@
       <item value="BACKGROUND STYLE STATIC" />
       <item value="inactive" />
       <item value="grid" />
-      <item value="fixed" />
-      <item value="The dimen &quot;fixed_label_active&quot; in values has no declaration in the base values folder; this can lead to crashes when the resource is queried in a configuration that does not match this qualifier" />
-      <item value="shifting" />
-      <item value="MODE FIXED" />
-      <item value="BACKGROUND STYLE RIPPLE" />
-      <item value="MODE SHIFTING NO TITLE" />
-      <item value=", to allow builder pattern" />
-      <item value="res code for the default active color" />
-      <item value="In Active" />
-      <item value="MODE FIXED NO TITLE" />
-      <item value="MODE SHIFTING" />
-      <item value="m Bottom Navigation Bar.set Mode(Bottom Navigation Bar.MODE SHIFTING);" />
-      <item value="MODE DEFAULT" />
-      <item value="com.android.tools.r8.CompilationFailedException: Compilation failed to complete" />
-      <item value="Program type already present" />
-      <item value="Program type already present: com.cloud.music.mine.BuildConfig" />
-      <item value="Caused by: com.android.tools.r8.utils.AbortException: Error: Program type already present: com.cloud.music.mine.BuildConfig" />
-      <item value="The given artifact contains a string literal with a package reference 'android.support.v4.content' that cannot be safely rewritten. Libraries using reflection such as annotation processors need to be updated manually to add support for androidx." />
-      <item value="村" />
-      <item value="云村" />
-      <item value="K歌" />
-      <item value="我的" />
-      <item value="播客" />
-      <item value="发现" />
-      <item value="Invalid byte order: ffff8950" />
-      <item value="ExifInterface got an unsupported image format file(ExifInterface supports JPEG and some RAW image formats only) or a corrupted JPEG file to ExifInterface." />
-      <item value="placeholder" />
-      <item value="network Security Config" />
-      <item value="placeholder Drawble" />
-      <item value="just" />
-      <item value="Illegal State Exception" />
-      <item value="Binary XML file line #2 in" />
-      <item value="Possible causes for this unexpected error include: Gradle's dependency cache may be corrupt (this sometimes occurs after a network connection timeout.)" />
-      <item value="Unable to load class 'com.google.auto.common.MoreElements'. Possible causes for this unexpected error include: Gradle's dependency cache may be corrupt (this sometimes occurs after a network connection timeout.)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1709" />
-        <entry key="ENGLISH" value="1710" />
+        <entry key="CHINESE" value="1765" />
+        <entry key="ENGLISH" value="1766" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
