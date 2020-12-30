@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Base Multi Item Quick Adapter" />
       <item value="Add up fetch logic, almost like load more, but simpler." />
       <item value="Up Fetch" />
       <item value="auto Up Fetch" />
@@ -50,12 +51,11 @@
       <item value="unexpected EOF!" />
       <item value="Expected an int but was 4211006464 at line 1 column 12895 path" />
       <item value="resource Ext Info.play Count" />
-      <item value="Omitted request body" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1775" />
-        <entry key="ENGLISH" value="1776" />
+        <entry key="CHINESE" value="1776" />
+        <entry key="ENGLISH" value="1777" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
