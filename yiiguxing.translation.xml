@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Add up fetch logic, almost like load more, but simpler." />
+      <item value="Up Fetch" />
+      <item value="auto Up Fetch" />
+      <item value="auto Load More" />
+      <item value="Span Size Lookup" />
+      <item value="on Create Def View Holder" />
+      <item value="EMPTY VIEW" />
+      <item value="LOADING VIEW" />
       <item value="Preconditions" />
       <item value="check Not Null" />
       <item value="This view is not constrained. It only has designtime positions, so it will jump to (0,0) at runtime unless you add the constraints" />
@@ -43,19 +51,11 @@
       <item value="Expected an int but was 4211006464 at line 1 column 12895 path" />
       <item value="resource Ext Info.play Count" />
       <item value="Omitted request body" />
-      <item value="ECONNREFUSED" />
-      <item value="Connect Exception" />
-      <item value="Using Network Security Config from resource public_network_security_config debugBuild: true" />
-      <item value="公共" />
-      <item value="配置" />
-      <item value="npm WARN read-shrinkwrap This version of npm is compatible with lockfileVersion@1, but package-lock.json was generated for lockfileVersion@2. I'll try to do my best with it!  " />
-      <item value="collaborator" />
-      <item value="Component" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1767" />
-        <entry key="ENGLISH" value="1767" />
+        <entry key="CHINESE" value="1775" />
+        <entry key="ENGLISH" value="1776" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
