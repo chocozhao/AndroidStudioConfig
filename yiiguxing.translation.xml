@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="add Item Type Auto Increase" />
+      <item value="set your own type one by one." />
       <item value="header With Empty Enable" />
       <item value="Base Multi Item Quick Adapter" />
       <item value="Add up fetch logic, almost like load more, but simpler." />
@@ -49,13 +51,11 @@
       <item value="SHUFFLE" />
       <item value="HOMEPAGE" />
       <item value="Blocks" />
-      <item value="unexpected EOF!" />
-      <item value="Expected an int but was 4211006464 at line 1 column 12895 path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1777" />
-        <entry key="ENGLISH" value="1778" />
+        <entry key="CHINESE" value="1780" />
+        <entry key="ENGLISH" value="1781" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
