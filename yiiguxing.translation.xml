@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ViewType: 2131361827 found layoutResId，please use registerItemType() first!" />
+      <item value="found layoutResId，please use registerItemType() first!" />
       <item value="add Item Type Auto Increase" />
       <item value="set your own type one by one." />
       <item value="header With Empty Enable" />
@@ -49,13 +51,11 @@
       <item value="ALIGN" />
       <item value="CALENDAR" />
       <item value="SHUFFLE" />
-      <item value="HOMEPAGE" />
-      <item value="Blocks" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1780" />
-        <entry key="ENGLISH" value="1781" />
+        <entry key="CHINESE" value="1782" />
+        <entry key="ENGLISH" value="1783" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
