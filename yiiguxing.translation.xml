@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Payload" />
       <item value="For input string: &quot;HOMEPAGE_BANNER&quot;" />
       <item value="require" />
       <item value="ViewType: 2131361827 found layoutResId，please use registerItemType() first!" />
@@ -50,12 +51,11 @@
       <item value="DOUBLE" />
       <item value="PLAYLIST" />
       <item value="SONGLIST" />
-      <item value="ALIGN" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1784" />
-        <entry key="ENGLISH" value="1785" />
+        <entry key="CHINESE" value="1785" />
+        <entry key="ENGLISH" value="1786" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
