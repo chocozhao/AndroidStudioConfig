@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not resolve all artifacts for configuration" />
+      <item value="Could not find com.android.tools.build:gradle:3.5.3" />
+      <item value="Module Version Not Found Exception" />
       <item value="No Such Method Error" />
       <item value="Project Configuration Exception" />
       <item value="A problem occurred configuring project ':app'" />
@@ -48,14 +51,11 @@
       <item value="SLIDE PLAYABLE DRAGON BALL" />
       <item value="BALL" />
       <item value="DRAGON" />
-      <item value="PLAYABLE" />
-      <item value="SLIDE" />
-      <item value="ALBUM" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1788" />
-        <entry key="ENGLISH" value="1789" />
+        <entry key="CHINESE" value="1791" />
+        <entry key="ENGLISH" value="1792" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
