@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No Such Method Error" />
+      <item value="Project Configuration Exception" />
+      <item value="A problem occurred configuring project ':app'" />
       <item value="Payload" />
       <item value="For input string: &quot;HOMEPAGE_BANNER&quot;" />
       <item value="require" />
@@ -48,14 +51,11 @@
       <item value="PLAYABLE" />
       <item value="SLIDE" />
       <item value="ALBUM" />
-      <item value="DOUBLE" />
-      <item value="PLAYLIST" />
-      <item value="SONGLIST" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1785" />
-        <entry key="ENGLISH" value="1786" />
+        <entry key="CHINESE" value="1788" />
+        <entry key="ENGLISH" value="1789" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
