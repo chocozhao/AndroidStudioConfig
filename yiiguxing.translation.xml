@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="available for offline mode" />
       <item value="A problem occurred configuring project" />
       <item value="Could not resolve all artifacts for configuration" />
       <item value="Remote host closed connection during handshake" />
@@ -50,12 +51,11 @@
       <item value="HOMEPAGE YUNBEI NEW SONG" />
       <item value="HOMEPAGE BLOCK FUN CLUB" />
       <item value="HOMEPAGE VOICELIST RCMD" />
-      <item value="HOMEPAGE BLOCK VIDEO PLAYLIST" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1813" />
-        <entry key="ENGLISH" value="1814" />
+        <entry key="CHINESE" value="1814" />
+        <entry key="ENGLISH" value="1815" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
