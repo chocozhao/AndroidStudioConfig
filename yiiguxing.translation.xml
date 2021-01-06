@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not read script" />
       <item value="All of React Native (JS, Obj-C sources, Android binaries) is installed from npm" />
       <item value="Remote host closed connection during handshake" />
       <item value="Could not resolve all artifacts for configuration ':react-native-native-mqtt:classpath" />
@@ -50,12 +51,11 @@
       <item value="HOMEPAGE BLOCK PLAYLIST RCMD" />
       <item value="BLOCK STYLE RCMD" />
       <item value="BLOCK PLAYLIST RCMD" />
-      <item value="SLIDE VOICELIST" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1801" />
-        <entry key="ENGLISH" value="1802" />
+        <entry key="CHINESE" value="1802" />
+        <entry key="ENGLISH" value="1803" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
