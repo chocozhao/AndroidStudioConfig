@@ -30,8 +30,12 @@
           <option name="url" value="http://jsvn.52jtg.com:3000/jintuoguan/tuanguan-camera-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/chocozhao/CloudMusic-Component.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\project" />
+    <option name="cloneParentDir" value="D:\project\githubProject" />
   </component>
 </application>
