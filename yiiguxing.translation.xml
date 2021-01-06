@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cashier" />
+      <item value="datang-cashier-android" />
       <item value="Gradle sync failed: Connection timed out: connect. If you are behind an HTTP proxy," />
       <item value="please configure the proxy settings either in IDE or Gradle. Consult IDE log for more details (Help | Show Log) (1 m 8 s 50 ms)" />
       <item value="Gradle sync failed: Connection timed out: connect. If you are behind an HTTP proxy, please configure the proxy settings either in IDE or Gradle. Consult IDE log for more details (Help | Show Log) (1 m 8 s 50 ms)" />
@@ -49,12 +51,10 @@
       <item value="HOMEPAGE BLOCK NEW ALBUM NEW SONG" />
       <item value="OFFICIAL" />
       <item value="HOMEPAGE BLOCK OFFICIAL PLAYLIST" />
-      <item value="HOMEPAGE MUSIC CALENDAR" />
-      <item value="STYLE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1809" />
+        <entry key="CHINESE" value="1810" />
         <entry key="ENGLISH" value="1810" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
