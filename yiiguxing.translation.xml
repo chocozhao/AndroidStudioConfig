@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ACCESS FINE LOCATION" />
+      <item value="Element uses-permission#android.permission.ACCESS_FINE_LOCATION at AndroidManifest.xml:27:5-78 duplicated with element declared at AndroidManifest.xml:16:5-79" />
+      <item value="Manifest merger failed with multiple errors, see logs" />
+      <item value="PRIVILEGED" />
+      <item value="landscape" />
+      <item value="full Sensor" />
       <item value="Project Configuration Exception" />
       <item value="available for offline mode" />
       <item value="A problem occurred configuring project" />
@@ -45,17 +51,11 @@
       <item value="EMPTY VIEW" />
       <item value="LOADING VIEW" />
       <item value="Preconditions" />
-      <item value="check Not Null" />
-      <item value="This view is not constrained. It only has designtime positions, so it will jump to (0,0) at runtime unless you add the constraints" />
-      <item value="Constraint Layout" />
-      <item value="HOMEPAGE YUNBEI NEW SONG" />
-      <item value="HOMEPAGE BLOCK FUN CLUB" />
-      <item value="HOMEPAGE VOICELIST RCMD" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1815" />
-        <entry key="ENGLISH" value="1816" />
+        <entry key="CHINESE" value="1822" />
+        <entry key="ENGLISH" value="1823" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
