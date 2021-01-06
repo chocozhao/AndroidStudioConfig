@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Caused by: java.lang.IllegalStateException: Failed to find Platform SDK with path: platforms;android-23" />
+      <item value="Failed to find Platform SDK with path: platforms;android-23" />
       <item value="Could not read script" />
       <item value="All of React Native (JS, Obj-C sources, Android binaries) is installed from npm" />
       <item value="Remote host closed connection during handshake" />
@@ -49,13 +51,11 @@
       <item value="推荐" />
       <item value="RCMD" />
       <item value="HOMEPAGE BLOCK PLAYLIST RCMD" />
-      <item value="BLOCK STYLE RCMD" />
-      <item value="BLOCK PLAYLIST RCMD" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1802" />
-        <entry key="ENGLISH" value="1803" />
+        <entry key="CHINESE" value="1804" />
+        <entry key="ENGLISH" value="1805" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
