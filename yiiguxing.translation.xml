@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Gradle sync failed: Connection timed out: connect. If you are behind an HTTP proxy," />
+      <item value="please configure the proxy settings either in IDE or Gradle. Consult IDE log for more details (Help | Show Log) (1 m 8 s 50 ms)" />
+      <item value="Gradle sync failed: Connection timed out: connect. If you are behind an HTTP proxy, please configure the proxy settings either in IDE or Gradle. Consult IDE log for more details (Help | Show Log) (1 m 8 s 50 ms)" />
+      <item value="Gradle sync failed: Connection timed out: connect. If you are behind an HTTP proxy, please configure the proxy settings either in IDE or Gradle. Consult IDE log for more details (Help | Show Log) (1 m 14 s 905 ms)" />
       <item value="Caused by: java.lang.IllegalStateException: Failed to find Platform SDK with path: platforms;android-23" />
       <item value="Failed to find Platform SDK with path: platforms;android-23" />
       <item value="Could not read script" />
@@ -47,15 +51,11 @@
       <item value="HOMEPAGE BLOCK OFFICIAL PLAYLIST" />
       <item value="HOMEPAGE MUSIC CALENDAR" />
       <item value="STYLE" />
-      <item value="HOMEPAGE BLOCK STYLE RCMD" />
-      <item value="推荐" />
-      <item value="RCMD" />
-      <item value="HOMEPAGE BLOCK PLAYLIST RCMD" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1804" />
-        <entry key="ENGLISH" value="1805" />
+        <entry key="CHINESE" value="1809" />
+        <entry key="ENGLISH" value="1810" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
