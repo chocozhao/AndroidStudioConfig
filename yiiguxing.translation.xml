@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="To suppress this warning, remove &quot;buildToolsVersion '26.0.3'&quot; from your build.gradle file, as each version of the Android Gradle Plugin now has a default version of the build tools." />
       <item value="Disable offline mode and sync project" />
       <item value="Could not resolve com.github.kongqw:AndroidSerialPort" />
       <item value="Missing Property Exception" />
@@ -50,12 +51,11 @@
       <item value="SSL peer shut down incorrectly" />
       <item value="Could not find com.android.tools.build:gradle:3.5.3" />
       <item value="Module Version Not Found Exception" />
-      <item value="No Such Method Error" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1839" />
-        <entry key="ENGLISH" value="1840" />
+        <entry key="CHINESE" value="1840" />
+        <entry key="ENGLISH" value="1841" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
