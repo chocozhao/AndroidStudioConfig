@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Connection timed out: connect. If you are behind an HTTP proxy, please configure the proxy settings either in IDE or Gradle." />
       <item value="Caused by: org.gradle.internal.metaobject.AbstractDynamicObject$CustomMessageMissingMethodException: Could not find method google() for arguments [] on repository container." />
       <item value="Cannot parse project property android.enableJetifier='false ' of type 'class java.lang.String' as boolean. Expected 'true' or 'false'." />
       <item value="bridge" />
@@ -50,12 +51,11 @@
       <item value="set your own type one by one." />
       <item value="header With Empty Enable" />
       <item value="Base Multi Item Quick Adapter" />
-      <item value="Add up fetch logic, almost like load more, but simpler." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1830" />
-        <entry key="ENGLISH" value="1831" />
+        <entry key="CHINESE" value="1831" />
+        <entry key="ENGLISH" value="1832" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
