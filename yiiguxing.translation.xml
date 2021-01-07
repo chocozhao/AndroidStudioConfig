@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="API 'variant.getJavaCompile()' is obsolete and has been replaced with 'variant.getJavaCompileProvider()'." />
       <item value="hn" />
       <item value="cashier" />
       <item value="Suggestion: use a compatible library with a minSdk of at most 16, or increase this project's minSdk version to at least 19," />
@@ -50,12 +51,11 @@
       <item value="auto Up Fetch" />
       <item value="auto Load More" />
       <item value="Span Size Lookup" />
-      <item value="on Create Def View Holder" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1826" />
-        <entry key="ENGLISH" value="1826" />
+        <entry key="ENGLISH" value="1827" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
