@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No toolchains found in the NDK toolchains folder for ABI with prefix: mips64el-linux-android This version of the NDK may be incompatible with the Android Gradle plugin version 3.0 or older. Please use plugin version 3.1 or newer." />
+      <item value="正式" />
+      <item value="环境" />
       <item value="Connection timed out: connect. If you are behind an HTTP proxy, please configure the proxy settings either in IDE or Gradle." />
       <item value="Caused by: org.gradle.internal.metaobject.AbstractDynamicObject$CustomMessageMissingMethodException: Could not find method google() for arguments [] on repository container." />
       <item value="Cannot parse project property android.enableJetifier='false ' of type 'class java.lang.String' as boolean. Expected 'true' or 'false'." />
@@ -48,14 +51,11 @@
       <item value="ViewType: 2131361827 found layoutResId，please use registerItemType() first!" />
       <item value="found layoutResId，please use registerItemType() first!" />
       <item value="add Item Type Auto Increase" />
-      <item value="set your own type one by one." />
-      <item value="header With Empty Enable" />
-      <item value="Base Multi Item Quick Adapter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1831" />
-        <entry key="ENGLISH" value="1832" />
+        <entry key="CHINESE" value="1833" />
+        <entry key="ENGLISH" value="1834" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
