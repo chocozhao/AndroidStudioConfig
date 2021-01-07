@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Disable offline mode and sync project" />
+      <item value="Could not resolve com.github.kongqw:AndroidSerialPort" />
       <item value="Missing Property Exception" />
       <item value="Could not get unknown property 'mergeResourcesProvider' for object of type com.android.build.gradle.internal.api.ApplicationVariantImpl." />
       <item value="annotation class 6831" />
@@ -49,13 +51,11 @@
       <item value="Could not find com.android.tools.build:gradle:3.5.3" />
       <item value="Module Version Not Found Exception" />
       <item value="No Such Method Error" />
-      <item value="A problem occurred configuring project ':app'" />
-      <item value="Payload" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1837" />
-        <entry key="ENGLISH" value="1838" />
+        <entry key="CHINESE" value="1839" />
+        <entry key="ENGLISH" value="1840" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
