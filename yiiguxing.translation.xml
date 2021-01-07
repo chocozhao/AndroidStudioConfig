@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Compilation is not supported for following modules: MVPArms-master. Unfortunately you can't have non-Gradle Java modules and Android-Gradle modules in one project." />
       <item value="No toolchains found in the NDK toolchains folder for ABI with prefix: mips64el-linux-android This version of the NDK may be incompatible with the Android Gradle plugin version 3.0 or older. Please use plugin version 3.1 or newer." />
       <item value="正式" />
       <item value="环境" />
@@ -50,11 +51,10 @@
       <item value="require" />
       <item value="ViewType: 2131361827 found layoutResId，please use registerItemType() first!" />
       <item value="found layoutResId，please use registerItemType() first!" />
-      <item value="add Item Type Auto Increase" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1833" />
+        <entry key="CHINESE" value="1834" />
         <entry key="ENGLISH" value="1834" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
