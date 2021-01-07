@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not get unknown property 'mergeResourcesProvider' for object of type com.android.build.gradle.internal.api.ApplicationVariantImpl." />
       <item value="annotation class 6831" />
       <item value="java.lang.IllegalStateException: GeneratedAppGlideModuleImpl is implemented incorrectly. If you've manually implemented this class, remove your implementation. The Annotation processor will generate a correct implementation." />
       <item value="Compilation is not supported for following modules: MVPArms-master. Unfortunately you can't have non-Gradle Java modules and Android-Gradle modules in one project." />
@@ -50,12 +51,11 @@
       <item value="A problem occurred configuring project ':app'" />
       <item value="Payload" />
       <item value="For input string: &quot;HOMEPAGE_BANNER&quot;" />
-      <item value="require" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1835" />
-        <entry key="ENGLISH" value="1836" />
+        <entry key="CHINESE" value="1836" />
+        <entry key="ENGLISH" value="1837" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
