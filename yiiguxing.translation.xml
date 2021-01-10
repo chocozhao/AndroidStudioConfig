@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="quit" />
+      <item value="退出" />
+      <item value="模板" />
+      <item value="打印机" />
       <item value="packed" />
       <item value="TypeError: undefined is not an object (evaluating 'this.RNBridgeModule.getCurrentAppVersion')" />
       <item value="价签" />
@@ -47,15 +51,11 @@
       <item value="Caused by: java.lang.IllegalStateException: Failed to find Platform SDK with path: platforms;android-23" />
       <item value="Failed to find Platform SDK with path: platforms;android-23" />
       <item value="Could not read script" />
-      <item value="All of React Native (JS, Obj-C sources, Android binaries) is installed from npm" />
-      <item value="Could not resolve all artifacts for configuration ':react-native-native-mqtt:classpath" />
-      <item value="Module Version Resolve Exception" />
-      <item value="maven Local" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1844" />
-        <entry key="ENGLISH" value="1845" />
+        <entry key="CHINESE" value="1846" />
+        <entry key="ENGLISH" value="1846" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
