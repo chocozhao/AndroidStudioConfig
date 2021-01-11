@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The option 'android.enableAapt2' is deprecated and should not be used anymore" />
+      <item value="No cached version of com.android.tools.lint:lint-gradle:26.1.2 available for offline mode" />
       <item value="obtain App Component From Context" />
       <item value="BLUETOOTH ADMIN" />
       <item value="BLUETOOTH" />
@@ -49,13 +51,11 @@
       <item value="toggle offline mode" />
       <item value="toggle" />
       <item value="datang-cashier-android" />
-      <item value="Gradle sync failed: Connection timed out: connect. If you are behind an HTTP proxy," />
-      <item value="please configure the proxy settings either in IDE or Gradle. Consult IDE log for more details (Help | Show Log) (1 m 8 s 50 ms)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1854" />
-        <entry key="ENGLISH" value="1855" />
+        <entry key="CHINESE" value="1856" />
+        <entry key="ENGLISH" value="1857" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
