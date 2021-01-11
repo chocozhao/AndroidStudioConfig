@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="UnknownServiceException: CLEARTEXT communication to 47.107.103.34 not permitted by network security policy" />
+      <item value="unexpected end of stream on Connection" />
       <item value="The option 'android.enableAapt2' is deprecated and should not be used anymore" />
       <item value="No cached version of com.android.tools.lint:lint-gradle:26.1.2 available for offline mode" />
       <item value="obtain App Component From Context" />
@@ -49,13 +51,11 @@
       <item value="Remote host closed connection during handshake" />
       <item value="useNewCruncher has been deprecated. It will be removed in a future version of the gradle plugin. New cruncher is now always enabled." />
       <item value="toggle offline mode" />
-      <item value="toggle" />
-      <item value="datang-cashier-android" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1856" />
-        <entry key="ENGLISH" value="1857" />
+        <entry key="CHINESE" value="1858" />
+        <entry key="ENGLISH" value="1859" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
