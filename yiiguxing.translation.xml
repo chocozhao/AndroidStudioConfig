@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BLUETOOTH ADMIN" />
+      <item value="BLUETOOTH" />
+      <item value="ACCESS FINE LOCATION" />
+      <item value="ACCESS COARSE LOCATION" />
+      <item value="WRITE EXTERNAL STORAGE" />
+      <item value="PAIRING REQUEST" />
       <item value="ovy.control.MultipleCompilationErrorsException: startup failed" />
       <item value="DOWNLOAD COMPLETE" />
       <item value="too many terms in compound SELECT (code 1)" />
@@ -28,7 +34,6 @@
       <item value="cashier" />
       <item value="Suggestion: use a compatible library with a minSdk of at most 16, or increase this project's minSdk version to at least 19," />
       <item value="as the library might be using APIs not available in 16" />
-      <item value="ACCESS FINE LOCATION" />
       <item value="Element uses-permission#android.permission.ACCESS_FINE_LOCATION at AndroidManifest.xml:27:5-78 duplicated with element declared at AndroidManifest.xml:16:5-79" />
       <item value="Manifest merger failed with multiple errors, see logs" />
       <item value="PRIVILEGED" />
@@ -46,16 +51,11 @@
       <item value="Gradle sync failed: Connection timed out: connect. If you are behind an HTTP proxy," />
       <item value="please configure the proxy settings either in IDE or Gradle. Consult IDE log for more details (Help | Show Log) (1 m 8 s 50 ms)" />
       <item value="Gradle sync failed: Connection timed out: connect. If you are behind an HTTP proxy, please configure the proxy settings either in IDE or Gradle. Consult IDE log for more details (Help | Show Log) (1 m 8 s 50 ms)" />
-      <item value="Gradle sync failed: Connection timed out: connect. If you are behind an HTTP proxy, please configure the proxy settings either in IDE or Gradle. Consult IDE log for more details (Help | Show Log) (1 m 14 s 905 ms)" />
-      <item value="Caused by: java.lang.IllegalStateException: Failed to find Platform SDK with path: platforms;android-23" />
-      <item value="Failed to find Platform SDK with path: platforms;android-23" />
-      <item value="Could not read script" />
-      <item value="All of React Native (JS, Obj-C sources, Android binaries) is installed from npm" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1847" />
-        <entry key="ENGLISH" value="1848" />
+        <entry key="CHINESE" value="1853" />
+        <entry key="ENGLISH" value="1854" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
