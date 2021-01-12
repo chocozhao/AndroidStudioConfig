@@ -1,8 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="密码" />
       <item value="自动" />
+      <item value="线" />
+      <item value="白色" />
+      <item value="蓝色" />
+      <item value="圆角" />
+      <item value="密码" />
       <item value="solid" />
       <item value="UnknownServiceException: CLEARTEXT communication to 47.107.103.34 not permitted by network security policy" />
       <item value="unexpected end of stream on Connection" />
@@ -47,10 +51,6 @@
       <item value="PRIVILEGED" />
       <item value="landscape" />
       <item value="full Sensor" />
-      <item value="Project Configuration Exception" />
-      <item value="available for offline mode" />
-      <item value="A problem occurred configuring project" />
-      <item value="Could not resolve all artifacts for configuration" />
     </histories>
     <option name="languageScores">
       <map>
