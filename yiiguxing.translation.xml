@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="正常" />
+      <item value="按下" />
       <item value="自动" />
       <item value="线" />
       <item value="白色" />
@@ -49,8 +51,6 @@
       <item value="Element uses-permission#android.permission.ACCESS_FINE_LOCATION at AndroidManifest.xml:27:5-78 duplicated with element declared at AndroidManifest.xml:16:5-79" />
       <item value="Manifest merger failed with multiple errors, see logs" />
       <item value="PRIVILEGED" />
-      <item value="landscape" />
-      <item value="full Sensor" />
     </histories>
     <option name="languageScores">
       <map>
