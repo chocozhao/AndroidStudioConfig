@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="存储" />
+      <item value="attach Base Context" />
+      <item value="on Terminate" />
       <item value="版本" />
       <item value="密码" />
       <item value="正常" />
@@ -48,14 +51,11 @@
       <item value="hn" />
       <item value="cashier" />
       <item value="Suggestion: use a compatible library with a minSdk of at most 16, or increase this project's minSdk version to at least 19," />
-      <item value="as the library might be using APIs not available in 16" />
-      <item value="Element uses-permission#android.permission.ACCESS_FINE_LOCATION at AndroidManifest.xml:27:5-78 duplicated with element declared at AndroidManifest.xml:16:5-79" />
-      <item value="Manifest merger failed with multiple errors, see logs" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1860" />
-        <entry key="ENGLISH" value="1861" />
+        <entry key="CHINESE" value="1863" />
+        <entry key="ENGLISH" value="1864" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
