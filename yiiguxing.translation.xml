@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="single Task" />
+      <item value="You should not lock orientation of your activities, so that you can support a good user experience for any device or orientation" />
+      <item value="LANDSCAPE" />
+      <item value="UNSPECIFIED" />
       <item value="finishComposingText on inactive InputConnection" />
       <item value="contains" />
       <item value="包含" />
@@ -47,15 +51,11 @@
       <item value="正式" />
       <item value="环境" />
       <item value="Connection timed out: connect. If you are behind an HTTP proxy, please configure the proxy settings either in IDE or Gradle." />
-      <item value="Caused by: org.gradle.internal.metaobject.AbstractDynamicObject$CustomMessageMissingMethodException: Could not find method google() for arguments [] on repository container." />
-      <item value="Cannot parse project property android.enableJetifier='false ' of type 'class java.lang.String' as boolean. Expected 'true' or 'false'." />
-      <item value="bridge" />
-      <item value="uses-sdk:minSdkVersion 19 cannot be smaller than version 21 declared in library [:react-native-native-mqtt] D:\project\datang-cashier-web\node_modules\react-native-native-mqtt\android\build\intermediates\library_manifest\debug\AndroidManifest.xml as the library might be using APIs not available in 19 Suggestion: use a compatible library with a minSdk of at most 19," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1867" />
-        <entry key="ENGLISH" value="1868" />
+        <entry key="CHINESE" value="1870" />
+        <entry key="ENGLISH" value="1871" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
