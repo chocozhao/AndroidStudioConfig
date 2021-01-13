@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Remove all preferences in sp." />
+      <item value="single Task" />
       <item value="Snackbar" />
       <item value="set Cancelable" />
       <item value="browse" />
@@ -12,7 +14,6 @@
       <item value="退出" />
       <item value="推出" />
       <item value="打印" />
-      <item value="single Task" />
       <item value="You should not lock orientation of your activities, so that you can support a good user experience for any device or orientation" />
       <item value="LANDSCAPE" />
       <item value="UNSPECIFIED" />
@@ -50,12 +51,11 @@
       <item value="network interceptor com.jess.arms.http.log.RequestInterceptor@57c399f must call proceed() exactly once" />
       <item value="TypeError: undefined is not an object (evaluating 'this.RNBridgeModule.getCurrentAppVersion')" />
       <item value="价签" />
-      <item value="To suppress this warning, remove &quot;buildToolsVersion '26.0.3'&quot; from your build.gradle file, as each version of the Android Gradle Plugin now has a default version of the build tools." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1877" />
-        <entry key="ENGLISH" value="1877" />
+        <entry key="CHINESE" value="1878" />
+        <entry key="ENGLISH" value="1879" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
