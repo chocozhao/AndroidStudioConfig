@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BEGIN ARRAY" />
+      <item value="BEGIN OBJECT" />
+      <item value="Expected an int but was 23.8 at line 1 column 783 path $.rows[3].price" />
+      <item value="that was originally added here" />
       <item value="产品" />
       <item value="商品" />
       <item value="类别" />
@@ -47,15 +51,11 @@
       <item value="版本" />
       <item value="密码" />
       <item value="正常" />
-      <item value="按下" />
-      <item value="自动" />
-      <item value="线" />
-      <item value="白色" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1891" />
-        <entry key="ENGLISH" value="1892" />
+        <entry key="CHINESE" value="1895" />
+        <entry key="ENGLISH" value="1896" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
