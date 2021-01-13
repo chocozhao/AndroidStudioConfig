@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="产品" />
+      <item value="商品" />
       <item value="类别" />
       <item value="get" />
       <item value="获取" />
@@ -14,7 +16,6 @@
       <item value="打印" />
       <item value="灰" />
       <item value="commodity" />
-      <item value="商品" />
       <item value="alpha" />
       <item value="get Default Maker" />
       <item value="set Not Use System Toast" />
@@ -50,7 +51,6 @@
       <item value="自动" />
       <item value="线" />
       <item value="白色" />
-      <item value="蓝色" />
     </histories>
     <option name="languageScores">
       <map>
