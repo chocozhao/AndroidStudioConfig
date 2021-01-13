@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Cancelable" />
       <item value="browse" />
       <item value="隐藏" />
       <item value="状态" />
@@ -50,12 +51,11 @@
       <item value="价签" />
       <item value="To suppress this warning, remove &quot;buildToolsVersion '26.0.3'&quot; from your build.gradle file, as each version of the Android Gradle Plugin now has a default version of the build tools." />
       <item value="Disable offline mode and sync project" />
-      <item value="Could not resolve com.github.kongqw:AndroidSerialPort" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1876" />
-        <entry key="ENGLISH" value="1876" />
+        <entry key="ENGLISH" value="1877" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
