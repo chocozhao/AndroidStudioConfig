@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="类别" />
+      <item value="get" />
+      <item value="获取" />
+      <item value="请求" />
+      <item value="organization" />
       <item value="param" />
       <item value="Staggered" />
       <item value="清理" />
@@ -46,16 +51,11 @@
       <item value="线" />
       <item value="白色" />
       <item value="蓝色" />
-      <item value="圆角" />
-      <item value="solid" />
-      <item value="UnknownServiceException: CLEARTEXT communication to 47.107.103.34 not permitted by network security policy" />
-      <item value="unexpected end of stream on Connection" />
-      <item value="The option 'android.enableAapt2' is deprecated and should not be used anymore" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1889" />
-        <entry key="ENGLISH" value="1889" />
+        <entry key="CHINESE" value="1891" />
+        <entry key="ENGLISH" value="1892" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
