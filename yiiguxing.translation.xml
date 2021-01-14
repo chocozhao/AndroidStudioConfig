@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="类别" />
+      <item value="选中" />
       <item value="深灰" />
       <item value="删除" />
-      <item value="类别" />
       <item value="BEGIN ARRAY" />
       <item value="BEGIN OBJECT" />
       <item value="Expected an int but was 23.8 at line 1 column 783 path $.rows[3].price" />
@@ -50,7 +51,6 @@
       <item value="存储" />
       <item value="attach Base Context" />
       <item value="on Terminate" />
-      <item value="版本" />
     </histories>
     <option name="languageScores">
       <map>
