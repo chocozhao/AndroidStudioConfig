@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="above" />
       <item value="inventory" />
       <item value="add Sub Utils" />
       <item value="Only the original thread that created a view hierarchy can touch its views." />
@@ -50,12 +51,11 @@
       <item value="Set the toast for a long period of time." />
       <item value="Set the resource of background." />
       <item value="Set the color of background." />
-      <item value="Remove all preferences in sp." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1916" />
-        <entry key="ENGLISH" value="1917" />
+        <entry key="CHINESE" value="1917" />
+        <entry key="ENGLISH" value="1918" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
