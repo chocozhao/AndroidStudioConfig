@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Only the original thread that created a view hierarchy can touch its views." />
       <item value="The exception could not be delivered to the consumer because it has already canceled/disposed the flow or the exception has nowhere to go to begin with." />
       <item value="Only the original thread that created a view hierarchy can touch its views" />
       <item value="clear" />
@@ -17,7 +18,6 @@
       <item value="规格" />
       <item value="默认" />
       <item value="价签" />
-      <item value="Only the original thread that created a view hierarchy can touch its views." />
       <item value="Display Metrics" />
       <item value="reverse Layout" />
       <item value="搜索" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1913" />
-        <entry key="ENGLISH" value="1914" />
+        <entry key="CHINESE" value="1914" />
+        <entry key="ENGLISH" value="1915" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
