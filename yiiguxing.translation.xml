@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Text Changed" />
+      <item value="Touch Mode" />
+      <item value="取消" />
+      <item value="standard" />
+      <item value="规格" />
+      <item value="默认" />
+      <item value="价签" />
       <item value="Only the original thread that created a view hierarchy can touch its views." />
       <item value="Display Metrics" />
       <item value="reverse Layout" />
@@ -44,18 +51,11 @@
       <item value="Cannot fit requested classes in a single dex file (# methods: 66094 &gt; 65536)" />
       <item value="Cannot fit requested classes in a single dex file" />
       <item value="quit" />
-      <item value="退出" />
-      <item value="推出" />
-      <item value="You should not lock orientation of your activities, so that you can support a good user experience for any device or orientation" />
-      <item value="LANDSCAPE" />
-      <item value="UNSPECIFIED" />
-      <item value="finishComposingText on inactive InputConnection" />
-      <item value="contains" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1900" />
-        <entry key="ENGLISH" value="1901" />
+        <entry key="CHINESE" value="1904" />
+        <entry key="ENGLISH" value="1905" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
