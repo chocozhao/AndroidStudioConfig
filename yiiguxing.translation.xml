@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reverse Layout" />
+      <item value="搜索" />
+      <item value="浅色" />
+      <item value="请求" />
       <item value="类别" />
       <item value="选中" />
       <item value="深灰" />
@@ -13,7 +17,6 @@
       <item value="商品" />
       <item value="get" />
       <item value="获取" />
-      <item value="请求" />
       <item value="organization" />
       <item value="param" />
       <item value="Staggered" />
@@ -48,14 +51,11 @@
       <item value="contains" />
       <item value="包含" />
       <item value="concat" />
-      <item value="存储" />
-      <item value="attach Base Context" />
-      <item value="on Terminate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1896" />
-        <entry key="ENGLISH" value="1897" />
+        <entry key="CHINESE" value="1897" />
+        <entry key="ENGLISH" value="1898" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
