@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Diff New Data" />
       <item value="above" />
       <item value="inventory" />
       <item value="add Sub Utils" />
@@ -50,12 +51,11 @@
       <item value="set Not Use System Toast" />
       <item value="Set the toast for a long period of time." />
       <item value="Set the resource of background." />
-      <item value="Set the color of background." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1917" />
-        <entry key="ENGLISH" value="1918" />
+        <entry key="CHINESE" value="1918" />
+        <entry key="ENGLISH" value="1919" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
