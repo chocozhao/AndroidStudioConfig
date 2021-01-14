@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Not an array: class java.util.ArrayList" />
+      <item value="class java.util.ArrayList" />
       <item value="on Text Changed" />
       <item value="Touch Mode" />
       <item value="取消" />
@@ -49,13 +51,11 @@
       <item value="隐藏" />
       <item value="状态" />
       <item value="Cannot fit requested classes in a single dex file (# methods: 66094 &gt; 65536)" />
-      <item value="Cannot fit requested classes in a single dex file" />
-      <item value="quit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1905" />
-        <entry key="ENGLISH" value="1905" />
+        <entry key="CHINESE" value="1907" />
+        <entry key="ENGLISH" value="1908" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
