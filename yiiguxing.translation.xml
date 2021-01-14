@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Display Metrics" />
       <item value="reverse Layout" />
       <item value="搜索" />
       <item value="浅色" />
@@ -50,12 +51,11 @@
       <item value="finishComposingText on inactive InputConnection" />
       <item value="contains" />
       <item value="包含" />
-      <item value="concat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1897" />
-        <entry key="ENGLISH" value="1898" />
+        <entry key="CHINESE" value="1898" />
+        <entry key="ENGLISH" value="1899" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
