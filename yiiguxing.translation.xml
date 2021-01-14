@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inventory" />
+      <item value="add Sub Utils" />
       <item value="Only the original thread that created a view hierarchy can touch its views." />
       <item value="The exception could not be delivered to the consumer because it has already canceled/disposed the flow or the exception has nowhere to go to begin with." />
       <item value="Only the original thread that created a view hierarchy can touch its views" />
@@ -49,13 +51,11 @@
       <item value="Set the resource of background." />
       <item value="Set the color of background." />
       <item value="Remove all preferences in sp." />
-      <item value="single Task" />
-      <item value="Snackbar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1914" />
-        <entry key="ENGLISH" value="1915" />
+        <entry key="CHINESE" value="1916" />
+        <entry key="ENGLISH" value="1917" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
