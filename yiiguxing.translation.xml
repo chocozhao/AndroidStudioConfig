@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Only the original thread that created a view hierarchy can touch its views." />
       <item value="Display Metrics" />
       <item value="reverse Layout" />
       <item value="搜索" />
@@ -50,12 +51,11 @@
       <item value="UNSPECIFIED" />
       <item value="finishComposingText on inactive InputConnection" />
       <item value="contains" />
-      <item value="包含" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1898" />
-        <entry key="ENGLISH" value="1899" />
+        <entry key="CHINESE" value="1900" />
+        <entry key="ENGLISH" value="1901" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
