@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="深灰" />
+      <item value="删除" />
       <item value="类别" />
       <item value="BEGIN ARRAY" />
       <item value="BEGIN OBJECT" />
@@ -49,8 +51,6 @@
       <item value="attach Base Context" />
       <item value="on Terminate" />
       <item value="版本" />
-      <item value="密码" />
-      <item value="正常" />
     </histories>
     <option name="languageScores">
       <map>
