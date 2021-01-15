@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="claim Interface" />
       <item value="bulk Transfer" />
       <item value="Endpoint" />
       <item value="alsa route" />
@@ -50,12 +51,11 @@
       <item value="选中" />
       <item value="深灰" />
       <item value="删除" />
-      <item value="BEGIN ARRAY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1934" />
-        <entry key="ENGLISH" value="1935" />
+        <entry key="CHINESE" value="1935" />
+        <entry key="ENGLISH" value="1936" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
