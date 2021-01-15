@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="肯定" />
+      <item value="确定" />
+      <item value="取消" />
+      <item value="下" />
+      <item value="端口" />
+      <item value="连接打印" />
+      <item value="连接" />
       <item value="set Diff New Data" />
       <item value="above" />
       <item value="inventory" />
@@ -17,7 +24,6 @@
       <item value="class java.util.ArrayList" />
       <item value="on Text Changed" />
       <item value="Touch Mode" />
-      <item value="取消" />
       <item value="standard" />
       <item value="规格" />
       <item value="默认" />
@@ -45,17 +51,11 @@
       <item value="清理" />
       <item value="深色" />
       <item value="打印" />
-      <item value="灰" />
-      <item value="alpha" />
-      <item value="get Default Maker" />
-      <item value="set Not Use System Toast" />
-      <item value="Set the toast for a long period of time." />
-      <item value="Set the resource of background." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1918" />
-        <entry key="ENGLISH" value="1919" />
+        <entry key="CHINESE" value="1919" />
+        <entry key="ENGLISH" value="1920" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
