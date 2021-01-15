@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="So Loader" />
       <item value="肯定" />
       <item value="确定" />
       <item value="取消" />
@@ -50,12 +51,11 @@
       <item value="Staggered" />
       <item value="清理" />
       <item value="深色" />
-      <item value="打印" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1919" />
-        <entry key="ENGLISH" value="1920" />
+        <entry key="CHINESE" value="1920" />
+        <entry key="ENGLISH" value="1921" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
