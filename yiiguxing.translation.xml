@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="alsa route" />
       <item value="hex String To Bytes" />
       <item value="increase this project's minSdk version to at least 19," />
       <item value="use a compatible library with a minSdk of at most 16," />
@@ -50,12 +51,11 @@
       <item value="BEGIN ARRAY" />
       <item value="BEGIN OBJECT" />
       <item value="Expected an int but was 23.8 at line 1 column 783 path $.rows[3].price" />
-      <item value="that was originally added here" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1929" />
-        <entry key="ENGLISH" value="1930" />
+        <entry key="CHINESE" value="1930" />
+        <entry key="ENGLISH" value="1931" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
