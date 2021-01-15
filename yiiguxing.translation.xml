@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="m Usb Device label" />
+      <item value="Permission" />
       <item value="Manufacturer Name" />
       <item value="Interface for a mutable array. Used to pass arguments from Java to JS." />
       <item value="So Loader" />
@@ -49,13 +51,11 @@
       <item value="get" />
       <item value="获取" />
       <item value="organization" />
-      <item value="param" />
-      <item value="Staggered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1922" />
-        <entry key="ENGLISH" value="1923" />
+        <entry key="CHINESE" value="1924" />
+        <entry key="ENGLISH" value="1925" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
