@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="当前" />
       <item value="progress rate" />
       <item value="进度" />
       <item value="set On Warn Listener" />
@@ -50,12 +51,11 @@
       <item value="Not an array: class java.util.ArrayList" />
       <item value="class java.util.ArrayList" />
       <item value="on Text Changed" />
-      <item value="Touch Mode" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1954" />
-        <entry key="ENGLISH" value="1954" />
+        <entry key="ENGLISH" value="1955" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
