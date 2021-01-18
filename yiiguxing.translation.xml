@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Only the original thread that created a view hierarchy can touch its views." />
       <item value="enable Show When App Background" />
       <item value="Center Popup View" />
       <item value="Rescheduling check for retained objects in 2000ms because found only 2 retained objects (&lt; 5 while app visible)" />
@@ -32,7 +33,6 @@
       <item value="above" />
       <item value="inventory" />
       <item value="add Sub Utils" />
-      <item value="Only the original thread that created a view hierarchy can touch its views." />
       <item value="The exception could not be delivered to the consumer because it has already canceled/disposed the flow or the exception has nowhere to go to begin with." />
       <item value="Only the original thread that created a view hierarchy can touch its views" />
       <item value="clear" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1942" />
-        <entry key="ENGLISH" value="1943" />
+        <entry key="CHINESE" value="1944" />
+        <entry key="ENGLISH" value="1945" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
