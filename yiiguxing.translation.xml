@@ -1,17 +1,6 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="notify Data Set Changed" />
-      <item value="object not locked by thread before notify()" />
-      <item value="payloads" />
-      <item value="identical 8 lines" />
-      <item value="identical 1 line" />
-      <item value="Only the original thread that created a view hierarchy can touch its views." />
-      <item value="quit" />
-      <item value="退出" />
-      <item value="模板" />
-      <item value="打印机" />
-      <item value="packed" />
       <item value="TypeError: undefined is not an object (evaluating 'this.RNBridgeModule.getCurrentAppVersion')" />
       <item value="价签" />
       <item value="To suppress this warning, remove &quot;buildToolsVersion '26.0.3'&quot; from your build.gradle file, as each version of the Android Gradle Plugin now has a default version of the build tools." />
@@ -51,11 +40,22 @@
       <item value="toggle" />
       <item value="datang-cashier-android" />
       <item value="Gradle sync failed: Connection timed out: connect. If you are behind an HTTP proxy," />
+      <item value="please configure the proxy settings either in IDE or Gradle. Consult IDE log for more details (Help | Show Log) (1 m 8 s 50 ms)" />
+      <item value="Gradle sync failed: Connection timed out: connect. If you are behind an HTTP proxy, please configure the proxy settings either in IDE or Gradle. Consult IDE log for more details (Help | Show Log) (1 m 8 s 50 ms)" />
+      <item value="Gradle sync failed: Connection timed out: connect. If you are behind an HTTP proxy, please configure the proxy settings either in IDE or Gradle. Consult IDE log for more details (Help | Show Log) (1 m 14 s 905 ms)" />
+      <item value="Caused by: java.lang.IllegalStateException: Failed to find Platform SDK with path: platforms;android-23" />
+      <item value="Failed to find Platform SDK with path: platforms;android-23" />
+      <item value="Could not read script" />
+      <item value="All of React Native (JS, Obj-C sources, Android binaries) is installed from npm" />
+      <item value="Could not resolve all artifacts for configuration ':react-native-native-mqtt:classpath" />
+      <item value="Module Version Resolve Exception" />
+      <item value="maven Local" />
+      <item value="SSL peer shut down incorrectly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1851" />
-        <entry key="ENGLISH" value="1852" />
+        <entry key="CHINESE" value="1843" />
+        <entry key="ENGLISH" value="1844" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
