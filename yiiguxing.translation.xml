@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="printer Type" />
+      <item value="Dump" />
+      <item value="Hex" />
       <item value="Only the original thread that created a view hierarchy can touch its views" />
       <item value="Only the original thread that created a view hierarchy can touch its views." />
       <item value="enable Show When App Background" />
@@ -48,14 +51,11 @@
       <item value="规格" />
       <item value="默认" />
       <item value="价签" />
-      <item value="Display Metrics" />
-      <item value="reverse Layout" />
-      <item value="搜索" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1947" />
-        <entry key="ENGLISH" value="1948" />
+        <entry key="CHINESE" value="1950" />
+        <entry key="ENGLISH" value="1951" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
