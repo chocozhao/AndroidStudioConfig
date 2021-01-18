@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="数量" />
+      <item value="set Step" />
       <item value="当前" />
       <item value="progress rate" />
       <item value="进度" />
@@ -49,13 +51,11 @@
       <item value="灰白" />
       <item value="commodity" />
       <item value="Not an array: class java.util.ArrayList" />
-      <item value="class java.util.ArrayList" />
-      <item value="on Text Changed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1954" />
-        <entry key="ENGLISH" value="1955" />
+        <entry key="CHINESE" value="1956" />
+        <entry key="ENGLISH" value="1957" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
