@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set On Warn Listener" />
       <item value="CODE" />
       <item value="printer Type" />
       <item value="Dump" />
@@ -50,12 +51,11 @@
       <item value="Touch Mode" />
       <item value="standard" />
       <item value="规格" />
-      <item value="默认" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1951" />
-        <entry key="ENGLISH" value="1952" />
+        <entry key="CHINESE" value="1952" />
+        <entry key="ENGLISH" value="1953" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
