@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CODE" />
       <item value="printer Type" />
       <item value="Dump" />
       <item value="Hex" />
@@ -50,12 +51,11 @@
       <item value="standard" />
       <item value="规格" />
       <item value="默认" />
-      <item value="价签" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1950" />
-        <entry key="ENGLISH" value="1951" />
+        <entry key="CHINESE" value="1951" />
+        <entry key="ENGLISH" value="1952" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
