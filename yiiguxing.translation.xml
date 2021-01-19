@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="please bind recyclerView first!" />
+      <item value="Empty" />
       <item value="com.cashier.tag.mvp.ui.activity.MainActivity' is not an enclosing class" />
       <item value="数量" />
       <item value="set Step" />
@@ -49,13 +51,11 @@
       <item value="clear" />
       <item value="clean" />
       <item value="清空" />
-      <item value="灰白" />
-      <item value="commodity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1957" />
-        <entry key="ENGLISH" value="1957" />
+        <entry key="CHINESE" value="1958" />
+        <entry key="ENGLISH" value="1959" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
