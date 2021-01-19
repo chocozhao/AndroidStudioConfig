@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="m Buy Min" />
       <item value="smooth Scroll To Position" />
       <item value="null cannot be cast to non-null type T" />
       <item value="please bind recyclerView first!" />
@@ -50,12 +51,11 @@
       <item value="inventory" />
       <item value="add Sub Utils" />
       <item value="The exception could not be delivered to the consumer because it has already canceled/disposed the flow or the exception has nowhere to go to begin with." />
-      <item value="clear" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1961" />
-        <entry key="ENGLISH" value="1962" />
+        <entry key="CHINESE" value="1962" />
+        <entry key="ENGLISH" value="1963" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
