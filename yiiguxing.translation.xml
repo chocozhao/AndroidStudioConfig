@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="null cannot be cast to non-null type T" />
       <item value="please bind recyclerView first!" />
       <item value="Empty" />
       <item value="com.cashier.tag.mvp.ui.activity.MainActivity' is not an enclosing class" />
@@ -50,12 +51,11 @@
       <item value="The exception could not be delivered to the consumer because it has already canceled/disposed the flow or the exception has nowhere to go to begin with." />
       <item value="clear" />
       <item value="clean" />
-      <item value="清空" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1958" />
-        <entry key="ENGLISH" value="1959" />
+        <entry key="CHINESE" value="1959" />
+        <entry key="ENGLISH" value="1960" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
