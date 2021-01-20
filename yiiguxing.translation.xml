@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Caused by: org.gradle.internal.typeconversion.UnsupportedNotationException: Cannot convert a null value to an object of type Dependency." />
+      <item value="Committing is not possible because you have unmerged files." />
+      <item value="CONFLICT (add/add): Merge conflict in README.md Auto-merging README.md Automatic merge failed; fix conflicts and then commit the result." />
+      <item value="Before update your uncommitted changes were saved to stash. Update is not complete, you have unresolved merges in your working tree Resolve conflicts, complete update and restore changes manually." />
+      <item value="CONFLICT (add/add): Merge conflict in README.md Auto-merging README.md Automatic merge failed; fix conflicts and then commit the result. " />
+      <item value="refusing to merge unrelated histories" />
+      <item value="Branch 'develop' set up to track remote branch 'develop' from 'origin'. " />
+      <item value="fatal: the '--set-upstream' option is no longer supported. Please use '--track' or '--set-upstream-to' instead. " />
+      <item value="No tracked branch configured for branch develop or the branch doesn't exist. To make your branch track a remote branch call, for example, git branch --set-upstream-to=origin/develop develop" />
+      <item value="Already up-to-date" />
+      <item value=" Please enter a commit message to explain why this merge is necessary, # especially if it merges an updated upstream into a topic branch. # # Lines starting with '#' will be ignored, and an empty message aborts # the commit." />
+      <item value="refusing to merge unrelated histories " />
+      <item value="hint: Updates were rejected because the remote contains work that you do hint: not have locally. This is usually caused by another repository pushing hint: to the same ref. You may want to first integrate the remote changes hint: (e.g., 'git pull ...') before pushing again. hint: See the 'Note about fast-forwards' in 'git push --help' for details. " />
+      <item value="Workspace associated with branch 'develop' has been restored" />
       <item value="set Offscreen Page Limit" />
       <item value="m Buy Min" />
       <item value="smooth Scroll To Position" />
@@ -37,25 +51,11 @@
       <item value="array" />
       <item value="m Usb Device label" />
       <item value="Permission" />
-      <item value="Manufacturer Name" />
-      <item value="Interface for a mutable array. Used to pass arguments from Java to JS." />
-      <item value="So Loader" />
-      <item value="肯定" />
-      <item value="确定" />
-      <item value="取消" />
-      <item value="下" />
-      <item value="端口" />
-      <item value="连接打印" />
-      <item value="连接" />
-      <item value="set Diff New Data" />
-      <item value="above" />
-      <item value="inventory" />
-      <item value="add Sub Utils" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1963" />
-        <entry key="ENGLISH" value="1964" />
+        <entry key="CHINESE" value="1965" />
+        <entry key="ENGLISH" value="1966" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
