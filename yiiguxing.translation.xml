@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cursor Visible" />
+      <item value="set Focusable" />
+      <item value="digits" />
       <item value="Omitted request body" />
       <item value="Caused by: org.gradle.internal.typeconversion.UnsupportedNotationException: Cannot convert a null value to an object of type Dependency." />
       <item value="Committing is not possible because you have unmerged files." />
@@ -48,14 +51,11 @@
       <item value="hex String To Bytes" />
       <item value="increase this project's minSdk version to at least 19," />
       <item value="use a compatible library with a minSdk of at most 16," />
-      <item value="uses-sdk:minSdkVersion 16 cannot be smaller than version 19 declared in library" />
-      <item value="array" />
-      <item value="m Usb Device label" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1966" />
-        <entry key="ENGLISH" value="1967" />
+        <entry key="CHINESE" value="1969" />
+        <entry key="ENGLISH" value="1970" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
