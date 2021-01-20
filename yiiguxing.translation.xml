@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="smooth" />
+      <item value="smooth Scroll To Position" />
+      <item value="scroll To Position" />
       <item value="Unable to add window -- token null is not for an application" />
       <item value="cursor Visible" />
       <item value="set Focusable" />
@@ -22,7 +25,6 @@
       <item value="Workspace associated with branch 'develop' has been restored" />
       <item value="set Offscreen Page Limit" />
       <item value="m Buy Min" />
-      <item value="smooth Scroll To Position" />
       <item value="null cannot be cast to non-null type T" />
       <item value="please bind recyclerView first!" />
       <item value="Empty" />
@@ -49,13 +51,11 @@
       <item value="bulk Transfer" />
       <item value="Endpoint" />
       <item value="alsa route" />
-      <item value="hex String To Bytes" />
-      <item value="increase this project's minSdk version to at least 19," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1971" />
-        <entry key="ENGLISH" value="1972" />
+        <entry key="CHINESE" value="1975" />
+        <entry key="ENGLISH" value="1976" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
