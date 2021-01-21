@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="失败" />
+      <item value="连接" />
       <item value="contains Key" />
       <item value="Catge" />
       <item value="Attempt to read from field 'androidx.recyclerview.widget.RecyclerView$ViewFlinger androidx.recyclerview.widget.RecyclerView.mViewFlinger' on a null object reference" />
@@ -49,13 +51,11 @@
       <item value="Center Popup View" />
       <item value="Rescheduling check for retained objects in 2000ms because found only 2 retained objects (&lt; 5 while app visible)" />
       <item value="Leak Canary" />
-      <item value="has Permission" />
-      <item value="start output stream" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1978" />
-        <entry key="ENGLISH" value="1979" />
+        <entry key="CHINESE" value="1979" />
+        <entry key="ENGLISH" value="1980" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
