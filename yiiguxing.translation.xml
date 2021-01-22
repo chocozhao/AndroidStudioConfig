@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="第一" />
+      <item value="diyi" />
+      <item value="清理" />
+      <item value="清空" />
+      <item value="情况" />
       <item value="The exception could not be delivered to the consumer because it has already canceled/disposed the flow or the exception has nowhere to go to begin with" />
       <item value="vendor" />
       <item value="失败" />
@@ -46,16 +51,11 @@
       <item value="CODE" />
       <item value="printer Type" />
       <item value="Dump" />
-      <item value="Hex" />
-      <item value="Only the original thread that created a view hierarchy can touch its views" />
-      <item value="Only the original thread that created a view hierarchy can touch its views." />
-      <item value="enable Show When App Background" />
-      <item value="Center Popup View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1981" />
-        <entry key="ENGLISH" value="1982" />
+        <entry key="CHINESE" value="1983" />
+        <entry key="ENGLISH" value="1984" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
