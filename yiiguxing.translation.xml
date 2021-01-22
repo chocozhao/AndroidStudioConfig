@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invocation Target Exception" />
       <item value="第一" />
       <item value="diyi" />
       <item value="清理" />
@@ -50,12 +51,11 @@
       <item value="set On Warn Listener" />
       <item value="CODE" />
       <item value="printer Type" />
-      <item value="Dump" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1983" />
-        <entry key="ENGLISH" value="1984" />
+        <entry key="CHINESE" value="1984" />
+        <entry key="ENGLISH" value="1985" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
