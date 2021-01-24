@@ -1,4 +1,8 @@
 <code_scheme name="Default" version="173">
+  <option name="RIGHT_MARGIN" value="120" />
+  <codeStyleSettings language="JAVA">
+    <option name="WRAP_LONG_LINES" value="true" />
+  </codeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />

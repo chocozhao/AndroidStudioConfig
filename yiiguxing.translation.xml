@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compatibility Data Size Changed" />
+      <item value="use original lines indent for wrapped parts" />
+      <item value="wrap on typing" />
+      <item value="hard wrap at" />
       <item value="TypeError: undefined is not an object (evaluating 'this.RNBridgeModule.getCurrentAppVersion')" />
       <item value="价签" />
       <item value="To suppress this warning, remove &quot;buildToolsVersion '26.0.3'&quot; from your build.gradle file, as each version of the Android Gradle Plugin now has a default version of the build tools." />
@@ -47,15 +51,11 @@
       <item value="Failed to find Platform SDK with path: platforms;android-23" />
       <item value="Could not read script" />
       <item value="All of React Native (JS, Obj-C sources, Android binaries) is installed from npm" />
-      <item value="Could not resolve all artifacts for configuration ':react-native-native-mqtt:classpath" />
-      <item value="Module Version Resolve Exception" />
-      <item value="maven Local" />
-      <item value="SSL peer shut down incorrectly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1843" />
-        <entry key="ENGLISH" value="1844" />
+        <entry key="CHINESE" value="1844" />
+        <entry key="ENGLISH" value="1845" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
