@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sensor" />
+      <item value="PARTIAL CUTTER" />
       <item value="OFFSET" />
       <item value="SHIFT" />
       <item value="tear" />
@@ -49,13 +51,11 @@
       <item value="CONFLICT (add/add): Merge conflict in README.md Auto-merging README.md Automatic merge failed; fix conflicts and then commit the result." />
       <item value="Before update your uncommitted changes were saved to stash. Update is not complete, you have unresolved merges in your working tree Resolve conflicts, complete update and restore changes manually." />
       <item value="CONFLICT (add/add): Merge conflict in README.md Auto-merging README.md Automatic merge failed; fix conflicts and then commit the result. " />
-      <item value="refusing to merge unrelated histories" />
-      <item value="Branch 'develop' set up to track remote branch 'develop' from 'origin'. " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2004" />
-        <entry key="ENGLISH" value="2005" />
+        <entry key="CHINESE" value="2006" />
+        <entry key="ENGLISH" value="2007" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
