@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="baseUrl must end in /: https://manage.datang360.com/newretail" />
+      <item value="baseUrl must end in" />
+      <item value="attach Base Context" />
       <item value="Removing unused resources requires unused code shrinking to be turned on" />
       <item value="shrink" />
       <item value="Removing unused resources requires unused code shrinking to be turned o" />
@@ -48,14 +51,11 @@
       <item value="hint: Updates were rejected because the remote contains work that you do hint: not have locally. This is usually caused by another repository pushing hint: to the same ref. You may want to first integrate the remote changes hint: (e.g., 'git pull ...') before pushing again. hint: See the 'Note about fast-forwards' in 'git push --help' for details. " />
       <item value="Workspace associated with branch 'develop' has been restored" />
       <item value="set Offscreen Page Limit" />
-      <item value="m Buy Min" />
-      <item value="null cannot be cast to non-null type T" />
-      <item value="please bind recyclerView first!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1994" />
-        <entry key="ENGLISH" value="1995" />
+        <entry key="CHINESE" value="1997" />
+        <entry key="ENGLISH" value="1998" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
