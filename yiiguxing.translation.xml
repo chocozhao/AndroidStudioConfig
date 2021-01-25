@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="call method to set up device communication" />
       <item value="claim Interface" />
       <item value="vendor" />
       <item value="Array Store Exception" />
@@ -50,12 +51,11 @@
       <item value="digits" />
       <item value="Omitted request body" />
       <item value="Caused by: org.gradle.internal.typeconversion.UnsupportedNotationException: Cannot convert a null value to an object of type Dependency." />
-      <item value="Committing is not possible because you have unmerged files." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2010" />
-        <entry key="ENGLISH" value="2011" />
+        <entry key="CHINESE" value="2011" />
+        <entry key="ENGLISH" value="2012" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
