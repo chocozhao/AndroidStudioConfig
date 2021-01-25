@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="vendor" />
+      <item value="Array Store Exception" />
+      <item value="compare To" />
       <item value="sensor" />
       <item value="PARTIAL CUTTER" />
       <item value="OFFSET" />
@@ -31,7 +34,6 @@
       <item value="清空" />
       <item value="情况" />
       <item value="The exception could not be delivered to the consumer because it has already canceled/disposed the flow or the exception has nowhere to go to begin with" />
-      <item value="vendor" />
       <item value="失败" />
       <item value="连接" />
       <item value="contains Key" />
@@ -49,13 +51,11 @@
       <item value="Caused by: org.gradle.internal.typeconversion.UnsupportedNotationException: Cannot convert a null value to an object of type Dependency." />
       <item value="Committing is not possible because you have unmerged files." />
       <item value="CONFLICT (add/add): Merge conflict in README.md Auto-merging README.md Automatic merge failed; fix conflicts and then commit the result." />
-      <item value="Before update your uncommitted changes were saved to stash. Update is not complete, you have unresolved merges in your working tree Resolve conflicts, complete update and restore changes manually." />
-      <item value="CONFLICT (add/add): Merge conflict in README.md Auto-merging README.md Automatic merge failed; fix conflicts and then commit the result. " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2006" />
-        <entry key="ENGLISH" value="2007" />
+        <entry key="CHINESE" value="2009" />
+        <entry key="ENGLISH" value="2010" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
