@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="after Text Changed" />
+      <item value="before Text Changed" />
+      <item value="set Editable" />
+      <item value="cursor Visible" />
       <item value="call method to set up device communication" />
       <item value="claim Interface" />
       <item value="vendor" />
@@ -46,16 +50,12 @@
       <item value="smooth Scroll To Position" />
       <item value="scroll To Position" />
       <item value="Unable to add window -- token null is not for an application" />
-      <item value="cursor Visible" />
       <item value="set Focusable" />
-      <item value="digits" />
-      <item value="Omitted request body" />
-      <item value="Caused by: org.gradle.internal.typeconversion.UnsupportedNotationException: Cannot convert a null value to an object of type Dependency." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2011" />
-        <entry key="ENGLISH" value="2012" />
+        <entry key="CHINESE" value="2015" />
+        <entry key="ENGLISH" value="2016" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
