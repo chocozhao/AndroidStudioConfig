@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ACTION USB DEVICE DETACHED" />
+      <item value="ACTION USB DEVICE ATTACHED" />
+      <item value="ACTION USB PERMISSION" />
+      <item value="Scheduling check for retained objects because found new object retained" />
+      <item value="Check failed: c != nullptr" />
       <item value="region Length" />
       <item value="region Start" />
       <item value="Entry name 'res/color/material_on_surface_disabled.xml' collided" />
@@ -46,16 +51,11 @@
       <item value="失败" />
       <item value="连接" />
       <item value="contains Key" />
-      <item value="Catge" />
-      <item value="Attempt to read from field 'androidx.recyclerview.widget.RecyclerView$ViewFlinger androidx.recyclerview.widget.RecyclerView.mViewFlinger' on a null object reference" />
-      <item value="SNAP TO START" />
-      <item value="smooth" />
-      <item value="smooth Scroll To Position" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2018" />
-        <entry key="ENGLISH" value="2019" />
+        <entry key="CHINESE" value="2023" />
+        <entry key="ENGLISH" value="2024" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
