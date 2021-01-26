@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set New Diff Data" />
+      <item value="Diff" />
       <item value="ACTION USB DEVICE DETACHED" />
       <item value="ACTION USB DEVICE ATTACHED" />
       <item value="ACTION USB PERMISSION" />
@@ -49,13 +51,11 @@
       <item value="情况" />
       <item value="The exception could not be delivered to the consumer because it has already canceled/disposed the flow or the exception has nowhere to go to begin with" />
       <item value="失败" />
-      <item value="连接" />
-      <item value="contains Key" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2023" />
-        <entry key="ENGLISH" value="2024" />
+        <entry key="CHINESE" value="2025" />
+        <entry key="ENGLISH" value="2026" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
