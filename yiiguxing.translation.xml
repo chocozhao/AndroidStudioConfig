@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="contains Key" />
       <item value="Index Out Of Bounds Exception" />
       <item value="The exception could not be delivered to the consumer because it has already canceled/disposed the flow or the exception has nowhere to go to begin with" />
       <item value="The exception could not be delivered to the consumer because it has already canceled/disposed the flow or the exception has nowhere" />
@@ -50,12 +51,11 @@
       <item value="第一" />
       <item value="diyi" />
       <item value="清理" />
-      <item value="清空" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2029" />
-        <entry key="ENGLISH" value="2030" />
+        <entry key="CHINESE" value="2030" />
+        <entry key="ENGLISH" value="2031" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
