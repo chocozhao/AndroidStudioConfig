@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="has Window Focus" />
       <item value="单个" />
       <item value="static" />
       <item value="选中" />
@@ -50,12 +51,11 @@
       <item value="Class not found using the boot class loader; no stack trace availabl" />
       <item value="Unable to instantiate application com.jess.arms.base.BaseApplication: java.lang.IllegalArgumentException: Unable to find ConfigModule implementation" />
       <item value="Invalid file found (empty apk data). Try to remove D:\apk\debug\output.json or clean your build directory. If the error persists, report this issue via Help &gt; Submit Feedback." />
-      <item value="科技" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2037" />
-        <entry key="ENGLISH" value="2038" />
+        <entry key="CHINESE" value="2038" />
+        <entry key="ENGLISH" value="2039" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
