@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="提示" />
       <item value="autolayout" />
       <item value="has Window Focus" />
       <item value="单个" />
@@ -50,12 +51,11 @@
       <item value="Removing unused resources requires unused code shrinking to be turned o" />
       <item value="minify Enabled" />
       <item value="Class not found using the boot class loader; no stack trace availabl" />
-      <item value="Unable to instantiate application com.jess.arms.base.BaseApplication: java.lang.IllegalArgumentException: Unable to find ConfigModule implementation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2039" />
-        <entry key="ENGLISH" value="2040" />
+        <entry key="CHINESE" value="2040" />
+        <entry key="ENGLISH" value="2041" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
