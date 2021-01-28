@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Given thread 3163 does not exist" />
+      <item value="hardware Accelerated" />
+      <item value="Force finishing activity com.cashier.tag/.mvp.ui.activity.MainActivity" />
+      <item value="Dead Object Exception" />
+      <item value="Exception thrown during pause" />
+      <item value=": original attrs.flags : 81810100. package name : com.cashier.tag" />
+      <item value="Fatal signal 6 (SIGABRT), code -6 in tid 2467 (RenderThread)" />
+      <item value="GL INVALID VALUE" />
       <item value="提示" />
       <item value="autolayout" />
       <item value="has Window Focus" />
@@ -43,19 +51,11 @@
       <item value="Multi Dex" />
       <item value="Returns a new {@code HttpUrl} representing {@code url} if it is a well-formed HTTP or HTTPS * URL, or null if it isn't." />
       <item value="Returns a new {@code HttpUrl} representing {@code url} if it is a well-formed HTTP or HTTPS" />
-      <item value="baseUrl must end in /: https://manage.datang360.com/newretail" />
-      <item value="baseUrl must end in" />
-      <item value="attach Base Context" />
-      <item value="Removing unused resources requires unused code shrinking to be turned on" />
-      <item value="shrink" />
-      <item value="Removing unused resources requires unused code shrinking to be turned o" />
-      <item value="minify Enabled" />
-      <item value="Class not found using the boot class loader; no stack trace availabl" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2040" />
-        <entry key="ENGLISH" value="2041" />
+        <entry key="CHINESE" value="2049" />
+        <entry key="ENGLISH" value="2050" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
