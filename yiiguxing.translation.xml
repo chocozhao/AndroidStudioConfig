@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Can't create handler inside thread that has not called Looper.prepare()" />
+      <item value="USE BIOMETRIC" />
+      <item value="UBS" />
+      <item value="connected" />
+      <item value="connect: already connected (cur=1 req=1)" />
+      <item value="Given thread 2261 does not exist" />
+      <item value="set Thread Priority" />
       <item value="Given thread 3163 does not exist" />
       <item value="hardware Accelerated" />
       <item value="Force finishing activity com.cashier.tag/.mvp.ui.activity.MainActivity" />
@@ -44,18 +51,11 @@
       <item value="sensor" />
       <item value="PARTIAL CUTTER" />
       <item value="OFFSET" />
-      <item value="SHIFT" />
-      <item value="tear" />
-      <item value="Invalid int: &quot;1.3.0&quot;" />
-      <item value="@param versionBundle developer should return version bundle ,to use when showing UI page,could be null * @return download builder for download setting" />
-      <item value="Multi Dex" />
-      <item value="Returns a new {@code HttpUrl} representing {@code url} if it is a well-formed HTTP or HTTPS * URL, or null if it isn't." />
-      <item value="Returns a new {@code HttpUrl} representing {@code url} if it is a well-formed HTTP or HTTPS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2049" />
-        <entry key="ENGLISH" value="2050" />
+        <entry key="CHINESE" value="2055" />
+        <entry key="ENGLISH" value="2056" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
