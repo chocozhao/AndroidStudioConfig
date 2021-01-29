@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Attach Popup View" />
       <item value="Failed setting process group of 4171 to 1" />
       <item value="Can't create handler inside thread that has not called Looper.prepare()" />
       <item value="USE BIOMETRIC" />
@@ -50,12 +51,11 @@
       <item value="Array Store Exception" />
       <item value="compare To" />
       <item value="sensor" />
-      <item value="PARTIAL CUTTER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2056" />
-        <entry key="ENGLISH" value="2057" />
+        <entry key="CHINESE" value="2057" />
+        <entry key="ENGLISH" value="2058" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
