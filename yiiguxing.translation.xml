@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="    [GitHub] The &quot;AUTO_TASK_FOR_BILIBILI&quot; workflow in chocozhao/BILIBILI-HELPER has been disabled      GitHub Actions scheduled workflow     Scheduled workflows are disabled automatically after 60 days of repository inactivity.    Learn more about disabling and enabling a workflow https://docs.github.com/actions/managing-workflow-runs/disabling-and-enabling-a-workflow    If you would like the AUTO_TASK_FOR_BILIBILI workflow to continue running, click the button below.    Continue running workflow       You are receiving this because you are the owner of the chocozhao/BILIBILI-HELPER repository.    GitHub, Inc. ・88 Colin P Kelly Jr Street ・San Francisco, CA 94107" />
       <item value="compatibility Data Size Changed" />
       <item value="use original lines indent for wrapped parts" />
       <item value="wrap on typing" />
@@ -50,11 +51,10 @@
       <item value="Caused by: java.lang.IllegalStateException: Failed to find Platform SDK with path: platforms;android-23" />
       <item value="Failed to find Platform SDK with path: platforms;android-23" />
       <item value="Could not read script" />
-      <item value="All of React Native (JS, Obj-C sources, Android binaries) is installed from npm" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1844" />
+        <entry key="CHINESE" value="1845" />
         <entry key="ENGLISH" value="1845" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
