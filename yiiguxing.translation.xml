@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Copy the output files into backup dir" />
+      <item value="can't the get signConfig for this build" />
       <item value="enable Proxy Application" />
       <item value="enable" />
       <item value="enableProxyApplication " />
@@ -49,13 +51,11 @@
       <item value="landscape" />
       <item value="full Sensor" />
       <item value="Project Configuration Exception" />
-      <item value="available for offline mode" />
-      <item value="A problem occurred configuring project" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1856" />
-        <entry key="ENGLISH" value="1857" />
+        <entry key="CHINESE" value="1858" />
+        <entry key="ENGLISH" value="1859" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
