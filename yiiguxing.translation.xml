@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="upgrade" />
       <item value="Could not get unknown property 'release' for SigningConfig container of type org.gradle.api.internal.FactoryNamedDomainObjectContainer" />
       <item value="tinker add com.example.buglyexample.SampleApplication to dex loader pattern" />
       <item value="can't the get signConfig for this build" />
@@ -50,12 +51,11 @@
       <item value="Element uses-permission#android.permission.ACCESS_FINE_LOCATION at AndroidManifest.xml:27:5-78 duplicated with element declared at AndroidManifest.xml:16:5-79" />
       <item value="Manifest merger failed with multiple errors, see logs" />
       <item value="PRIVILEGED" />
-      <item value="landscape" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1861" />
-        <entry key="ENGLISH" value="1862" />
+        <entry key="CHINESE" value="1862" />
+        <entry key="ENGLISH" value="1863" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
