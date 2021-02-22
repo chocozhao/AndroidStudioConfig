@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="you should set a custom Application otherwise you can't use the hotfix feature" />
+      <item value="Cause: you should set a custom Application otherwise you can't use the hotfix feature" />
+      <item value="attach Base Context" />
       <item value="you must install multiDex whatever tinker is installed!" />
       <item value="use Delegate Last Class Loader" />
       <item value="tinker Load Verify Flag" />
@@ -48,14 +51,11 @@
       <item value="Remote host closed connection during handshake" />
       <item value="useNewCruncher has been deprecated. It will be removed in a future version of the gradle plugin. New cruncher is now always enabled." />
       <item value="toggle offline mode" />
-      <item value="toggle" />
-      <item value="datang-cashier-android" />
-      <item value="Gradle sync failed: Connection timed out: connect. If you are behind an HTTP proxy," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1850" />
-        <entry key="ENGLISH" value="1851" />
+        <entry key="CHINESE" value="1853" />
+        <entry key="ENGLISH" value="1854" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
