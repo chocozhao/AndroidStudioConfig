@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="810" />
     <option name="newTranslationDialogY" value="458" />
     <histories>
+      <item value="quote" />
+      <item value="分钟&#10;" />
+      <item value="f" />
       <item value="时间&#10;" />
       <item value="内容&#10;" />
       <item value="ne" />
@@ -51,14 +54,11 @@
       <item value="Missing Property Exception" />
       <item value="Could not get unknown property 'mergeResourcesProvider' for object of type com.android.build.gradle.internal.api.ApplicationVariantImpl." />
       <item value="annotation class 6831" />
-      <item value="java.lang.IllegalStateException: GeneratedAppGlideModuleImpl is implemented incorrectly. If you've manually implemented this class, remove your implementation. The Annotation processor will generate a correct implementation." />
-      <item value="Compilation is not supported for following modules: MVPArms-master. Unfortunately you can't have non-Gradle Java modules and Android-Gradle modules in one project." />
-      <item value="No toolchains found in the NDK toolchains folder for ABI with prefix: mips64el-linux-android This version of the NDK may be incompatible with the Android Gradle plugin version 3.0 or older. Please use plugin version 3.1 or newer." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1873" />
-        <entry key="ENGLISH" value="1874" />
+        <entry key="CHINESE" value="1874" />
+        <entry key="ENGLISH" value="1875" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
