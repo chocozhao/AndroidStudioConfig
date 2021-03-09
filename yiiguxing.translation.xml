@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="single Line" />
+      <item value="text Is Selectable" />
       <item value="Book Shelf" />
       <item value="LEARN" />
       <item value="Chapter" />
@@ -49,13 +51,11 @@
       <item value="Cannot parse project property android.enableJetifier='false ' of type 'class java.lang.String' as boolean. Expected 'true' or 'false'." />
       <item value="bridge" />
       <item value="uses-sdk:minSdkVersion 19 cannot be smaller than version 21 declared in library [:react-native-native-mqtt] D:\project\datang-cashier-web\node_modules\react-native-native-mqtt\android\build\intermediates\library_manifest\debug\AndroidManifest.xml as the library might be using APIs not available in 19 Suggestion: use a compatible library with a minSdk of at most 19," />
-      <item value="API 'variant.getJavaCompile()' is obsolete and has been replaced with 'variant.getJavaCompileProvider()'." />
-      <item value="hn" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1870" />
-        <entry key="ENGLISH" value="1871" />
+        <entry key="CHINESE" value="1872" />
+        <entry key="ENGLISH" value="1873" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
