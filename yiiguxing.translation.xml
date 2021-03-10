@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="810" />
     <option name="newTranslationDialogY" value="458" />
     <histories>
+      <item value="explore" />
+      <item value="limit" />
       <item value="MAX LONG SIZE" />
       <item value="Omitted request body" />
       <item value="program Id" />
@@ -52,13 +54,11 @@
       <item value="TypeError: undefined is not an object (evaluating 'this.RNBridgeModule.getCurrentAppVersion')" />
       <item value="价签" />
       <item value="To suppress this warning, remove &quot;buildToolsVersion '26.0.3'&quot; from your build.gradle file, as each version of the Android Gradle Plugin now has a default version of the build tools." />
-      <item value="Disable offline mode and sync project" />
-      <item value="Could not resolve com.github.kongqw:AndroidSerialPort" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1877" />
-        <entry key="ENGLISH" value="1878" />
+        <entry key="CHINESE" value="1879" />
+        <entry key="ENGLISH" value="1880" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
