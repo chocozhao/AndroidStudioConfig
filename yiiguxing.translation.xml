@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="810" />
     <option name="newTranslationDialogY" value="458" />
     <histories>
+      <item value="lateinit" />
+      <item value="This property must either have a type annotation, be initialized or be delegated" />
+      <item value="Can't introduce property for this expression" />
       <item value="hide Soft Input From Window" />
       <item value="Not yet implemented" />
       <item value="explore" />
@@ -51,17 +54,15 @@
       <item value="    [GitHub] The &quot;AUTO_TASK_FOR_BILIBILI&quot; workflow in chocozhao/BILIBILI-HELPER has been disabled      GitHub Actions scheduled workflow     Scheduled workflows are disabled automatically after 60 days of repository inactivity.    Learn more about disabling and enabling a workflow https://docs.github.com/actions/managing-workflow-runs/disabling-and-enabling-a-workflow    If you would like the AUTO_TASK_FOR_BILIBILI workflow to continue running, click the button below.    Continue running workflow       You are receiving this because you are the owner of the chocozhao/BILIBILI-HELPER repository.    GitHub, Inc. ・88 Colin P Kelly Jr Street ・San Francisco, CA 94107" />
       <item value="compatibility Data Size Changed" />
       <item value="use original lines indent for wrapped parts" />
-      <item value="wrap on typing" />
-      <item value="hard wrap at" />
-      <item value="TypeError: undefined is not an object (evaluating 'this.RNBridgeModule.getCurrentAppVersion')" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1881" />
+        <entry key="CHINESE" value="1882" />
         <entry key="ENGLISH" value="1882" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
+        <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="7" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
