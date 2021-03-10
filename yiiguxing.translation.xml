@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="588" />
-    <option name="newTranslationDialogX" value="810" />
-    <option name="newTranslationDialogY" value="458" />
+    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogX" value="966" />
+    <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="paramenters" />
+      <item value="paramenter" />
+      <item value="pa'ra'men't" />
+      <item value="param" />
+      <item value="pa" />
+      <item value="o'a'r" />
       <item value="当前时间&#10;" />
       <item value="set Visibility" />
       <item value="'lateinit' modifier is not allowed on properties of primitive types" />
@@ -48,12 +54,6 @@
       <item value="you should set a custom Application otherwise you can't use the hotfix feature" />
       <item value="tinker gen AndroidManifest.xml in build/intermediates/tinker_intermediates/AndroidManifest.xml" />
       <item value="Cause: you should set a custom Application otherwise you can't use the hotfix feature" />
-      <item value="attach Base Context" />
-      <item value="you must install multiDex whatever tinker is installed!" />
-      <item value="use Delegate Last Class Loader" />
-      <item value="tinker Load Verify Flag" />
-      <item value="No such property: variantConfiguration for class" />
-      <item value="No such property: variantConfiguration for class: com.android.build.gradle.internal.variant.ApplicationVariantData" />
     </histories>
     <option name="languageScores">
       <map>
