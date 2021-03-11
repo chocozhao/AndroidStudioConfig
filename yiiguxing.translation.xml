@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogWidth" value="582" />
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="None of the following functions can be called with the arguments supplied." />
       <item value="SOFT INPUT STATE VISIBLE" />
       <item value="adjust Nothing" />
       <item value="flags" />
@@ -53,7 +54,6 @@
       <item value="Book Shelf" />
       <item value="LEARN" />
       <item value="Chapter" />
-      <item value="duncan" />
     </histories>
     <option name="languageScores">
       <map>
