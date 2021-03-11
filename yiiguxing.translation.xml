@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="Exception Information" />
+      <item value="AspectJ Properties" />
       <item value="Parcelable encountered IOException writing serializable object" />
       <item value="None of the following functions can be called with the arguments supplied." />
       <item value="SOFT INPUT STATE VISIBLE" />
@@ -52,13 +54,11 @@
       <item value="标识" />
       <item value="single Line" />
       <item value="text Is Selectable" />
-      <item value="Book Shelf" />
-      <item value="LEARN" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1893" />
-        <entry key="ENGLISH" value="1894" />
+        <entry key="CHINESE" value="1895" />
+        <entry key="ENGLISH" value="1896" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
