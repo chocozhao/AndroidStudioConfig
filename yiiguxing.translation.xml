@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="Class Not Found Exception" />
       <item value="load More End" />
       <item value="load More Complete" />
       <item value="Exception Information" />
@@ -53,12 +54,11 @@
       <item value="回复&#10;" />
       <item value="Book Intro" />
       <item value="标识&#10;" />
-      <item value="标识" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1898" />
-        <entry key="ENGLISH" value="1899" />
+        <entry key="CHINESE" value="1899" />
+        <entry key="ENGLISH" value="1900" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
