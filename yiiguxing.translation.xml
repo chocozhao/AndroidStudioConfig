@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="sprint 1.1" />
+      <item value="sprint 1.1&#10;" />
+      <item value="sprint1.1&#10;" />
+      <item value="sprint&#10;" />
+      <item value="sprin" />
       <item value="paramenters" />
       <item value="paramenter" />
       <item value="pa'ra'men't" />
@@ -49,11 +54,6 @@
       <item value="can't the get signConfig for this build" />
       <item value="Copy the output files into backup dir" />
       <item value="enable Proxy Application" />
-      <item value="enable" />
-      <item value="enableProxyApplication " />
-      <item value="you should set a custom Application otherwise you can't use the hotfix feature" />
-      <item value="tinker gen AndroidManifest.xml in build/intermediates/tinker_intermediates/AndroidManifest.xml" />
-      <item value="Cause: you should set a custom Application otherwise you can't use the hotfix feature" />
     </histories>
     <option name="languageScores">
       <map>
