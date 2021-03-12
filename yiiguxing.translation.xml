@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="is Scroll Container" />
       <item value="update Collapsed Text" />
       <item value="update Expanded Text" />
       <item value="get Trimmed Text" />
@@ -53,12 +54,11 @@
       <item value="pa'ra'men't" />
       <item value="param" />
       <item value="pa" />
-      <item value="o'a'r" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1933" />
-        <entry key="ENGLISH" value="1934" />
+        <entry key="CHINESE" value="1934" />
+        <entry key="ENGLISH" value="1935" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
