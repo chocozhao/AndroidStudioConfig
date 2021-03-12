@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="582" />
+    <option name="newTranslationDialogWidth" value="580" />
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="please bind recyclerView first!" />
+      <item value="熊&#10;" />
+      <item value="xiong" />
+      <item value="布局" />
+      <item value="布局&#10;" />
       <item value="final" />
       <item value="attach Soft Input" />
       <item value="STATIC METHOD" />
@@ -49,16 +54,11 @@
       <item value="indices" />
       <item value="sprint 1.1" />
       <item value="sprint 1.1&#10;" />
-      <item value="sprint1.1&#10;" />
-      <item value="sprint&#10;" />
-      <item value="sprin" />
-      <item value="paramenters" />
-      <item value="paramenter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1937" />
-        <entry key="ENGLISH" value="1938" />
+        <entry key="CHINESE" value="1938" />
+        <entry key="ENGLISH" value="1939" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
