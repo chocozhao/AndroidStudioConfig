@@ -5,12 +5,20 @@
     <option name="newTranslationDialogY" value="514" />
     <histories>
       <item value="update Collapsed Text" />
+      <item value="update Expanded Text" />
+      <item value="get Trimmed Text" />
+      <item value="com.didichuxing.doraemonkit.weex.log.Weex Log Kit" />
+      <item value="show Trim Expanded Text" />
+      <item value="set Trim Collapsed Text" />
+      <item value="set Trim Expanded Text" />
+      <item value="Buffer Type" />
+      <item value="TRIM MODE LENGTH" />
+      <item value="TRIM MODE LINES" />
       <item value="trim Collapsed Text" />
       <item value="trim Mode" />
       <item value="trim Lines" />
       <item value="color Clickable Text" />
       <item value="trim Expanded Text" />
-      <item value="show Trim Expanded Text" />
       <item value="trim Mode Line" />
       <item value="trim Length" />
       <item value="less" />
@@ -46,19 +54,11 @@
       <item value="param" />
       <item value="pa" />
       <item value="o'a'r" />
-      <item value="当前时间&#10;" />
-      <item value="set Visibility" />
-      <item value="'lateinit' modifier is not allowed on properties of primitive types" />
-      <item value="Can't introduce property for this expression" />
-      <item value="Type mismatch. Required: Editable! Found: String" />
-      <item value="lateinit" />
-      <item value="This property must either have a type annotation, be initialized or be delegated" />
-      <item value="hide Soft Input From Window" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1919" />
-        <entry key="ENGLISH" value="1920" />
+        <entry key="CHINESE" value="1933" />
+        <entry key="ENGLISH" value="1934" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
@@ -83,8 +83,5 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1615197543145" />
-  </component>
-  <component name="Settings">
-    <option name="translateDocumentation" value="true" />
   </component>
 </application>
