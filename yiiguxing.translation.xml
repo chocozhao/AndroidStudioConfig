@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Transition" />
+      <item value="Mobclick Agent" />
       <item value="companion" />
       <item value="Suppress Lint" />
       <item value="Enable" />
@@ -49,13 +51,11 @@
       <item value="hn" />
       <item value="cashier" />
       <item value="Suggestion: use a compatible library with a minSdk of at most 16, or increase this project's minSdk version to at least 19," />
-      <item value="as the library might be using APIs not available in 16" />
-      <item value="ACCESS FINE LOCATION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1865" />
-        <entry key="ENGLISH" value="1866" />
+        <entry key="CHINESE" value="1866" />
+        <entry key="ENGLISH" value="1867" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
