@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="show Seq" />
+      <item value="set Recycled View Pool" />
       <item value="done" />
       <item value="run Annotated Methods" />
       <item value="Simple" />
@@ -52,13 +54,11 @@
       <item value="or have the {@link SHOW_IMPLICIT} bit set." />
       <item value="adjust Pan" />
       <item value="screen Orientation" />
-      <item value="SOFT INPUT STATE ALWAYS VISIBLE" />
-      <item value="INPUT METHOD SERVICE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1940" />
-        <entry key="ENGLISH" value="1941" />
+        <entry key="CHINESE" value="1942" />
+        <entry key="ENGLISH" value="1943" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
