@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="Typeface Utils" />
       <item value="LOCK" />
       <item value="Adapter delegates its responsibility to sub adapters" />
       <item value="show Seq" />
@@ -53,12 +54,11 @@
       <item value="SOFT INPUT STATE VISIBLE" />
       <item value="adjust Nothing" />
       <item value="flags" />
-      <item value="or have the {@link SHOW_IMPLICIT} bit set." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1944" />
-        <entry key="ENGLISH" value="1945" />
+        <entry key="CHINESE" value="1945" />
+        <entry key="ENGLISH" value="1946" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
