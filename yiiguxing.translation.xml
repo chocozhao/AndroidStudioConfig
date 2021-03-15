@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="set Custom Density" />
+      <item value="reset Custom Density" />
+      <item value="结果&#10;" />
+      <item value="奖励&#10;" />
       <item value="hardware Accelerated" />
       <item value="bind User Identifier" />
       <item value="Ums Agent" />
@@ -50,15 +54,11 @@
       <item value="Core Component Factory" />
       <item value="Didn't find class &quot;android.support.v4.app.CoreComponentFactory" />
       <item value="Illegal State Exception" />
-      <item value="Class Format Exception" />
-      <item value="Class Not Found Exception" />
-      <item value="load More End" />
-      <item value="load More Complete" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1951" />
-        <entry key="ENGLISH" value="1952" />
+        <entry key="CHINESE" value="1953" />
+        <entry key="ENGLISH" value="1954" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
