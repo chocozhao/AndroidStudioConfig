@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="audio" />
+      <item value="million" />
       <item value="databiz" />
       <item value="set Custom Density" />
       <item value="reset Custom Density" />
@@ -52,13 +54,11 @@
       <item value="trim Length" />
       <item value="less" />
       <item value="Manifest merger failed with multiple errors, see logs" />
-      <item value="Core Component Factory" />
-      <item value="Didn't find class &quot;android.support.v4.app.CoreComponentFactory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1953" />
-        <entry key="ENGLISH" value="1954" />
+        <entry key="CHINESE" value="1956" />
+        <entry key="ENGLISH" value="1957" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
