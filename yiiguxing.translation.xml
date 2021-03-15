@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="implementation" />
       <item value="audio" />
       <item value="million" />
       <item value="databiz" />
@@ -53,12 +54,11 @@
       <item value="trim Mode Line" />
       <item value="trim Length" />
       <item value="less" />
-      <item value="Manifest merger failed with multiple errors, see logs" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1956" />
-        <entry key="ENGLISH" value="1957" />
+        <entry key="CHINESE" value="1957" />
+        <entry key="ENGLISH" value="1958" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
