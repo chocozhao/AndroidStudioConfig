@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="run Annotated Methods" />
+      <item value="Simple" />
       <item value="please bind recyclerView first!" />
       <item value="熊&#10;" />
       <item value="xiong" />
@@ -52,13 +54,11 @@
       <item value="SOFT INPUT STATE ALWAYS VISIBLE" />
       <item value="INPUT METHOD SERVICE" />
       <item value="indices" />
-      <item value="sprint 1.1" />
-      <item value="sprint 1.1&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1938" />
-        <entry key="ENGLISH" value="1939" />
+        <entry key="CHINESE" value="1940" />
+        <entry key="ENGLISH" value="1941" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
@@ -82,6 +82,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615197543145" />
+    <option name="lastTrimTime" value="1615769707099" />
   </component>
 </application>
