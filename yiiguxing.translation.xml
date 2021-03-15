@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value=":app:kaptDebugKotlin (Thread[Execution worker for ':',5,main]) completed. Took 3.42 secs." />
       <item value="Error while annotation processing" />
       <item value="Kapt Base Error" />
       <item value="Invocation Target Exception" />
@@ -53,12 +54,11 @@
       <item value="set Trim Collapsed Text" />
       <item value="set Trim Expanded Text" />
       <item value="Buffer Type" />
-      <item value="TRIM MODE LENGTH" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1968" />
-        <entry key="ENGLISH" value="1969" />
+        <entry key="CHINESE" value="1969" />
+        <entry key="ENGLISH" value="1970" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
