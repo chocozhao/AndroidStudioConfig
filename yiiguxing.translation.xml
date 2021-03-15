@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="Autowired" />
       <item value="FLAG ACTIVITY SINGLE TOP" />
       <item value="FLAG ACTIVITY CLEAR TOP" />
       <item value="Typeface Utils" />
@@ -53,12 +54,11 @@
       <item value="AspectJ Properties" />
       <item value="Parcelable encountered IOException writing serializable object" />
       <item value="None of the following functions can be called with the arguments supplied." />
-      <item value="SOFT INPUT STATE VISIBLE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1947" />
-        <entry key="ENGLISH" value="1948" />
+        <entry key="CHINESE" value="1948" />
+        <entry key="ENGLISH" value="1949" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
