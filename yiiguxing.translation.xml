@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="hardware Accelerated" />
+      <item value="bind User Identifier" />
+      <item value="Ums Agent" />
+      <item value="introduction" />
       <item value="Autowired" />
       <item value="FLAG ACTIVITY SINGLE TOP" />
       <item value="FLAG ACTIVITY CLEAR TOP" />
@@ -50,19 +54,15 @@
       <item value="Class Not Found Exception" />
       <item value="load More End" />
       <item value="load More Complete" />
-      <item value="Exception Information" />
-      <item value="AspectJ Properties" />
-      <item value="Parcelable encountered IOException writing serializable object" />
-      <item value="None of the following functions can be called with the arguments supplied." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1948" />
-        <entry key="ENGLISH" value="1949" />
+        <entry key="CHINESE" value="1951" />
+        <entry key="ENGLISH" value="1952" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="GERMAN" value="1" />
+        <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="7" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
