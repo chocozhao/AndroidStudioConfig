@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="Resource missing." />
       <item value="androidx.annotation:annotation' that satisfies the version constraints:" />
       <item value="Received status code 502 from server: Bad Gateway" />
       <item value="例子&#10;&#10;" />
@@ -53,12 +54,11 @@
       <item value="attach Soft Input" />
       <item value="STATIC METHOD" />
       <item value="is Scroll Container" />
-      <item value="update Collapsed Text" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1972" />
-        <entry key="ENGLISH" value="1973" />
+        <entry key="CHINESE" value="1973" />
+        <entry key="ENGLISH" value="1974" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
