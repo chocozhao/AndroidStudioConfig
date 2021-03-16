@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="574" />
+    <option name="newTranslationDialogWidth" value="572" />
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="Received status code 502 from server: Bad Gateway" />
+      <item value="例子&#10;&#10;" />
+      <item value="li'zi&#10;" />
+      <item value="示例&#10;" />
+      <item value="shi'li" />
       <item value="unspecified" />
       <item value=":app:kaptDebugKotlin (Thread[Execution worker for ':',5,main]) completed. Took 3.42 secs." />
       <item value="Error while annotation processing" />
@@ -49,16 +54,11 @@
       <item value="is Scroll Container" />
       <item value="update Collapsed Text" />
       <item value="update Expanded Text" />
-      <item value="get Trimmed Text" />
-      <item value="com.didichuxing.doraemonkit.weex.log.Weex Log Kit" />
-      <item value="show Trim Expanded Text" />
-      <item value="set Trim Collapsed Text" />
-      <item value="set Trim Expanded Text" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1970" />
-        <entry key="ENGLISH" value="1971" />
+        <entry key="CHINESE" value="1971" />
+        <entry key="ENGLISH" value="1972" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
