@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="564" />
+    <option name="newTranslationDialogWidth" value="562" />
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="question" />
+      <item value="本地数据&#10;" />
+      <item value="本地" />
+      <item value="本地书" />
+      <item value="e'b" />
+      <item value="medal" />
       <item value="积累阅读&#10;" />
       <item value="奖励&#10;&#10;" />
       <item value="结果&#10;" />
@@ -48,17 +54,11 @@
       <item value="introduction" />
       <item value="Autowired" />
       <item value="FLAG ACTIVITY SINGLE TOP" />
-      <item value="FLAG ACTIVITY CLEAR TOP" />
-      <item value="Typeface Utils" />
-      <item value="LOCK" />
-      <item value="Adapter delegates its responsibility to sub adapters" />
-      <item value="show Seq" />
-      <item value="set Recycled View Pool" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1982" />
-        <entry key="ENGLISH" value="1983" />
+        <entry key="CHINESE" value="1984" />
+        <entry key="ENGLISH" value="1985" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
