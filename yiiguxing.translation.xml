@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogWidth" value="570" />
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="分支&#10;" />
       <item value="Error while annotation processing" />
       <item value="Invocation Target Exception" />
       <item value="Resource missing." />
@@ -53,7 +54,6 @@
       <item value="final" />
       <item value="attach Soft Input" />
       <item value="STATIC METHOD" />
-      <item value="is Scroll Container" />
     </histories>
     <option name="languageScores">
       <map>
