@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="Remote host closed connection during handshake" />
       <item value="The compiler bundled to Kotlin plugin (1.3.72) is older than external compiler used for building modules:" />
       <item value="This may cause different set of errors and warnings reported in IDE." />
       <item value="分支&#10;" />
@@ -53,12 +54,11 @@
       <item value="xiong" />
       <item value="布局" />
       <item value="布局&#10;" />
-      <item value="final" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1975" />
-        <entry key="ENGLISH" value="1976" />
+        <entry key="CHINESE" value="1976" />
+        <entry key="ENGLISH" value="1977" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
