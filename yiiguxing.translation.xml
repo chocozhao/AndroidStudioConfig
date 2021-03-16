@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="Error while annotation processing" />
+      <item value="Invocation Target Exception" />
       <item value="Resource missing." />
       <item value="androidx.annotation:annotation' that satisfies the version constraints:" />
       <item value="Received status code 502 from server: Bad Gateway" />
@@ -13,9 +15,7 @@
       <item value="shi'li" />
       <item value="unspecified" />
       <item value=":app:kaptDebugKotlin (Thread[Execution worker for ':',5,main]) completed. Took 3.42 secs." />
-      <item value="Error while annotation processing" />
       <item value="Kapt Base Error" />
-      <item value="Invocation Target Exception" />
       <item value="java.lang.reflect.Invocation Target Exception" />
       <item value="kapt Debug Kotlin" />
       <item value="Task Execution Exception" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1973" />
-        <entry key="ENGLISH" value="1974" />
+        <entry key="CHINESE" value="1975" />
+        <entry key="ENGLISH" value="1976" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
