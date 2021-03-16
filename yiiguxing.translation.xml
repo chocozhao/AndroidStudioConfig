@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="568" />
+    <option name="newTranslationDialogWidth" value="566" />
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="奖励&#10;&#10;" />
+      <item value="结果&#10;" />
       <item value="百万阅读&#10;" />
       <item value="百万" />
       <item value="bai" />
@@ -38,7 +40,6 @@
       <item value="databiz" />
       <item value="set Custom Density" />
       <item value="reset Custom Density" />
-      <item value="结果&#10;" />
       <item value="奖励&#10;" />
       <item value="hardware Accelerated" />
       <item value="bind User Identifier" />
@@ -53,7 +54,6 @@
       <item value="show Seq" />
       <item value="set Recycled View Pool" />
       <item value="done" />
-      <item value="run Annotated Methods" />
     </histories>
     <option name="languageScores">
       <map>
