@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="566" />
+    <option name="newTranslationDialogWidth" value="564" />
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="积累阅读&#10;" />
       <item value="奖励&#10;&#10;" />
       <item value="结果&#10;" />
       <item value="百万阅读&#10;" />
@@ -53,7 +54,6 @@
       <item value="Adapter delegates its responsibility to sub adapters" />
       <item value="show Seq" />
       <item value="set Recycled View Pool" />
-      <item value="done" />
     </histories>
     <option name="languageScores">
       <map>
