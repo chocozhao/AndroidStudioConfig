@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="attach To Recycler View" />
       <item value="get Now Playing Song Info" />
       <item value="send Audio Change" />
       <item value="question" />
@@ -53,12 +54,11 @@
       <item value="hardware Accelerated" />
       <item value="bind User Identifier" />
       <item value="Ums Agent" />
-      <item value="introduction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1986" />
-        <entry key="ENGLISH" value="1987" />
+        <entry key="CHINESE" value="1987" />
+        <entry key="ENGLISH" value="1988" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
