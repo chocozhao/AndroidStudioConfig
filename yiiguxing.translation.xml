@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="COURSE" />
       <item value="rectangle" />
       <item value="炫耀&#10;" />
       <item value="xuan'y" />
@@ -53,12 +54,11 @@
       <item value="分支&#10;" />
       <item value="Error while annotation processing" />
       <item value="Resource missing." />
-      <item value="androidx.annotation:annotation' that satisfies the version constraints:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1995" />
-        <entry key="ENGLISH" value="1996" />
+        <entry key="CHINESE" value="1996" />
+        <entry key="ENGLISH" value="1997" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
