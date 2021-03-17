@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="552" />
+    <option name="newTranslationDialogWidth" value="550" />
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="炫耀&#10;" />
+      <item value="xuan'y" />
+      <item value="xun'yao" />
+      <item value="x'n" />
       <item value="question" />
       <item value="Qeustion" />
       <item value="gradient" />
@@ -50,10 +54,6 @@
       <item value="Resource missing." />
       <item value="androidx.annotation:annotation' that satisfies the version constraints:" />
       <item value="Received status code 502 from server: Bad Gateway" />
-      <item value="例子&#10;&#10;" />
-      <item value="li'zi&#10;" />
-      <item value="示例&#10;" />
-      <item value="shi'li" />
     </histories>
     <option name="languageScores">
       <map>
