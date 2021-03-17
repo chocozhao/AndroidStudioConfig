@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="546" />
+    <option name="newTranslationDialogWidth" value="544" />
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="勋章&#10;" />
       <item value="交互&#10;" />
       <item value="target Id" />
       <item value="跳过&#10;" />
@@ -21,7 +22,6 @@
       <item value="熊&#10;" />
       <item value="x" />
       <item value="lottie loop" />
-      <item value="勋章&#10;" />
       <item value="问题" />
       <item value="w" />
       <item value="Program" />
