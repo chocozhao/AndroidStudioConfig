@@ -1,9 +1,18 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="560" />
+    <option name="newTranslationDialogWidth" value="556" />
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="lottie loop" />
+      <item value="勋章&#10;" />
+      <item value="问题" />
+      <item value="w" />
+      <item value="Qeustion" />
+      <item value="Program" />
+      <item value="carry&#10;" />
+      <item value="继续&#10;" />
+      <item value="ji" />
       <item value="熊熊币&#10;" />
       <item value="熊熊bi" />
       <item value="xi" />
@@ -45,20 +54,11 @@
       <item value=":app:kaptDebugKotlin (Thread[Execution worker for ':',5,main]) completed. Took 3.42 secs." />
       <item value="Kapt Base Error" />
       <item value="kapt Debug Kotlin" />
-      <item value="Task Execution Exception" />
-      <item value="generate Stubs" />
-      <item value="kapt.use.worker.api=false" />
-      <item value="implementation" />
-      <item value="audio" />
-      <item value="million" />
-      <item value="databiz" />
-      <item value="set Custom Density" />
-      <item value="reset Custom Density" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1988" />
-        <entry key="ENGLISH" value="1988" />
+        <entry key="CHINESE" value="1990" />
+        <entry key="ENGLISH" value="1991" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
