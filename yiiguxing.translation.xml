@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="556" />
+    <option name="newTranslationDialogWidth" value="552" />
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="gradient" />
+      <item value="熊币&#10;" />
+      <item value="熊&#10;" />
+      <item value="x" />
       <item value="lottie loop" />
       <item value="勋章&#10;" />
       <item value="问题" />
@@ -50,15 +54,11 @@
       <item value="li'zi&#10;" />
       <item value="示例&#10;" />
       <item value="shi'li" />
-      <item value="unspecified" />
-      <item value=":app:kaptDebugKotlin (Thread[Execution worker for ':',5,main]) completed. Took 3.42 secs." />
-      <item value="Kapt Base Error" />
-      <item value="kapt Debug Kotlin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1990" />
-        <entry key="ENGLISH" value="1991" />
+        <entry key="CHINESE" value="1991" />
+        <entry key="ENGLISH" value="1992" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
