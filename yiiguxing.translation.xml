@@ -1,14 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="538" />
+    <option name="newTranslationDialogWidth" value="536" />
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="证书&#10;" />
+      <item value="Attempt to get length of null array" />
       <item value="last" />
       <item value="on Play Completion" />
       <item value="let" />
       <item value="Direct" />
-      <item value="证书&#10;" />
       <item value="熊&#10;" />
       <item value="xi" />
       <item value="奖励&#10;" />
@@ -53,12 +54,11 @@
       <item value="奖励&#10;&#10;" />
       <item value="结果&#10;" />
       <item value="百万阅读&#10;" />
-      <item value="百万" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2002" />
-        <entry key="ENGLISH" value="2003" />
+        <entry key="CHINESE" value="2003" />
+        <entry key="ENGLISH" value="2004" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
