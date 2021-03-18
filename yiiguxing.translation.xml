@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="let" />
       <item value="Direct" />
       <item value="证书&#10;" />
       <item value="熊&#10;" />
@@ -53,12 +54,11 @@
       <item value="百万" />
       <item value="bai" />
       <item value="A failure occurred while executing org.jetbrains.kotlin.gradle.internal.KaptExecution" />
-      <item value="Invocation Target Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1998" />
-        <entry key="ENGLISH" value="1999" />
+        <entry key="CHINESE" value="1999" />
+        <entry key="ENGLISH" value="2000" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
