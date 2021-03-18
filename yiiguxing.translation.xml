@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="last" />
       <item value="on Play Completion" />
       <item value="let" />
       <item value="Direct" />
@@ -53,12 +54,11 @@
       <item value="结果&#10;" />
       <item value="百万阅读&#10;" />
       <item value="百万" />
-      <item value="bai" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2000" />
-        <entry key="ENGLISH" value="2001" />
+        <entry key="CHINESE" value="2001" />
+        <entry key="ENGLISH" value="2002" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
