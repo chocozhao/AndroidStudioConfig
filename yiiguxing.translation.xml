@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="542" />
+    <option name="newTranslationDialogWidth" value="540" />
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="熊&#10;" />
+      <item value="xi" />
+      <item value="奖励&#10;" />
       <item value="获得&#10;" />
       <item value="huo'd" />
       <item value="活动" />
@@ -22,7 +25,6 @@
       <item value="Qeustion" />
       <item value="gradient" />
       <item value="熊币&#10;" />
-      <item value="熊&#10;" />
       <item value="x" />
       <item value="lottie loop" />
       <item value="问题" />
@@ -33,7 +35,6 @@
       <item value="ji" />
       <item value="熊熊币&#10;" />
       <item value="熊熊bi" />
-      <item value="xi" />
       <item value="sans-serif-medium" />
       <item value="attach To Recycler View" />
       <item value="get Now Playing Song Info" />
@@ -53,7 +54,6 @@
       <item value="Invocation Target Exception" />
       <item value="java.lang.reflect.Invocation Target Exception" />
       <item value="org.jetbrains.kotlin.kapt3.base.util.KaptBaseError: Error while annotation processing" />
-      <item value="Execution failed for task ':app:kaptDebugKotlin'." />
     </histories>
     <option name="languageScores">
       <map>
