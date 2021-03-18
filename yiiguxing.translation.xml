@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="540" />
+    <option name="newTranslationDialogWidth" value="538" />
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="证书&#10;" />
       <item value="熊&#10;" />
       <item value="xi" />
       <item value="奖励&#10;" />
@@ -53,7 +54,6 @@
       <item value="A failure occurred while executing org.jetbrains.kotlin.gradle.internal.KaptExecution" />
       <item value="Invocation Target Exception" />
       <item value="java.lang.reflect.Invocation Target Exception" />
-      <item value="org.jetbrains.kotlin.kapt3.base.util.KaptBaseError: Error while annotation processing" />
     </histories>
     <option name="languageScores">
       <map>
