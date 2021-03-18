@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="536" />
+    <option name="newTranslationDialogWidth" value="534" />
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
-      <item value="stroke" />
       <item value="证书&#10;" />
+      <item value="stroke" />
       <item value="Attempt to get length of null array" />
       <item value="last" />
       <item value="on Play Completion" />
