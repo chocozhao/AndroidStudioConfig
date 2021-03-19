@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="Continue Info" />
+      <item value="Certificate" />
       <item value="cl Mission" />
       <item value="is Empty" />
       <item value="object" />
@@ -52,13 +54,11 @@
       <item value="attach To Recycler View" />
       <item value="get Now Playing Song Info" />
       <item value="send Audio Change" />
-      <item value="本地数据&#10;" />
-      <item value="本地" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2011" />
-        <entry key="ENGLISH" value="2012" />
+        <entry key="CHINESE" value="2013" />
+        <entry key="ENGLISH" value="2014" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
