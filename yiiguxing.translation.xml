@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="save Image To Gallery V 3" />
+      <item value="is Png" />
       <item value="证书&#10;" />
       <item value="stroke" />
       <item value="Attempt to get length of null array" />
@@ -52,13 +54,11 @@
       <item value="e'b" />
       <item value="medal" />
       <item value="积累阅读&#10;" />
-      <item value="奖励&#10;&#10;" />
-      <item value="结果&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2005" />
-        <entry key="ENGLISH" value="2006" />
+        <entry key="CHINESE" value="2007" />
+        <entry key="ENGLISH" value="2008" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
