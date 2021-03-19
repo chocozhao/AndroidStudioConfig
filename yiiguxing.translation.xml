@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="532" />
+    <option name="newTranslationDialogWidth" value="530" />
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="mission" />
+      <item value="deal&#10;&#10;" />
+      <item value="deal&#10;" />
+      <item value="处理&#10;" />
       <item value="G Preview Builder" />
       <item value="Shadow Layout" />
       <item value="Rertificate" />
@@ -50,15 +54,11 @@
       <item value="熊币&#10;" />
       <item value="x" />
       <item value="lottie loop" />
-      <item value="问题" />
-      <item value="w" />
-      <item value="Program" />
-      <item value="carry&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2019" />
-        <entry key="ENGLISH" value="2020" />
+        <entry key="CHINESE" value="2020" />
+        <entry key="ENGLISH" value="2021" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
