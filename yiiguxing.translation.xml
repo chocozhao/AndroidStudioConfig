@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="534" />
+    <option name="newTranslationDialogWidth" value="532" />
     <option name="newTranslationDialogX" value="966" />
     <option name="newTranslationDialogY" value="514" />
     <histories>
+      <item value="分享&#10;" />
       <item value="COMMON SHARE" />
       <item value="target Class" />
       <item value="FAVORITE" />
@@ -53,7 +54,6 @@
       <item value="继续&#10;" />
       <item value="ji" />
       <item value="熊熊币&#10;" />
-      <item value="熊熊bi" />
     </histories>
     <option name="languageScores">
       <map>
