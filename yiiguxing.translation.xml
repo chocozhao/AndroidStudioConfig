@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Here are the basics:  - [ ]  Click anywhere and just start typing - [ ]  Hit `/` to see all the types of content you can add - headers, videos, sub pages, etc.      [Example sub page](https://www.notion.so/Example-sub-page-4067d41cd760496e88b1b3ef83cb79dc)  - [ ]  Highlight any text, and use the menu that pops up to **style** *your* ~~writing~~ `however` [you](https://www.notion.so/product) like - [ ]  See the `⋮⋮` to the left of this checkbox on hover? Click and drag to move this line - [ ]  Click the `+ New Page` button at the bottom of your sidebar to add a new page - [ ]  Click `Templates` in your sidebar to get started with pre-built pages - This is a toggle block. Click the little triangle to see more useful tips!     - [Template Gallery](https://www.notion.so/notion/Notion-Template-Gallery-181e961aeb5c4ee6915307c0dfd5156d): More templates built by the Notion community     - [Help &amp; Support](https://www.notion.so/notion/Help-Support-e040febf70a94950b8620e6f00005004): ****Guides and FAQs for everything in Notion     - Stay organized with your sidebar and nested pages:          ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/91baa20e-4025-48b9-a46e-04f179637b3f/infinitehierarchynodither.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/91baa20e-4025-48b9-a46e-04f179637b3f/infinitehierarchynodither.gif)" />
+      <item value="Personal Home" />
+      <item value="Quick Note" />
+      <item value="Journal" />
       <item value="USER ACCESS TOKEN" />
       <item value="get Transition" />
       <item value="Mobclick Agent" />
@@ -47,14 +51,10 @@
       <item value="Caused by: org.gradle.internal.metaobject.AbstractDynamicObject$CustomMessageMissingMethodException: Could not find method google() for arguments [] on repository container." />
       <item value="Cannot parse project property android.enableJetifier='false ' of type 'class java.lang.String' as boolean. Expected 'true' or 'false'." />
       <item value="bridge" />
-      <item value="uses-sdk:minSdkVersion 19 cannot be smaller than version 21 declared in library [:react-native-native-mqtt] D:\project\datang-cashier-web\node_modules\react-native-native-mqtt\android\build\intermediates\library_manifest\debug\AndroidManifest.xml as the library might be using APIs not available in 19 Suggestion: use a compatible library with a minSdk of at most 19," />
-      <item value="API 'variant.getJavaCompile()' is obsolete and has been replaced with 'variant.getJavaCompileProvider()'." />
-      <item value="hn" />
-      <item value="cashier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1867" />
+        <entry key="CHINESE" value="1868" />
         <entry key="ENGLISH" value="1868" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
