@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="直播" />
+      <item value="机器人" />
+      <item value="技术笔记" />
+      <item value="读书笔记" />
       <item value="数据结构" />
       <item value="数据" />
       <item value="技术" />
@@ -47,10 +51,6 @@
       <item value="annotation class 6831" />
       <item value="java.lang.IllegalStateException: GeneratedAppGlideModuleImpl is implemented incorrectly. If you've manually implemented this class, remove your implementation. The Annotation processor will generate a correct implementation." />
       <item value="Compilation is not supported for following modules: MVPArms-master. Unfortunately you can't have non-Gradle Java modules and Android-Gradle modules in one project." />
-      <item value="No toolchains found in the NDK toolchains folder for ABI with prefix: mips64el-linux-android This version of the NDK may be incompatible with the Android Gradle plugin version 3.0 or older. Please use plugin version 3.1 or newer." />
-      <item value="正式" />
-      <item value="环境" />
-      <item value="Connection timed out: connect. If you are behind an HTTP proxy, please configure the proxy settings either in IDE or Gradle." />
     </histories>
     <option name="languageScores">
       <map>
