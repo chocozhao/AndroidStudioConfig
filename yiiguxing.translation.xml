@@ -1,6 +1,28 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Use this template to track your personal tasks. Click + New to create a new task directly on this board. Click an existing task to add additional context or subtasks." />
+      <item value="Weekly Agenda" />
+      <item value="Job Applications" />
+      <item value="Resume" />
+      <item value="Life Wiki" />
+      <item value="Habit Tracker" />
+      <item value="Simple Notebook" />
+      <item value="Blog Post" />
+      <item value="Travel Planner" />
+      <item value="Goals" />
+      <item value="personal" />
+      <item value="Course Schedule" />
+      <item value="Lesson Plans" />
+      <item value="Classroom Home" />
+      <item value="Syllabus" />
+      <item value="Simple Budget" />
+      <item value="Roommate Home" />
+      <item value="Personal CRM 、" />
+      <item value="Cornell Notes System" />
+      <item value="Thesis Planning " />
+      <item value="Quick Note" />
+      <item value="Journal" />
       <item value="直播" />
       <item value="机器人" />
       <item value="技术笔记" />
@@ -10,8 +32,6 @@
       <item value="技术" />
       <item value="Here are the basics:  - [ ]  Click anywhere and just start typing - [ ]  Hit `/` to see all the types of content you can add - headers, videos, sub pages, etc.      [Example sub page](https://www.notion.so/Example-sub-page-4067d41cd760496e88b1b3ef83cb79dc)  - [ ]  Highlight any text, and use the menu that pops up to **style** *your* ~~writing~~ `however` [you](https://www.notion.so/product) like - [ ]  See the `⋮⋮` to the left of this checkbox on hover? Click and drag to move this line - [ ]  Click the `+ New Page` button at the bottom of your sidebar to add a new page - [ ]  Click `Templates` in your sidebar to get started with pre-built pages - This is a toggle block. Click the little triangle to see more useful tips!     - [Template Gallery](https://www.notion.so/notion/Notion-Template-Gallery-181e961aeb5c4ee6915307c0dfd5156d): More templates built by the Notion community     - [Help &amp; Support](https://www.notion.so/notion/Help-Support-e040febf70a94950b8620e6f00005004): ****Guides and FAQs for everything in Notion     - Stay organized with your sidebar and nested pages:          ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/91baa20e-4025-48b9-a46e-04f179637b3f/infinitehierarchynodither.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/91baa20e-4025-48b9-a46e-04f179637b3f/infinitehierarchynodither.gif)" />
       <item value="Personal Home" />
-      <item value="Quick Note" />
-      <item value="Journal" />
       <item value="USER ACCESS TOKEN" />
       <item value="get Transition" />
       <item value="Mobclick Agent" />
@@ -31,30 +51,10 @@
       <item value="Cause: you should set a custom Application otherwise you can't use the hotfix feature" />
       <item value="attach Base Context" />
       <item value="you must install multiDex whatever tinker is installed!" />
-      <item value="use Delegate Last Class Loader" />
-      <item value="tinker Load Verify Flag" />
-      <item value="No such property: variantConfiguration for class" />
-      <item value="No such property: variantConfiguration for class: com.android.build.gradle.internal.variant.ApplicationVariantData" />
-      <item value="nativecrashreport" />
-      <item value="    [GitHub] The &quot;AUTO_TASK_FOR_BILIBILI&quot; workflow in chocozhao/BILIBILI-HELPER has been disabled      GitHub Actions scheduled workflow     Scheduled workflows are disabled automatically after 60 days of repository inactivity.    Learn more about disabling and enabling a workflow https://docs.github.com/actions/managing-workflow-runs/disabling-and-enabling-a-workflow    If you would like the AUTO_TASK_FOR_BILIBILI workflow to continue running, click the button below.    Continue running workflow       You are receiving this because you are the owner of the chocozhao/BILIBILI-HELPER repository.    GitHub, Inc. ・88 Colin P Kelly Jr Street ・San Francisco, CA 94107" />
-      <item value="compatibility Data Size Changed" />
-      <item value="use original lines indent for wrapped parts" />
-      <item value="wrap on typing" />
-      <item value="hard wrap at" />
-      <item value="TypeError: undefined is not an object (evaluating 'this.RNBridgeModule.getCurrentAppVersion')" />
-      <item value="价签" />
-      <item value="To suppress this warning, remove &quot;buildToolsVersion '26.0.3'&quot; from your build.gradle file, as each version of the Android Gradle Plugin now has a default version of the build tools." />
-      <item value="Disable offline mode and sync project" />
-      <item value="Could not resolve com.github.kongqw:AndroidSerialPort" />
-      <item value="Missing Property Exception" />
-      <item value="Could not get unknown property 'mergeResourcesProvider' for object of type com.android.build.gradle.internal.api.ApplicationVariantImpl." />
-      <item value="annotation class 6831" />
-      <item value="java.lang.IllegalStateException: GeneratedAppGlideModuleImpl is implemented incorrectly. If you've manually implemented this class, remove your implementation. The Annotation processor will generate a correct implementation." />
-      <item value="Compilation is not supported for following modules: MVPArms-master. Unfortunately you can't have non-Gradle Java modules and Android-Gradle modules in one project." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1868" />
+        <entry key="CHINESE" value="1869" />
         <entry key="ENGLISH" value="1869" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
