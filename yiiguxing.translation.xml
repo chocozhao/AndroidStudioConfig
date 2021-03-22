@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="741" />
     <option name="newTranslationDialogY" value="260" />
     <histories>
+      <item value="Stack" />
       <item value="管理&#10;" />
       <item value="Condition 'bean.question != null' is always 'true'" />
       <item value="Do not concatenate text displayed with setText. Use resource string with placeholders." />
@@ -53,12 +54,11 @@
       <item value="xun'yao" />
       <item value="x'n" />
       <item value="question" />
-      <item value="Qeustion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2020" />
-        <entry key="ENGLISH" value="2021" />
+        <entry key="CHINESE" value="2021" />
+        <entry key="ENGLISH" value="2022" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
