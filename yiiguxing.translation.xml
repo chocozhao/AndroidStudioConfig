@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="528" />
+    <option name="newTranslationDialogWidth" value="526" />
     <option name="newTranslationDialogX" value="741" />
     <option name="newTranslationDialogY" value="260" />
     <histories>
+      <item value="管理&#10;" />
       <item value="Condition 'bean.question != null' is always 'true'" />
       <item value="Do not concatenate text displayed with setText. Use resource string with placeholders." />
       <item value="VasSonic is a lightweight and high-performance Hybrid framework developed by tencent VAS team, which is intended to speed up the first screen of websites working on Android and iOS platform. Not only does VasSonic supports the static or dynamic websites which are rendered by server, but it is also compatible with web offline resource perfectly.&#10;&#10;VasSonic uses custom url connection instead of original network connection to request the index html, so it can request resource in advance or parallel to avoid waiting for the view initialization. In this parallel case, VasSonic can read and render partial data by WebKit or Blink kernel without spending too much time waiting for the end of data stream.&#10;&#10;VasSonic can cache html cleverly according to VasSonic Specification obeyed by client and server. VasSonic Specification specify template and data by inserting different comment anchor, templates are bigger parts of html which stay the same or changed rarely , in contradiction data, which is the smaller and constantly change part of html. According to this, VasSonic request less data by incremental updating templates and data, the websites are faster and feel more like native application. In conclusion, VasSonic effectively enhance the user experience and increase click rate, retention rate and other indicators.&#10;&#10;Sonic is called for short in project." />
@@ -53,7 +54,6 @@
       <item value="x'n" />
       <item value="question" />
       <item value="Qeustion" />
-      <item value="gradient" />
     </histories>
     <option name="languageScores">
       <map>
