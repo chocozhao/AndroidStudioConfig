@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="741" />
     <option name="newTranslationDialogY" value="260" />
     <histories>
+      <item value="FLAG ACTIVITY SINGLE TOP" />
+      <item value="has Extra" />
+      <item value="FLAG ACTIVITY CLEAR TOP" />
       <item value="Incompatible types: Unit and String" />
       <item value="Incompatible types: Unit and Strin" />
       <item value="Stack" />
@@ -51,14 +54,11 @@
       <item value="tiao" />
       <item value="COURSE" />
       <item value="rectangle" />
-      <item value="炫耀&#10;" />
-      <item value="xuan'y" />
-      <item value="xun'yao" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2021" />
-        <entry key="ENGLISH" value="2022" />
+        <entry key="CHINESE" value="2025" />
+        <entry key="ENGLISH" value="2026" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
