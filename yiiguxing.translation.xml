@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="524" />
+    <option name="newTranslationDialogWidth" value="522" />
     <option name="newTranslationDialogX" value="741" />
     <option name="newTranslationDialogY" value="260" />
     <histories>
+      <item value=" using a dynamic URL" />
+      <item value="a resource relative to your base URL" />
+      <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path" />
       <item value="动画" />
       <item value="d" />
       <item value="Streaming" />
@@ -51,14 +54,11 @@
       <item value="on Play Completion" />
       <item value="let" />
       <item value="Direct" />
-      <item value="熊&#10;" />
-      <item value="xi" />
-      <item value="奖励&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2034" />
-        <entry key="ENGLISH" value="2035" />
+        <entry key="CHINESE" value="2035" />
+        <entry key="ENGLISH" value="2036" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
