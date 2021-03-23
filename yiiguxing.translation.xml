@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="741" />
     <option name="newTranslationDialogY" value="260" />
     <histories>
+      <item value="set Core Pool Size" />
       <item value="add On All Task End Listener" />
       <item value="Log Download Listener" />
       <item value="md 5 User" />
@@ -53,12 +54,11 @@
       <item value="save Image To Gallery V 3" />
       <item value="is Png" />
       <item value="证书&#10;" />
-      <item value="stroke" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2041" />
-        <entry key="ENGLISH" value="2042" />
+        <entry key="CHINESE" value="2043" />
+        <entry key="ENGLISH" value="2044" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
