@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="741" />
     <option name="newTranslationDialogY" value="260" />
     <histories>
+      <item value="add On All Task End Listener" />
+      <item value="Log Download Listener" />
       <item value="md 5 User" />
       <item value="priority" />
       <item value="not open trace switch JAR_JNI_VERSION is 1 or dump type is sigquit" />
@@ -52,13 +54,11 @@
       <item value="is Png" />
       <item value="证书&#10;" />
       <item value="stroke" />
-      <item value="Attempt to get length of null array" />
-      <item value="last" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2038" />
-        <entry key="ENGLISH" value="2039" />
+        <entry key="CHINESE" value="2041" />
+        <entry key="ENGLISH" value="2042" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
