@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="741" />
     <option name="newTranslationDialogY" value="260" />
     <histories>
+      <item value="on Post Execute" />
+      <item value="submit" />
       <item value="READ PHONE STATE" />
       <item value="Cache Constants" />
       <item value="app:check Debug Duplicate Classe" />
@@ -52,13 +54,11 @@
       <item value="target Class" />
       <item value="FAVORITE" />
       <item value="CIRCLE" />
-      <item value="Continue Info" />
-      <item value="Certificate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2049" />
-        <entry key="ENGLISH" value="2050" />
+        <entry key="CHINESE" value="2051" />
+        <entry key="ENGLISH" value="2052" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
