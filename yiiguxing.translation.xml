@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="741" />
     <option name="newTranslationDialogY" value="260" />
     <histories>
+      <item value="Cache Constants" />
+      <item value="app:check Debug Duplicate Classe" />
+      <item value="Duplicate" />
       <item value="CENTER" />
       <item value="lottie loop" />
       <item value="separator" />
@@ -51,19 +54,16 @@
       <item value="Continue Info" />
       <item value="Certificate" />
       <item value="cl Mission" />
-      <item value="is Empty" />
-      <item value="object" />
-      <item value="Content Resolver" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2046" />
-        <entry key="ENGLISH" value="2047" />
+        <entry key="CHINESE" value="2049" />
+        <entry key="ENGLISH" value="2049" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="FRENCH" value="7" />
+        <entry key="FRENCH" value="8" />
         <entry key="FINNISH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="DUTCH" value="2" />
