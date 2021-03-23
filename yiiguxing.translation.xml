@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="741" />
     <option name="newTranslationDialogY" value="260" />
     <histories>
+      <item value="CENTER" />
       <item value="lottie loop" />
       <item value="separator" />
       <item value="set Core Pool Size" />
@@ -53,12 +54,11 @@
       <item value="is Empty" />
       <item value="object" />
       <item value="Content Resolver" />
-      <item value="save Image To Gallery V 3" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2045" />
-        <entry key="ENGLISH" value="2046" />
+        <entry key="CHINESE" value="2046" />
+        <entry key="ENGLISH" value="2047" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
