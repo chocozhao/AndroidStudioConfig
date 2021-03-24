@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="741" />
     <option name="newTranslationDialogY" value="260" />
     <histories>
+      <item value="Execution failed for task ':app:kaptDebugKotlin'. &gt; A failure occurred while executing org.jetbrains.kotlin.gradle.internal.KaptExecution &gt; java.lang.reflect.InvocationTargetException (no error message)" />
+      <item value="The daemon has finished executing the build." />
+      <item value="java.lang.reflect.Invocation Target Exception" />
+      <item value="A failure occurred while executing org.jetbrains.kotlin.gradle.internal.KaptExecution" />
+      <item value="Error while annotation processing" />
       <item value="AAPT2 aapt2-3.4.2-5326820-windows Daemon 6: shutdown" />
       <item value="Execution failed for task ':app:kaptDebugKotlin'. 09:03:35.332 [ERROR] [org.gradle.internal.buildevents.BuildExceptionReporter] &gt; A failure occurred while executing org.jetbrains.kotlin.gradle.internal.KaptExecution 09:03:35.332 [ERROR] [org.gradle.internal.buildevents.BuildExceptionReporter] &gt; java.lang.reflect.InvocationTargetException (no error message)" />
       <item value="Property name'TOTAL_READ' should start with a lowercase letter &#10;" />
@@ -49,16 +54,11 @@
       <item value="Do not concatenate text displayed with setText. Use resource string with placeholders." />
       <item value="VasSonic is a lightweight and high-performance Hybrid framework developed by tencent VAS team, which is intended to speed up the first screen of websites working on Android and iOS platform. Not only does VasSonic supports the static or dynamic websites which are rendered by server, but it is also compatible with web offline resource perfectly.&#10;&#10;VasSonic uses custom url connection instead of original network connection to request the index html, so it can request resource in advance or parallel to avoid waiting for the view initialization. In this parallel case, VasSonic can read and render partial data by WebKit or Blink kernel without spending too much time waiting for the end of data stream.&#10;&#10;VasSonic can cache html cleverly according to VasSonic Specification obeyed by client and server. VasSonic Specification specify template and data by inserting different comment anchor, templates are bigger parts of html which stay the same or changed rarely , in contradiction data, which is the smaller and constantly change part of html. According to this, VasSonic request less data by incremental updating templates and data, the websites are faster and feel more like native application. In conclusion, VasSonic effectively enhance the user experience and increase click rate, retention rate and other indicators.&#10;&#10;Sonic is called for short in project." />
       <item value="mission" />
-      <item value="deal&#10;&#10;" />
-      <item value="deal&#10;" />
-      <item value="处理&#10;" />
-      <item value="G Preview Builder" />
-      <item value="Shadow Layout" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2054" />
-        <entry key="ENGLISH" value="2055" />
+        <entry key="CHINESE" value="2060" />
+        <entry key="ENGLISH" value="2061" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
