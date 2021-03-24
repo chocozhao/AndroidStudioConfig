@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="741" />
     <option name="newTranslationDialogY" value="260" />
     <histories>
+      <item value="AAPT2 aapt2-3.4.2-5326820-windows Daemon 6: shutdown" />
       <item value="Execution failed for task ':app:kaptDebugKotlin'. 09:03:35.332 [ERROR] [org.gradle.internal.buildevents.BuildExceptionReporter] &gt; A failure occurred while executing org.jetbrains.kotlin.gradle.internal.KaptExecution 09:03:35.332 [ERROR] [org.gradle.internal.buildevents.BuildExceptionReporter] &gt; java.lang.reflect.InvocationTargetException (no error message)" />
       <item value="Property name'TOTAL_READ' should start with a lowercase letter &#10;" />
       <item value="Private property name'TOTAL_READ' should not contain underscores in the middle or the end " />
@@ -53,12 +54,11 @@
       <item value="处理&#10;" />
       <item value="G Preview Builder" />
       <item value="Shadow Layout" />
-      <item value="Rertificate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2053" />
-        <entry key="ENGLISH" value="2054" />
+        <entry key="CHINESE" value="2054" />
+        <entry key="ENGLISH" value="2055" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
