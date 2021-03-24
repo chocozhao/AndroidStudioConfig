@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="741" />
     <option name="newTranslationDialogY" value="260" />
     <histories>
+      <item value="Property name'TOTAL_READ' should start with a lowercase letter &#10;" />
+      <item value="Private property name'TOTAL_READ' should not contain underscores in the middle or the end " />
       <item value="dest Dir Path" />
       <item value="share media" />
       <item value="on Post Execute" />
@@ -52,8 +54,6 @@
       <item value="Shadow Layout" />
       <item value="Rertificate" />
       <item value="分享&#10;" />
-      <item value="COMMON SHARE" />
-      <item value="target Class" />
     </histories>
     <option name="languageScores">
       <map>
