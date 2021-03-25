@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="741" />
     <option name="newTranslationDialogY" value="260" />
     <histories>
+      <item value="App Compat Image View" />
+      <item value="Manifest merger failed with multiple errors, see logs" />
       <item value="invalid" />
       <item value="&#10;ref" />
       <item value="云&#10;ref" />
@@ -52,13 +54,11 @@
       <item value="CENTER" />
       <item value="lottie loop" />
       <item value="separator" />
-      <item value="set Core Pool Size" />
-      <item value="add On All Task End Listener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2082" />
-        <entry key="ENGLISH" value="2083" />
+        <entry key="CHINESE" value="2084" />
+        <entry key="ENGLISH" value="2085" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
