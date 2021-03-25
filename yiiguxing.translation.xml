@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="516" />
+    <option name="newTranslationDialogWidth" value="514" />
     <option name="newTranslationDialogX" value="741" />
     <option name="newTranslationDialogY" value="260" />
     <histories>
-      <item value="集合&#10;" />
+      <item value="invalid" />
+      <item value="&#10;ref" />
+      <item value="云&#10;ref" />
       <item value="云&#10;" />
+      <item value="集合&#10;" />
       <item value="You should Call MMKV.initialize() first." />
       <item value="PPT Manage Window" />
       <item value="MODE PRIVATE" />
@@ -51,9 +54,6 @@
       <item value="separator" />
       <item value="set Core Pool Size" />
       <item value="add On All Task End Listener" />
-      <item value="Log Download Listener" />
-      <item value="md 5 User" />
-      <item value="priority" />
     </histories>
     <option name="languageScores">
       <map>
