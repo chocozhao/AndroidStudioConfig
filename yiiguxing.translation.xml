@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="741" />
     <option name="newTranslationDialogY" value="260" />
     <histories>
+      <item value="spans cannot have a zero length" />
       <item value="专属&#10;" />
       <item value="专属" />
       <item value="zhuan'su" />
@@ -53,12 +54,11 @@
       <item value="Attempt to invoke virtual method 'java.lang.String android.content.Context.getPackageName()" />
       <item value="replaceApplicationLike delegateClass:class com.tencent.bugly.beta.tinker.TinkerApplicationLike" />
       <item value="token null is not valid; is your activity running?" />
-      <item value="Show Net Request Help" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2071" />
-        <entry key="ENGLISH" value="2072" />
+        <entry key="CHINESE" value="2072" />
+        <entry key="ENGLISH" value="2073" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
