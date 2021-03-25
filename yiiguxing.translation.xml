@@ -1,9 +1,16 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="514" />
-    <option name="newTranslationDialogX" value="741" />
-    <option name="newTranslationDialogY" value="260" />
+    <option name="newTranslationDialogHeight" value="463" />
+    <option name="newTranslationDialogWidth" value="1129" />
+    <option name="newTranslationDialogX" value="465" />
+    <option name="newTranslationDialogY" value="620" />
     <histories>
+      <item value="tools:replace specified at line:57 for attribute tools:android：networkSecurityConfig, but no new value specified framework.app main manifest (this file), line 56" />
+      <item value="Merging Errors: Warning Element meta-data#com.huawei.hms.client.appid at AndroidManifest.xml:1180:9-1182:47 duplicated with element declared at AndroidManifest.xml:71:9-73:47 framework.app main manifest (this file), line 1179 Error: Attribute application@networkSecurityConfig value=(@xml/network_config_baijiayun) from AndroidManifest.xml:18:9-70 is also present at AndroidManifest.xml:13:18-69 value=(@xml/network_config). Suggestion: add 'tools:replace=&quot;android:networkSecurityConfig&quot;' to &lt;application&gt; element at AndroidManifest.xml:57:5-1185:19 to override. framework.app main manifest (this file), line 17" />
+      <item value="Merging Errors: Warning Element meta-datacom.huawei.hms.client.appid at AndroidManifest.xml:1180:9-1182:47 duplicated with element declared at AndroidManifest.xml:71:9-73:47 framework.app main manifest (this file), line 1179 Error: Attribute application@networkSecurityConfig value=(@xmlnetwork_config_baijiayun) from AndroidManifest.xml:18:9-70 is also present at AndroidManifest.xml:13:18-69 value=(@xmlnetwork_config). Suggestion: add 'tools:replace=&quot;android:networkSecurityConfig&quot;' to &lt;application&gt; element at AndroidManifest.xml:57:5-1185:19 to override. framework.app main manifest (this file), line 17" />
+      <item value="Error: tools:replace specified at line:57 for attribute android:networkSecurityConfig, but no new value specified framework.app main manifest (this file), line 56 Warning Element meta-datacom.huawei.hms.client.appid at AndroidManifest.xml:1180:9-1182:47 duplicated with element declared at AndroidManifest.xml:71:9-73:47 framework.app main manifest (this file), line 1179 Error: Validation failed, exiting framework.app main manifest (this file)" />
+      <item value="Warning Element meta-datacom.huawei.hms.client.appid at AndroidManifest.xml:1180:9-1182:47 duplicated with element declared at AndroidManifest.xml:71:9-73:47 framework.app main manifest (this file), line 1179 Error: Attribute application@networkSecurityConfig value=(@xmlnetwork_config_baijiayun) from AndroidManifest.xml:18:9-70 is also present at AndroidManifest.xml:13:18-69 value=(@xmlnetwork_config). Suggestion: add 'tools:replace=&quot;android:networkSecurityConfig&quot;' to &lt;application&gt; element at AndroidManifest.xml:57:5-1185:19 to override. framework.app main manifest (this file), line 17" />
+      <item value="Attribute application@networkSecurityConfig value=(@xmlnetwork_config_baijiayun) from AndroidManifest.xml:18:9-70 is also present at AndroidManifest.xml:13:18-69 value=(@xmlnetwork_config). Suggestion: add 'tools:replace=&quot;android:networkSecurityConfig&quot;' to &lt;application&gt; element at AndroidManifest.xml:57:5-1185:19 to override. framework.app main manifest (this file), line 17" />
       <item value="App Compat Image View" />
       <item value="Manifest merger failed with multiple errors, see logs" />
       <item value="invalid" />
@@ -48,12 +55,6 @@
       <item value="on Post Execute" />
       <item value="submit" />
       <item value="READ PHONE STATE" />
-      <item value="Cache Constants" />
-      <item value="app:check Debug Duplicate Classe" />
-      <item value="Duplicate" />
-      <item value="CENTER" />
-      <item value="lottie loop" />
-      <item value="separator" />
     </histories>
     <option name="languageScores">
       <map>
