@@ -1,9 +1,17 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="522" />
+    <option name="newTranslationDialogWidth" value="520" />
     <option name="newTranslationDialogX" value="741" />
     <option name="newTranslationDialogY" value="260" />
     <histories>
+      <item value="专属&#10;" />
+      <item value="专属" />
+      <item value="zhuan'su" />
+      <item value="Using Network Security Config from resource network_config_baijiayun debugBuild: true" />
+      <item value="network unreachable" />
+      <item value="steps" />
+      <item value="com.baijiahulian.common.networkv2.HttpException: Canceled" />
+      <item value="A resource failed to call close." />
       <item value="Unable to parse composition" />
       <item value="is Network Exception" />
       <item value="set Animation From Url" />
@@ -46,19 +54,11 @@
       <item value="replaceApplicationLike delegateClass:class com.tencent.bugly.beta.tinker.TinkerApplicationLike" />
       <item value="token null is not valid; is your activity running?" />
       <item value="Show Net Request Help" />
-      <item value="FLAG ACTIVITY SINGLE TOP" />
-      <item value="has Extra" />
-      <item value="FLAG ACTIVITY CLEAR TOP" />
-      <item value="Incompatible types: Unit and String" />
-      <item value="Incompatible types: Unit and Strin" />
-      <item value="Stack" />
-      <item value="管理&#10;" />
-      <item value="Condition 'bean.question != null' is always 'true'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2065" />
-        <entry key="ENGLISH" value="2066" />
+        <entry key="CHINESE" value="2071" />
+        <entry key="ENGLISH" value="2072" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
