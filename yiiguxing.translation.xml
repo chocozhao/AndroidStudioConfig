@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="375.0 f" />
+      <item value="DESIGN DRAWING WIDTH" />
       <item value="build Features" />
       <item value="on object of type com.android.build.gradle.internal.dsl.BaseAppModuleExtension" />
       <item value="Attribute application@networkSecurityConfig value=(@xmlnetwork_config_baijiayun) from AndroidManifest.xml:18:9-70 is also present at AndroidManifest.xml:13:18-69 value=(@xmlnetwork_config)" />
@@ -53,13 +55,11 @@
       <item value="rOLLBAC" />
       <item value="rOLLBACK" />
       <item value="rO" />
-      <item value="restore workspace on branch switching&#10;show notification with ability to restore previous workspace" />
-      <item value="restore workspace on branch switching&#10;show notification with ability to restore previous workspa" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2115" />
-        <entry key="ENGLISH" value="2116" />
+        <entry key="CHINESE" value="2117" />
+        <entry key="ENGLISH" value="2118" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
