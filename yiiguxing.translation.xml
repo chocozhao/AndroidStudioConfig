@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="init Scaled Density" />
+      <item value="init Density" />
+      <item value="screen Height" />
+      <item value="screen Width" />
       <item value="375.0 f" />
       <item value="DESIGN DRAWING WIDTH" />
       <item value="build Features" />
@@ -51,20 +55,17 @@
       <item value="翻译失败: 未知错误&#10;&#10;&gt;Plugin v3.0.1  &#10;&gt;Android Studio 4.1.2  &#10;&gt;Build #AI-201.8743.12.41.7042882, built on December 20, 2020  &#10;&gt;Runtime version: 1.8.0_242-release-1644-b01 amd64  &#10;&gt;VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o  &#10;&gt;OS: Windows 10 10.0&#10;&#10;```&#10;cn.yiiguxing.plugin.translate.trans.TranslateException: Google翻译 :: 翻译失败: 未知错误&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.translate(AbstractTranslator.kt:122)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.TranslateService$translate$$inlined$executeOnPooledThread$1.run(Applications.kt:184)&#10;&#9;at com.intellij.util.RunnableCallable.call(RunnableCallable.java:20)&#10;&#9;at com.intellij.util.RunnableCallable.call(RunnableCallable.java:11)&#10;&#9;at com.intellij.openapi.application.impl.ApplicationImpl$1.call(ApplicationImpl.java:255)&#10;&#9;at java.util.concurrent.FutureTask.run(FutureTask.java:266)&#10;&#9;at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)&#10;&#9;at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)&#10;&#9;at java.lang.Thread.run(Thread.java:748)&#10;Caused by: java.io.IOException: Server returned HTTP response code: 429 for URL: https://translate.google.cn/translate_a/single?sl=auto&amp;tl=zh-CN&amp;client=gtx&amp;dt=t&amp;dt=bd&amp;dt=rm&amp;dt=qca&amp;dj=1&amp;ie=UTF-8&amp;oe=UTF-8&amp;hl=zh-CN&amp;tk=189127.276614&#10;&#9;at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)&#10;&#9;at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)&#10;&#9;at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)&#10;&#9;at com.intellij.util.io.HttpRequests$RequestImpl.getInputStream(HttpRequests.java:384)&#10;&#9;at com.intellij.util.io.HttpRequests$RequestImpl.readString(HttpRequests.java:438)&#10;&#9;at com.intellij.util.io.HttpRequests$Request.readString(HttpRequests.java:104)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator$doTranslate$2.process(AbstractTranslator.kt:85)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator$doTranslate$2.process(AbstractTranslator.kt:21)&#10;&#9;at com.intellij.util.io.HttpRequests.doProcess(HttpRequests.java:516)&#10;&#9;at com.intellij.util.io.HttpRequests.process(HttpRequests.java:498)&#10;&#9;at com.intellij.util.io.HttpRequests.access$100(HttpRequests.java:56)&#10;&#9;at com.intellij.util.io.HttpRequests$RequestBuilderImpl.connect(HttpRequests.java:349)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.doTranslate(AbstractTranslator.kt:83)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.translate(AbstractTranslator.kt:95)&#10;&#9;... 8 more&#10;```&#10;" />
       <item value="Rollback&#10;&#10;&#10;" />
       <item value="R" />
-      <item value="r" />
-      <item value="rOLLBAC" />
-      <item value="rOLLBACK" />
-      <item value="rO" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2117" />
-        <entry key="ENGLISH" value="2118" />
+        <entry key="CHINESE" value="2120" />
+        <entry key="ENGLISH" value="2121" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="8" />
+        <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="DUTCH" value="2" />
