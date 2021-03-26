@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Cannot get property 'appcompatVersion' on extra properties extension as it does not exist" />
+      <item value="A problem occurred evaluating project ':liveplayer-sdk-ui'." />
+      <item value="on extra properties extension as it does not exist" />
+      <item value="build Features" />
+      <item value="amdc request fail" />
+      <item value="Cleartext HTTP traffic to amdcopen.m.taobao.com not permitted" />
+      <item value="com.ut.mini.UT Analytics" />
       <item value="tools:replace specified at line:59 for attribute android:networkSecurityConfig, but no new value specified framework.app main manifest (this file), line 58" />
       <item value="Validation failed, exiting framework.app main manifest (this file)" />
       <item value="app Component Factory" />
@@ -48,18 +55,11 @@
       <item value="restore workspace on branch switching&#10;show " />
       <item value="restore workspace on branch switching&#10;show" />
       <item value="restore workspace on branch switching&#10;" />
-      <item value="restore workspace on branch switching" />
-      <item value="restore workspace on branch switch" />
-      <item value="restore workspace on branch swit" />
-      <item value="restore workspace on branch swi" />
-      <item value="restore workspace on branch sw" />
-      <item value="restore workspace on branch s" />
-      <item value="restore workspace on branch " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2094" />
-        <entry key="ENGLISH" value="2095" />
+        <entry key="CHINESE" value="2100" />
+        <entry key="ENGLISH" value="2101" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
@@ -73,7 +73,7 @@
         <entry key="ROMANIAN" value="5" />
         <entry key="MALAGASY" value="1" />
         <entry key="MALAY" value="2" />
-        <entry key="NORWEGIAN" value="2" />
+        <entry key="NORWEGIAN" value="3" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SLOVAK" value="1" />
