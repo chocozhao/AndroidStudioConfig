@@ -1,13 +1,26 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1125" />
+    <option name="newTranslationDialogWidth" value="1123" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="tools:replace specified at line:59 for attribute android:networkSecurityConfig, but no new value specified framework.app main manifest (this file), line 58" />
+      <item value="Validation failed, exiting framework.app main manifest (this file)" />
+      <item value="app Component Factory" />
+      <item value="supports Rtl" />
+      <item value="Trust anchor for certification path not found" />
+      <item value="network Security Config" />
+      <item value="tools:replace specified at line:57 for attribute android:networkSecurityConfig, but no new value specified framework.app main manifest (this file), line 56" />
+      <item value="ools:replace specified at line:57 for attribute android:networkSecurityConfig, but no new value specified" />
+      <item value="Error: Attribute application@networkSecurityConfig value=(@xmlnetwork_config_baijiayun) from AndroidManifest.xml:18:9-70 is also present at AndroidManifest.xml:13:18-69 value=(@xmlnetwork_config)." />
+      <item value="Suggestion" />
+      <item value="Attribute" />
+      <item value="replace" />
+      <item value="include Subdomains" />
+      <item value="Warning Element meta-datacom.huawei.hms.client.appid at AndroidManifest.xml:1180:9-1182:47 duplicated with element declared at AndroidManifest.xml:71:9-73:47 framework.app main manifest (this file), line 1179 Error: Validation failed, exiting framework.app main manifest (this file)" />
       <item value="do Update Visited History" />
       <item value="AndroidAutoSize" />
-      <item value="Trust anchor for certification path not found" />
       <item value="java.security.cert.CertPathValidatorException: Trust anchor for certification path not found." />
       <item value="Method breakpoints may dramatically slow down debugging" />
       <item value="云" />
@@ -42,24 +55,11 @@
       <item value="restore workspace on branch sw" />
       <item value="restore workspace on branch s" />
       <item value="restore workspace on branch " />
-      <item value="restore workspace on br" />
-      <item value="restore workspace on b" />
-      <item value="restore workspace on " />
-      <item value="restore workspace" />
-      <item value="restore workspaceo" />
-      <item value="restore workspa" />
-      <item value="restore worksp" />
-      <item value="restore work" />
-      <item value="restore wor" />
-      <item value="restore " />
-      <item value="restore" />
-      <item value="resti" />
-      <item value="rest" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2087" />
-        <entry key="ENGLISH" value="2088" />
+        <entry key="CHINESE" value="2094" />
+        <entry key="ENGLISH" value="2095" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
