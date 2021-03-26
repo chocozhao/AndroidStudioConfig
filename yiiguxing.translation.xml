@@ -1,60 +1,60 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1129" />
-    <option name="newTranslationDialogX" value="465" />
-    <option name="newTranslationDialogY" value="620" />
+    <option name="newTranslationDialogWidth" value="1125" />
+    <option name="newTranslationDialogX" value="133" />
+    <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Method breakpoints may dramatically slow down debugging" />
+      <item value="云" />
+      <item value="yun" />
+      <item value="Rollback" />
+      <item value="翻译失败: 未知错误&#10;&#10;&gt;Plugin v3.0.1  &#10;&gt;Android Studio 4.1.2  &#10;&gt;Build #AI-201.8743.12.41.7042882, built on December 20, 2020  &#10;&gt;Runtime version: 1.8.0_242-release-1644-b01 amd64  &#10;&gt;VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o  &#10;&gt;OS: Windows 10 10.0&#10;&#10;```&#10;cn.yiiguxing.plugin.translate.trans.TranslateException: Google翻译 :: 翻译失败: 未知错误&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.translate(AbstractTranslator.kt:122)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.TranslateService$translate$$inlined$executeOnPooledThread$1.run(Applications.kt:184)&#10;&#9;at com.intellij.util.RunnableCallable.call(RunnableCallable.java:20)&#10;&#9;at com.intellij.util.RunnableCallable.call(RunnableCallable.java:11)&#10;&#9;at com.intellij.openapi.application.impl.ApplicationImpl$1.call(ApplicationImpl.java:255)&#10;&#9;at java.util.concurrent.FutureTask.run(FutureTask.java:266)&#10;&#9;at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)&#10;&#9;at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)&#10;&#9;at java.lang.Thread.run(Thread.java:748)&#10;Caused by: java.io.IOException: Server returned HTTP response code: 429 for URL: https://translate.google.cn/translate_a/single?sl=auto&amp;tl=zh-CN&amp;client=gtx&amp;dt=t&amp;dt=bd&amp;dt=rm&amp;dt=qca&amp;dj=1&amp;ie=UTF-8&amp;oe=UTF-8&amp;hl=zh-CN&amp;tk=189127.276614&#10;&#9;at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)&#10;&#9;at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)&#10;&#9;at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)&#10;&#9;at com.intellij.util.io.HttpRequests$RequestImpl.getInputStream(HttpRequests.java:384)&#10;&#9;at com.intellij.util.io.HttpRequests$RequestImpl.readString(HttpRequests.java:438)&#10;&#9;at com.intellij.util.io.HttpRequests$Request.readString(HttpRequests.java:104)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator$doTranslate$2.process(AbstractTranslator.kt:85)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator$doTranslate$2.process(AbstractTranslator.kt:21)&#10;&#9;at com.intellij.util.io.HttpRequests.doProcess(HttpRequests.java:516)&#10;&#9;at com.intellij.util.io.HttpRequests.process(HttpRequests.java:498)&#10;&#9;at com.intellij.util.io.HttpRequests.access$100(HttpRequests.java:56)&#10;&#9;at com.intellij.util.io.HttpRequests$RequestBuilderImpl.connect(HttpRequests.java:349)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.doTranslate(AbstractTranslator.kt:83)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.translate(AbstractTranslator.kt:95)&#10;&#9;... 8 more&#10;```&#10;" />
+      <item value="Rollback&#10;&#10;&#10;" />
+      <item value="R" />
+      <item value="r" />
+      <item value="rOLLBAC" />
+      <item value="rOLLBACK" />
+      <item value="rO" />
+      <item value="restore workspace on branch switching&#10;show notification with ability to restore previous workspace" />
+      <item value="restore workspace on branch switching&#10;show notification with ability to restore previous workspa" />
+      <item value="restore workspace on branch switching&#10;show notification with ability to restore previous worksp" />
+      <item value="restore workspace on branch switching&#10;show notification with ability to restore previou" />
+      <item value="restore workspace on branch switching&#10;show notification with ability to restore " />
+      <item value="restore workspace on branch switching&#10;show notification with ability to " />
+      <item value="restore workspace on branch switching&#10;show notification with abi" />
+      <item value="restore workspace on branch switching&#10;show notification with ab" />
+      <item value="restore workspace on branch switching&#10;show notification with " />
+      <item value="restore workspace on branch switching&#10;show notification w" />
+      <item value="restore workspace on branch switching&#10;show notification " />
+      <item value="restore workspace on branch switching&#10;show no" />
+      <item value="restore workspace on branch switching&#10;show " />
+      <item value="restore workspace on branch switching&#10;show" />
+      <item value="restore workspace on branch switching&#10;" />
+      <item value="restore workspace on branch switching" />
+      <item value="restore workspace on branch switch" />
+      <item value="restore workspace on branch swit" />
+      <item value="restore workspace on branch swi" />
+      <item value="restore workspace on branch sw" />
+      <item value="restore workspace on branch s" />
+      <item value="restore workspace on branch " />
+      <item value="restore workspace on br" />
+      <item value="restore workspace on b" />
+      <item value="restore workspace on " />
+      <item value="restore workspace" />
+      <item value="restore workspaceo" />
+      <item value="restore workspa" />
+      <item value="restore worksp" />
+      <item value="restore work" />
+      <item value="restore wor" />
+      <item value="restore " />
+      <item value="restore" />
+      <item value="resti" />
+      <item value="rest" />
+      <item value="res" />
+      <item value="re" />
+      <item value="Workspace associated with branch 'BJCloud' has been restored" />
       <item value="tools:replace specified at line:57 for attribute tools:android：networkSecurityConfig, but no new value specified framework.app main manifest (this file), line 56" />
-      <item value="Merging Errors: Warning Element meta-data#com.huawei.hms.client.appid at AndroidManifest.xml:1180:9-1182:47 duplicated with element declared at AndroidManifest.xml:71:9-73:47 framework.app main manifest (this file), line 1179 Error: Attribute application@networkSecurityConfig value=(@xml/network_config_baijiayun) from AndroidManifest.xml:18:9-70 is also present at AndroidManifest.xml:13:18-69 value=(@xml/network_config). Suggestion: add 'tools:replace=&quot;android:networkSecurityConfig&quot;' to &lt;application&gt; element at AndroidManifest.xml:57:5-1185:19 to override. framework.app main manifest (this file), line 17" />
-      <item value="Merging Errors: Warning Element meta-datacom.huawei.hms.client.appid at AndroidManifest.xml:1180:9-1182:47 duplicated with element declared at AndroidManifest.xml:71:9-73:47 framework.app main manifest (this file), line 1179 Error: Attribute application@networkSecurityConfig value=(@xmlnetwork_config_baijiayun) from AndroidManifest.xml:18:9-70 is also present at AndroidManifest.xml:13:18-69 value=(@xmlnetwork_config). Suggestion: add 'tools:replace=&quot;android:networkSecurityConfig&quot;' to &lt;application&gt; element at AndroidManifest.xml:57:5-1185:19 to override. framework.app main manifest (this file), line 17" />
-      <item value="Error: tools:replace specified at line:57 for attribute android:networkSecurityConfig, but no new value specified framework.app main manifest (this file), line 56 Warning Element meta-datacom.huawei.hms.client.appid at AndroidManifest.xml:1180:9-1182:47 duplicated with element declared at AndroidManifest.xml:71:9-73:47 framework.app main manifest (this file), line 1179 Error: Validation failed, exiting framework.app main manifest (this file)" />
-      <item value="Warning Element meta-datacom.huawei.hms.client.appid at AndroidManifest.xml:1180:9-1182:47 duplicated with element declared at AndroidManifest.xml:71:9-73:47 framework.app main manifest (this file), line 1179 Error: Attribute application@networkSecurityConfig value=(@xmlnetwork_config_baijiayun) from AndroidManifest.xml:18:9-70 is also present at AndroidManifest.xml:13:18-69 value=(@xmlnetwork_config). Suggestion: add 'tools:replace=&quot;android:networkSecurityConfig&quot;' to &lt;application&gt; element at AndroidManifest.xml:57:5-1185:19 to override. framework.app main manifest (this file), line 17" />
-      <item value="Attribute application@networkSecurityConfig value=(@xmlnetwork_config_baijiayun) from AndroidManifest.xml:18:9-70 is also present at AndroidManifest.xml:13:18-69 value=(@xmlnetwork_config). Suggestion: add 'tools:replace=&quot;android:networkSecurityConfig&quot;' to &lt;application&gt; element at AndroidManifest.xml:57:5-1185:19 to override. framework.app main manifest (this file), line 17" />
-      <item value="App Compat Image View" />
-      <item value="Manifest merger failed with multiple errors, see logs" />
-      <item value="invalid" />
-      <item value="&#10;ref" />
-      <item value="云&#10;ref" />
-      <item value="云&#10;" />
-      <item value="集合&#10;" />
-      <item value="You should Call MMKV.initialize() first." />
-      <item value="PPT Manage Window" />
-      <item value="MODE PRIVATE" />
-      <item value="Live Room Triple Activity" />
-      <item value="Live Room Single Activity" />
-      <item value="activity live room lottery anim pad" />
-      <item value="activity live room red packet pad" />
-      <item value="Single" />
-      <item value="activity live room pad room right container" />
-      <item value="activity live room pad room top parent" />
-      <item value="activity live room pad room top container" />
-      <item value="spans cannot have a zero length" />
-      <item value="专属&#10;" />
-      <item value="专属" />
-      <item value="zhuan'su" />
-      <item value="Using Network Security Config from resource network_config_baijiayun debugBuild: true" />
-      <item value="network unreachable" />
-      <item value="steps" />
-      <item value="com.baijiahulian.common.networkv2.HttpException: Canceled" />
-      <item value="A resource failed to call close." />
-      <item value="Unable to parse composition" />
-      <item value="is Network Exception" />
-      <item value="set Animation From Url" />
-      <item value="Execution failed for task ':app:kaptDebugKotlin'. &gt; A failure occurred while executing org.jetbrains.kotlin.gradle.internal.KaptExecution &gt; java.lang.reflect.InvocationTargetException (no error message)" />
-      <item value="The daemon has finished executing the build." />
-      <item value="java.lang.reflect.Invocation Target Exception" />
-      <item value="A failure occurred while executing org.jetbrains.kotlin.gradle.internal.KaptExecution" />
-      <item value="Error while annotation processing" />
-      <item value="AAPT2 aapt2-3.4.2-5326820-windows Daemon 6: shutdown" />
-      <item value="Execution failed for task ':app:kaptDebugKotlin'. 09:03:35.332 [ERROR] [org.gradle.internal.buildevents.BuildExceptionReporter] &gt; A failure occurred while executing org.jetbrains.kotlin.gradle.internal.KaptExecution 09:03:35.332 [ERROR] [org.gradle.internal.buildevents.BuildExceptionReporter] &gt; java.lang.reflect.InvocationTargetException (no error message)" />
-      <item value="Property name'TOTAL_READ' should start with a lowercase letter &#10;" />
-      <item value="Private property name'TOTAL_READ' should not contain underscores in the middle or the end " />
-      <item value="dest Dir Path" />
-      <item value="share media" />
-      <item value="on Post Execute" />
-      <item value="submit" />
-      <item value="READ PHONE STATE" />
     </histories>
     <option name="languageScores">
       <map>
