@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="AndroidAutoSize" />
+      <item value="Trust anchor for certification path not found" />
+      <item value="java.security.cert.CertPathValidatorException: Trust anchor for certification path not found." />
       <item value="Method breakpoints may dramatically slow down debugging" />
       <item value="云" />
       <item value="yun" />
@@ -52,14 +55,11 @@
       <item value="resti" />
       <item value="rest" />
       <item value="res" />
-      <item value="re" />
-      <item value="Workspace associated with branch 'BJCloud' has been restored" />
-      <item value="tools:replace specified at line:57 for attribute tools:android：networkSecurityConfig, but no new value specified framework.app main manifest (this file), line 56" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2084" />
-        <entry key="ENGLISH" value="2085" />
+        <entry key="CHINESE" value="2086" />
+        <entry key="ENGLISH" value="2087" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
