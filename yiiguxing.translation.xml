@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="do Update Visited History" />
       <item value="AndroidAutoSize" />
       <item value="Trust anchor for certification path not found" />
       <item value="java.security.cert.CertPathValidatorException: Trust anchor for certification path not found." />
@@ -54,12 +55,11 @@
       <item value="restore" />
       <item value="resti" />
       <item value="rest" />
-      <item value="res" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2086" />
-        <entry key="ENGLISH" value="2087" />
+        <entry key="CHINESE" value="2087" />
+        <entry key="ENGLISH" value="2088" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
