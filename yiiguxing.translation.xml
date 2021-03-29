@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="this only happen when a same sonic session is already running," />
+      <item value="if api level lower than 17(android 4.2), addJavascriptInterface has security&#10;        // issue, please use x5 or see https://developer.android.com/reference/android/webkit/&#10;        // WebView.html#addJavascriptInterface(java.lang.Object, java.lang.String)" />
       <item value="question Finish" />
       <item value="hardware Accelerated" />
       <item value="orientation" />
@@ -53,13 +55,11 @@
       <item value="Could not get unknown property 'GROUP' for object of type org.gradle.api.publication.maven.internal.deployer.DefaultGroovyMavenDeployer." />
       <item value="Could not get unknown property 'GROUP' for object of type org.gradle.api.publication.maven.internal.deployer.DefaultGroovyMavenDeployer" />
       <item value="Missing Property Exception" />
-      <item value="Cannot get property 'appcompatVersion' on extra properties extension as it does not exist" />
-      <item value="A problem occurred evaluating project ':liveplayer-sdk-ui'." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2143" />
-        <entry key="ENGLISH" value="2144" />
+        <entry key="CHINESE" value="2144" />
+        <entry key="ENGLISH" value="2145" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
