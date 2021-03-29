@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="question Finish" />
+      <item value="hardware Accelerated" />
+      <item value="orientation" />
+      <item value="screen Size" />
+      <item value="config Changes" />
       <item value="soft" />
       <item value="Single" />
       <item value="Lesson Play Bean" />
@@ -50,16 +55,11 @@
       <item value="Missing Property Exception" />
       <item value="Cannot get property 'appcompatVersion' on extra properties extension as it does not exist" />
       <item value="A problem occurred evaluating project ':liveplayer-sdk-ui'." />
-      <item value="on extra properties extension as it does not exist" />
-      <item value="amdc request fail" />
-      <item value="com.ut.mini.UT Analytics" />
-      <item value="tools:replace specified at line:59 for attribute android:networkSecurityConfig, but no new value specified framework.app main manifest (this file), line 58" />
-      <item value="app Component Factory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2138" />
-        <entry key="ENGLISH" value="2139" />
+        <entry key="CHINESE" value="2143" />
+        <entry key="ENGLISH" value="2144" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
