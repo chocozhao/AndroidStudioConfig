@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="soft" />
       <item value="Single" />
       <item value="Lesson Play Bean" />
       <item value="Live Detail Activity" />
@@ -54,7 +55,6 @@
       <item value="com.ut.mini.UT Analytics" />
       <item value="tools:replace specified at line:59 for attribute android:networkSecurityConfig, but no new value specified framework.app main manifest (this file), line 58" />
       <item value="app Component Factory" />
-      <item value="supports Rtl" />
     </histories>
     <option name="languageScores">
       <map>
