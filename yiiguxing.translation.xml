@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Live Detail Activity" />
       <item value="duobei Sdk" />
       <item value="get Platform" />
       <item value="Replay" />
@@ -54,12 +55,11 @@
       <item value="supports Rtl" />
       <item value="ools:replace specified at line:57 for attribute android:networkSecurityConfig, but no new value specified" />
       <item value="Error: Attribute application@networkSecurityConfig value=(@xmlnetwork_config_baijiayun) from AndroidManifest.xml:18:9-70 is also present at AndroidManifest.xml:13:18-69 value=(@xmlnetwork_config)." />
-      <item value="Suggestion" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2137" />
-        <entry key="ENGLISH" value="2136" />
+        <entry key="ENGLISH" value="2137" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
