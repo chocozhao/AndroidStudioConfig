@@ -1,10 +1,23 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1121" />
+    <option name="newTranslationDialogWidth" value="1119" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="doing" />
+      <item value="do'i" />
+      <item value="do" />
+      <item value="to do&#10;" />
+      <item value="ti&#10;" />
+      <item value="Upcoming&#10;" />
+      <item value="待办&#10;" />
+      <item value="dai'ban" />
+      <item value="add a property" />
+      <item value="property" />
+      <item value="proper" />
+      <item value="prope" />
+      <item value="prop" />
       <item value="assert Equals" />
       <item value="this only happen when a same sonic session is already running," />
       <item value="if api level lower than 17(android 4.2), addJavascriptInterface has security&#10;        // issue, please use x5 or see https://developer.android.com/reference/android/webkit/&#10;        // WebView.html#addJavascriptInterface(java.lang.Object, java.lang.String)" />
@@ -42,19 +55,6 @@
       <item value="Attribute application@networkSecurityConfig value=(@xmlnetwork_config_baijiayun) from AndroidManifest.xml:18:9-70 is also present at AndroidManifest.xml:13:18-69 value=(@xmlnetwork_config)" />
       <item value="Cert Path Validator Exception" />
       <item value="ignore" />
-      <item value="Trust anchor for certification path not found" />
-      <item value="tools:replace specified at line:57 for attribute android:networkSecurityConfig, but no new value specified framework.app main manifest (this file), line 56" />
-      <item value="Attribute application@networkSecurityConfig value=(@xmlnetwork_config_baijiayun) from AndroidManifest.xml:18:9-70 is also present at AndroidManifest.xml:13:18-69 value=(@xmlnetwork_config). Suggestion: add 'tools:replace=&quot;android:networkSecurityConfig&quot;' to &lt;application&gt; element at AndroidManifest.xml:57:5-1186:19 to override. framework.app main manifest (this file), line 17" />
-      <item value="node" />
-      <item value="Attribute application@networkSecurityConfig value=(@xmlnetwork_config_baijiayun) from AndroidManifest.xml:18:9-70 is also present at AndroidManifest.xml:13:18-69 value=(@xmlnetwork_config). Suggestion: add 'tools:replace=&quot;android:networkSecurityConfig&quot;' to &lt;application&gt; element at AndroidManifest.xml:57:5-1185:19 to override. framework.app main manifest (this file), line 17" />
-      <item value="Cleartext HTTP traffic to amdcopen.m.taobao.com not permitted" />
-      <item value="cleartext Traffic Permitted" />
-      <item value="network Security Config" />
-      <item value="Validation failed, exiting framework.app main manifest (this file)" />
-      <item value="Warning Element meta-datacom.huawei.hms.client.appid at AndroidManifest.xml:1180:9-1182:47 duplicated with element declared at AndroidManifest.xml:71:9-73:47 framework.app main manifest (this file), line 1179" />
-      <item value="A problem occurred configuring project ':liveplayer-sdk-ui" />
-      <item value="Could not get unknown property 'GROUP' for object of type org.gradle.api.publication.maven.internal.deployer.DefaultGroovyMavenDeployer." />
-      <item value="Could not get unknown property 'GROUP' for object of type org.gradle.api.publication.maven.internal.deployer.DefaultGroovyMavenDeployer" />
     </histories>
     <option name="languageScores">
       <map>
