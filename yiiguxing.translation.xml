@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1119" />
+    <option name="newTranslationDialogWidth" value="1117" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="native" />
+      <item value="原生化" />
+      <item value="原生hua" />
+      <item value="原生" />
+      <item value="原生&#10;" />
       <item value="doing" />
       <item value="do'i" />
       <item value="do" />
@@ -50,11 +55,6 @@
       <item value="screen Width" />
       <item value="375.0 f" />
       <item value="DESIGN DRAWING WIDTH" />
-      <item value="build Features" />
-      <item value="on object of type com.android.build.gradle.internal.dsl.BaseAppModuleExtension" />
-      <item value="Attribute application@networkSecurityConfig value=(@xmlnetwork_config_baijiayun) from AndroidManifest.xml:18:9-70 is also present at AndroidManifest.xml:13:18-69 value=(@xmlnetwork_config)" />
-      <item value="Cert Path Validator Exception" />
-      <item value="ignore" />
     </histories>
     <option name="languageScores">
       <map>
