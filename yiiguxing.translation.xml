@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1111" />
+    <option name="newTranslationDialogWidth" value="1109" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="邀请&#10;&#10;" />
+      <item value="邀请弹窗&#10;" />
+      <item value="邀请tan'c" />
+      <item value="邀请ta" />
+      <item value="yao'q" />
+      <item value="label" />
       <item value="copy·" />
       <item value="copy" />
       <item value="co" />
@@ -49,17 +55,11 @@
       <item value="config Changes" />
       <item value="soft" />
       <item value="Single" />
-      <item value="Lesson Play Bean" />
-      <item value="Live Detail Activity" />
-      <item value="duobei Sdk" />
-      <item value="get Platform" />
-      <item value="Replay" />
-      <item value="Live" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2148" />
-        <entry key="ENGLISH" value="2149" />
+        <entry key="CHINESE" value="2149" />
+        <entry key="ENGLISH" value="2150" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
