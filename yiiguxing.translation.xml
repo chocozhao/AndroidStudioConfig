@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="constraint referenced ids" />
+      <item value="Single Layout Helper" />
+      <item value="Condition 'bean.certificate != null' is always 'true'" />
+      <item value="Do not concatenate text displayed with setText. Use resource string with placeholders" />
+      <item value="Field" />
       <item value="native" />
       <item value="原生化" />
       <item value="原生hua" />
@@ -50,16 +55,11 @@
       <item value="living" />
       <item value="LIVING" />
       <item value="init Scaled Density" />
-      <item value="init Density" />
-      <item value="screen Height" />
-      <item value="screen Width" />
-      <item value="375.0 f" />
-      <item value="DESIGN DRAWING WIDTH" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2145" />
-        <entry key="ENGLISH" value="2146" />
+        <entry key="CHINESE" value="2148" />
+        <entry key="ENGLISH" value="2149" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
