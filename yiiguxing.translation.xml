@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1105" />
+    <option name="newTranslationDialogWidth" value="1103" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="题目&#10;" />
+      <item value="ti'm" />
+      <item value="t" />
       <item value="进度&#10;" />
       <item value="jind" />
       <item value="For Pre Android Studio 4.1: You can install this template from https:github.comvsay01Android-Studio-MVP-Template-Google-Architecture" />
@@ -52,9 +55,6 @@
       <item value="待办&#10;" />
       <item value="dai'ban" />
       <item value="add a property" />
-      <item value="property" />
-      <item value="proper" />
-      <item value="prope" />
     </histories>
     <option name="languageScores">
       <map>
