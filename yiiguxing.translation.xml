@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1109" />
+    <option name="newTranslationDialogWidth" value="1107" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="文字" />
+      <item value="with Text" />
       <item value="Permission denied" />
       <item value="Unexpected exception thrown by non-Glide code" />
       <item value="Only the original thread that created a view hierarchy can touch its views." />
@@ -53,13 +55,11 @@
       <item value="this only happen when a same sonic session is already running," />
       <item value="if api level lower than 17(android 4.2), addJavascriptInterface has security&#10;        // issue, please use x5 or see https://developer.android.com/reference/android/webkit/&#10;        // WebView.html#addJavascriptInterface(java.lang.Object, java.lang.String)" />
       <item value="question Finish" />
-      <item value="hardware Accelerated" />
-      <item value="orientation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2152" />
-        <entry key="ENGLISH" value="2153" />
+        <entry key="CHINESE" value="2153" />
+        <entry key="ENGLISH" value="2154" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
