@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1103" />
+    <option name="newTranslationDialogWidth" value="1099" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="解析" />
+      <item value="正确&#10;" />
+      <item value="zhen" />
+      <item value="stroke" />
       <item value="题目&#10;" />
       <item value="ti'm" />
       <item value="t" />
@@ -51,10 +55,6 @@
       <item value="do" />
       <item value="to do&#10;" />
       <item value="ti&#10;" />
-      <item value="Upcoming&#10;" />
-      <item value="待办&#10;" />
-      <item value="dai'ban" />
-      <item value="add a property" />
     </histories>
     <option name="languageScores">
       <map>
