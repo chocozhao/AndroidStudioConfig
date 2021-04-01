@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="For Pre Android Studio 4.1: You can install this template from https:github.comvsay01Android-Studio-MVP-Template-Google-Architecture" />
+      <item value="An Android Studio Plugin for setting Model-View-Presenter (MVP) template; the template is inspired by google samples android architecture. It works with Android Studio 4.1. Starting with Android Studio 4.1, Google ended its support for custom FreeMarker templates. :( Now you can’t just write your FTL files and put them in a template folder of Android Studio Important: The main goal of this template is to speed up the development process using android mvp template. It also shows how to create a set of files using template files in Android Studio. This template was successfully tested with Android 4.1.2." />
       <item value="that was originally added here" />
       <item value="with Text" />
       <item value="文字" />
@@ -53,8 +55,6 @@
       <item value="prope" />
       <item value="prop" />
       <item value="assert Equals" />
-      <item value="this only happen when a same sonic session is already running," />
-      <item value="if api level lower than 17(android 4.2), addJavascriptInterface has security&#10;        // issue, please use x5 or see https://developer.android.com/reference/android/webkit/&#10;        // WebView.html#addJavascriptInterface(java.lang.Object, java.lang.String)" />
     </histories>
     <option name="languageScores">
       <map>
