@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="flag&#10;" />
+      <item value="fl" />
       <item value="解析" />
       <item value="正确&#10;" />
       <item value="zhen" />
@@ -53,8 +55,6 @@
       <item value="doing" />
       <item value="do'i" />
       <item value="do" />
-      <item value="to do&#10;" />
-      <item value="ti&#10;" />
     </histories>
     <option name="languageScores">
       <map>
