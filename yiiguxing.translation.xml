@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="圈" />
+      <item value="quan" />
       <item value="flag&#10;" />
       <item value="fl" />
       <item value="解析" />
@@ -53,8 +55,6 @@
       <item value="原生" />
       <item value="原生&#10;" />
       <item value="doing" />
-      <item value="do'i" />
-      <item value="do" />
     </histories>
     <option name="languageScores">
       <map>
