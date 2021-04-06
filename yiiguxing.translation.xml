@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="398" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="show Share Hint" />
       <item value="url" />
       <item value="com/intellij/openapi/actionSystem/DataKeys" />
       <item value="Returns `true` if the collection is empty (contains no elements), `false` otherwise." />
@@ -55,12 +56,11 @@
       <item value="Field" />
       <item value="native" />
       <item value="原生化" />
-      <item value="原生hua" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2157" />
-        <entry key="ENGLISH" value="2158" />
+        <entry key="CHINESE" value="2158" />
+        <entry key="ENGLISH" value="2159" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
