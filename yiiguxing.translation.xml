@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="scheme" />
+      <item value="Attribute data@scheme at AndroidManifest.xml requires a placeholder substitution but no value for &lt;qqappid&gt; is provided." />
+      <item value="Attribute data@scheme at AndroidManifest.xml requires a placeholder substitution but no value for &lt;qqappid&gt; is provided. framework.app main manifest (this file)" />
       <item value="resolution" />
       <item value="full" />
       <item value="shareboard" />
@@ -52,14 +55,11 @@
       <item value="An Android Studio Plugin for setting Model-View-Presenter (MVP) template; the template is inspired by google samples android architecture. It works with Android Studio 4.1. Starting with Android Studio 4.1, Google ended its support for custom FreeMarker templates. :( Now you can’t just write your FTL files and put them in a template folder of Android Studio Important: The main goal of this template is to speed up the development process using android mvp template. It also shows how to create a set of files using template files in Android Studio. This template was successfully tested with Android 4.1.2." />
       <item value="with Text" />
       <item value="文字" />
-      <item value="Permission denied" />
-      <item value="Unexpected exception thrown by non-Glide code" />
-      <item value="Only the original thread that created a view hierarchy can touch its views." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2172" />
-        <entry key="ENGLISH" value="2173" />
+        <entry key="CHINESE" value="2174" />
+        <entry key="ENGLISH" value="2175" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
