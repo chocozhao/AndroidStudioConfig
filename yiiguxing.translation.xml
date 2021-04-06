@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Returns `true` if the collection is empty (contains no elements), `false` otherwise." />
       <item value="圈" />
       <item value="quan" />
       <item value="flag&#10;" />
@@ -54,7 +55,6 @@
       <item value="原生hua" />
       <item value="原生" />
       <item value="原生&#10;" />
-      <item value="doing" />
     </histories>
     <option name="languageScores">
       <map>
@@ -87,6 +87,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616979787573" />
+    <option name="lastTrimTime" value="1617670272217" />
   </component>
 </application>
