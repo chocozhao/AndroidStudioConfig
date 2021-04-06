@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="resolution" />
       <item value="full" />
       <item value="shareboard" />
       <item value="检查" />
@@ -54,12 +55,11 @@
       <item value="Permission denied" />
       <item value="Unexpected exception thrown by non-Glide code" />
       <item value="Only the original thread that created a view hierarchy can touch its views." />
-      <item value="setm Extra" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2171" />
-        <entry key="ENGLISH" value="2172" />
+        <entry key="CHINESE" value="2172" />
+        <entry key="ENGLISH" value="2173" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
