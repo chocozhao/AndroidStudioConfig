@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1097" />
+    <option name="newTranslationDialogWidth" value="1095" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="答案&#10;" />
       <item value="题目&#10;" />
       <item value="t" />
       <item value="ti" />
@@ -54,7 +55,6 @@
       <item value="Single Layout Helper" />
       <item value="Condition 'bean.certificate != null' is always 'true'" />
       <item value="Do not concatenate text displayed with setText. Use resource string with placeholders" />
-      <item value="Field" />
     </histories>
     <option name="languageScores">
       <map>
