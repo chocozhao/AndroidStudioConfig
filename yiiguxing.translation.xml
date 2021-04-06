@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1091" />
+    <option name="newTranslationDialogWidth" value="1089" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="that was originally added here" />
+      <item value="邀请" />
+      <item value="邀请文本&#10;" />
       <item value="灯&#10;" />
       <item value="deng" />
       <item value="选项&#10;" />
@@ -31,7 +34,6 @@
       <item value="jind" />
       <item value="For Pre Android Studio 4.1: You can install this template from https:github.comvsay01Android-Studio-MVP-Template-Google-Architecture" />
       <item value="An Android Studio Plugin for setting Model-View-Presenter (MVP) template; the template is inspired by google samples android architecture. It works with Android Studio 4.1. Starting with Android Studio 4.1, Google ended its support for custom FreeMarker templates. :( Now you can’t just write your FTL files and put them in a template folder of Android Studio Important: The main goal of this template is to speed up the development process using android mvp template. It also shows how to create a set of files using template files in Android Studio. This template was successfully tested with Android 4.1.2." />
-      <item value="that was originally added here" />
       <item value="with Text" />
       <item value="文字" />
       <item value="Permission denied" />
@@ -53,13 +55,11 @@
       <item value="证书修改&#10;" />
       <item value="分享邀请&#10;&#10;" />
       <item value="分享邀请&#10;" />
-      <item value="分享yao'q&#10;" />
-      <item value="公益分享&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2159" />
-        <entry key="ENGLISH" value="2159" />
+        <entry key="ENGLISH" value="2160" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
