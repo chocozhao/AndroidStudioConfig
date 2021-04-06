@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="full" />
       <item value="shareboard" />
       <item value="检查" />
       <item value="jian'c" />
@@ -54,7 +55,6 @@
       <item value="Unexpected exception thrown by non-Glide code" />
       <item value="Only the original thread that created a view hierarchy can touch its views." />
       <item value="setm Extra" />
-      <item value="邀请&#10;&#10;" />
     </histories>
     <option name="languageScores">
       <map>
