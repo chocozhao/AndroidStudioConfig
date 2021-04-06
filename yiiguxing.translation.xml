@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1089" />
+    <option name="newTranslationDialogWidth" value="1087" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="检查" />
+      <item value="jian'c" />
+      <item value="q'e" />
+      <item value="da" />
+      <item value="examination" />
+      <item value="检查&#10;" />
       <item value="READ_PHONE_STATE permission should be added into AndroidManifest.xml." />
       <item value="CALL STORAGE REQUEST CODE" />
       <item value="PERMISSION READ EXTERNAL STORAGE" />
@@ -49,12 +55,6 @@
       <item value="setm Extra" />
       <item value="邀请&#10;&#10;" />
       <item value="邀请弹窗&#10;" />
-      <item value="邀请tan'c" />
-      <item value="邀请ta" />
-      <item value="yao'q" />
-      <item value="label" />
-      <item value="copy·" />
-      <item value="copy" />
     </histories>
     <option name="languageScores">
       <map>
