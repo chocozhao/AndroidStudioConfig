@@ -4,7 +4,10 @@
     <option name="newTranslationDialogWidth" value="1099" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="url" />
+      <item value="com/intellij/openapi/actionSystem/DataKeys" />
       <item value="Returns `true` if the collection is empty (contains no elements), `false` otherwise." />
       <item value="圈" />
       <item value="quan" />
@@ -53,13 +56,11 @@
       <item value="native" />
       <item value="原生化" />
       <item value="原生hua" />
-      <item value="原生" />
-      <item value="原生&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2155" />
-        <entry key="ENGLISH" value="2156" />
+        <entry key="CHINESE" value="2157" />
+        <entry key="ENGLISH" value="2158" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
