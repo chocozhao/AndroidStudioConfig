@@ -1,10 +1,18 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1087" />
+    <option name="newTranslationDialogWidth" value="1083" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="stroke" />
+      <item value="#EFFAF4" />
+      <item value="下一题&#10;" />
+      <item value="接着&#10;" />
+      <item value="carry&#10;" />
+      <item value="carry on&#10;" />
+      <item value="继续&#10;" />
+      <item value="xia" />
       <item value="Read" />
       <item value="Unable to add window -- token android.os.BinderProxy@6767b7b is not valid; is your activity running?" />
       <item value="The device needs more free storage to install the application (extra space is needed in addition to APK size)." />
@@ -47,14 +55,6 @@
       <item value="url" />
       <item value="com/intellij/openapi/actionSystem/DataKeys" />
       <item value="Returns `true` if the collection is empty (contains no elements), `false` otherwise." />
-      <item value="圈" />
-      <item value="quan" />
-      <item value="flag&#10;" />
-      <item value="fl" />
-      <item value="解析" />
-      <item value="正确&#10;" />
-      <item value="zhen" />
-      <item value="stroke" />
     </histories>
     <option name="languageScores">
       <map>
