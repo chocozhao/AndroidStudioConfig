@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1083" />
+    <option name="newTranslationDialogWidth" value="1081" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="进度&#10;" />
+      <item value="jin'd" />
+      <item value="jin'd'y" />
+      <item value="LOLLIPOP" />
       <item value="stroke" />
       <item value="#EFFAF4" />
       <item value="下一题&#10;" />
@@ -51,15 +55,11 @@
       <item value="t" />
       <item value="ti" />
       <item value="SINA" />
-      <item value="show Share Hint" />
-      <item value="url" />
-      <item value="com/intellij/openapi/actionSystem/DataKeys" />
-      <item value="Returns `true` if the collection is empty (contains no elements), `false` otherwise." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2182" />
-        <entry key="ENGLISH" value="2183" />
+        <entry key="CHINESE" value="2183" />
+        <entry key="ENGLISH" value="2184" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
