@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1081" />
+    <option name="newTranslationDialogWidth" value="1079" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="当前&#10;" />
       <item value="进度&#10;" />
       <item value="jin'd" />
       <item value="jin'd'y" />
@@ -54,7 +55,6 @@
       <item value="题目&#10;" />
       <item value="t" />
       <item value="ti" />
-      <item value="SINA" />
     </histories>
     <option name="languageScores">
       <map>
