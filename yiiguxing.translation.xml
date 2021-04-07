@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Read" />
+      <item value="Unable to add window -- token android.os.BinderProxy@6767b7b is not valid; is your activity running?" />
       <item value="The device needs more free storage to install the application (extra space is needed in addition to APK size)." />
       <item value="Compress Format" />
       <item value="correct Answer Index" />
@@ -53,13 +55,11 @@
       <item value="正确&#10;" />
       <item value="zhen" />
       <item value="stroke" />
-      <item value="ti'm" />
-      <item value="进度&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2179" />
-        <entry key="ENGLISH" value="2180" />
+        <entry key="CHINESE" value="2182" />
+        <entry key="ENGLISH" value="2183" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
