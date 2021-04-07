@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Compress Format" />
       <item value="correct Answer Index" />
       <item value="Fix dependency resolution errors." />
       <item value="utils.b found in modules classes.jar" />
@@ -54,12 +55,11 @@
       <item value="ti'm" />
       <item value="进度&#10;" />
       <item value="jind" />
-      <item value="For Pre Android Studio 4.1: You can install this template from https:github.comvsay01Android-Studio-MVP-Template-Google-Architecture" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2177" />
-        <entry key="ENGLISH" value="2178" />
+        <entry key="CHINESE" value="2178" />
+        <entry key="ENGLISH" value="2179" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
