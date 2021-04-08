@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="swap Current Drawable" />
+      <item value="is Indeterminate" />
       <item value="Field parameters can only be used with form encoding. (parameter 1)" />
       <item value="@Field parameters can only be used with form encoding. (parameter 1)" />
       <item value="固&#10;" />
@@ -53,13 +55,11 @@
       <item value="that was originally added here" />
       <item value="邀请" />
       <item value="邀请文本&#10;" />
-      <item value="灯&#10;" />
-      <item value="deng" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2185" />
-        <entry key="ENGLISH" value="2186" />
+        <entry key="CHINESE" value="2187" />
+        <entry key="ENGLISH" value="2188" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
