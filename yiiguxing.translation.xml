@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="set Question Page" />
+      <item value="m Is Question Page" />
       <item value="font Family" />
       <item value="letters" />
       <item value="更新&#10;" />
@@ -53,13 +55,11 @@
       <item value="examination" />
       <item value="检查&#10;" />
       <item value="READ_PHONE_STATE permission should be added into AndroidManifest.xml." />
-      <item value="CALL STORAGE REQUEST CODE" />
-      <item value="PERMISSION READ EXTERNAL STORAGE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2193" />
-        <entry key="ENGLISH" value="2194" />
+        <entry key="CHINESE" value="2196" />
+        <entry key="ENGLISH" value="2197" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
