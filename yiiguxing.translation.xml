@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="is Expandable" />
       <item value="question Id" />
       <item value="set Question Page" />
       <item value="m Is Question Page" />
@@ -54,12 +55,11 @@
       <item value="q'e" />
       <item value="da" />
       <item value="examination" />
-      <item value="检查&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2197" />
-        <entry key="ENGLISH" value="2198" />
+        <entry key="CHINESE" value="2198" />
+        <entry key="ENGLISH" value="2199" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
