@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1077" />
+    <option name="newTranslationDialogWidth" value="1075" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="更新&#10;" />
       <item value="correct" />
       <item value="solid" />
       <item value="clip" />
@@ -54,7 +55,6 @@
       <item value="PERMISSION READ EXTERNAL STORAGE" />
       <item value="CALL PICTURE REQUEST CODE" />
       <item value="CALL PHONE REQUEST CODE" />
-      <item value="CALL COVER REQUEST CODE" />
     </histories>
     <option name="languageScores">
       <map>
