@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="font Family" />
+      <item value="letters" />
       <item value="更新&#10;" />
       <item value="correct" />
       <item value="solid" />
@@ -53,13 +55,11 @@
       <item value="READ_PHONE_STATE permission should be added into AndroidManifest.xml." />
       <item value="CALL STORAGE REQUEST CODE" />
       <item value="PERMISSION READ EXTERNAL STORAGE" />
-      <item value="CALL PICTURE REQUEST CODE" />
-      <item value="CALL PHONE REQUEST CODE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2191" />
-        <entry key="ENGLISH" value="2192" />
+        <entry key="CHINESE" value="2193" />
+        <entry key="ENGLISH" value="2194" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
