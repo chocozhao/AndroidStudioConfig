@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1075" />
+    <option name="newTranslationDialogWidth" value="1073" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="返回&#10;" />
       <item value="LIST" />
       <item value="Analysis" />
       <item value="解析&#10;" />
@@ -54,7 +55,6 @@
       <item value="full" />
       <item value="shareboard" />
       <item value="检查" />
-      <item value="jian'c" />
     </histories>
     <option name="languageScores">
       <map>
