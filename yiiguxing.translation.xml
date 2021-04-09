@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Shadow Layout" />
       <item value="答案&#10;" />
       <item value="da" />
       <item value="da'nan" />
@@ -54,12 +55,11 @@
       <item value="Compress Format" />
       <item value="correct Answer Index" />
       <item value="Fix dependency resolution errors." />
-      <item value="utils.b found in modules classes.jar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2200" />
-        <entry key="ENGLISH" value="2201" />
+        <entry key="CHINESE" value="2201" />
+        <entry key="ENGLISH" value="2202" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
