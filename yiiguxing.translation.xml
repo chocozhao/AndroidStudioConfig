@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1073" />
+    <option name="newTranslationDialogWidth" value="1069" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="错误&#10;" />
+      <item value="正确&#10;" />
+      <item value="fill" />
       <item value="返回&#10;" />
       <item value="LIST" />
       <item value="Analysis" />
@@ -52,9 +55,6 @@
       <item value="Attribute data@scheme at AndroidManifest.xml requires a placeholder substitution but no value for &lt;qqappid&gt; is provided." />
       <item value="Attribute data@scheme at AndroidManifest.xml requires a placeholder substitution but no value for &lt;qqappid&gt; is provided. framework.app main manifest (this file)" />
       <item value="resolution" />
-      <item value="full" />
-      <item value="shareboard" />
-      <item value="检查" />
     </histories>
     <option name="languageScores">
       <map>
