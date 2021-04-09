@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1069" />
+    <option name="newTranslationDialogWidth" value="1067" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="答案&#10;" />
+      <item value="da" />
+      <item value="da'nan" />
+      <item value="dana" />
       <item value="错误&#10;" />
       <item value="正确&#10;" />
       <item value="fill" />
@@ -51,10 +55,6 @@
       <item value="correct Answer Index" />
       <item value="Fix dependency resolution errors." />
       <item value="utils.b found in modules classes.jar" />
-      <item value="scheme" />
-      <item value="Attribute data@scheme at AndroidManifest.xml requires a placeholder substitution but no value for &lt;qqappid&gt; is provided." />
-      <item value="Attribute data@scheme at AndroidManifest.xml requires a placeholder substitution but no value for &lt;qqappid&gt; is provided. framework.app main manifest (this file)" />
-      <item value="resolution" />
     </histories>
     <option name="languageScores">
       <map>
