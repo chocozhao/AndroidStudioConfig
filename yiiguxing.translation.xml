@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="LIST" />
       <item value="Analysis" />
       <item value="解析&#10;" />
       <item value="is Expandable" />
@@ -54,12 +55,11 @@
       <item value="shareboard" />
       <item value="检查" />
       <item value="jian'c" />
-      <item value="q'e" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2199" />
-        <entry key="ENGLISH" value="2200" />
+        <entry key="CHINESE" value="2200" />
+        <entry key="ENGLISH" value="2201" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
