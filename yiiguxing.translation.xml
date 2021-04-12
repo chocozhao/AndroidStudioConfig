@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="content Description" />
+      <item value="Symmetry" />
+      <item value="Limit" />
+      <item value="hl shadow Symmetry" />
       <item value="lock" />
       <item value="done" />
       <item value="init Screen" />
@@ -51,15 +55,11 @@
       <item value="jin'd" />
       <item value="jin'd'y" />
       <item value="LOLLIPOP" />
-      <item value="stroke" />
-      <item value="#EFFAF4" />
-      <item value="下一题&#10;" />
-      <item value="接着&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2207" />
-        <entry key="ENGLISH" value="2208" />
+        <entry key="CHINESE" value="2211" />
+        <entry key="ENGLISH" value="2212" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
