@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="init Screen" />
       <item value="正确&#10;" />
       <item value="题目&#10;" />
       <item value="ti" />
@@ -54,12 +55,11 @@
       <item value="接着&#10;" />
       <item value="carry&#10;" />
       <item value="carry on&#10;" />
-      <item value="继续&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2205" />
-        <entry key="ENGLISH" value="2205" />
+        <entry key="ENGLISH" value="2206" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
