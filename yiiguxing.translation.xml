@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1059" />
+    <option name="newTranslationDialogWidth" value="1057" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="答案&#10;" />
+      <item value="da'nan" />
       <item value="错误&#10;" />
       <item value="正确&#10;" />
       <item value="content Description" />
@@ -22,9 +24,7 @@
       <item value="View Replacer" />
       <item value="shimmer" />
       <item value="Shadow Layout" />
-      <item value="答案&#10;" />
       <item value="da" />
-      <item value="da'nan" />
       <item value="dana" />
       <item value="fill" />
       <item value="返回&#10;" />
