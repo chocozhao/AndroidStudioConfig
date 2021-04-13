@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Scroll Player Event" />
       <item value="选" />
       <item value="选书&#10;" />
       <item value="选择" />
@@ -54,12 +55,11 @@
       <item value="&#10;固&#10;" />
       <item value="加固&#10;" />
       <item value="加固" />
-      <item value="当前&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2211" />
-        <entry key="ENGLISH" value="2212" />
+        <entry key="CHINESE" value="2212" />
+        <entry key="ENGLISH" value="2213" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
