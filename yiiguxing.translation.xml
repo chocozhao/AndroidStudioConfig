@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1063" />
+    <option name="newTranslationDialogWidth" value="1059" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="错误&#10;" />
+      <item value="正确&#10;" />
       <item value="content Description" />
       <item value="Symmetry" />
       <item value="Limit" />
@@ -12,7 +14,6 @@
       <item value="lock" />
       <item value="done" />
       <item value="init Screen" />
-      <item value="正确&#10;" />
       <item value="题目&#10;" />
       <item value="ti" />
       <item value="un Focus" />
@@ -25,7 +26,6 @@
       <item value="da" />
       <item value="da'nan" />
       <item value="dana" />
-      <item value="错误&#10;" />
       <item value="fill" />
       <item value="返回&#10;" />
       <item value="LIST" />
