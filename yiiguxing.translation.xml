@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1057" />
+    <option name="newTranslationDialogWidth" value="1053" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="解析&#10;" />
+      <item value="题目&#10;" />
+      <item value="ti" />
       <item value="答案&#10;" />
       <item value="da'nan" />
       <item value="错误&#10;" />
@@ -16,8 +19,6 @@
       <item value="lock" />
       <item value="done" />
       <item value="init Screen" />
-      <item value="题目&#10;" />
-      <item value="ti" />
       <item value="un Focus" />
       <item value="the source view have not attach to any view" />
       <item value="m Source View Index In Parent" />
@@ -30,7 +31,6 @@
       <item value="返回&#10;" />
       <item value="LIST" />
       <item value="Analysis" />
-      <item value="解析&#10;" />
       <item value="is Expandable" />
       <item value="question Id" />
       <item value="set Question Page" />
