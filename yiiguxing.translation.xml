@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="成就&#10;" />
       <item value="续费&#10;" />
       <item value="数据处理" />
       <item value="init Data" />
@@ -54,7 +55,6 @@
       <item value="fill" />
       <item value="返回&#10;" />
       <item value="LIST" />
-      <item value="Analysis" />
     </histories>
     <option name="languageScores">
       <map>
