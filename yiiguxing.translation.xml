@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1049" />
+    <option name="newTranslationDialogWidth" value="1047" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="推荐&#10;" />
       <item value="熊&#10;" />
       <item value="x" />
       <item value="报告&#10;&#10;" />
@@ -54,7 +55,6 @@
       <item value="correct" />
       <item value="solid" />
       <item value="clip" />
-      <item value="layout constraint Circle" />
     </histories>
     <option name="languageScores">
       <map>
