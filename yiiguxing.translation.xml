@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="If this view is optional add '@Nullable' (fields) or '@Optional' (methods) annotation." />
+      <item value="scrollbars" />
       <item value="成就&#10;" />
       <item value="续费&#10;" />
       <item value="数据处理" />
@@ -53,13 +55,11 @@
       <item value="da" />
       <item value="dana" />
       <item value="fill" />
-      <item value="返回&#10;" />
-      <item value="LIST" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2224" />
-        <entry key="ENGLISH" value="2224" />
+        <entry key="CHINESE" value="2225" />
+        <entry key="ENGLISH" value="2226" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
