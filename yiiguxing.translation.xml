@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1047" />
+    <option name="newTranslationDialogWidth" value="1045" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="续费&#10;" />
+      <item value="数据处理" />
+      <item value="init Data" />
+      <item value="Read Mine Presenter" />
       <item value="Integral" />
       <item value="get Friendly Time Span By Now" />
       <item value="The unit of time span." />
@@ -51,15 +55,11 @@
       <item value="返回&#10;" />
       <item value="LIST" />
       <item value="Analysis" />
-      <item value="is Expandable" />
-      <item value="question Id" />
-      <item value="set Question Page" />
-      <item value="m Is Question Page" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2220" />
-        <entry key="ENGLISH" value="2221" />
+        <entry key="CHINESE" value="2224" />
+        <entry key="ENGLISH" value="2224" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
