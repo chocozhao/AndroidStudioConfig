@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="do Update Visited History" />
+      <item value="should Intercept Request" />
       <item value="XOR" />
       <item value="DARKEN" />
       <item value="OVERLAY" />
@@ -53,13 +55,11 @@
       <item value="lock" />
       <item value="done" />
       <item value="init Screen" />
-      <item value="un Focus" />
-      <item value="the source view have not attach to any view" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2233" />
-        <entry key="ENGLISH" value="2233" />
+        <entry key="CHINESE" value="2234" />
+        <entry key="ENGLISH" value="2235" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
