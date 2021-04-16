@@ -1,10 +1,17 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1043" />
+    <option name="newTranslationDialogWidth" value="1039" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="最近&#10;" />
+      <item value="最" />
+      <item value="最新&#10;" />
+      <item value="进度" />
+      <item value="进度条&#10;" />
+      <item value="jin'du" />
+      <item value="Shelf" />
       <item value="签到&#10;" />
       <item value="Barrier" />
       <item value="do Update Visited History" />
@@ -48,18 +55,11 @@
       <item value="ti" />
       <item value="答案&#10;" />
       <item value="da'nan" />
-      <item value="错误&#10;" />
-      <item value="正确&#10;" />
-      <item value="content Description" />
-      <item value="Symmetry" />
-      <item value="Limit" />
-      <item value="hl shadow Symmetry" />
-      <item value="lock" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2235" />
-        <entry key="ENGLISH" value="2236" />
+        <entry key="CHINESE" value="2236" />
+        <entry key="ENGLISH" value="2237" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
