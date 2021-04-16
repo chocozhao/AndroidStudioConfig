@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1029" />
+    <option name="newTranslationDialogWidth" value="1027" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Rounded Image View" />
+      <item value="Advanced" />
+      <item value="Favorite" />
+      <item value="Recently" />
       <item value="活动&#10;" />
       <item value="_recent" />
       <item value="rv Activity" />
@@ -51,15 +55,11 @@
       <item value="x" />
       <item value="报告&#10;&#10;" />
       <item value="证书&#10;&#10;" />
-      <item value="勋章&#10;" />
-      <item value="Unresolved reference: ReadApiServer" />
-      <item value="Unresolved reference: SelecteBookBean" />
-      <item value="dispatching class org.gradle.launcher.daemon.protocol.BuildEvent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2239" />
-        <entry key="ENGLISH" value="2240" />
+        <entry key="CHINESE" value="2243" />
+        <entry key="ENGLISH" value="2244" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
