@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="placeholder" />
       <item value="Rounded Image View" />
       <item value="Advanced" />
       <item value="Favorite" />
@@ -54,12 +55,11 @@
       <item value="熊&#10;" />
       <item value="x" />
       <item value="报告&#10;&#10;" />
-      <item value="证书&#10;&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2243" />
-        <entry key="ENGLISH" value="2244" />
+        <entry key="CHINESE" value="2244" />
+        <entry key="ENGLISH" value="2245" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
