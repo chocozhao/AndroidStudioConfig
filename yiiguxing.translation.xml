@@ -1,10 +1,18 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1039" />
+    <option name="newTranslationDialogWidth" value="1031" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="_recent" />
+      <item value="rv Activity" />
+      <item value="进阶课&#10;" />
+      <item value="进阶ke" />
+      <item value="jin'jie" />
+      <item value="活动&#10;" />
+      <item value="备注&#10;" />
+      <item value="阅读方法&#10;" />
       <item value="oval" />
       <item value="rectangle" />
       <item value="最近&#10;" />
@@ -47,19 +55,11 @@
       <item value="Unresolved reference: ReadApiServer" />
       <item value="Unresolved reference: SelecteBookBean" />
       <item value="dispatching class org.gradle.launcher.daemon.protocol.BuildEvent" />
-      <item value="Scroll Player Event" />
-      <item value="选" />
-      <item value="选书&#10;" />
-      <item value="选择" />
-      <item value="xuan" />
-      <item value="解析&#10;" />
-      <item value="题目&#10;" />
-      <item value="ti" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2238" />
-        <entry key="ENGLISH" value="2239" />
+        <entry key="CHINESE" value="2239" />
+        <entry key="ENGLISH" value="2240" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
