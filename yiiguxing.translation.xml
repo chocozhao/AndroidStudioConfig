@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="oval" />
+      <item value="rectangle" />
       <item value="最近&#10;" />
       <item value="最" />
       <item value="最新&#10;" />
@@ -53,13 +55,11 @@
       <item value="解析&#10;" />
       <item value="题目&#10;" />
       <item value="ti" />
-      <item value="答案&#10;" />
-      <item value="da'nan" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2236" />
-        <entry key="ENGLISH" value="2237" />
+        <entry key="CHINESE" value="2238" />
+        <entry key="ENGLISH" value="2239" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
