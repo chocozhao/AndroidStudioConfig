@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Tint Mode" />
       <item value="Medal" />
       <item value="CARD GRID" />
       <item value="placeholder" />
@@ -54,12 +55,11 @@
       <item value="Return the time span by now, in unit." />
       <item value="the time span by now, in unit" />
       <item value="推荐&#10;" />
-      <item value="熊&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2246" />
-        <entry key="ENGLISH" value="2247" />
+        <entry key="CHINESE" value="2247" />
+        <entry key="ENGLISH" value="2248" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
