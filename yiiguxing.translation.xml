@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Out-projected type 'BannerViewPager&lt;out Any!&gt;!' prohibits the use of 'public open fun setAdapter(adapter: BaseBannerAdapter&lt;T!&gt;!): BannerViewPager&lt;T!&gt;! defined in com.zhpan.bannerview.BannerViewPager'" />
       <item value="Tint Mode" />
       <item value="Medal" />
       <item value="CARD GRID" />
@@ -54,7 +55,6 @@
       <item value="The formatted time string." />
       <item value="Return the time span by now, in unit." />
       <item value="the time span by now, in unit" />
-      <item value="推荐&#10;" />
     </histories>
     <option name="languageScores">
       <map>
