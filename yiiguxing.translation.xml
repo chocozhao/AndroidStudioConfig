@@ -1,10 +1,17 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1025" />
+    <option name="newTranslationDialogWidth" value="1023" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="上榜" />
+      <item value="上榜作品" />
+      <item value="上榜作品&#10;" />
+      <item value="上榜作品【" />
+      <item value="shang'b" />
+      <item value="咨询&#10;" />
+      <item value="使用&#10;" />
       <item value="年级&#10;" />
       <item value="nian'ji" />
       <item value="ni'a" />
@@ -48,13 +55,6 @@
       <item value="MULTIPLY" />
       <item value="LIGHTEN" />
       <item value="If this view is optional add '@Nullable' (fields) or '@Optional' (methods) annotation." />
-      <item value="scrollbars" />
-      <item value="成就&#10;" />
-      <item value="续费&#10;" />
-      <item value="数据处理" />
-      <item value="init Data" />
-      <item value="Read Mine Presenter" />
-      <item value="Integral" />
     </histories>
     <option name="languageScores">
       <map>
