@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Range Style" />
+      <item value="Float Layout Helper" />
+      <item value="Layout Chunk Result" />
+      <item value="Range Grid Layout Helper" />
+      <item value="Base Layout Helper" />
       <item value="One type argument expected for class BannerViewPager&lt;T : Any!&gt;" />
       <item value="咨询&#10;" />
       <item value="z" />
@@ -50,16 +55,11 @@
       <item value="_recent" />
       <item value="rv Activity" />
       <item value="进阶课&#10;" />
-      <item value="进阶ke" />
-      <item value="jin'jie" />
-      <item value="备注&#10;" />
-      <item value="阅读方法&#10;" />
-      <item value="oval" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2256" />
-        <entry key="ENGLISH" value="2257" />
+        <entry key="CHINESE" value="2261" />
+        <entry key="ENGLISH" value="2262" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
