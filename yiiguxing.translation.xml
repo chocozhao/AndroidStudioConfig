@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Theme Study List" />
       <item value="Theme Study" />
       <item value="Banner" />
       <item value="This type has a constructor, and thus must be initialized here" />
@@ -54,12 +55,11 @@
       <item value="oval" />
       <item value="rectangle" />
       <item value="最近&#10;" />
-      <item value="最" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2255" />
-        <entry key="ENGLISH" value="2256" />
+        <entry key="CHINESE" value="2256" />
+        <entry key="ENGLISH" value="2257" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
