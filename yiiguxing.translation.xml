@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="nested Scrolling Enabled" />
+      <item value="Orientation Helper" />
+      <item value="reverse Layout" />
+      <item value="INVALID OFFSET" />
       <item value="Lazy" />
       <item value="global&#10;rule" />
       <item value="global&#10;ru" />
@@ -51,15 +55,11 @@
       <item value="Shelf" />
       <item value="签到&#10;" />
       <item value="Barrier" />
-      <item value="do Update Visited History" />
-      <item value="should Intercept Request" />
-      <item value="XOR" />
-      <item value="DARKEN" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2248" />
-        <entry key="ENGLISH" value="2249" />
+        <entry key="CHINESE" value="2252" />
+        <entry key="ENGLISH" value="2253" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
