@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1011" />
+    <option name="newTranslationDialogWidth" value="1009" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="身体&#10;" />
       <item value="圆" />
       <item value="yuan" />
       <item value="元" />
@@ -54,7 +55,6 @@
       <item value="CARD GRID" />
       <item value="placeholder" />
       <item value="Rounded Image View" />
-      <item value="Advanced" />
     </histories>
     <option name="languageScores">
       <map>
