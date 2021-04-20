@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1019" />
+    <option name="newTranslationDialogWidth" value="1017" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Condition 'bean.advancedCourse == null' is always 'false'" />
+      <item value="jump Intro" />
       <item value="nested Scrolling Enabled" />
       <item value="Orientation Helper" />
       <item value="reverse Layout" />
@@ -53,13 +55,11 @@
       <item value="进度条&#10;" />
       <item value="jin'du" />
       <item value="Shelf" />
-      <item value="签到&#10;" />
-      <item value="Barrier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2252" />
-        <entry key="ENGLISH" value="2253" />
+        <entry key="CHINESE" value="2253" />
+        <entry key="ENGLISH" value="2254" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
