@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Single Layout Helper" />
       <item value="Condition 'bean.advancedCourse == null' is always 'false'" />
       <item value="jump Intro" />
       <item value="nested Scrolling Enabled" />
@@ -54,12 +55,11 @@
       <item value="进度" />
       <item value="进度条&#10;" />
       <item value="jin'du" />
-      <item value="Shelf" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2253" />
-        <entry key="ENGLISH" value="2254" />
+        <entry key="CHINESE" value="2254" />
+        <entry key="ENGLISH" value="2255" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
