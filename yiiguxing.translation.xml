@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="圆" />
+      <item value="yuan" />
+      <item value="元" />
+      <item value="solid" />
       <item value="recommon" />
       <item value="换&#10;" />
       <item value="Range Style" />
@@ -51,15 +55,11 @@
       <item value="placeholder" />
       <item value="Rounded Image View" />
       <item value="Advanced" />
-      <item value="Favorite" />
-      <item value="Recently" />
-      <item value="活动&#10;" />
-      <item value="_recent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2261" />
-        <entry key="ENGLISH" value="2262" />
+        <entry key="CHINESE" value="2262" />
+        <entry key="ENGLISH" value="2263" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
