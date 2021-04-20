@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="This type has a constructor, and thus must be initialized here" />
       <item value="下拉&#10;" />
       <item value="Single Layout Helper" />
       <item value="Condition 'bean.advancedCourse == null' is always 'false'" />
@@ -54,7 +55,6 @@
       <item value="最" />
       <item value="最新&#10;" />
       <item value="进度" />
-      <item value="进度条&#10;" />
     </histories>
     <option name="languageScores">
       <map>
