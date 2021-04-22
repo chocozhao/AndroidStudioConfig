@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Linear Layout Helper" />
+      <item value="Single Layout Helper" />
+      <item value="Column Layout Helper" />
       <item value="require Not Null" />
       <item value="Illegal State Exception" />
       <item value="reading Course" />
@@ -32,7 +35,6 @@
       <item value="Banner" />
       <item value="This type has a constructor, and thus must be initialized here" />
       <item value="下拉&#10;" />
-      <item value="Single Layout Helper" />
       <item value="Condition 'bean.advancedCourse == null' is always 'false'" />
       <item value="jump Intro" />
       <item value="nested Scrolling Enabled" />
@@ -53,13 +55,11 @@
       <item value="使用&#10;" />
       <item value="年级&#10;" />
       <item value="nian'ji" />
-      <item value="ni'a" />
-      <item value="n" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2267" />
-        <entry key="ENGLISH" value="2268" />
+        <entry key="CHINESE" value="2270" />
+        <entry key="ENGLISH" value="2271" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
