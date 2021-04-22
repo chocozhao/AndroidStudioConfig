@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="require Not Null" />
+      <item value="Illegal State Exception" />
       <item value="reading Course" />
       <item value="banner Type" />
       <item value="头" />
@@ -53,13 +55,11 @@
       <item value="nian'ji" />
       <item value="ni'a" />
       <item value="n" />
-      <item value="年纪&#10;" />
-      <item value="Out-projected type 'BannerViewPager&lt;out Any!&gt;!' prohibits the use of 'public open fun setAdapter(adapter: BaseBannerAdapter&lt;T!&gt;!): BannerViewPager&lt;T!&gt;! defined in com.zhpan.bannerview.BannerViewPager'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2265" />
-        <entry key="ENGLISH" value="2266" />
+        <entry key="CHINESE" value="2267" />
+        <entry key="ENGLISH" value="2268" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
