@@ -5,13 +5,22 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="WIFI" />
+      <item value="MOBILE" />
+      <item value="CODE ERROR NETWORK FAILURE" />
+      <item value="UNKNOW" />
+      <item value="lateinit property title has not been initialized" />
+      <item value="mute" />
+      <item value="BJY Peer Stats Reporter" />
+      <item value="bjyrtc" />
+      <item value="check Unique" />
+      <item value="should Show Tech Contact" />
       <item value="observe" />
       <item value="Actions" />
       <item value="action Show Error" />
       <item value="show Tech Support" />
       <item value="is Added" />
       <item value="Quiz Status" />
-      <item value="should Show Tech Contact" />
       <item value="REENTER" />
       <item value="Single" />
       <item value="Triple" />
@@ -46,23 +55,14 @@
       <item value="换&#10;" />
       <item value="Range Style" />
       <item value="Float Layout Helper" />
-      <item value="Layout Chunk Result" />
-      <item value="Range Grid Layout Helper" />
-      <item value="Base Layout Helper" />
-      <item value="One type argument expected for class BannerViewPager&lt;T : Any!&gt;" />
-      <item value="咨询&#10;" />
-      <item value="z" />
-      <item value="Theme Study List" />
-      <item value="Theme Study" />
-      <item value="Banner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2290" />
-        <entry key="ENGLISH" value="2291" />
+        <entry key="CHINESE" value="2301" />
+        <entry key="ENGLISH" value="2302" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="DANISH" value="1" />
+        <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="9" />
         <entry key="FILIPINO" value="1" />
