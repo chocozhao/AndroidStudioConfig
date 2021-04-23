@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="execute Pending Transactions" />
       <item value="FragmentManager is already executing transactions" />
       <item value="CONFILICT" />
       <item value="red Packet Fragment" />
@@ -54,12 +55,11 @@
       <item value="ERROR HANDLE REENTER" />
       <item value="activity live room pad room interaction container" />
       <item value="activity live room pad room main video container" />
-      <item value="年级&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2331" />
-        <entry key="ENGLISH" value="2332" />
+        <entry key="CHINESE" value="2332" />
+        <entry key="ENGLISH" value="2333" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
