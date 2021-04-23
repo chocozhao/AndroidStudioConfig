@@ -5,8 +5,9 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
-      <item value="FragmentManager is already executing transactions" />
       <item value="execute Pending Transactions" />
+      <item value="CODE ERROR WEBRTC SERVER DISCONNECTED" />
+      <item value="FragmentManager is already executing transactions" />
       <item value="CONFILICT" />
       <item value="red Packet Fragment" />
       <item value="lottery Anim Fragment" />
@@ -54,12 +55,11 @@
       <item value="FINISH" />
       <item value="ERROR HANDLE REENTER" />
       <item value="activity live room pad room interaction container" />
-      <item value="activity live room pad room main video container" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2336" />
-        <entry key="ENGLISH" value="2337" />
+        <entry key="CHINESE" value="2338" />
+        <entry key="ENGLISH" value="2339" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
