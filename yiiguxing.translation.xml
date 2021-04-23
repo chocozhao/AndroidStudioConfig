@@ -5,8 +5,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
-      <item value="execute Pending Transactions" />
       <item value="FragmentManager is already executing transactions" />
+      <item value="execute Pending Transactions" />
       <item value="CONFILICT" />
       <item value="red Packet Fragment" />
       <item value="lottery Anim Fragment" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2332" />
-        <entry key="ENGLISH" value="2333" />
+        <entry key="CHINESE" value="2336" />
+        <entry key="ENGLISH" value="2337" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
