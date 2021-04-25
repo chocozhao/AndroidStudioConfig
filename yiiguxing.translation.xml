@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="UNREACHABLE CODE" />
       <item value="确定" />
       <item value="确定&#10;" />
       <item value="qu" />
@@ -54,12 +55,11 @@
       <item value="WIFI" />
       <item value="UNKNOW" />
       <item value="lateinit property title has not been initialized" />
-      <item value="mute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2355" />
-        <entry key="ENGLISH" value="2356" />
+        <entry key="CHINESE" value="2356" />
+        <entry key="ENGLISH" value="2357" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
