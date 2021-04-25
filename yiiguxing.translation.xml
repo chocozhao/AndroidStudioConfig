@@ -5,10 +5,15 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
-      <item value="NETWORK FAILURE" />
-      <item value="execute Pending Transactions" />
-      <item value="CODE ERROR WEBRTC SERVER DISCONNECTED" />
       <item value="FragmentManager is already executing transactions" />
+      <item value="begin Transaction" />
+      <item value="release" />
+      <item value="replace Fragment" />
+      <item value="Returns true if there were any pending transactions to be executed." />
+      <item value="execute Pending Transactions" />
+      <item value="bjy media player got a error" />
+      <item value="NETWORK FAILURE" />
+      <item value="CODE ERROR WEBRTC SERVER DISCONNECTED" />
       <item value="CONFILICT" />
       <item value="red Packet Fragment" />
       <item value="lottery Anim Fragment" />
@@ -50,16 +55,11 @@
       <item value="action Show Error" />
       <item value="show Tech Support" />
       <item value="is Added" />
-      <item value="Quiz Status" />
-      <item value="Single" />
-      <item value="Triple" />
-      <item value="FINISH" />
-      <item value="ERROR HANDLE REENTER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2339" />
-        <entry key="ENGLISH" value="2340" />
+        <entry key="CHINESE" value="2350" />
+        <entry key="ENGLISH" value="2351" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
