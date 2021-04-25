@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="is Not Empty" />
       <item value="CODE ERROR NETWORK FAILURE" />
       <item value="FragmentManager is already executing transactions" />
       <item value="begin Transaction" />
@@ -54,12 +55,11 @@
       <item value="Actions" />
       <item value="action Show Error" />
       <item value="show Tech Support" />
-      <item value="is Added" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2351" />
-        <entry key="ENGLISH" value="2352" />
+        <entry key="CHINESE" value="2352" />
+        <entry key="ENGLISH" value="2353" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
