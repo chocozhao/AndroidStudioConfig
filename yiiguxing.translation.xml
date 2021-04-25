@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1005" />
+    <option name="newTranslationDialogWidth" value="1003" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="确定" />
+      <item value="确定&#10;" />
+      <item value="qu" />
+      <item value="u" />
       <item value="dispatch Intent" />
       <item value="check Signature" />
       <item value="on Resp" />
@@ -51,10 +55,6 @@
       <item value="UNKNOW" />
       <item value="lateinit property title has not been initialized" />
       <item value="mute" />
-      <item value="BJY Peer Stats Reporter" />
-      <item value="bjyrtc" />
-      <item value="should Show Tech Contact" />
-      <item value="observe" />
     </histories>
     <option name="languageScores">
       <map>
