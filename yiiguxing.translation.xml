@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="pattern" />
+      <item value="get Friendly Time Span By Now" />
       <item value="start Play Logic" />
       <item value="media Url" />
       <item value="media" />
@@ -53,13 +55,11 @@
       <item value="first" />
       <item value="ERROR HANDLE FINISH" />
       <item value="Unique" />
-      <item value="base live enter room" />
-      <item value="retry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2361" />
-        <entry key="ENGLISH" value="2362" />
+        <entry key="CHINESE" value="2363" />
+        <entry key="ENGLISH" value="2364" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
