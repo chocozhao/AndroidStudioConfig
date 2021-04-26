@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="portrait" />
+      <item value="screen Orientation" />
       <item value="relate" />
       <item value="UNREACHABLE CODE" />
       <item value="确定" />
@@ -53,13 +55,11 @@
       <item value="check Unique" />
       <item value="answer End" />
       <item value="answer Start" />
-      <item value="WIFI" />
-      <item value="UNKNOW" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2357" />
-        <entry key="ENGLISH" value="2358" />
+        <entry key="CHINESE" value="2360" />
+        <entry key="ENGLISH" value="2361" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
