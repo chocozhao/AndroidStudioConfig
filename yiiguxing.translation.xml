@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="1003" />
+    <option name="newTranslationDialogWidth" value="1001" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="切换&#10;" />
       <item value="portrait" />
       <item value="screen Orientation" />
       <item value="relate" />
@@ -54,7 +55,6 @@
       <item value="is Re Connect" />
       <item value="check Unique" />
       <item value="answer End" />
-      <item value="answer Start" />
     </histories>
     <option name="languageScores">
       <map>
