@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="single Task" />
+      <item value="Instance" />
       <item value="pattern" />
       <item value="get Friendly Time Span By Now" />
       <item value="start Play Logic" />
@@ -53,13 +55,11 @@
       <item value="_CONFILICT" />
       <item value="second" />
       <item value="first" />
-      <item value="ERROR HANDLE FINISH" />
-      <item value="Unique" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2363" />
-        <entry key="ENGLISH" value="2364" />
+        <entry key="CHINESE" value="2365" />
+        <entry key="ENGLISH" value="2366" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
