@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="receive Experience Vip Gift" />
       <item value="let" />
       <item value="need Start Learn Click Event" />
       <item value="Square" />
@@ -54,12 +55,11 @@
       <item value="action Re Enter Room" />
       <item value="REENTER" />
       <item value="This can be useful for creating [Map] literals with less noise, for example:" />
-      <item value="Creates a tuple of type [Pair] from this and [that]." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2368" />
-        <entry key="ENGLISH" value="2369" />
+        <entry key="CHINESE" value="2369" />
+        <entry key="ENGLISH" value="2370" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
