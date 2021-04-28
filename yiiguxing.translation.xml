@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="let" />
       <item value="need Start Learn Click Event" />
       <item value="Square" />
       <item value="single Task" />
@@ -54,12 +55,11 @@
       <item value="REENTER" />
       <item value="This can be useful for creating [Map] literals with less noise, for example:" />
       <item value="Creates a tuple of type [Pair] from this and [that]." />
-      <item value="_CONFILICT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2367" />
-        <entry key="ENGLISH" value="2368" />
+        <entry key="CHINESE" value="2368" />
+        <entry key="ENGLISH" value="2369" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
