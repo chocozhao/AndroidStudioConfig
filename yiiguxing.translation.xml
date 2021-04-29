@@ -1,15 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="997" />
+    <option name="newTranslationDialogWidth" value="995" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="阅读兴趣&#10;" />
+      <item value="阅读xing'qi" />
       <item value="兴趣&#10;" />
       <item value="Signature" />
       <item value="Layout state should be one of 100 but it is 10" />
       <item value="Limit" />
-      <item value="阅读兴趣&#10;" />
       <item value="阅读xing'qu" />
       <item value="阅读xign'qi" />
       <item value="Failed to parse XML configuration from provider_paths" />
@@ -54,7 +55,6 @@
       <item value="lottery Anim Fragment" />
       <item value="error Container" />
       <item value="Failed to delete some children. This might happen because a process has files open or has its working directory set in the target directory." />
-      <item value="RECONNECT" />
     </histories>
     <option name="languageScores">
       <map>
