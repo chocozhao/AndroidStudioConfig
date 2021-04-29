@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Layout state should be one of 100 but it is 10" />
       <item value="Limit" />
       <item value="阅读兴趣&#10;" />
       <item value="阅读xing'qu" />
@@ -54,12 +55,11 @@
       <item value="RECONNECT" />
       <item value="HANDLE" />
       <item value="ERROR HANDLE CONFILICT" />
-      <item value="php、ms、rs" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2375" />
-        <entry key="ENGLISH" value="2376" />
+        <entry key="CHINESE" value="2376" />
+        <entry key="ENGLISH" value="2377" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
