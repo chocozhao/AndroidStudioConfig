@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="has Receiving Address" />
       <item value="has Reading Interest" />
       <item value="阅读兴趣&#10;" />
       <item value="阅读xing'qi" />
@@ -54,12 +55,11 @@
       <item value="CONFILICT" />
       <item value="red Packet Fragment" />
       <item value="lottery Anim Fragment" />
-      <item value="error Container" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2378" />
-        <entry key="ENGLISH" value="2379" />
+        <entry key="CHINESE" value="2379" />
+        <entry key="ENGLISH" value="2380" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
@@ -89,7 +89,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619311485116" />
+    <option name="lastTrimTime" value="1619749281438" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
