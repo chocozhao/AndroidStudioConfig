@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="The specified child already has a parent. You must call removeView() on the child's parent first." />
       <item value="has Receiving Address" />
       <item value="has Reading Interest" />
       <item value="阅读兴趣&#10;" />
@@ -54,12 +55,11 @@
       <item value="CODE ERROR WEBRTC SERVER DISCONNECTED" />
       <item value="CONFILICT" />
       <item value="red Packet Fragment" />
-      <item value="lottery Anim Fragment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2379" />
-        <entry key="ENGLISH" value="2380" />
+        <entry key="CHINESE" value="2380" />
+        <entry key="ENGLISH" value="2381" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
