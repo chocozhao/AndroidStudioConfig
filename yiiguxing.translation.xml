@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="set On Editor Action Listener" />
       <item value="Received status code 403 from server: Forbidden" />
       <item value="poses" />
       <item value="Deprecated" />
@@ -54,12 +55,11 @@
       <item value="replace Fragment" />
       <item value="Returns true if there were any pending transactions to be executed." />
       <item value="execute Pending Transactions" />
-      <item value="bjy media player got a error" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2385" />
-        <entry key="ENGLISH" value="2386" />
+        <entry key="CHINESE" value="2386" />
+        <entry key="ENGLISH" value="2387" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
