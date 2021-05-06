@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="show Pause Cover" />
       <item value="fullscreen Button" />
       <item value="start Window Fullscreen" />
       <item value="set On Editor Action Listener" />
@@ -54,12 +55,11 @@
       <item value="FragmentManager is already executing transactions" />
       <item value="begin Transaction" />
       <item value="release" />
-      <item value="replace Fragment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2388" />
-        <entry key="ENGLISH" value="2389" />
+        <entry key="CHINESE" value="2389" />
+        <entry key="ENGLISH" value="2390" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
