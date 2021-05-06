@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="fullscreen Button" />
+      <item value="start Window Fullscreen" />
       <item value="set On Editor Action Listener" />
       <item value="Received status code 403 from server: Forbidden" />
       <item value="poses" />
@@ -53,13 +55,11 @@
       <item value="begin Transaction" />
       <item value="release" />
       <item value="replace Fragment" />
-      <item value="Returns true if there were any pending transactions to be executed." />
-      <item value="execute Pending Transactions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2386" />
-        <entry key="ENGLISH" value="2387" />
+        <entry key="CHINESE" value="2388" />
+        <entry key="ENGLISH" value="2389" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
