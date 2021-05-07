@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="toggle" />
       <item value="Container" />
       <item value="do Select" />
       <item value="set Child Checked" />
@@ -54,12 +55,11 @@
       <item value="Instance" />
       <item value="pattern" />
       <item value="get Friendly Time Span By Now" />
-      <item value="start Play Logic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2406" />
-        <entry key="ENGLISH" value="2407" />
+        <entry key="CHINESE" value="2407" />
+        <entry key="ENGLISH" value="2408" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
