@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="995" />
+    <option name="newTranslationDialogWidth" value="993" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="合并" />
+      <item value="合并you" />
+      <item value="he" />
       <item value="Received status code 403 from server: Forbidden" />
       <item value="Forbidden" />
       <item value="constraint Layout" />
@@ -52,9 +55,6 @@
       <item value="screen Orientation" />
       <item value="relate" />
       <item value="UNREACHABLE CODE" />
-      <item value="确定" />
-      <item value="确定&#10;" />
-      <item value="qu" />
     </histories>
     <option name="languageScores">
       <map>
