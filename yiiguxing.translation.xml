@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="993" />
+    <option name="newTranslationDialogWidth" value="989" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="兴趣&#10;" />
+      <item value="编辑&#10;" />
+      <item value="bian'ji" />
       <item value="Single Layout Helper" />
       <item value="合并" />
       <item value="合并you" />
@@ -31,7 +34,6 @@
       <item value="has Reading Interest" />
       <item value="阅读兴趣&#10;" />
       <item value="阅读xing'qi" />
-      <item value="兴趣&#10;" />
       <item value="Signature" />
       <item value="Layout state should be one of 100 but it is 10" />
       <item value="Limit" />
@@ -53,8 +55,6 @@
       <item value="media" />
       <item value="切换&#10;" />
       <item value="portrait" />
-      <item value="screen Orientation" />
-      <item value="relate" />
     </histories>
     <option name="languageScores">
       <map>
