@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="get Pre Checked List" />
       <item value="set Selected" />
       <item value="clickable" />
       <item value="toggle" />
@@ -54,12 +55,11 @@
       <item value="need Start Learn Click Event" />
       <item value="Square" />
       <item value="single Task" />
-      <item value="Instance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2409" />
-        <entry key="ENGLISH" value="2410" />
+        <entry key="CHINESE" value="2410" />
+        <entry key="ENGLISH" value="2411" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
