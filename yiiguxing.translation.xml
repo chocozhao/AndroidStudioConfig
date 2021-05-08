@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Deprecated" />
       <item value="get Pre Checked List" />
       <item value="set Selected" />
       <item value="clickable" />
@@ -35,7 +36,6 @@
       <item value="start Window Fullscreen" />
       <item value="set On Editor Action Listener" />
       <item value="poses" />
-      <item value="Deprecated" />
       <item value="set On Data Changed Listener" />
       <item value="The specified child already has a parent. You must call removeView() on the child's parent first." />
       <item value="has Receiving Address" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2410" />
-        <entry key="ENGLISH" value="2411" />
+        <entry key="CHINESE" value="2411" />
+        <entry key="ENGLISH" value="2412" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
