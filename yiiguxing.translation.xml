@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="update Disk Cache Key" />
       <item value="animate" />
       <item value="LEADERBOARD" />
       <item value="Deprecated" />
@@ -54,12 +55,11 @@
       <item value="Tinker Patch Reflect Application" />
       <item value="receive Experience Vip Gift" />
       <item value="let" />
-      <item value="need Start Learn Click Event" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2413" />
-        <entry key="ENGLISH" value="2413" />
+        <entry key="ENGLISH" value="2414" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
