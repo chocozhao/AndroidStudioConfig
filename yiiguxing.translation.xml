@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="animate" />
       <item value="LEADERBOARD" />
       <item value="Deprecated" />
       <item value="get Pre Checked List" />
@@ -54,11 +55,10 @@
       <item value="receive Experience Vip Gift" />
       <item value="let" />
       <item value="need Start Learn Click Event" />
-      <item value="Square" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2412" />
+        <entry key="CHINESE" value="2413" />
         <entry key="ENGLISH" value="2413" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -72,7 +72,7 @@
         <entry key="CATALAN" value="2" />
         <entry key="KURDISH" value="1" />
         <entry key="LATIN" value="13" />
-        <entry key="ROMANIAN" value="5" />
+        <entry key="ROMANIAN" value="6" />
         <entry key="MALAGASY" value="1" />
         <entry key="MALAY" value="2" />
         <entry key="NORWEGIAN" value="3" />
