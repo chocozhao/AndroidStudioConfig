@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="You may need to adjust the proxy settings in Gradle" />
       <item value="Exposure" />
       <item value="set Task Visible" />
       <item value="tv Renew" />
@@ -54,12 +55,11 @@
       <item value="阅读xing'qu" />
       <item value="阅读xign'qi" />
       <item value="Failed to parse XML configuration from provider_paths" />
-      <item value="provider paths" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2416" />
-        <entry key="ENGLISH" value="2417" />
+        <entry key="CHINESE" value="2417" />
+        <entry key="ENGLISH" value="2418" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
