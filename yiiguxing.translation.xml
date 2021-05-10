@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="989" />
+    <option name="newTranslationDialogWidth" value="987" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="释放资源&#10;" />
+      <item value="释放&#10;" />
+      <item value="释放" />
+      <item value="shi" />
       <item value="You may need to adjust the proxy settings in Gradle" />
       <item value="Exposure" />
       <item value="set Task Visible" />
@@ -51,10 +55,6 @@
       <item value="阅读xing'qi" />
       <item value="Signature" />
       <item value="Layout state should be one of 100 but it is 10" />
-      <item value="Limit" />
-      <item value="阅读xing'qu" />
-      <item value="阅读xign'qi" />
-      <item value="Failed to parse XML configuration from provider_paths" />
     </histories>
     <option name="languageScores">
       <map>
