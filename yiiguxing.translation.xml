@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="on View Attached To Window" />
       <item value="释放资源&#10;" />
       <item value="释放&#10;" />
       <item value="释放" />
@@ -54,12 +55,11 @@
       <item value="阅读兴趣&#10;" />
       <item value="阅读xing'qi" />
       <item value="Signature" />
-      <item value="Layout state should be one of 100 but it is 10" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2417" />
-        <entry key="ENGLISH" value="2418" />
+        <entry key="CHINESE" value="2418" />
+        <entry key="ENGLISH" value="2419" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
@@ -89,7 +89,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620265076674" />
+    <option name="lastTrimTime" value="1620699578790" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
