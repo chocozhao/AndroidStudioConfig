@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="skeleton" />
       <item value="set Lifecycle Registry" />
       <item value="set Indicator Slider Radius" />
       <item value="set Indicator Slider Color" />
@@ -54,12 +55,11 @@
       <item value="fullscreen Button" />
       <item value="start Window Fullscreen" />
       <item value="set On Editor Action Listener" />
-      <item value="poses" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2427" />
-        <entry key="ENGLISH" value="2428" />
+        <entry key="CHINESE" value="2428" />
+        <entry key="ENGLISH" value="2429" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
