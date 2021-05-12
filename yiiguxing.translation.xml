@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="get Pre Checked List" />
       <item value="Book Shelf Refresh Event" />
       <item value="skeleton" />
       <item value="set Lifecycle Registry" />
@@ -27,7 +28,6 @@
       <item value="animate" />
       <item value="LEADERBOARD" />
       <item value="Deprecated" />
-      <item value="get Pre Checked List" />
       <item value="set Selected" />
       <item value="clickable" />
       <item value="toggle" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2429" />
-        <entry key="ENGLISH" value="2430" />
+        <entry key="CHINESE" value="2431" />
+        <entry key="ENGLISH" value="2432" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
