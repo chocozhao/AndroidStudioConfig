@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="可见" />
+      <item value="可见&#10;" />
       <item value="get Pre Checked List" />
       <item value="Book Shelf Refresh Event" />
       <item value="skeleton" />
@@ -53,8 +55,6 @@
       <item value="start Button Logic" />
       <item value="surface container" />
       <item value="show Pause Cover" />
-      <item value="fullscreen Button" />
-      <item value="start Window Fullscreen" />
     </histories>
     <option name="languageScores">
       <map>
