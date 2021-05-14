@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="stroke" />
+      <item value="gradient" />
       <item value="可见" />
       <item value="可见&#10;" />
       <item value="get Pre Checked List" />
@@ -53,13 +55,11 @@
       <item value="CURRENT STATE NORMAL" />
       <item value="set State And Ui" />
       <item value="start Button Logic" />
-      <item value="surface container" />
-      <item value="show Pause Cover" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2431" />
-        <entry key="ENGLISH" value="2432" />
+        <entry key="CHINESE" value="2433" />
+        <entry key="ENGLISH" value="2434" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
