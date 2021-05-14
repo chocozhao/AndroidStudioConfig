@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="scale Type" />
       <item value="No implementation found for int org.android.netutil.UdpConnectType.nativeTestUdpConnectIpv4()" />
       <item value="Received" />
       <item value="stroke" />
@@ -54,12 +55,11 @@
       <item value="CURRENT STATE PAUSE" />
       <item value="CURRENT STATE PLAYING" />
       <item value="CURRENT STATE PREPAREING" />
-      <item value="CURRENT STATE NORMAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2435" />
-        <entry key="ENGLISH" value="2436" />
+        <entry key="CHINESE" value="2436" />
+        <entry key="ENGLISH" value="2437" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
