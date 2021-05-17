@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="The device needs more free storage to install the application (extra space is needed in addition to APK size)." />
       <item value="Attached" />
       <item value="Detached" />
       <item value="LOLLIPOP" />
@@ -54,12 +55,11 @@
       <item value="合并" />
       <item value="合并you" />
       <item value="he" />
-      <item value="Received status code 403 from server: Forbidden" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2441" />
-        <entry key="ENGLISH" value="2442" />
+        <entry key="CHINESE" value="2442" />
+        <entry key="ENGLISH" value="2443" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
