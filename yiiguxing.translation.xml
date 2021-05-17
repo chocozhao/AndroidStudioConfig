@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="LOLLIPOP" />
       <item value="state pressed" />
       <item value="We Chat Oauth Manager" />
       <item value="scale Type" />
@@ -54,12 +55,11 @@
       <item value="Received status code 403 from server: Forbidden" />
       <item value="Forbidden" />
       <item value="constraint Layout" />
-      <item value="CURRENT STATE PAUSE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2438" />
-        <entry key="ENGLISH" value="2439" />
+        <entry key="CHINESE" value="2439" />
+        <entry key="ENGLISH" value="2440" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
