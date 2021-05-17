@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="handle Current Visible Items" />
+      <item value="range" />
       <item value="List Point Utils" />
       <item value="inaccessible" />
       <item value="set Is Recycler View Visible In Logic" />
@@ -53,13 +55,11 @@
       <item value="set Child Checked" />
       <item value="repeat" />
       <item value="兴趣&#10;" />
-      <item value="编辑&#10;" />
-      <item value="bian'ji" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2447" />
-        <entry key="ENGLISH" value="2448" />
+        <entry key="CHINESE" value="2449" />
+        <entry key="ENGLISH" value="2450" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
