@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="last" />
+      <item value="Platform declaration clash: The following declarations have the same JVM signature (getIdList(" />
       <item value="清理&#10;" />
       <item value="清理" />
       <item value="lateinit" />
@@ -53,13 +55,11 @@
       <item value="Exposure" />
       <item value="set Task Visible" />
       <item value="tv Renew" />
-      <item value="update Disk Cache Key" />
-      <item value="animate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2459" />
-        <entry key="ENGLISH" value="2459" />
+        <entry key="ENGLISH" value="2460" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
