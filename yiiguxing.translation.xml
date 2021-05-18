@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="987" />
+    <option name="newTranslationDialogWidth" value="985" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="默认&#10;" />
       <item value="Book Shelf Adapter" />
       <item value="set Oval" />
       <item value="Rect" />
@@ -54,7 +55,6 @@
       <item value="Deprecated" />
       <item value="set Selected" />
       <item value="clickable" />
-      <item value="toggle" />
     </histories>
     <option name="languageScores">
       <map>
