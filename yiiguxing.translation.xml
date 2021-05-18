@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="an array of two integers in which to hold the coordinates" />
+      <item value="int Array Of" />
+      <item value="get Location In Window" />
       <item value="last" />
       <item value="Platform declaration clash: The following declarations have the same JVM signature (getIdList(" />
       <item value="清理&#10;" />
@@ -52,14 +55,11 @@
       <item value="释放" />
       <item value="shi" />
       <item value="You may need to adjust the proxy settings in Gradle" />
-      <item value="Exposure" />
-      <item value="set Task Visible" />
-      <item value="tv Renew" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2459" />
-        <entry key="ENGLISH" value="2460" />
+        <entry key="CHINESE" value="2462" />
+        <entry key="ENGLISH" value="2463" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
