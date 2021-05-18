@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="get Navigation Bar Height" />
+      <item value="navigation Bar Height" />
+      <item value="m Navigation Bar Height" />
       <item value="an array of two integers in which to hold the coordinates" />
       <item value="int Array Of" />
       <item value="get Location In Window" />
@@ -52,14 +55,11 @@
       <item value="on View Attached To Window" />
       <item value="释放资源&#10;" />
       <item value="释放&#10;" />
-      <item value="释放" />
-      <item value="shi" />
-      <item value="You may need to adjust the proxy settings in Gradle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2462" />
-        <entry key="ENGLISH" value="2463" />
+        <entry key="CHINESE" value="2465" />
+        <entry key="ENGLISH" value="2466" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
