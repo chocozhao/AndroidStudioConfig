@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Book Shelf Adapter" />
       <item value="set Oval" />
       <item value="Rect" />
       <item value="set Round Rect" />
@@ -54,12 +55,11 @@
       <item value="set Selected" />
       <item value="clickable" />
       <item value="toggle" />
-      <item value="Container" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2455" />
-        <entry key="ENGLISH" value="2456" />
+        <entry key="CHINESE" value="2456" />
+        <entry key="ENGLISH" value="2457" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
