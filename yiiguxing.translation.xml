@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="清理&#10;" />
+      <item value="清理" />
       <item value="lateinit" />
       <item value="lateinit property mSelectListener has not been initialized" />
       <item value="默认&#10;" />
@@ -53,8 +55,6 @@
       <item value="tv Renew" />
       <item value="update Disk Cache Key" />
       <item value="animate" />
-      <item value="LEADERBOARD" />
-      <item value="Deprecated" />
     </histories>
     <option name="languageScores">
       <map>
