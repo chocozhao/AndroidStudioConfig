@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="protected" />
       <item value="change Ui To Pause Clear" />
       <item value="暂停" />
       <item value="暂停&#10;" />
@@ -54,7 +55,6 @@
       <item value="set Indicator Slider Color" />
       <item value="FORM" />
       <item value="FLAG ACTIVITY CLEAR TOP" />
-      <item value="FLAG ACTIVITY SINGLE TOP" />
     </histories>
     <option name="languageScores">
       <map>
