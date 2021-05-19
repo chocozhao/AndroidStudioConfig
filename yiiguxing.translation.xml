@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="983" />
+    <option name="newTranslationDialogWidth" value="979" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="CURRENT STATE PAUSE" />
+      <item value="CURRENT STATE PLAYING" />
+      <item value="自定义&#10;" />
+      <item value="None of the following functions can be called with the arguments supplied" />
+      <item value="zi" />
       <item value="protected" />
       <item value="change Ui To Pause Clear" />
       <item value="暂停" />
@@ -50,16 +55,11 @@
       <item value="get Pre Checked List" />
       <item value="Book Shelf Refresh Event" />
       <item value="skeleton" />
-      <item value="set Lifecycle Registry" />
-      <item value="set Indicator Slider Radius" />
-      <item value="set Indicator Slider Color" />
-      <item value="FORM" />
-      <item value="FLAG ACTIVITY CLEAR TOP" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2467" />
-        <entry key="ENGLISH" value="2468" />
+        <entry key="CHINESE" value="2469" />
+        <entry key="ENGLISH" value="2470" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
