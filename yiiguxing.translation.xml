@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="985" />
+    <option name="newTranslationDialogWidth" value="983" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="change Ui To Pause Clear" />
+      <item value="暂停" />
+      <item value="暂停&#10;" />
       <item value="Recently Study Title Adapter" />
       <item value="get Navigation Bar Height" />
       <item value="navigation Bar Height" />
@@ -52,14 +55,11 @@
       <item value="FORM" />
       <item value="FLAG ACTIVITY CLEAR TOP" />
       <item value="FLAG ACTIVITY SINGLE TOP" />
-      <item value="single Task" />
-      <item value="on View Attached To Window" />
-      <item value="释放资源&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2466" />
-        <entry key="ENGLISH" value="2467" />
+        <entry key="CHINESE" value="2467" />
+        <entry key="ENGLISH" value="2468" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
