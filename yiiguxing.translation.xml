@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Recently Study Title Adapter" />
       <item value="get Navigation Bar Height" />
       <item value="navigation Bar Height" />
       <item value="m Navigation Bar Height" />
@@ -54,12 +55,11 @@
       <item value="single Task" />
       <item value="on View Attached To Window" />
       <item value="释放资源&#10;" />
-      <item value="释放&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2465" />
-        <entry key="ENGLISH" value="2466" />
+        <entry key="CHINESE" value="2466" />
+        <entry key="ENGLISH" value="2467" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
