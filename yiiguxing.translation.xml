@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="979" />
+    <option name="newTranslationDialogWidth" value="977" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="领取&#10;" />
       <item value="interval" />
       <item value="Player Bar Tips Event" />
       <item value="Single Picker" />
@@ -54,7 +55,6 @@
       <item value="stroke" />
       <item value="gradient" />
       <item value="可见" />
-      <item value="可见&#10;" />
     </histories>
     <option name="languageScores">
       <map>
