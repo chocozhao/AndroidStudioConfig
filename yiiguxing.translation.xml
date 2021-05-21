@@ -5,6 +5,15 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="set Should Check Loc In Window" />
+      <item value="High Target Corner" />
+      <item value="High Target Padding" />
+      <item value="Alpha" />
+      <item value="set Alpha" />
+      <item value="set High Target Padding" />
+      <item value="set Target View" />
+      <item value="set High Target Corner" />
+      <item value="arrow" />
       <item value="layer frends" />
       <item value="layer_frends" />
       <item value="学习&#10;" />
@@ -46,20 +55,11 @@
       <item value="set Is Recycler View Visible In Logic" />
       <item value="handle Current Visible Items" />
       <item value="range" />
-      <item value="List Point Utils" />
-      <item value="inaccessible" />
-      <item value="Illegal Access Error" />
-      <item value="The device needs more free storage to install the application (extra space is needed in addition to APK size)." />
-      <item value="Attached" />
-      <item value="Detached" />
-      <item value="LOLLIPOP" />
-      <item value="state pressed" />
-      <item value="We Chat Oauth Manager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2476" />
-        <entry key="ENGLISH" value="2477" />
+        <entry key="CHINESE" value="2486" />
+        <entry key="ENGLISH" value="2487" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
