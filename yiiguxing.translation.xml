@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="FIT END" />
       <item value="set Should Check Loc In Window" />
       <item value="High Target Corner" />
       <item value="High Target Padding" />
@@ -18,7 +19,6 @@
       <item value="layer_frends" />
       <item value="学习&#10;" />
       <item value="ANCHOR BOTTOM" />
-      <item value="FIT END" />
       <item value="Simple Component" />
       <item value="领取&#10;" />
       <item value="interval" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2486" />
-        <entry key="ENGLISH" value="2487" />
+        <entry key="CHINESE" value="2487" />
+        <entry key="ENGLISH" value="2488" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
