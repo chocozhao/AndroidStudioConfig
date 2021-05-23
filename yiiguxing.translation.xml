@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="set High Target Corner" />
+      <item value="get Fit Position" />
       <item value="Anchor" />
       <item value="OVER" />
       <item value="FIT CENTER" />
@@ -29,7 +31,6 @@
       <item value="set Alpha" />
       <item value="set High Target Padding" />
       <item value="set Target View" />
-      <item value="set High Target Corner" />
       <item value="arrow" />
       <item value="layer frends" />
       <item value="layer_frends" />
@@ -54,12 +55,11 @@
       <item value="m Navigation Bar Height" />
       <item value="an array of two integers in which to hold the coordinates" />
       <item value="int Array Of" />
-      <item value="get Location In Window" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2503" />
-        <entry key="ENGLISH" value="2504" />
+        <entry key="CHINESE" value="2505" />
+        <entry key="ENGLISH" value="2506" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
