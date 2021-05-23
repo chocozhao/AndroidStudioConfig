@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Only the original thread that created a view hierarchy can touch its views." />
       <item value="getUniqueDeviceId: The user 10207 does not meet the requirements to access device identifiers." />
       <item value="secret" />
       <item value="from X Scale" />
@@ -54,12 +55,11 @@
       <item value="默认&#10;" />
       <item value="Book Shelf Adapter" />
       <item value="set Oval" />
-      <item value="Rect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2492" />
-        <entry key="ENGLISH" value="2493" />
+        <entry key="CHINESE" value="2493" />
+        <entry key="ENGLISH" value="2494" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
