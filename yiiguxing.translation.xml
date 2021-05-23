@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="set Label" />
       <item value="set High Target Corner" />
       <item value="get Fit Position" />
       <item value="Anchor" />
@@ -54,12 +55,11 @@
       <item value="navigation Bar Height" />
       <item value="m Navigation Bar Height" />
       <item value="an array of two integers in which to hold the coordinates" />
-      <item value="int Array Of" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2505" />
-        <entry key="ENGLISH" value="2506" />
+        <entry key="CHINESE" value="2506" />
+        <entry key="ENGLISH" value="2507" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
