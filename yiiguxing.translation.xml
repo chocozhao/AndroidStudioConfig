@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="getUniqueDeviceId: The user 10207 does not meet the requirements to access device identifiers." />
       <item value="secret" />
       <item value="from X Scale" />
       <item value="duration" />
@@ -54,12 +55,11 @@
       <item value="Book Shelf Adapter" />
       <item value="set Oval" />
       <item value="Rect" />
-      <item value="set Round Rect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2491" />
-        <entry key="ENGLISH" value="2492" />
+        <entry key="CHINESE" value="2492" />
+        <entry key="ENGLISH" value="2493" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
@@ -89,7 +89,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621222085420" />
+    <option name="lastTrimTime" value="1621733556588" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
