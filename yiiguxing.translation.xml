@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="OVER" />
+      <item value="FIT CENTER" />
+      <item value="PARENT CENTER" />
+      <item value="ANCHOR" />
       <item value="ANCHOR TOP" />
       <item value="ANCHOR OVER" />
       <item value="ANCHOR BOTTOM" />
@@ -51,15 +55,11 @@
       <item value="int Array Of" />
       <item value="get Location In Window" />
       <item value="last" />
-      <item value="Platform declaration clash: The following declarations have the same JVM signature (getIdList(" />
-      <item value="清理&#10;" />
-      <item value="清理" />
-      <item value="lateinit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2498" />
-        <entry key="ENGLISH" value="2499" />
+        <entry key="CHINESE" value="2502" />
+        <entry key="ENGLISH" value="2503" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
