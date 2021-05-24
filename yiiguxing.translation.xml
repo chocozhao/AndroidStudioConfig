@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="interval" />
       <item value="on Hidden Changed" />
       <item value="is Hidden" />
       <item value="is Visible To User" />
@@ -46,7 +47,6 @@
       <item value="学习&#10;" />
       <item value="Simple Component" />
       <item value="领取&#10;" />
-      <item value="interval" />
       <item value="Player Bar Tips Event" />
       <item value="Single Picker" />
       <item value="CURRENT STATE PLAYING" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2514" />
-        <entry key="ENGLISH" value="2515" />
+        <entry key="CHINESE" value="2515" />
+        <entry key="ENGLISH" value="2516" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
