@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="MSEC" />
+      <item value="get Fit Time Span" />
+      <item value="unit" />
+      <item value="millis" />
+      <item value="The unit of time span." />
+      <item value="The first formatted time string." />
       <item value="get Is Alert" />
       <item value="最终&#10;" />
       <item value="member" />
@@ -49,17 +55,11 @@
       <item value="set Target View" />
       <item value="arrow" />
       <item value="layer frends" />
-      <item value="layer_frends" />
-      <item value="学习&#10;" />
-      <item value="Simple Component" />
-      <item value="领取&#10;" />
-      <item value="Player Bar Tips Event" />
-      <item value="Single Picker" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2517" />
-        <entry key="ENGLISH" value="2518" />
+        <entry key="CHINESE" value="2522" />
+        <entry key="ENGLISH" value="2523" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
@@ -83,7 +83,7 @@
         <entry key="SPANISH" value="1" />
         <entry key="GREEK" value="1" />
         <entry key="ITALIAN" value="2" />
-        <entry key="INDONESIAN" value="4" />
+        <entry key="INDONESIAN" value="5" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
