@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="member" />
       <item value="会员&#10;" />
       <item value="会员" />
       <item value="on Shown" />
@@ -54,7 +55,6 @@
       <item value="Single Picker" />
       <item value="CURRENT STATE PLAYING" />
       <item value="CURRENT STATE PAUSE" />
-      <item value="自定义&#10;" />
     </histories>
     <option name="languageScores">
       <map>
