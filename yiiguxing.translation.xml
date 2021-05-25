@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="971" />
+    <option name="newTranslationDialogWidth" value="969" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="最终&#10;" />
       <item value="member" />
       <item value="会员&#10;" />
       <item value="会员" />
@@ -54,7 +55,6 @@
       <item value="Player Bar Tips Event" />
       <item value="Single Picker" />
       <item value="CURRENT STATE PLAYING" />
-      <item value="CURRENT STATE PAUSE" />
     </histories>
     <option name="languageScores">
       <map>
