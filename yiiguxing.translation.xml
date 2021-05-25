@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="get Is Alert" />
       <item value="最终&#10;" />
       <item value="member" />
       <item value="会员&#10;" />
@@ -54,12 +55,11 @@
       <item value="领取&#10;" />
       <item value="Player Bar Tips Event" />
       <item value="Single Picker" />
-      <item value="CURRENT STATE PLAYING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2516" />
-        <entry key="ENGLISH" value="2517" />
+        <entry key="CHINESE" value="2517" />
+        <entry key="ENGLISH" value="2518" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
