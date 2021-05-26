@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="白" />
+      <item value="bai" />
+      <item value="a" />
+      <item value="B" />
       <item value="Attempt to invoke virtual method 'boolean java.lang.String.equals(java.lang.Object)' on a null object reference" />
       <item value="dismiss" />
       <item value="弹窗&#10;" />
@@ -51,10 +55,6 @@
       <item value="duration" />
       <item value="scale" />
       <item value="FIT END" />
-      <item value="set Should Check Loc In Window" />
-      <item value="High Target Corner" />
-      <item value="High Target Padding" />
-      <item value="Alpha" />
     </histories>
     <option name="languageScores">
       <map>
