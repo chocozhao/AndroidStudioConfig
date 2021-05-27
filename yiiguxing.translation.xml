@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Examination" />
+      <item value="tv Examination" />
       <item value="correct Answer Index" />
       <item value="get Question Analysis" />
       <item value="restore Music" />
@@ -53,13 +55,11 @@
       <item value="get Fit Position" />
       <item value="Anchor" />
       <item value="OVER" />
-      <item value="FIT CENTER" />
-      <item value="PARENT CENTER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2539" />
-        <entry key="ENGLISH" value="2540" />
+        <entry key="CHINESE" value="2541" />
+        <entry key="ENGLISH" value="2542" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
