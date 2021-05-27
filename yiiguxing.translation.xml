@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="restore Music" />
+      <item value="pause Music" />
+      <item value="start To Update Progress" />
+      <item value="get Playing Position" />
+      <item value="Chapter" />
+      <item value="intro" />
       <item value="seek" />
       <item value="是否产生seek动作" />
       <item value="Maximum number" />
@@ -49,17 +55,11 @@
       <item value="PARENT CENTER" />
       <item value="ANCHOR" />
       <item value="ANCHOR TOP" />
-      <item value="ANCHOR OVER" />
-      <item value="ANCHOR BOTTOM" />
-      <item value="PARENT START" />
-      <item value="contains" />
-      <item value="Only the original thread that created a view hierarchy can touch its views." />
-      <item value="getUniqueDeviceId: The user 10207 does not meet the requirements to access device identifiers." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2529" />
-        <entry key="ENGLISH" value="2530" />
+        <entry key="CHINESE" value="2536" />
+        <entry key="ENGLISH" value="2537" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
