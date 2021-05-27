@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="one Tenth Of Second" />
       <item value="Alert Dialog" />
       <item value="动画&#10;" />
       <item value="Examination" />
@@ -54,12 +55,11 @@
       <item value="Schedule" />
       <item value="set Label" />
       <item value="set High Target Corner" />
-      <item value="get Fit Position" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2542" />
-        <entry key="ENGLISH" value="2543" />
+        <entry key="CHINESE" value="2543" />
+        <entry key="ENGLISH" value="2544" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
