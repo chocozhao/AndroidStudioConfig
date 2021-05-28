@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Rules are interceptors which are executed for each test method and are important building blocks of Junit tests." />
+      <item value="Start tasks list screen." />
+      <item value="Start tasks list screen" />
+      <item value="Start tasks list screen. onView(withId(R.id.nav_view)) .perform(navigateTo(R.id.list_navigation_menu_item))" />
+      <item value="Open Drawer to click on navigation item." />
+      <item value="Gets an Activity in the RESUMED stage." />
       <item value="one Tenth Of Second" />
       <item value="Alert Dialog" />
       <item value="动画&#10;" />
@@ -49,17 +55,11 @@
       <item value="is Hidden" />
       <item value="is Visible To User" />
       <item value="Cursor" />
-      <item value="is Cursor Visible" />
-      <item value="Recent Study" />
-      <item value="Explore" />
-      <item value="Schedule" />
-      <item value="set Label" />
-      <item value="set High Target Corner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2543" />
-        <entry key="ENGLISH" value="2544" />
+        <entry key="CHINESE" value="2549" />
+        <entry key="ENGLISH" value="2550" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
@@ -89,7 +89,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621733556588" />
+    <option name="lastTrimTime" value="1622168172958" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
