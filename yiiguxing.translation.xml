@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="961" />
+    <option name="newTranslationDialogWidth" value="959" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="回滚" />
+      <item value="回滚旧版&#10;" />
+      <item value="回滚jiu" />
       <item value="分支&#10;" />
       <item value="c" />
       <item value="commin" />
@@ -53,9 +56,6 @@
       <item value="unit" />
       <item value="millis" />
       <item value="The unit of time span." />
-      <item value="The first formatted time string." />
-      <item value="get Is Alert" />
-      <item value="最终&#10;" />
     </histories>
     <option name="languageScores">
       <map>
