@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Received status code 403 from server: Forbidden" />
       <item value="is Minimize" />
       <item value="删除&#10;" />
       <item value="show Part" />
@@ -55,12 +56,11 @@
       <item value="minimize" />
       <item value="隐藏&#10;" />
       <item value="MSEC" />
-      <item value="get Fit Time Span" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2555" />
-        <entry key="ENGLISH" value="2556" />
+        <entry key="CHINESE" value="2556" />
+        <entry key="ENGLISH" value="2557" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
