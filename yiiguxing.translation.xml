@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Library Extension" />
+      <item value="&gt; Could not find method buildFeatures() for arguments [build_4vxzx3kfcyd4oq8bh6xsxizg7_run_closure1_closure5@664785ce] on object of type com.android.build.gradle.LibraryExtension." />
+      <item value="on extra properties extension as it does not exist" />
       <item value="Received status code 403 from server: Forbidden" />
       <item value="is Minimize" />
       <item value="删除&#10;" />
@@ -53,14 +56,11 @@
       <item value="Attempt to invoke virtual method 'boolean java.lang.String.equals(java.lang.Object)' on a null object reference" />
       <item value="dismiss" />
       <item value="弹窗&#10;" />
-      <item value="minimize" />
-      <item value="隐藏&#10;" />
-      <item value="MSEC" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2556" />
-        <entry key="ENGLISH" value="2557" />
+        <entry key="CHINESE" value="2559" />
+        <entry key="ENGLISH" value="2560" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
