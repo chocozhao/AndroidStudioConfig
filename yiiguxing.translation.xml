@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Merge branch 'master' into BJCloud" />
       <item value="Library Extension" />
       <item value="&gt; Could not find method buildFeatures() for arguments [build_4vxzx3kfcyd4oq8bh6xsxizg7_run_closure1_closure5@664785ce] on object of type com.android.build.gradle.LibraryExtension." />
       <item value="on extra properties extension as it does not exist" />
@@ -55,7 +56,6 @@
       <item value="B" />
       <item value="Attempt to invoke virtual method 'boolean java.lang.String.equals(java.lang.Object)' on a null object reference" />
       <item value="dismiss" />
-      <item value="弹窗&#10;" />
     </histories>
     <option name="languageScores">
       <map>
