@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="native Test Udp Connect Ipv 4" />
+      <item value="Unsatisfied Link Error" />
+      <item value="detect Ip Stack" />
       <item value="注册&#10;" />
       <item value="Attempt to invoke virtual method 'java.lang.Class java.lang.Object.getClass()' on a null object reference" />
       <item value="imei" />
@@ -14,8 +17,6 @@
       <item value="idfa" />
       <item value="serial no" />
       <item value="Activity com.youthmba.ymbaandroid.appbiz.youth.ad.AdActivity has leaked window DecorView@c08c382[AdActivity] that was originally added here" />
-      <item value="Unsatisfied Link Error" />
-      <item value="native Test Udp Connect Ipv 4" />
       <item value="No implementation found for int org.android.netutil.UdpConnectType.nativeTestUdpConnectIpv4() (tried Java_org_android_netutil_UdpConnectType_nativeTestUdpConnectIpv4 and Java_org_android_netutil_UdpConnectType_nativeTestUdpConnectIpv4_" />
       <item value="get Device Id For General" />
       <item value="get Device Id For Box" />
@@ -55,12 +56,11 @@
       <item value="动画&#10;" />
       <item value="Examination" />
       <item value="tv Examination" />
-      <item value="correct Answer Index" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2577" />
-        <entry key="ENGLISH" value="2578" />
+        <entry key="CHINESE" value="2581" />
+        <entry key="ENGLISH" value="2582" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
