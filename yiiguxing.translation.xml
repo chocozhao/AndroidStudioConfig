@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Unsatisfied Link Error" />
+      <item value="native Test Udp Connect Ipv 4" />
+      <item value="No implementation found for int org.android.netutil.UdpConnectType.nativeTestUdpConnectIpv4() (tried Java_org_android_netutil_UdpConnectType_nativeTestUdpConnectIpv4 and Java_org_android_netutil_UdpConnectType_nativeTestUdpConnectIpv4_" />
       <item value="get Device Id For General" />
       <item value="get Device Id For Box" />
       <item value="LP Sign Enter Room Model" />
@@ -53,14 +56,11 @@
       <item value="Chapter" />
       <item value="intro" />
       <item value="seek" />
-      <item value="是否产生seek动作" />
-      <item value="Maximum number" />
-      <item value="Sets the maximum number of ViewHolders to hold in the pool before discarding." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2566" />
-        <entry key="ENGLISH" value="2567" />
+        <entry key="CHINESE" value="2572" />
+        <entry key="ENGLISH" value="2573" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
