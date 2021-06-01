@@ -6,6 +6,16 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Triple" />
+      <item value="Trip" />
+      <item value="Lottery" />
+      <item value="Main Video Fragment" />
+      <item value="lazy" />
+      <item value="toast Observer" />
+      <item value="roll Call Result Observer" />
+      <item value="dismiss Roll Call Observer" />
+      <item value="show Roll Call Observer" />
+      <item value="change Layout Params" />
       <item value="show Roll Call Dlg" />
       <item value="report Attention" />
       <item value="answer Start" />
@@ -46,21 +56,11 @@
       <item value="co" />
       <item value="提交&#10;" />
       <item value="CURRENT STATE AUTO COMPLETE" />
-      <item value="View Outline Provider" />
-      <item value="Idling resources tell Espresso that the app is idle or busy. This is needed when operations" />
-      <item value="placeholder" />
-      <item value="Rules are interceptors which are executed for each test method and are important building blocks of Junit tests." />
-      <item value="Start tasks list screen." />
-      <item value="Start tasks list screen" />
-      <item value="Start tasks list screen. onView(withId(R.id.nav_view)) .perform(navigateTo(R.id.list_navigation_menu_item))" />
-      <item value="Open Drawer to click on navigation item." />
-      <item value="Gets an Activity in the RESUMED stage." />
-      <item value="one Tenth Of Second" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2585" />
-        <entry key="ENGLISH" value="2586" />
+        <entry key="CHINESE" value="2595" />
+        <entry key="ENGLISH" value="2596" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
