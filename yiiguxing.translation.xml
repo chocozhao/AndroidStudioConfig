@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="dispose Of Login Conflict" />
+      <item value="mute" />
       <item value="is Class Started" />
       <item value="after Navigate To Main" />
       <item value="navigate To Main" />
@@ -54,13 +56,11 @@
       <item value="Attempt to invoke virtual method 'java.lang.Class java.lang.Object.getClass()' on a null object reference" />
       <item value="imei" />
       <item value="oaid" />
-      <item value="android id" />
-      <item value="idfa" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2622" />
-        <entry key="ENGLISH" value="2623" />
+        <entry key="CHINESE" value="2624" />
+        <entry key="ENGLISH" value="2625" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
