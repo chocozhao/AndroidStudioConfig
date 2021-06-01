@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="get Device Id For General" />
+      <item value="get Device Id For Box" />
       <item value="LP Sign Enter Room Model" />
       <item value="Live Room Single Activity" />
       <item value="Live Room Triple Activity" />
@@ -54,13 +56,11 @@
       <item value="是否产生seek动作" />
       <item value="Maximum number" />
       <item value="Sets the maximum number of ViewHolders to hold in the pool before discarding." />
-      <item value="set Max Recycled Views" />
-      <item value="白" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2564" />
-        <entry key="ENGLISH" value="2565" />
+        <entry key="CHINESE" value="2566" />
+        <entry key="ENGLISH" value="2567" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
