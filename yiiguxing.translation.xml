@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="注册&#10;" />
       <item value="Attempt to invoke virtual method 'java.lang.Class java.lang.Object.getClass()' on a null object reference" />
       <item value="imei" />
       <item value="oaid" />
@@ -55,7 +56,6 @@
       <item value="Examination" />
       <item value="tv Examination" />
       <item value="correct Answer Index" />
-      <item value="get Question Analysis" />
     </histories>
     <option name="languageScores">
       <map>
