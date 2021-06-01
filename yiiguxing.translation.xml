@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Activity com.youthmba.ymbaandroid.appbiz.youth.ad.AdActivity has leaked window DecorView@c08c382[AdActivity] that was originally added here" />
       <item value="Unsatisfied Link Error" />
       <item value="native Test Udp Connect Ipv 4" />
       <item value="No implementation found for int org.android.netutil.UdpConnectType.nativeTestUdpConnectIpv4() (tried Java_org_android_netutil_UdpConnectType_nativeTestUdpConnectIpv4 and Java_org_android_netutil_UdpConnectType_nativeTestUdpConnectIpv4_" />
@@ -55,12 +56,11 @@
       <item value="get Playing Position" />
       <item value="Chapter" />
       <item value="intro" />
-      <item value="seek" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2572" />
-        <entry key="ENGLISH" value="2573" />
+        <entry key="CHINESE" value="2574" />
+        <entry key="ENGLISH" value="2575" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
