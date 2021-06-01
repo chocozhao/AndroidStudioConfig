@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="on Connection Suspended" />
       <item value="native Test Udp Connect Ipv 4" />
       <item value="Unsatisfied Link Error" />
       <item value="detect Ip Stack" />
@@ -55,12 +56,11 @@
       <item value="Alert Dialog" />
       <item value="动画&#10;" />
       <item value="Examination" />
-      <item value="tv Examination" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2581" />
-        <entry key="ENGLISH" value="2582" />
+        <entry key="CHINESE" value="2582" />
+        <entry key="ENGLISH" value="2583" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
