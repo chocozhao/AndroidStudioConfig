@@ -6,6 +6,28 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="is Class Started" />
+      <item value="after Navigate To Main" />
+      <item value="navigate To Main" />
+      <item value="action Navigate To Main" />
+      <item value="switch Room Layout" />
+      <item value="room Layout Switch Subscribe" />
+      <item value="GALLERY" />
+      <item value="live Wall" />
+      <item value="is Live Room Initialized" />
+      <item value="is Live Wall" />
+      <item value="release" />
+      <item value="execute Pending Transactions" />
+      <item value="Speak" />
+      <item value="Speak Fragment" />
+      <item value="activity live room pad room videos container" />
+      <item value="activity live room pad room interaction container" />
+      <item value="activity live room pad room main video container" />
+      <item value="activity live room pad room full screen container" />
+      <item value="activity live room lottery pad" />
+      <item value="activity live room lottery anim pad" />
+      <item value="activity live room ppt manage" />
+      <item value="activity live room red packet pad" />
       <item value="Single Speak" />
       <item value="switch 2 Full Screen Observer" />
       <item value="Placeholder Item" />
@@ -34,33 +56,11 @@
       <item value="oaid" />
       <item value="android id" />
       <item value="idfa" />
-      <item value="serial no" />
-      <item value="Activity com.youthmba.ymbaandroid.appbiz.youth.ad.AdActivity has leaked window DecorView@c08c382[AdActivity] that was originally added here" />
-      <item value="No implementation found for int org.android.netutil.UdpConnectType.nativeTestUdpConnectIpv4() (tried Java_org_android_netutil_UdpConnectType_nativeTestUdpConnectIpv4 and Java_org_android_netutil_UdpConnectType_nativeTestUdpConnectIpv4_" />
-      <item value="get Device Id For General" />
-      <item value="get Device Id For Box" />
-      <item value="LP Sign Enter Room Model" />
-      <item value="Live Room Single Activity" />
-      <item value="Live Room Triple Activity" />
-      <item value="on extra properties extension as it does not exist" />
-      <item value="could not be found in project ':app'." />
-      <item value="Project with path ':BJCloud:liveplayer-sdk-ui' could not be found in project ':app'." />
-      <item value="Merge branch 'master' into BJCloud" />
-      <item value="Library Extension" />
-      <item value="&gt; Could not find method buildFeatures() for arguments [build_4vxzx3kfcyd4oq8bh6xsxizg7_run_closure1_closure5@664785ce] on object of type com.android.build.gradle.LibraryExtension." />
-      <item value="Received status code 403 from server: Forbidden" />
-      <item value="is Minimize" />
-      <item value="删除&#10;" />
-      <item value="show Part" />
-      <item value="回滚" />
-      <item value="回滚旧版&#10;" />
-      <item value="回滚jiu" />
-      <item value="分支&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2600" />
-        <entry key="ENGLISH" value="2601" />
+        <entry key="CHINESE" value="2622" />
+        <entry key="ENGLISH" value="2623" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
