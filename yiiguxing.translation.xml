@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="code been used, hints:" />
       <item value="SQ Lite Database Locked Exception" />
       <item value="&quot;passive&quot; location provider requires ACCESS_FINE_LOCATION permission." />
       <item value="ACCESS LOCATION EXTRA COMMANDS" />
@@ -55,7 +56,6 @@
       <item value="lazy" />
       <item value="toast Observer" />
       <item value="roll Call Result Observer" />
-      <item value="dismiss Roll Call Observer" />
     </histories>
     <option name="languageScores">
       <map>
