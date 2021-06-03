@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="733" />
     <histories>
+      <item value="interaction" />
       <item value="update Toolbar Visible" />
       <item value="switch 2 Full Screen Observer" />
       <item value="view roll call going" />
@@ -55,12 +56,11 @@
       <item value="Dvorak" />
       <item value="Dvorak&#10;" />
       <item value="OFF" />
-      <item value="ON" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2663" />
-        <entry key="ENGLISH" value="2664" />
+        <entry key="CHINESE" value="2664" />
+        <entry key="ENGLISH" value="2665" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
