@@ -2,12 +2,18 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="957" />
+    <option name="newTranslationDialogWidth" value="955" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
-      <item value="Method breakpoints may dramatically slow down debugging" />
+      <item value="SENDAUTH" />
+      <item value="COMMAND SENDAUTH" />
+      <item value="Entry&#10;" />
+      <item value="Entry" />
+      <item value="EntryActivity" />
+      <item value="WXOpenUrlEntryActivity" />
       <item value="code been used" />
+      <item value="Method breakpoints may dramatically slow down debugging" />
       <item value="code been used, hints:" />
       <item value="SQ Lite Database Locked Exception" />
       <item value="&quot;passive&quot; location provider requires ACCESS_FINE_LOCATION permission." />
@@ -50,17 +56,11 @@
       <item value="switch 2 Full Screen Observer" />
       <item value="Placeholder Item" />
       <item value="Online User" />
-      <item value="Interactive" />
-      <item value="Triple" />
-      <item value="Trip" />
-      <item value="Lottery" />
-      <item value="Main Video Fragment" />
-      <item value="lazy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2630" />
-        <entry key="ENGLISH" value="2631" />
+        <entry key="CHINESE" value="2632" />
+        <entry key="ENGLISH" value="2633" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
