@@ -6,12 +6,19 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="733" />
     <histories>
+      <item value="update Toolbar Visible" />
+      <item value="switch 2 Full Screen Observer" />
+      <item value="view roll call going" />
+      <item value="ll Pen Menu" />
+      <item value="iv As Camera Status" />
+      <item value="iv Operate PPT" />
+      <item value="layout ppt menu" />
+      <item value="PPT Menu Presenter Bridge" />
       <item value="activity live room pad room right container" />
       <item value="activity live room pad room full screen container" />
       <item value="activity live room red packet pad" />
       <item value="save Chat Picture To Gallery" />
       <item value="Pair" />
-      <item value="switch 2 Full Screen Observer" />
       <item value="after Navigate To Main" />
       <item value="版本" />
       <item value="check Teacher Unique" />
@@ -49,18 +56,11 @@
       <item value="Dvorak&#10;" />
       <item value="OFF" />
       <item value="ON" />
-      <item value="Workm" />
-      <item value="Workman" />
-      <item value="Workman&#10;" />
-      <item value="dispose Of Login Conflict" />
-      <item value="mute" />
-      <item value="is Class Started" />
-      <item value="navigate To Main" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2655" />
-        <entry key="ENGLISH" value="2656" />
+        <entry key="CHINESE" value="2663" />
+        <entry key="ENGLISH" value="2664" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
