@@ -2,10 +2,24 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="955" />
-    <option name="newTranslationDialogX" value="133" />
-    <option name="newTranslationDialogY" value="398" />
+    <option name="newTranslationDialogWidth" value="953" />
+    <option name="newTranslationDialogX" value="212" />
+    <option name="newTranslationDialogY" value="733" />
     <histories>
+      <item value="save Chat Picture To Gallery" />
+      <item value="Pair" />
+      <item value="switch 2 Full Screen Observer" />
+      <item value="after Navigate To Main" />
+      <item value="版本" />
+      <item value="check Teacher Unique" />
+      <item value="Skin Inflate Factory" />
+      <item value="SOFT INPUT ADJUST PAN" />
+      <item value="hide Sys UI Component" />
+      <item value="CODE ERROR OPEN AUDIO RECORD FAILED" />
+      <item value="CODE ERROR LOGIN CONFLICT" />
+      <item value="CODE ERROR NETWORK MOBILE" />
+      <item value="CODE ERROR WEBRTC SERVER DISCONNECTED" />
+      <item value="action Re Enter Room" />
       <item value="is Show Eye Care" />
       <item value="Interactive" />
       <item value="Speak" />
@@ -39,28 +53,14 @@
       <item value="dispose Of Login Conflict" />
       <item value="mute" />
       <item value="is Class Started" />
-      <item value="after Navigate To Main" />
       <item value="navigate To Main" />
       <item value="action Navigate To Main" />
       <item value="switch Room Layout" />
-      <item value="room Layout Switch Subscribe" />
-      <item value="GALLERY" />
-      <item value="live Wall" />
-      <item value="is Live Room Initialized" />
-      <item value="is Live Wall" />
-      <item value="release" />
-      <item value="execute Pending Transactions" />
-      <item value="activity live room pad room videos container" />
-      <item value="activity live room pad room interaction container" />
-      <item value="activity live room pad room main video container" />
-      <item value="activity live room pad room full screen container" />
-      <item value="activity live room lottery pad" />
-      <item value="activity live room lottery anim pad" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2639" />
-        <entry key="ENGLISH" value="2640" />
+        <entry key="CHINESE" value="2653" />
+        <entry key="ENGLISH" value="2654" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
