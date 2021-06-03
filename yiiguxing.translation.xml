@@ -2,10 +2,17 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="959" />
+    <option name="newTranslationDialogWidth" value="957" />
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="Dvorak" />
+      <item value="Dvorak&#10;" />
+      <item value="OFF" />
+      <item value="ON" />
+      <item value="Workm" />
+      <item value="Workman" />
+      <item value="Workman&#10;" />
       <item value="dispose Of Login Conflict" />
       <item value="mute" />
       <item value="is Class Started" />
@@ -49,13 +56,6 @@
       <item value="report Attention" />
       <item value="answer Start" />
       <item value="on Connection Suspended" />
-      <item value="native Test Udp Connect Ipv 4" />
-      <item value="Unsatisfied Link Error" />
-      <item value="detect Ip Stack" />
-      <item value="注册&#10;" />
-      <item value="Attempt to invoke virtual method 'java.lang.Class java.lang.Object.getClass()' on a null object reference" />
-      <item value="imei" />
-      <item value="oaid" />
     </histories>
     <option name="languageScores">
       <map>
@@ -91,7 +91,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622168172958" />
+    <option name="lastTrimTime" value="1622684909646" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
