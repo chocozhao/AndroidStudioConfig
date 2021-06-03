@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="on Resp" />
+      <item value="DEFAULT" />
       <item value="SENDAUTH" />
       <item value="COMMAND SENDAUTH" />
       <item value="Entry&#10;" />
@@ -54,13 +56,11 @@
       <item value="activity live room red packet pad" />
       <item value="Single Speak" />
       <item value="switch 2 Full Screen Observer" />
-      <item value="Placeholder Item" />
-      <item value="Online User" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2632" />
-        <entry key="ENGLISH" value="2633" />
+        <entry key="CHINESE" value="2634" />
+        <entry key="ENGLISH" value="2635" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
