@@ -6,6 +6,12 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="is Show Eye Care" />
+      <item value="Interactive" />
+      <item value="Speak" />
+      <item value="Speak Fragment" />
+      <item value="activity live room red packet pad" />
+      <item value="activity dialog timer pad" />
       <item value="on Resp" />
       <item value="DEFAULT" />
       <item value="SENDAUTH" />
@@ -44,23 +50,17 @@
       <item value="is Live Wall" />
       <item value="release" />
       <item value="execute Pending Transactions" />
-      <item value="Speak" />
-      <item value="Speak Fragment" />
       <item value="activity live room pad room videos container" />
       <item value="activity live room pad room interaction container" />
       <item value="activity live room pad room main video container" />
       <item value="activity live room pad room full screen container" />
       <item value="activity live room lottery pad" />
       <item value="activity live room lottery anim pad" />
-      <item value="activity live room ppt manage" />
-      <item value="activity live room red packet pad" />
-      <item value="Single Speak" />
-      <item value="switch 2 Full Screen Observer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2634" />
-        <entry key="ENGLISH" value="2635" />
+        <entry key="CHINESE" value="2639" />
+        <entry key="ENGLISH" value="2640" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
