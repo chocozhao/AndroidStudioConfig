@@ -6,6 +6,12 @@
     <option name="newTranslationDialogX" value="133" />
     <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="SQ Lite Database Locked Exception" />
+      <item value="&quot;passive&quot; location provider requires ACCESS_FINE_LOCATION permission." />
+      <item value="ACCESS LOCATION EXTRA COMMANDS" />
+      <item value="ACCESS COARSE LOCATION" />
+      <item value="java.lang.SecurityException: &quot;passive&quot; location provider requires ACCESS_FINE_LOCATION permission." />
+      <item value="ACCESS FINE LOCATION" />
       <item value="Dvorak" />
       <item value="Dvorak&#10;" />
       <item value="OFF" />
@@ -50,17 +56,11 @@
       <item value="toast Observer" />
       <item value="roll Call Result Observer" />
       <item value="dismiss Roll Call Observer" />
-      <item value="show Roll Call Observer" />
-      <item value="change Layout Params" />
-      <item value="show Roll Call Dlg" />
-      <item value="report Attention" />
-      <item value="answer Start" />
-      <item value="on Connection Suspended" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2624" />
-        <entry key="ENGLISH" value="2625" />
+        <entry key="CHINESE" value="2630" />
+        <entry key="ENGLISH" value="2631" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
