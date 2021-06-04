@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="953" />
+    <option name="newTranslationDialogWidth" value="951" />
     <option name="newTranslationDialogX" value="212" />
-    <option name="newTranslationDialogY" value="733" />
+    <option name="newTranslationDialogY" value="657" />
     <histories>
+      <item value="讨论区" />
+      <item value="讨论qu" />
+      <item value="Overlapping Experiment Infrastructure:&#10;More, Better, Faster Experimentation" />
       <item value="set Selected Tab Indicator Color" />
       <item value="Tab Layout" />
       <item value="Interactive Fragment" />
@@ -53,9 +56,6 @@
       <item value="Entry" />
       <item value="EntryActivity" />
       <item value="WXOpenUrlEntryActivity" />
-      <item value="code been used" />
-      <item value="Method breakpoints may dramatically slow down debugging" />
-      <item value="code been used, hints:" />
     </histories>
     <option name="languageScores">
       <map>
