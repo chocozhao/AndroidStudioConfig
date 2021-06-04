@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="949" />
+    <option name="newTranslationDialogWidth" value="947" />
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="退出" />
+      <item value="tui'chu" />
+      <item value="推出&#10;" />
       <item value="TERRIBLE" />
       <item value="BAD" />
       <item value="EXCELLENT" />
@@ -53,9 +56,6 @@
       <item value="save Chat Picture To Gallery" />
       <item value="Pair" />
       <item value="after Navigate To Main" />
-      <item value="版本" />
-      <item value="check Teacher Unique" />
-      <item value="SOFT INPUT ADJUST PAN" />
     </histories>
     <option name="languageScores">
       <map>
