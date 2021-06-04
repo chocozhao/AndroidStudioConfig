@@ -6,6 +6,16 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="TERRIBLE" />
+      <item value="BAD" />
+      <item value="EXCELLENT" />
+      <item value="second" />
+      <item value="activity live room pad room top container" />
+      <item value="is Aspect Ratio Normal" />
+      <item value="is Pad" />
+      <item value="Skin Inflate Factory" />
+      <item value="hide Sys UI Component" />
+      <item value="change Layout Params" />
       <item value="chat message content" />
       <item value="chat user name" />
       <item value="chat role type" />
@@ -45,22 +55,12 @@
       <item value="after Navigate To Main" />
       <item value="版本" />
       <item value="check Teacher Unique" />
-      <item value="Skin Inflate Factory" />
       <item value="SOFT INPUT ADJUST PAN" />
-      <item value="hide Sys UI Component" />
-      <item value="CODE ERROR OPEN AUDIO RECORD FAILED" />
-      <item value="CODE ERROR LOGIN CONFLICT" />
-      <item value="CODE ERROR NETWORK MOBILE" />
-      <item value="CODE ERROR WEBRTC SERVER DISCONNECTED" />
-      <item value="action Re Enter Room" />
-      <item value="is Show Eye Care" />
-      <item value="Interactive" />
-      <item value="Speak" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2682" />
-        <entry key="ENGLISH" value="2683" />
+        <entry key="CHINESE" value="2692" />
+        <entry key="ENGLISH" value="2693" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
@@ -69,7 +69,7 @@
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
-        <entry key="DUTCH" value="2" />
+        <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
         <entry key="KURDISH" value="1" />
         <entry key="LATIN" value="13" />
