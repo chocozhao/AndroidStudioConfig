@@ -6,6 +6,15 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="733" />
     <histories>
+      <item value="Tab Layout" />
+      <item value="Interactive Fragment" />
+      <item value="activity live room pad room main video container" />
+      <item value="activity live toolbox" />
+      <item value="text Edit Container" />
+      <item value="menu Container" />
+      <item value="laser Container" />
+      <item value="ppt Container" />
+      <item value="activity live room red packet pad" />
       <item value="interaction" />
       <item value="update Toolbar Visible" />
       <item value="switch 2 Full Screen Observer" />
@@ -17,7 +26,6 @@
       <item value="PPT Menu Presenter Bridge" />
       <item value="activity live room pad room right container" />
       <item value="activity live room pad room full screen container" />
-      <item value="activity live room red packet pad" />
       <item value="save Chat Picture To Gallery" />
       <item value="Pair" />
       <item value="after Navigate To Main" />
@@ -48,19 +56,11 @@
       <item value="Method breakpoints may dramatically slow down debugging" />
       <item value="code been used, hints:" />
       <item value="SQ Lite Database Locked Exception" />
-      <item value="&quot;passive&quot; location provider requires ACCESS_FINE_LOCATION permission." />
-      <item value="ACCESS LOCATION EXTRA COMMANDS" />
-      <item value="ACCESS COARSE LOCATION" />
-      <item value="java.lang.SecurityException: &quot;passive&quot; location provider requires ACCESS_FINE_LOCATION permission." />
-      <item value="ACCESS FINE LOCATION" />
-      <item value="Dvorak" />
-      <item value="Dvorak&#10;" />
-      <item value="OFF" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2664" />
-        <entry key="ENGLISH" value="2665" />
+        <entry key="CHINESE" value="2673" />
+        <entry key="ENGLISH" value="2674" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
