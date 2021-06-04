@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="657" />
     <histories>
+      <item value="video Container" />
+      <item value="place Holder Container" />
+      <item value="solid" />
       <item value="讨论区" />
       <item value="讨论qu" />
       <item value="Overlapping Experiment Infrastructure:&#10;More, Better, Faster Experimentation" />
@@ -53,14 +56,11 @@
       <item value="SENDAUTH" />
       <item value="COMMAND SENDAUTH" />
       <item value="Entry&#10;" />
-      <item value="Entry" />
-      <item value="EntryActivity" />
-      <item value="WXOpenUrlEntryActivity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2674" />
-        <entry key="ENGLISH" value="2675" />
+        <entry key="CHINESE" value="2677" />
+        <entry key="ENGLISH" value="2678" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
@@ -92,8 +92,5 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1622684909646" />
-  </component>
-  <component name="Settings">
-    <option name="translateDocumentation" value="true" />
   </component>
 </application>
