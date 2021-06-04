@@ -2,10 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="951" />
+    <option name="newTranslationDialogWidth" value="949" />
     <option name="newTranslationDialogX" value="212" />
-    <option name="newTranslationDialogY" value="657" />
+    <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="圆" />
+      <item value="圆角" />
+      <item value="add Switchable" />
+      <item value="chat role type copy" />
       <item value="video Container" />
       <item value="place Holder Container" />
       <item value="solid" />
@@ -52,15 +56,11 @@
       <item value="Speak Fragment" />
       <item value="activity dialog timer pad" />
       <item value="on Resp" />
-      <item value="DEFAULT" />
-      <item value="SENDAUTH" />
-      <item value="COMMAND SENDAUTH" />
-      <item value="Entry&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2677" />
-        <entry key="ENGLISH" value="2678" />
+        <entry key="CHINESE" value="2679" />
+        <entry key="ENGLISH" value="2680" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="2" />
