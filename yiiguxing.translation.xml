@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="live" />
+      <item value="直播" />
       <item value="enable Notice Btn" />
       <item value="clear Screen" />
       <item value="qa Container" />
@@ -49,13 +51,11 @@
       <item value="Classroom Home" />
       <item value="Syllabus" />
       <item value="Simple Budget" />
-      <item value="Roommate Home" />
-      <item value="Personal CRM 、" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1879" />
-        <entry key="ENGLISH" value="1880" />
+        <entry key="CHINESE" value="1881" />
+        <entry key="ENGLISH" value="1881" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
