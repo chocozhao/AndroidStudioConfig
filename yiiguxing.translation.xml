@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="activity live room pad room top container" />
       <item value="stable" />
       <item value="This version of the Android Support plugin for IntelliJ IDEA (or Android Studio) cannot open this project, please retry with version 4.3 or newer." />
       <item value="External System Exception" />
@@ -50,12 +51,11 @@
       <item value="Thesis Planning " />
       <item value="Quick Note" />
       <item value="Journal" />
-      <item value="直播" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1875" />
-        <entry key="ENGLISH" value="1875" />
+        <entry key="ENGLISH" value="1876" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
