@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="947" />
+    <option name="newTranslationDialogWidth" value="945" />
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="forbid" />
+      <item value="ic_handsup_forbid" />
       <item value="base shape shadow top 2 bottom" />
       <item value="activity live room red packet pad" />
       <item value="activity live room lottery anim pad" />
@@ -54,8 +56,6 @@
       <item value="ppt Container" />
       <item value="interaction" />
       <item value="update Toolbar Visible" />
-      <item value="switch 2 Full Screen Observer" />
-      <item value="view roll call going" />
     </histories>
     <option name="languageScores">
       <map>
