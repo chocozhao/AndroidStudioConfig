@@ -6,6 +6,15 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="base shape shadow top 2 bottom" />
+      <item value="activity live room red packet pad" />
+      <item value="activity live room lottery anim pad" />
+      <item value="activity live room lottery pad" />
+      <item value="dispose Of Main Screen Notice" />
+      <item value="Speak Fragment" />
+      <item value="activity live room pad room videos container" />
+      <item value="show Timer" />
+      <item value="try To Close Cloud Record" />
       <item value="on Tab Unselected" />
       <item value="Quality" />
       <item value="TERRIBLE" />
@@ -43,27 +52,18 @@
       <item value="menu Container" />
       <item value="laser Container" />
       <item value="ppt Container" />
-      <item value="activity live room red packet pad" />
       <item value="interaction" />
       <item value="update Toolbar Visible" />
       <item value="switch 2 Full Screen Observer" />
       <item value="view roll call going" />
-      <item value="ll Pen Menu" />
-      <item value="iv As Camera Status" />
-      <item value="iv Operate PPT" />
-      <item value="layout ppt menu" />
-      <item value="PPT Menu Presenter Bridge" />
-      <item value="activity live room pad room right container" />
-      <item value="activity live room pad room full screen container" />
-      <item value="save Chat Picture To Gallery" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2695" />
-        <entry key="ENGLISH" value="2696" />
+        <entry key="CHINESE" value="2704" />
+        <entry key="ENGLISH" value="2705" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="DANISH" value="2" />
+        <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="9" />
         <entry key="FILIPINO" value="1" />
