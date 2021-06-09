@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="activity live room pad room full screen container" />
       <item value="main Video Item" />
       <item value="add Switchable" />
       <item value="Placeholder Item" />
@@ -55,12 +56,11 @@
       <item value="chat role type copy" />
       <item value="video Container" />
       <item value="place Holder Container" />
-      <item value="solid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2719" />
-        <entry key="ENGLISH" value="2720" />
+        <entry key="CHINESE" value="2720" />
+        <entry key="ENGLISH" value="2721" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
