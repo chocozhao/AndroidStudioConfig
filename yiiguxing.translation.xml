@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Placeholder Item" />
       <item value="Received status code 503 from server: Service Unavailable" />
       <item value="forbid" />
       <item value="fo'r" />
@@ -55,12 +56,11 @@
       <item value="place Holder Container" />
       <item value="solid" />
       <item value="讨论区" />
-      <item value="讨论qu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2716" />
-        <entry key="ENGLISH" value="2717" />
+        <entry key="CHINESE" value="2717" />
+        <entry key="ENGLISH" value="2718" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
