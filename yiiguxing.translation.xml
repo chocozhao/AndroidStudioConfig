@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="add Refrence Message" />
+      <item value="line Height Span" />
       <item value="SPAN INCLUSIVE EXCLUSIVE" />
       <item value="SPAN EXCLUSIVE EXCLUSIVE" />
       <item value="INCLUSIVE" />
@@ -54,13 +56,11 @@
       <item value="TERRIBLE" />
       <item value="退出" />
       <item value="tui'chu" />
-      <item value="推出&#10;" />
-      <item value="BAD" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2740" />
-        <entry key="ENGLISH" value="2741" />
+        <entry key="CHINESE" value="2742" />
+        <entry key="ENGLISH" value="2743" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
