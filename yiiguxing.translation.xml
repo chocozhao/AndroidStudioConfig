@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="MESSAGE TYPE IMAGE" />
+      <item value="MESSAGE TYPE TEXT" />
       <item value="disable Speak Queue Placeholder" />
       <item value="old Bridge" />
       <item value="activity live toolbox" />
@@ -54,13 +56,11 @@
       <item value="is Pad" />
       <item value="Skin Inflate Factory" />
       <item value="hide Sys UI Component" />
-      <item value="change Layout Params" />
-      <item value="chat message content" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2730" />
-        <entry key="ENGLISH" value="2731" />
+        <entry key="CHINESE" value="2732" />
+        <entry key="ENGLISH" value="2733" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
