@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Placeholder Item" />
+      <item value="is Placeholder Item" />
       <item value="Lollipop Fixed Web View" />
       <item value="Online User Fragment" />
       <item value="activity class eye care layer" />
@@ -34,7 +36,6 @@
       <item value="activity live room pad room full screen container" />
       <item value="main Video Item" />
       <item value="add Switchable" />
-      <item value="Placeholder Item" />
       <item value="Received status code 503 from server: Service Unavailable" />
       <item value="forbid" />
       <item value="fo'r" />
@@ -55,12 +56,11 @@
       <item value="activity live room pad room videos container" />
       <item value="show Timer" />
       <item value="try To Close Cloud Record" />
-      <item value="on Tab Unselected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2747" />
-        <entry key="ENGLISH" value="2748" />
+        <entry key="CHINESE" value="2749" />
+        <entry key="ENGLISH" value="2750" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
