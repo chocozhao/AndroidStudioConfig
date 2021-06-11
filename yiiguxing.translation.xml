@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Lollipop Fixed Web View" />
       <item value="Online User Fragment" />
       <item value="activity class eye care layer" />
       <item value="Drag Frame Layout" />
@@ -55,12 +56,11 @@
       <item value="show Timer" />
       <item value="try To Close Cloud Record" />
       <item value="on Tab Unselected" />
-      <item value="Quality" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2746" />
-        <entry key="ENGLISH" value="2747" />
+        <entry key="CHINESE" value="2747" />
+        <entry key="ENGLISH" value="2748" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
