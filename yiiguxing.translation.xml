@@ -6,6 +6,16 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="stream Video" />
+      <item value="Audio" />
+      <item value="Video" />
+      <item value="Record" />
+      <item value="Presenter" />
+      <item value="refresh Item Type" />
+      <item value="is In Full Screen" />
+      <item value="handle User Close Action" />
+      <item value="attach Local Video" />
+      <item value="on Speak Invite" />
       <item value="Placeholder Item" />
       <item value="is Placeholder Item" />
       <item value="Lollipop Fixed Web View" />
@@ -46,21 +56,11 @@
       <item value="switch 2 Main Video Observer" />
       <item value="placeholder Item" />
       <item value="show Local Status" />
-      <item value="attach Local A Video" />
-      <item value="show Presenter In" />
-      <item value="switch Room Layout" />
-      <item value="ic_handsup_forbid" />
-      <item value="base shape shadow top 2 bottom" />
-      <item value="dispose Of Main Screen Notice" />
-      <item value="Speak Fragment" />
-      <item value="activity live room pad room videos container" />
-      <item value="show Timer" />
-      <item value="try To Close Cloud Record" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2749" />
-        <entry key="ENGLISH" value="2750" />
+        <entry key="CHINESE" value="2759" />
+        <entry key="ENGLISH" value="2760" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
