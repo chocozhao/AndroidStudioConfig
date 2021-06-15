@@ -6,6 +6,12 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="recall Status" />
+      <item value="enable Filter" />
+      <item value="Long Press Listener" />
+      <item value="刺激&#10;" />
+      <item value="刺杀" />
+      <item value="ci" />
       <item value="tv Purchased" />
       <item value="上线" />
       <item value="Product List Holder" />
@@ -50,17 +56,11 @@
       <item value="Drag Frame Layout" />
       <item value="Award View" />
       <item value="add Refrence Message" />
-      <item value="SPAN INCLUSIVE EXCLUSIVE" />
-      <item value="SPAN EXCLUSIVE EXCLUSIVE" />
-      <item value="INCLUSIVE" />
-      <item value="customize Teacher Label" />
-      <item value="add Translate Message" />
-      <item value="calculate Image Size" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2791" />
-        <entry key="ENGLISH" value="2792" />
+        <entry key="CHINESE" value="2794" />
+        <entry key="ENGLISH" value="2795" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
