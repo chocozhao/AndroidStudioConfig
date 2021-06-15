@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="945" />
+    <option name="newTranslationDialogWidth" value="943" />
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="上线" />
       <item value="Product List Holder" />
       <item value="add Links" />
       <item value="Linkify" />
@@ -55,7 +56,6 @@
       <item value="add Translate Message" />
       <item value="calculate Image Size" />
       <item value="set Chat Sticky" />
-      <item value="MESSAGE TYPE IMAGE" />
     </histories>
     <option name="languageScores">
       <map>
