@@ -6,6 +6,17 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="there were 2 classes in incorrectly named files" />
+      <item value="there were 2 classes in incorrectly named files." />
+      <item value="Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'." />
+      <item value="transform Classes And Resources With Proguard For Debug" />
+      <item value="org.gradle.internal.buildevents.Build Exception Reporter" />
+      <item value="Execution failed for task ':app:transformClassesAndResourcesWithProguardForDebug'." />
+      <item value="Please correct the above warnings first." />
+      <item value="shrink Resources" />
+      <item value="use Proguard" />
+      <item value="zip Align Enabled" />
+      <item value="minify Enabled" />
       <item value="Causes words in the text that are longer than the view's width to be ellipsized instead of broken in the middle. You may also want to {@link setSingleLine} or {@link setHorizontallyScrolling} to constrain the text to a single line. Use &lt;code&gt;null&lt;code&gt; to turn off ellipsizing." />
       <item value="set Ellipsize" />
       <item value="recall Status" />
@@ -45,22 +56,11 @@
       <item value="Video" />
       <item value="Record" />
       <item value="Presenter" />
-      <item value="refresh Item Type" />
-      <item value="is In Full Screen" />
-      <item value="handle User Close Action" />
-      <item value="attach Local Video" />
-      <item value="on Speak Invite" />
-      <item value="Placeholder Item" />
-      <item value="is Placeholder Item" />
-      <item value="Lollipop Fixed Web View" />
-      <item value="Online User Fragment" />
-      <item value="activity class eye care layer" />
-      <item value="Drag Frame Layout" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2796" />
-        <entry key="ENGLISH" value="2797" />
+        <entry key="CHINESE" value="2808" />
+        <entry key="ENGLISH" value="2809" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
