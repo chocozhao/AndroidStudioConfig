@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Causes words in the text that are longer than the view's width to be ellipsized instead of broken in the middle. You may also want to {@link setSingleLine} or {@link setHorizontallyScrolling} to constrain the text to a single line. Use &lt;code&gt;null&lt;code&gt; to turn off ellipsizing." />
+      <item value="set Ellipsize" />
       <item value="recall Status" />
       <item value="enable Filter" />
       <item value="Long Press Listener" />
@@ -54,13 +56,11 @@
       <item value="Online User Fragment" />
       <item value="activity class eye care layer" />
       <item value="Drag Frame Layout" />
-      <item value="Award View" />
-      <item value="add Refrence Message" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2794" />
-        <entry key="ENGLISH" value="2795" />
+        <entry key="CHINESE" value="2796" />
+        <entry key="ENGLISH" value="2797" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
