@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="get Line Height Span" />
       <item value="reference" />
       <item value="Reference" />
       <item value="gesture Detector Compat" />
@@ -55,12 +56,11 @@
       <item value="add Switchable" />
       <item value="Received status code 503 from server: Service Unavailable" />
       <item value="forbid" />
-      <item value="fo'r" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2768" />
-        <entry key="ENGLISH" value="2769" />
+        <entry key="CHINESE" value="2769" />
+        <entry key="ENGLISH" value="2770" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
