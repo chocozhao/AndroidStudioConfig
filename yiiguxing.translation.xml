@@ -6,13 +6,29 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Product List Holder" />
+      <item value="add Links" />
+      <item value="Linkify" />
+      <item value="he specified child already has a parent. You must call removeView() on the child's parent first." />
+      <item value="low" />
+      <item value="get Font Metrics Int" />
+      <item value="SHOW DIVIDER MIDDLE" />
+      <item value="Gradient Drawable" />
+      <item value="line Height Span" />
+      <item value="Emoji With Name" />
+      <item value="is Enable Chat Translation" />
+      <item value="enable Translation" />
+      <item value="set Recall Status" />
+      <item value="set Can Sticky" />
+      <item value="Gesture Detector Compat" />
+      <item value="font Metrics Int" />
+      <item value="Font Metrics Int" />
+      <item value="tv Translate Result" />
+      <item value="set Filtered" />
       <item value="get Line Height Span" />
       <item value="reference" />
       <item value="Reference" />
       <item value="gesture Detector Compat" />
-      <item value="get Font Metrics Int" />
-      <item value="Font Metrics Int" />
-      <item value="tv Translate Result" />
       <item value="Text Line Height Span" />
       <item value="stream Video" />
       <item value="Audio" />
@@ -32,7 +48,6 @@
       <item value="Drag Frame Layout" />
       <item value="Award View" />
       <item value="add Refrence Message" />
-      <item value="line Height Span" />
       <item value="SPAN INCLUSIVE EXCLUSIVE" />
       <item value="SPAN EXCLUSIVE EXCLUSIVE" />
       <item value="INCLUSIVE" />
@@ -41,26 +56,11 @@
       <item value="calculate Image Size" />
       <item value="set Chat Sticky" />
       <item value="MESSAGE TYPE IMAGE" />
-      <item value="MESSAGE TYPE TEXT" />
-      <item value="disable Speak Queue Placeholder" />
-      <item value="old Bridge" />
-      <item value="activity live toolbox" />
-      <item value="activity live room lottery pad" />
-      <item value="activity live room lottery anim pad" />
-      <item value="activity live room ppt manage" />
-      <item value="activity live room red packet pad" />
-      <item value="activity dialog timer pad" />
-      <item value="activity live room pad room loading container" />
-      <item value="activity live room pad room full screen container" />
-      <item value="main Video Item" />
-      <item value="add Switchable" />
-      <item value="Received status code 503 from server: Service Unavailable" />
-      <item value="forbid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2769" />
-        <entry key="ENGLISH" value="2770" />
+        <entry key="CHINESE" value="2790" />
+        <entry key="ENGLISH" value="2791" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
