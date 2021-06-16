@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="943" />
+    <option name="newTranslationDialogWidth" value="941" />
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="地址&#10;" />
       <item value="set Dim Amount" />
       <item value="Purchased Course Activity" />
       <item value="Course Challenge Sublist Activity" />
@@ -55,7 +56,6 @@
       <item value="Reference" />
       <item value="gesture Detector Compat" />
       <item value="Text Line Height Span" />
-      <item value="stream Video" />
     </histories>
     <option name="languageScores">
       <map>
