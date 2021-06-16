@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Purchased Course Activity" />
       <item value="Course Challenge Sublist Activity" />
       <item value="Schedule Replay" />
       <item value="there were 2 classes in incorrectly named files" />
@@ -55,12 +56,11 @@
       <item value="Text Line Height Span" />
       <item value="stream Video" />
       <item value="Audio" />
-      <item value="Video" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2810" />
-        <entry key="ENGLISH" value="2811" />
+        <entry key="CHINESE" value="2811" />
+        <entry key="ENGLISH" value="2812" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
