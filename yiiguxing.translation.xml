@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Course Challenge Sublist Activity" />
+      <item value="Schedule Replay" />
       <item value="there were 2 classes in incorrectly named files" />
       <item value="there were 2 classes in incorrectly named files." />
       <item value="Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'." />
@@ -54,13 +56,11 @@
       <item value="stream Video" />
       <item value="Audio" />
       <item value="Video" />
-      <item value="Record" />
-      <item value="Presenter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2808" />
-        <entry key="ENGLISH" value="2809" />
+        <entry key="CHINESE" value="2810" />
+        <entry key="ENGLISH" value="2811" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
