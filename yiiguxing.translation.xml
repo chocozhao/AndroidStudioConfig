@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Better Gestures Recycler View" />
       <item value="period" />
       <item value="delay" />
       <item value="init Time" />
@@ -55,12 +56,11 @@
       <item value="set Can Sticky" />
       <item value="Gesture Detector Compat" />
       <item value="font Metrics Int" />
-      <item value="Font Metrics Int" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2819" />
-        <entry key="ENGLISH" value="2820" />
+        <entry key="CHINESE" value="2820" />
+        <entry key="ENGLISH" value="2821" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
