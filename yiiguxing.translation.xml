@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="941" />
+    <option name="newTranslationDialogWidth" value="939" />
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="join Product Success" />
+      <item value="例子&#10;" />
       <item value="delay in milliseconds before task is to be executed." />
       <item value="地址&#10;" />
       <item value="set Dim Amount" />
@@ -54,13 +56,11 @@
       <item value="set Filtered" />
       <item value="get Line Height Span" />
       <item value="reference" />
-      <item value="Reference" />
-      <item value="gesture Detector Compat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2813" />
-        <entry key="ENGLISH" value="2814" />
+        <entry key="CHINESE" value="2815" />
+        <entry key="ENGLISH" value="2816" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
