@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="init Time" />
+      <item value="Check Living Event" />
       <item value="join Product Success" />
       <item value="例子&#10;" />
       <item value="delay in milliseconds before task is to be executed." />
@@ -54,13 +56,11 @@
       <item value="Font Metrics Int" />
       <item value="tv Translate Result" />
       <item value="set Filtered" />
-      <item value="get Line Height Span" />
-      <item value="reference" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2815" />
-        <entry key="ENGLISH" value="2816" />
+        <entry key="CHINESE" value="2817" />
+        <entry key="ENGLISH" value="2818" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
