@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="get Pre Activity" />
       <item value="mask" />
       <item value="land" />
       <item value="la" />
@@ -55,12 +56,11 @@
       <item value="get Font Metrics Int" />
       <item value="SHOW DIVIDER MIDDLE" />
       <item value="Gradient Drawable" />
-      <item value="line Height Span" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2821" />
-        <entry key="ENGLISH" value="2822" />
+        <entry key="CHINESE" value="2822" />
+        <entry key="ENGLISH" value="2823" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
