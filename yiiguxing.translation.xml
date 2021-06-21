@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Type mismatch. Required: Nothing Found: LiveCourseDetailsAdapter" />
       <item value="is Compatible Land" />
       <item value="java.util.ArrayList cannot be cast to java.lang.Void" />
       <item value="set Indicator Slider Radius" />
@@ -55,7 +56,6 @@
       <item value="上线" />
       <item value="Product List Holder" />
       <item value="add Links" />
-      <item value="Linkify" />
     </histories>
     <option name="languageScores">
       <map>
@@ -91,6 +91,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623720539085" />
+    <option name="lastTrimTime" value="1624246054085" />
   </component>
 </application>
