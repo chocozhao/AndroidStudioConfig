@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="iv Bg" />
+      <item value="check Unique" />
       <item value="CODE ERROR LOGIN CONFLICT" />
       <item value="CODE ERROR OPEN AUDIO RECORD FAILED" />
       <item value="CODE ERROR OPEN AUDIO CAMERA FAILED" />
@@ -54,13 +56,11 @@
       <item value="Schedule Replay" />
       <item value="there were 2 classes in incorrectly named files" />
       <item value="there were 2 classes in incorrectly named files." />
-      <item value="Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'." />
-      <item value="transform Classes And Resources With Proguard For Debug" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2846" />
-        <entry key="ENGLISH" value="2847" />
+        <entry key="CHINESE" value="2848" />
+        <entry key="ENGLISH" value="2848" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
@@ -71,6 +71,7 @@
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="3" />
+        <entry key="CROATIAN" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="LATIN" value="13" />
         <entry key="ROMANIAN" value="6" />
