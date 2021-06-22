@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="set Indicator Slider Gap" />
       <item value="Pages must fill the whole ViewPager2" />
       <item value="MULTI PAGE" />
       <item value="Reveal" />
@@ -55,12 +56,11 @@
       <item value="get Page Ceil" />
       <item value="get Live Room" />
       <item value="Old Live Room Router Listener Bridge" />
-      <item value="report Attention" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2883" />
-        <entry key="ENGLISH" value="2884" />
+        <entry key="CHINESE" value="2884" />
+        <entry key="ENGLISH" value="2885" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
