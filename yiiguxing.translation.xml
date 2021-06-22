@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Argument must not be null" />
       <item value="center Crop" />
       <item value="triangle" />
       <item value="triangle Paint" />
@@ -55,12 +56,11 @@
       <item value="set Indicator Slider Radius" />
       <item value="Interval" />
       <item value="set Reveal Width" />
-      <item value="get Pre Activity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2870" />
-        <entry key="ENGLISH" value="2871" />
+        <entry key="CHINESE" value="2872" />
+        <entry key="ENGLISH" value="2873" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
