@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Tangram" />
       <item value="MULTI PAGE SCALE" />
       <item value="set Indicator View" />
       <item value="set indicator color" />
@@ -55,7 +56,6 @@
       <item value="observable Of Kick Out With Error" />
       <item value="enable Video Menu Btn" />
       <item value="Type mismatch. Required: Nothing Found: LiveCourseDetailsAdapter" />
-      <item value="is Compatible Land" />
     </histories>
     <option name="languageScores">
       <map>
