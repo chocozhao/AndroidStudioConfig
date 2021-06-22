@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Reveal" />
       <item value="MULTI PAGE OVERLAP" />
       <item value="MULTI PAGE SCALE" />
       <item value="Tangram" />
@@ -55,12 +56,11 @@
       <item value="report Attention" />
       <item value="observable Of Mix Mode Presenter Change" />
       <item value="observable Of Kick Out With Error" />
-      <item value="enable Video Menu Btn" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2880" />
-        <entry key="ENGLISH" value="2881" />
+        <entry key="CHINESE" value="2881" />
+        <entry key="ENGLISH" value="2882" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
