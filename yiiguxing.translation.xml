@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="set indicator color" />
+      <item value="set Indicator Slider Color" />
       <item value="Argument must not be null" />
       <item value="center Crop" />
       <item value="triangle" />
@@ -54,13 +56,11 @@
       <item value="is Compatible Land" />
       <item value="java.util.ArrayList cannot be cast to java.lang.Void" />
       <item value="set Indicator Slider Radius" />
-      <item value="Interval" />
-      <item value="set Reveal Width" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2874" />
-        <entry key="ENGLISH" value="2875" />
+        <entry key="CHINESE" value="2876" />
+        <entry key="ENGLISH" value="2877" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
