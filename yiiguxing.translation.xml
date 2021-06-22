@@ -6,8 +6,9 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
-      <item value="Tangram" />
+      <item value="MULTI PAGE OVERLAP" />
       <item value="MULTI PAGE SCALE" />
+      <item value="Tangram" />
       <item value="set Indicator View" />
       <item value="set indicator color" />
       <item value="set Indicator Slider Color" />
@@ -55,12 +56,11 @@
       <item value="observable Of Mix Mode Presenter Change" />
       <item value="observable Of Kick Out With Error" />
       <item value="enable Video Menu Btn" />
-      <item value="Type mismatch. Required: Nothing Found: LiveCourseDetailsAdapter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2878" />
-        <entry key="ENGLISH" value="2879" />
+        <entry key="CHINESE" value="2880" />
+        <entry key="ENGLISH" value="2881" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
