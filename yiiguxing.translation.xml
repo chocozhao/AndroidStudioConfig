@@ -2,10 +2,19 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="937" />
+    <option name="newTranslationDialogWidth" value="935" />
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="set Enable Debug" />
+      <item value="patch signinfo not match to apk&#10;" />
+      <item value="patch signinfo not match to a'p'l" />
+      <item value="patch signinfo not " />
+      <item value="patch signinfo " />
+      <item value="patch si'g'n" />
+      <item value="patch si" />
+      <item value="patch " />
+      <item value="patch" />
       <item value="补丁&#10;" />
       <item value="set Indicator Slider Gap" />
       <item value="Pages must fill the whole ViewPager2" />
@@ -47,20 +56,11 @@
       <item value="CODE ERROR OPEN AUDIO CAMERA FAILED" />
       <item value="set Sdk Version" />
       <item value="LP Sdk Version Utils" />
-      <item value="on Loading Steps" />
-      <item value="CODE ERROR NETWORK MOBILE" />
-      <item value="activity live room lottery pad" />
-      <item value="activity class eye care layer" />
-      <item value="reconnect" />
-      <item value="Loading Window" />
-      <item value="activity live room pad room loading container" />
-      <item value="get Page Ceil" />
-      <item value="get Live Room" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2884" />
-        <entry key="ENGLISH" value="2885" />
+        <entry key="CHINESE" value="2885" />
+        <entry key="ENGLISH" value="2886" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
