@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="get Absolute Path" />
+      <item value="enable Border" />
       <item value="HTTP 504 Unsatisfiable Request" />
       <item value="the folder path of log file" />
       <item value="separator Char" />
@@ -54,13 +56,11 @@
       <item value="Type mismatch: inferred type is com.baijiayun.liveuibase.loading.ProgressBarWithNumber! but com.baijiayun.live.ui.loading.ProgressBarWithNumber? was expected" />
       <item value="set Progress Bar Color" />
       <item value="set Desc Color" />
-      <item value="Request Options" />
-      <item value="small Course Logo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2898" />
-        <entry key="ENGLISH" value="2899" />
+        <entry key="CHINESE" value="2900" />
+        <entry key="ENGLISH" value="2901" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
