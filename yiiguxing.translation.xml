@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Log level for XLoginit, printing no log." />
       <item value="get Absolute Path" />
       <item value="enable Border" />
       <item value="HTTP 504 Unsatisfiable Request" />
@@ -16,7 +17,6 @@
       <item value="Flattener" />
       <item value="Android Printer" />
       <item value="Socket Timeout Exception" />
-      <item value="Log level for XLoginit, printing no log." />
       <item value="Log level for XLoginit, printing all logs." />
       <item value="MIN VALUE" />
       <item value="Third Service" />
@@ -59,8 +59,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2900" />
-        <entry key="ENGLISH" value="2901" />
+        <entry key="CHINESE" value="2901" />
+        <entry key="ENGLISH" value="2902" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
