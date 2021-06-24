@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="get Popular Key" />
       <item value="enable Border" />
       <item value="Log level for XLoginit, printing no log." />
       <item value="get Absolute Path" />
@@ -55,12 +56,11 @@
       <item value="Type mismatch." />
       <item value="Type mismatch: inferred type is com.baijiayun.liveuibase.loading.ProgressBarWithNumber! but com.baijiayun.live.ui.loading.ProgressBarWithNumber? was expected" />
       <item value="set Progress Bar Color" />
-      <item value="set Desc Color" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2902" />
-        <entry key="ENGLISH" value="2903" />
+        <entry key="CHINESE" value="2903" />
+        <entry key="ENGLISH" value="2904" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
