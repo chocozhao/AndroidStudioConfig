@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="A log file is a simple text file, any text viewer can open it as Text" />
       <item value="set Enable Debug" />
       <item value="patch signinfo not match to apk&#10;" />
       <item value="patch signinfo not match to a'p'l" />
@@ -55,7 +56,6 @@
       <item value="CODE ERROR OPEN AUDIO RECORD FAILED" />
       <item value="CODE ERROR OPEN AUDIO CAMERA FAILED" />
       <item value="set Sdk Version" />
-      <item value="LP Sdk Version Utils" />
     </histories>
     <option name="languageScores">
       <map>
