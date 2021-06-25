@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="open failed: EISDIR (Is a directory)" />
       <item value="CALL STORAGE REQUEST CODE" />
       <item value="PERMISSION READ EXTERNAL STORAGE" />
       <item value="Permission Utils.get Rationale(Permission Utils.PERMISSION READ EXTERNAL STORAGE)," />
@@ -55,12 +56,11 @@
       <item value="Third Service" />
       <item value="pre Init Um" />
       <item value="init Cobub" />
-      <item value="A log file is a simple text file, any text viewer can open it as Text" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2944" />
-        <entry key="ENGLISH" value="2945" />
+        <entry key="CHINESE" value="2945" />
+        <entry key="ENGLISH" value="2946" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
