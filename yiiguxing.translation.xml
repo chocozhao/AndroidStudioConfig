@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="931" />
+    <option name="newTranslationDialogWidth" value="929" />
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="进入" />
       <item value="Local Media" />
       <item value="list Files In Dir" />
       <item value="open failed: EISDIR (Is a directory)" />
@@ -55,7 +56,6 @@
       <item value="Socket Timeout Exception" />
       <item value="Log level for XLoginit, printing all logs." />
       <item value="MIN VALUE" />
-      <item value="Third Service" />
     </histories>
     <option name="languageScores">
       <map>
