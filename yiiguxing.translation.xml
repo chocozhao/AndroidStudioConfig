@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="MOBILE" />
       <item value="It is designed to be, we only check if the log file should be cleaned when FilePrinter setting up. We don't check when logging, just for performance." />
       <item value="NeverCleanStrategy" />
       <item value="upload Params Return" />
@@ -55,12 +56,11 @@
       <item value="center Crop" />
       <item value="triangle" />
       <item value="triangle Paint" />
-      <item value="Completing Build operation 'Execute execute for :BJCloud:liveplayer-sdk-ui:compileDebugKotlin' Build operation 'Execute execute for :BJCloud:liveplayer-sdk-ui:compileDebugKotlin' completed Fingerprinting property destinationDir (Output) for task ':BJCloud:liveplayer-sdk-ui:compileDebugKotlin'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2908" />
-        <entry key="ENGLISH" value="2909" />
+        <entry key="CHINESE" value="2909" />
+        <entry key="ENGLISH" value="2910" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
