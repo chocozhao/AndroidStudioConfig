@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="the max size the file can reach" />
+      <item value="the changeless file name" />
+      <item value="Generate a file name which represent a specific date." />
       <item value="get Popular Key" />
       <item value="enable Border" />
       <item value="Log level for XLoginit, printing no log." />
@@ -53,14 +56,11 @@
       <item value="Removed task artifact state for {} from context." />
       <item value="Execution worker for ':' Thread 9: reuse connection" />
       <item value="Type mismatch. Required: com.baijiayun.live.ui.loading.ProgressBarWithNumber? Found: com.baijiayun.liveuibase.loading.ProgressBarWithNumber!" />
-      <item value="Type mismatch." />
-      <item value="Type mismatch: inferred type is com.baijiayun.liveuibase.loading.ProgressBarWithNumber! but com.baijiayun.live.ui.loading.ProgressBarWithNumber? was expected" />
-      <item value="set Progress Bar Color" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2903" />
-        <entry key="ENGLISH" value="2904" />
+        <entry key="CHINESE" value="2906" />
+        <entry key="ENGLISH" value="2907" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
