@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="lesson" />
+      <item value="lessons" />
       <item value="进入" />
       <item value="Local Media" />
       <item value="list Files In Dir" />
@@ -54,8 +56,6 @@
       <item value="Flattener" />
       <item value="Android Printer" />
       <item value="Socket Timeout Exception" />
-      <item value="Log level for XLoginit, printing all logs." />
-      <item value="MIN VALUE" />
     </histories>
     <option name="languageScores">
       <map>
