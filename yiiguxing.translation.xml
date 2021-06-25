@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="935" />
+    <option name="newTranslationDialogWidth" value="933" />
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="get Cancelable" />
+      <item value="更新&#10;" />
       <item value="Return the model of device." />
       <item value="get Mac Address By Wifi Info" />
       <item value="get Unique Device Id" />
@@ -54,13 +56,11 @@
       <item value="Pages must fill the whole ViewPager2" />
       <item value="MULTI PAGE" />
       <item value="Reveal" />
-      <item value="MULTI PAGE OVERLAP" />
-      <item value="MULTI PAGE SCALE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2917" />
-        <entry key="ENGLISH" value="2918" />
+        <entry key="CHINESE" value="2918" />
+        <entry key="ENGLISH" value="2919" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
