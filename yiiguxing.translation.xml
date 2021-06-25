@@ -6,6 +6,14 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Return the model of device." />
+      <item value="get Mac Address By Wifi Info" />
+      <item value="get Unique Device Id" />
+      <item value="is Same Device" />
+      <item value="is Development Settings Enabled" />
+      <item value="is Emulator" />
+      <item value="set Wifi Enabled" />
+      <item value="is Adb Enabled" />
       <item value="MOBILE" />
       <item value="It is designed to be, we only check if the log file should be cleaned when FilePrinter setting up. We don't check when logging, just for performance." />
       <item value="NeverCleanStrategy" />
@@ -48,19 +56,11 @@
       <item value="Reveal" />
       <item value="MULTI PAGE OVERLAP" />
       <item value="MULTI PAGE SCALE" />
-      <item value="Tangram" />
-      <item value="set Indicator View" />
-      <item value="set indicator color" />
-      <item value="set Indicator Slider Color" />
-      <item value="Argument must not be null" />
-      <item value="center Crop" />
-      <item value="triangle" />
-      <item value="triangle Paint" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2909" />
-        <entry key="ENGLISH" value="2910" />
+        <entry key="CHINESE" value="2917" />
+        <entry key="ENGLISH" value="2918" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
