@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="will Be Live" />
+      <item value="attendance" />
+      <item value="lessons" />
+      <item value="show Start Time" />
       <item value="behind" />
       <item value="on Configuration Changed" />
       <item value="get Pre Activity" />
@@ -21,7 +25,6 @@
       <item value="coverage" />
       <item value="Common Introduction Fragment" />
       <item value="lesson" />
-      <item value="lessons" />
       <item value="进入" />
       <item value="Local Media" />
       <item value="list Files In Dir" />
@@ -53,14 +56,11 @@
       <item value="MOBILE" />
       <item value="It is designed to be, we only check if the log file should be cleaned when FilePrinter setting up. We don't check when logging, just for performance." />
       <item value="NeverCleanStrategy" />
-      <item value="upload Params Return" />
-      <item value="The path of file." />
-      <item value="the max size the file can reach" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2967" />
-        <entry key="ENGLISH" value="2968" />
+        <entry key="CHINESE" value="2972" />
+        <entry key="ENGLISH" value="2973" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
