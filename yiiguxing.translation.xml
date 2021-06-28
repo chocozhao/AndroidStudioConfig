@@ -2,10 +2,18 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="927" />
+    <option name="newTranslationDialogWidth" value="921" />
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="预习&#10;" />
+      <item value="yu" />
+      <item value="未完成" />
+      <item value="未wa" />
+      <item value="Finished" />
+      <item value="完成" />
+      <item value="完成&#10;" />
+      <item value="上课&#10;" />
       <item value="about" />
       <item value="will Be Live" />
       <item value="attendance" />
@@ -48,14 +56,6 @@
       <item value="更新&#10;" />
       <item value="Return the model of device." />
       <item value="get Mac Address By Wifi Info" />
-      <item value="get Unique Device Id" />
-      <item value="is Same Device" />
-      <item value="is Development Settings Enabled" />
-      <item value="is Emulator" />
-      <item value="set Wifi Enabled" />
-      <item value="is Adb Enabled" />
-      <item value="MOBILE" />
-      <item value="It is designed to be, we only check if the log file should be cleaned when FilePrinter setting up. We don't check when logging, just for performance." />
     </histories>
     <option name="languageScores">
       <map>
