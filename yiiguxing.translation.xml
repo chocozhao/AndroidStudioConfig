@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="929" />
+    <option name="newTranslationDialogWidth" value="927" />
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="coverage" />
       <item value="m Delay Init" />
       <item value="Common Introduction Fragment" />
       <item value="lesson" />
@@ -55,7 +56,6 @@
       <item value="separator Char" />
       <item value="field" />
       <item value="Flatterer" />
-      <item value="Flattener" />
     </histories>
     <option name="languageScores">
       <map>
