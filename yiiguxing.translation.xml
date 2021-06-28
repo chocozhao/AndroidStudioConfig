@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="You must set adapter for BannerViewPager" />
       <item value="证书&#10;" />
       <item value="预习&#10;" />
       <item value="yu" />
@@ -55,12 +56,11 @@
       <item value="open failed: EISDIR" />
       <item value="get Cancelable" />
       <item value="更新&#10;" />
-      <item value="Return the model of device." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2973" />
-        <entry key="ENGLISH" value="2974" />
+        <entry key="CHINESE" value="2974" />
+        <entry key="ENGLISH" value="2975" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
