@@ -6,12 +6,18 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="on Configuration Changed" />
+      <item value="get Pre Activity" />
+      <item value="m Delay Init" />
+      <item value="LANDSCAPE" />
+      <item value="PORTRAIT" />
+      <item value="SCREEN ORIENTATION PORTRAIT" />
+      <item value="SCREEN ORIENTATION LANDSCAPE" />
       <item value="handleLocalPatch no any patch exists" />
       <item value="query no update" />
       <item value="set value: D" />
       <item value="set Enable Full Log" />
       <item value="coverage" />
-      <item value="m Delay Init" />
       <item value="Common Introduction Fragment" />
       <item value="lesson" />
       <item value="lessons" />
@@ -50,17 +56,11 @@
       <item value="The path of file." />
       <item value="the max size the file can reach" />
       <item value="the changeless file name" />
-      <item value="Generate a file name which represent a specific date." />
-      <item value="get Popular Key" />
-      <item value="enable Border" />
-      <item value="Log level for XLoginit, printing no log." />
-      <item value="get Absolute Path" />
-      <item value="HTTP 504 Unsatisfiable Request" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2956" />
-        <entry key="ENGLISH" value="2957" />
+        <entry key="CHINESE" value="2965" />
+        <entry key="ENGLISH" value="2966" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
