@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="921" />
+    <option name="newTranslationDialogWidth" value="919" />
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="证书&#10;" />
       <item value="预习&#10;" />
       <item value="yu" />
       <item value="未完成" />
@@ -55,7 +56,6 @@
       <item value="get Cancelable" />
       <item value="更新&#10;" />
       <item value="Return the model of device." />
-      <item value="get Mac Address By Wifi Info" />
     </histories>
     <option name="languageScores">
       <map>
