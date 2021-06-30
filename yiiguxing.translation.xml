@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="919" />
+    <option name="newTranslationDialogWidth" value="915" />
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="四&#10;" />
+      <item value="si" />
+      <item value="三" />
       <item value="need Dim" />
       <item value="X position for this window. With the default gravity it is ignored. When using {@link GravityLEFT} or {@link GravitySTART} or {@link GravityRIGHT} or {@link GravityEND} it provides an offset from the given edge." />
       <item value="Top Dialog No Dim" />
@@ -53,9 +56,6 @@
       <item value="PERMISSION CAMERA" />
       <item value="PERMISSION WRITE EXTERNAL STORAGE" />
       <item value="CALL PICTURE REQUEST CODE" />
-      <item value="CALL PHONE REQUEST CODE" />
-      <item value="TO RECORD" />
-      <item value="CALL COVER REQUEST CODE" />
     </histories>
     <option name="languageScores">
       <map>
