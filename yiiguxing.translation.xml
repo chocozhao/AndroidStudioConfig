@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Attempted to serialize java.lang.Class: com.youthmba.ymbaandroid.databiz.model.new_home.course.HomeCourseBean. Forgot to register a type adapter" />
+      <item value="unmarshall" />
       <item value="experimental" />
       <item value="together" />
       <item value="Supported with commit, hopefully will come out this week.&#10;" />
@@ -54,13 +56,11 @@
       <item value="上课&#10;" />
       <item value="about" />
       <item value="will Be Live" />
-      <item value="attendance" />
-      <item value="lessons" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2994" />
-        <entry key="ENGLISH" value="2995" />
+        <entry key="CHINESE" value="2996" />
+        <entry key="ENGLISH" value="2997" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
