@@ -2,15 +2,21 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="915" />
+    <option name="newTranslationDialogWidth" value="913" />
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="experimental" />
+      <item value="together" />
+      <item value="Supported with commit, hopefully will come out this week.&#10;" />
+      <item value="Supported with commit, hopefully will come out this week." />
+      <item value="If you mean supporting Objective-C objects, MMKV already supports encoding &lt;NSCoding&gt;.&#10;Just implement &lt;NSCoding&gt; in your interface and everything should work." />
+      <item value="No. But you can Archive your object into bytes[] and store that in MMKV." />
+      <item value="Show your example code. It's difficult to understand your description, not clear and with little crash info." />
       <item value="Serializable" />
       <item value="Parcelable" />
       <item value="That is not MMKV's problem. If you can't handle that complexity, you should not use it.&#10;&#10;PS: You can just use protobuf to encode an object into bytes, then store the bytes inside MMKV. Nothing difficult" />
       <item value="Not yet. Volunteers are welcome to implement this feature." />
-      <item value="No. But you can Archive your object into bytes[] and store that in MMKV." />
       <item value="第一&#10;" />
       <item value="知识星球" />
       <item value="缓存" />
@@ -50,17 +56,11 @@
       <item value="will Be Live" />
       <item value="attendance" />
       <item value="lessons" />
-      <item value="show Start Time" />
-      <item value="behind" />
-      <item value="on Configuration Changed" />
-      <item value="get Pre Activity" />
-      <item value="m Delay Init" />
-      <item value="LANDSCAPE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2992" />
-        <entry key="ENGLISH" value="2993" />
+        <entry key="CHINESE" value="2994" />
+        <entry key="ENGLISH" value="2995" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
