@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="No. But you can Archive your object into bytes[] and store that in MMKV." />
       <item value="第一&#10;" />
       <item value="知识星球" />
       <item value="缓存" />
@@ -55,7 +56,6 @@
       <item value="SCREEN ORIENTATION PORTRAIT" />
       <item value="SCREEN ORIENTATION LANDSCAPE" />
       <item value="handleLocalPatch no any patch exists" />
-      <item value="query no update" />
     </histories>
     <option name="languageScores">
       <map>
