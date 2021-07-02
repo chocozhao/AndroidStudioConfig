@@ -6,6 +6,11 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="第一&#10;" />
+      <item value="知识星球" />
+      <item value="缓存" />
+      <item value="huan'c" />
+      <item value="课程&#10;" />
       <item value="Uploading Image Model" />
       <item value="decode String" />
       <item value="import From Shared Preferences" />
@@ -23,7 +28,6 @@
       <item value="need Dim" />
       <item value="X position for this window. With the default gravity it is ignored. When using {@link GravityLEFT} or {@link GravitySTART} or {@link GravityRIGHT} or {@link GravityEND} it provides an offset from the given edge." />
       <item value="Top Dialog No Dim" />
-      <item value="课程&#10;" />
       <item value="rectangle" />
       <item value="triangle" />
       <item value="is Clickable" />
@@ -52,10 +56,6 @@
       <item value="SCREEN ORIENTATION LANDSCAPE" />
       <item value="handleLocalPatch no any patch exists" />
       <item value="query no update" />
-      <item value="set value: D" />
-      <item value="set Enable Full Log" />
-      <item value="coverage" />
-      <item value="Common Introduction Fragment" />
     </histories>
     <option name="languageScores">
       <map>
