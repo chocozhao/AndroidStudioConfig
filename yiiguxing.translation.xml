@@ -6,9 +6,10 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Serializable" />
+      <item value="Parcelable" />
       <item value="That is not MMKV's problem. If you can't handle that complexity, you should not use it.&#10;&#10;PS: You can just use protobuf to encode an object into bytes, then store the bytes inside MMKV. Nothing difficult" />
       <item value="Not yet. Volunteers are welcome to implement this feature." />
-      <item value="Parcelable" />
       <item value="No. But you can Archive your object into bytes[] and store that in MMKV." />
       <item value="第一&#10;" />
       <item value="知识星球" />
@@ -55,17 +56,16 @@
       <item value="get Pre Activity" />
       <item value="m Delay Init" />
       <item value="LANDSCAPE" />
-      <item value="PORTRAIT" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2992" />
-        <entry key="ENGLISH" value="2992" />
+        <entry key="ENGLISH" value="2993" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="3" />
-        <entry key="FRENCH" value="10" />
+        <entry key="FRENCH" value="11" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
