@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="vip Index" />
       <item value="m Item Type Ary" />
       <item value="INSTALL FAILED INSUFFICIENT STORAGE" />
       <item value="recently Study" />
@@ -55,12 +56,11 @@
       <item value="is Clickable" />
       <item value="You must set adapter for BannerViewPager" />
       <item value="证书&#10;" />
-      <item value="预习&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3004" />
-        <entry key="ENGLISH" value="3005" />
+        <entry key="CHINESE" value="3005" />
+        <entry key="ENGLISH" value="3006" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
