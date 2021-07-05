@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="911" />
+    <option name="newTranslationDialogWidth" value="909" />
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="锁定&#10;" />
+      <item value="PDF View" />
       <item value="内&#10;" />
       <item value="内购&#10;" />
       <item value="vip Index" />
@@ -54,13 +56,11 @@
       <item value="X position for this window. With the default gravity it is ignored. When using {@link GravityLEFT} or {@link GravitySTART} or {@link GravityRIGHT} or {@link GravityEND} it provides an offset from the given edge." />
       <item value="Top Dialog No Dim" />
       <item value="rectangle" />
-      <item value="triangle" />
-      <item value="is Clickable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3005" />
-        <entry key="ENGLISH" value="3006" />
+        <entry key="CHINESE" value="3006" />
+        <entry key="ENGLISH" value="3007" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
