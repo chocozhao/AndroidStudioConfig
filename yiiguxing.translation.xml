@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="sell Status" />
       <item value="limit" />
       <item value="退款&#10;" />
       <item value="Consult" />
@@ -55,12 +56,11 @@
       <item value="四&#10;" />
       <item value="si" />
       <item value="三" />
-      <item value="need Dim" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3008" />
-        <entry key="ENGLISH" value="3009" />
+        <entry key="CHINESE" value="3009" />
+        <entry key="ENGLISH" value="3010" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
