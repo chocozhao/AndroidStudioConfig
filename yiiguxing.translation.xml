@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Consult" />
       <item value="锁定&#10;" />
       <item value="PDF View" />
       <item value="内&#10;" />
@@ -55,12 +56,11 @@
       <item value="need Dim" />
       <item value="X position for this window. With the default gravity it is ignored. When using {@link GravityLEFT} or {@link GravitySTART} or {@link GravityRIGHT} or {@link GravityEND} it provides an offset from the given edge." />
       <item value="Top Dialog No Dim" />
-      <item value="rectangle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3006" />
-        <entry key="ENGLISH" value="3007" />
+        <entry key="CHINESE" value="3007" />
+        <entry key="ENGLISH" value="3008" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
