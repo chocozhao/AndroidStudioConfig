@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Preview" />
+      <item value="Accidental override: The following declarations have the same JVM signature (getId()I):" />
       <item value="switch Fragment" />
       <item value="commit Allowing State Loss" />
       <item value="UM Configure" />
@@ -54,13 +56,11 @@
       <item value="Uploading Image Model" />
       <item value="decode String" />
       <item value="import From Shared Preferences" />
-      <item value="pre Init Um" />
-      <item value="The device needs more free storage to install the application (extra space is needed in addition to APK size)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3014" />
-        <entry key="ENGLISH" value="3015" />
+        <entry key="CHINESE" value="3015" />
+        <entry key="ENGLISH" value="3016" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
