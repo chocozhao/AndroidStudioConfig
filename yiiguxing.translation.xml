@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="905" />
+    <option name="newTranslationDialogWidth" value="903" />
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="型号" />
+      <item value="xing" />
+      <item value="s" />
       <item value="RELEASE" />
       <item value="BRAND" />
       <item value="PRODUCT" />
@@ -53,9 +56,6 @@
       <item value="Show your example code. It's difficult to understand your description, not clear and with little crash info." />
       <item value="Serializable" />
       <item value="Parcelable" />
-      <item value="That is not MMKV's problem. If you can't handle that complexity, you should not use it.&#10;&#10;PS: You can just use protobuf to encode an object into bytes, then store the bytes inside MMKV. Nothing difficult" />
-      <item value="Not yet. Volunteers are welcome to implement this feature." />
-      <item value="第一&#10;" />
     </histories>
     <option name="languageScores">
       <map>
