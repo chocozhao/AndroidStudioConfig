@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="This field is an opaque string. Do not assume that its value" />
       <item value="screen Layout" />
       <item value="get Configuration" />
       <item value="Preview" />
@@ -55,12 +56,11 @@
       <item value="缓存" />
       <item value="huan'c" />
       <item value="课程&#10;" />
-      <item value="Uploading Image Model" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3017" />
-        <entry key="ENGLISH" value="3018" />
+        <entry key="CHINESE" value="3018" />
+        <entry key="ENGLISH" value="3019" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
