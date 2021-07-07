@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="UM Configure" />
       <item value="java.lang.SecurityException: Permission Denial: starting Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.youthmba.ymbaandroid/.appbiz.new_home.M&#10;ainActivity1 } from null (pid=8957, uid=2000) not exported from uid 10357&#10;" />
       <item value="scale Type" />
       <item value="is Minimize" />
@@ -55,11 +56,10 @@
       <item value="The device needs more free storage to install the application (extra space is needed in addition to APK size)." />
       <item value="Duplicate class com.tencent.mmkv.BuildConfig found in modules classes.jar (com.tencent:mmkv-static:1.2.10) and classes.jar (com.tencent:mmkv:1.0.22)" />
       <item value="1 exception was raised by workers:" />
-      <item value="Duplicate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3013" />
+        <entry key="CHINESE" value="3014" />
         <entry key="ENGLISH" value="3014" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -78,7 +78,7 @@
         <entry key="MALAGASY" value="1" />
         <entry key="MALAY" value="2" />
         <entry key="NORWEGIAN" value="4" />
-        <entry key="PORTUGUESE" value="3" />
+        <entry key="PORTUGUESE" value="4" />
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVAK" value="1" />
         <entry key="SOMALI" value="1" />
