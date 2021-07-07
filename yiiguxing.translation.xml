@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="RELEASE" />
+      <item value="BRAND" />
+      <item value="PRODUCT" />
+      <item value="MODEL" />
       <item value="This field is an opaque string. Do not assume that its value" />
       <item value="screen Layout" />
       <item value="get Configuration" />
@@ -52,15 +56,11 @@
       <item value="That is not MMKV's problem. If you can't handle that complexity, you should not use it.&#10;&#10;PS: You can just use protobuf to encode an object into bytes, then store the bytes inside MMKV. Nothing difficult" />
       <item value="Not yet. Volunteers are welcome to implement this feature." />
       <item value="第一&#10;" />
-      <item value="知识星球" />
-      <item value="缓存" />
-      <item value="huan'c" />
-      <item value="课程&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3018" />
-        <entry key="ENGLISH" value="3019" />
+        <entry key="CHINESE" value="3022" />
+        <entry key="ENGLISH" value="3023" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
