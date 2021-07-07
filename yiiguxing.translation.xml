@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="screen Layout" />
+      <item value="get Configuration" />
       <item value="Preview" />
       <item value="Accidental override: The following declarations have the same JVM signature (getId()I):" />
       <item value="switch Fragment" />
@@ -54,13 +56,11 @@
       <item value="huan'c" />
       <item value="课程&#10;" />
       <item value="Uploading Image Model" />
-      <item value="decode String" />
-      <item value="import From Shared Preferences" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3015" />
-        <entry key="ENGLISH" value="3016" />
+        <entry key="CHINESE" value="3017" />
+        <entry key="ENGLISH" value="3018" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
