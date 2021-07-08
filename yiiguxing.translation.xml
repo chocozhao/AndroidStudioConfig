@@ -6,6 +6,12 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="MULTI PAGE SCALE" />
+      <item value="MULTI PAGE OVERLAP" />
+      <item value="MULTI PAGE" />
+      <item value="Indicator Slide Mode" />
+      <item value="DEFAULT REVEAL WIDTH" />
+      <item value="set Reveal Width" />
       <item value="This is an unexpected error. Please file a bug containing the idea.log file." />
       <item value="型号" />
       <item value="xing" />
@@ -50,17 +56,11 @@
       <item value="unmarshall" />
       <item value="experimental" />
       <item value="together" />
-      <item value="Supported with commit, hopefully will come out this week.&#10;" />
-      <item value="Supported with commit, hopefully will come out this week." />
-      <item value="If you mean supporting Objective-C objects, MMKV already supports encoding &lt;NSCoding&gt;.&#10;Just implement &lt;NSCoding&gt; in your interface and everything should work." />
-      <item value="No. But you can Archive your object into bytes[] and store that in MMKV." />
-      <item value="Show your example code. It's difficult to understand your description, not clear and with little crash info." />
-      <item value="Serializable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3023" />
-        <entry key="ENGLISH" value="3024" />
+        <entry key="CHINESE" value="3029" />
+        <entry key="ENGLISH" value="3030" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
