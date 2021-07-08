@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="lesson Id" />
       <item value="MULTI PAGE SCALE" />
       <item value="MULTI PAGE OVERLAP" />
       <item value="MULTI PAGE" />
@@ -55,12 +56,11 @@
       <item value="Attempted to serialize java.lang.Class: com.youthmba.ymbaandroid.databiz.model.new_home.course.HomeCourseBean. Forgot to register a type adapter" />
       <item value="unmarshall" />
       <item value="experimental" />
-      <item value="together" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3029" />
-        <entry key="ENGLISH" value="3030" />
+        <entry key="CHINESE" value="3030" />
+        <entry key="ENGLISH" value="3031" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
