@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="VirtualView" />
+      <item value="百家云学生去调放大窗口和关闭视频" />
       <item value="Speak Item Type" />
       <item value="is In Full Screen" />
       <item value="can Switch PPT And Main Video" />
@@ -54,8 +56,6 @@
       <item value="INSTALL FAILED INSUFFICIENT STORAGE" />
       <item value="recently Study" />
       <item value="has Stable Ids" />
-      <item value="set Has Stable Ids" />
-      <item value="set Up Recently Study Title Adapter" />
     </histories>
     <option name="languageScores">
       <map>
@@ -92,6 +92,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625447952136" />
+    <option name="lastTrimTime" value="1626053733388" />
   </component>
 </application>
