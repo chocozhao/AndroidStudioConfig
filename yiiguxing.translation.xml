@@ -6,6 +6,21 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Suppress Lint" />
+      <item value="switch PPT Video Sync" />
+      <item value="is Placeholder Item" />
+      <item value="switch 2 Main Video Observer" />
+      <item value="Placeholder Item" />
+      <item value="register Click Event" />
+      <item value="on Single Tap Confirmed" />
+      <item value="on Double Tap" />
+      <item value="switch 2 Full Screen Local" />
+      <item value="switch PPT Video Without Sync" />
+      <item value="is In Full Screen" />
+      <item value="Gesture Detector" />
+      <item value="item status placeholder ll" />
+      <item value="item local speaker avatar container" />
+      <item value="can Switch PPT And Main Video" />
       <item value="Presenter" />
       <item value="is Video Attached" />
       <item value="stream Audio" />
@@ -14,8 +29,6 @@
       <item value="VirtualView" />
       <item value="百家云学生去调放大窗口和关闭视频" />
       <item value="Speak Item Type" />
-      <item value="is In Full Screen" />
-      <item value="can Switch PPT And Main Video" />
       <item value="live full screen exit" />
       <item value="bind Mobile Success" />
       <item value="lesson Id" />
@@ -43,24 +56,11 @@
       <item value="UM Configure" />
       <item value="java.lang.SecurityException: Permission Denial: starting Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.youthmba.ymbaandroid/.appbiz.new_home.M&#10;ainActivity1 } from null (pid=8957, uid=2000) not exported from uid 10357&#10;" />
       <item value="scale Type" />
-      <item value="is Minimize" />
-      <item value="is Immersion Bar Enabled" />
-      <item value="portrait" />
-      <item value="通知&#10;" />
-      <item value="sell Status" />
-      <item value="limit" />
-      <item value="退款&#10;" />
-      <item value="Consult" />
-      <item value="锁定&#10;" />
-      <item value="PDF View" />
-      <item value="内&#10;" />
-      <item value="内购&#10;" />
-      <item value="vip Index" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3043" />
-        <entry key="ENGLISH" value="3044" />
+        <entry key="CHINESE" value="3060" />
+        <entry key="ENGLISH" value="3061" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
