@@ -6,13 +6,17 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="stream Audio" />
+      <item value="stop Streaming" />
+      <item value="Presenter" />
+      <item value="Remote Item" />
+      <item value="is Video Attached" />
       <item value="VirtualView" />
       <item value="百家云学生去调放大窗口和关闭视频" />
       <item value="Speak Item Type" />
       <item value="is In Full Screen" />
       <item value="can Switch PPT And Main Video" />
       <item value="live full screen exit" />
-      <item value="is Video Attached" />
       <item value="bind Mobile Success" />
       <item value="lesson Id" />
       <item value="MULTI PAGE SCALE" />
@@ -52,15 +56,11 @@
       <item value="内&#10;" />
       <item value="内购&#10;" />
       <item value="vip Index" />
-      <item value="m Item Type Ary" />
-      <item value="INSTALL FAILED INSUFFICIENT STORAGE" />
-      <item value="recently Study" />
-      <item value="has Stable Ids" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3036" />
-        <entry key="ENGLISH" value="3037" />
+        <entry key="CHINESE" value="3041" />
+        <entry key="ENGLISH" value="3042" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
