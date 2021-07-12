@@ -6,11 +6,11 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Presenter" />
+      <item value="is Video Attached" />
       <item value="stream Audio" />
       <item value="stop Streaming" />
-      <item value="Presenter" />
       <item value="Remote Item" />
-      <item value="is Video Attached" />
       <item value="VirtualView" />
       <item value="百家云学生去调放大窗口和关闭视频" />
       <item value="Speak Item Type" />
@@ -59,8 +59,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3041" />
-        <entry key="ENGLISH" value="3042" />
+        <entry key="CHINESE" value="3043" />
+        <entry key="ENGLISH" value="3044" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
