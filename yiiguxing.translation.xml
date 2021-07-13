@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="排行榜" />
+      <item value="榜单" />
       <item value="nick Name" />
       <item value="年级" />
       <item value="Suppress Lint" />
@@ -54,8 +56,6 @@
       <item value="Preview" />
       <item value="Accidental override: The following declarations have the same JVM signature (getId()I):" />
       <item value="switch Fragment" />
-      <item value="commit Allowing State Loss" />
-      <item value="UM Configure" />
     </histories>
     <option name="languageScores">
       <map>
