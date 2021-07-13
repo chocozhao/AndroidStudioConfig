@@ -6,6 +6,23 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="view the only view, no binding is required" />
+      <item value="return an adapter that only contains one item, and using SimpleLayoutHelper" />
+      <item value="Simple View Adapter" />
+      <item value="Virtual Layout Manager" />
+      <item value="LayoutHelper contains only one view" />
+      <item value="since" />
+      <item value="update Layout Helper" />
+      <item value="set Adapters" />
+      <item value="the index where adapters added" />
+      <item value="Add adapters in &lt;code&gt;position&lt;code&gt;" />
+      <item value="Sparse Array" />
+      <item value="m Index Ary" />
+      <item value="the relative position in sub adapter by the absoulte position in DelegaterAdapter. Return -1 if no sub adapter founded." />
+      <item value="Adapter Data Observer" />
+      <item value="on View Recycled" />
+      <item value="Virtual Layout Adapter" />
+      <item value="Delegate Adapter" />
       <item value="calculate Next Scale" />
       <item value="open Load Animation" />
       <item value="hot" />
@@ -39,28 +56,11 @@
       <item value="Remote Item" />
       <item value="VirtualView" />
       <item value="百家云学生去调放大窗口和关闭视频" />
-      <item value="Speak Item Type" />
-      <item value="live full screen exit" />
-      <item value="bind Mobile Success" />
-      <item value="lesson Id" />
-      <item value="MULTI PAGE SCALE" />
-      <item value="MULTI PAGE OVERLAP" />
-      <item value="MULTI PAGE" />
-      <item value="Indicator Slide Mode" />
-      <item value="DEFAULT REVEAL WIDTH" />
-      <item value="set Reveal Width" />
-      <item value="This is an unexpected error. Please file a bug containing the idea.log file." />
-      <item value="型号" />
-      <item value="xing" />
-      <item value="s" />
-      <item value="RELEASE" />
-      <item value="BRAND" />
-      <item value="PRODUCT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3063" />
-        <entry key="ENGLISH" value="3064" />
+        <entry key="CHINESE" value="3081" />
+        <entry key="ENGLISH" value="3082" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
