@@ -2,10 +2,15 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="901" />
+    <option name="newTranslationDialogWidth" value="899" />
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="hot" />
+      <item value="热&#10;" />
+      <item value="热门&#10;" />
+      <item value="热门&#10;&#10;" />
+      <item value="Popular&#10;" />
       <item value="排行榜" />
       <item value="榜单" />
       <item value="nick Name" />
@@ -51,11 +56,6 @@
       <item value="PRODUCT" />
       <item value="MODEL" />
       <item value="This field is an opaque string. Do not assume that its value" />
-      <item value="screen Layout" />
-      <item value="get Configuration" />
-      <item value="Preview" />
-      <item value="Accidental override: The following declarations have the same JVM signature (getId()I):" />
-      <item value="switch Fragment" />
     </histories>
     <option name="languageScores">
       <map>
