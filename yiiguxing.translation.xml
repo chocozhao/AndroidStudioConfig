@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="set Animation With Default" />
+      <item value="open Load Animation" />
+      <item value="add On Item Touch Listener" />
       <item value="can Release Videos" />
       <item value="ymsf" />
       <item value="view the only view, no binding is required" />
@@ -26,7 +29,6 @@
       <item value="Virtual Layout Adapter" />
       <item value="Delegate Adapter" />
       <item value="calculate Next Scale" />
-      <item value="open Load Animation" />
       <item value="hot" />
       <item value="热&#10;" />
       <item value="热门&#10;" />
@@ -54,13 +56,11 @@
       <item value="Presenter" />
       <item value="is Video Attached" />
       <item value="stream Audio" />
-      <item value="stop Streaming" />
-      <item value="Remote Item" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3082" />
-        <entry key="ENGLISH" value="3083" />
+        <entry key="CHINESE" value="3085" />
+        <entry key="ENGLISH" value="3086" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
