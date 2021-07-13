@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="903" />
+    <option name="newTranslationDialogWidth" value="901" />
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="年级" />
       <item value="Suppress Lint" />
       <item value="switch PPT Video Sync" />
       <item value="is Placeholder Item" />
@@ -55,7 +56,6 @@
       <item value="commit Allowing State Loss" />
       <item value="UM Configure" />
       <item value="java.lang.SecurityException: Permission Denial: starting Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.youthmba.ymbaandroid/.appbiz.new_home.M&#10;ainActivity1 } from null (pid=8957, uid=2000) not exported from uid 10357&#10;" />
-      <item value="scale Type" />
     </histories>
     <option name="languageScores">
       <map>
