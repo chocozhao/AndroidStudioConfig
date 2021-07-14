@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="317" />
     <histories>
       <item value="renewal Vip Info" />
+      <item value="tv Select Advisory" />
       <item value="set Animation With Default" />
       <item value="open Load Animation" />
       <item value="add On Item Touch Listener" />
@@ -55,12 +56,11 @@
       <item value="item local speaker avatar container" />
       <item value="can Switch PPT And Main Video" />
       <item value="Presenter" />
-      <item value="is Video Attached" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3086" />
-        <entry key="ENGLISH" value="3087" />
+        <entry key="CHINESE" value="3088" />
+        <entry key="ENGLISH" value="3089" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
