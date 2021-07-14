@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Recently Study" />
+      <item value="Linear Layout Helper" />
       <item value="renewal Vip Info" />
       <item value="tv Select Advisory" />
       <item value="set Animation With Default" />
@@ -54,13 +56,11 @@
       <item value="Gesture Detector" />
       <item value="item status placeholder ll" />
       <item value="item local speaker avatar container" />
-      <item value="can Switch PPT And Main Video" />
-      <item value="Presenter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3088" />
-        <entry key="ENGLISH" value="3089" />
+        <entry key="CHINESE" value="3090" />
+        <entry key="ENGLISH" value="3091" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
