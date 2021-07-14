@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="899" />
+    <option name="newTranslationDialogWidth" value="897" />
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="年级选书" />
+      <item value="年级" />
       <item value="Recently Study" />
       <item value="Linear Layout Helper" />
       <item value="renewal Vip Info" />
@@ -41,7 +43,6 @@
       <item value="排行榜" />
       <item value="榜单" />
       <item value="nick Name" />
-      <item value="年级" />
       <item value="Suppress Lint" />
       <item value="switch PPT Video Sync" />
       <item value="is Placeholder Item" />
@@ -55,7 +56,6 @@
       <item value="is In Full Screen" />
       <item value="Gesture Detector" />
       <item value="item status placeholder ll" />
-      <item value="item local speaker avatar container" />
     </histories>
     <option name="languageScores">
       <map>
