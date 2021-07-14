@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="renewal Vip Info" />
       <item value="set Animation With Default" />
       <item value="open Load Animation" />
       <item value="add On Item Touch Listener" />
@@ -55,12 +56,11 @@
       <item value="can Switch PPT And Main Video" />
       <item value="Presenter" />
       <item value="is Video Attached" />
-      <item value="stream Audio" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3085" />
-        <entry key="ENGLISH" value="3086" />
+        <entry key="CHINESE" value="3086" />
+        <entry key="ENGLISH" value="3087" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
