@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Divide by zero" />
+      <item value="Devide by zero" />
+      <item value="recently" />
       <item value="angle" />
       <item value="Recent Study" />
       <item value="Remote Stream Stats" />
@@ -48,14 +51,11 @@
       <item value="Job Applications" />
       <item value="Resume" />
       <item value="Life Wiki" />
-      <item value="Habit Tracker" />
-      <item value="Simple Notebook" />
-      <item value="Blog Post" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1886" />
-        <entry key="ENGLISH" value="1887" />
+        <entry key="CHINESE" value="1888" />
+        <entry key="ENGLISH" value="1888" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
