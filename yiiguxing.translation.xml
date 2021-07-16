@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Limit" />
       <item value="Ranking" />
       <item value="年级选书" />
       <item value="年级" />
@@ -55,12 +56,11 @@
       <item value="switch 2 Full Screen Local" />
       <item value="switch PPT Video Without Sync" />
       <item value="is In Full Screen" />
-      <item value="Gesture Detector" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3091" />
-        <entry key="ENGLISH" value="3092" />
+        <entry key="CHINESE" value="3092" />
+        <entry key="ENGLISH" value="3093" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
