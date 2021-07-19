@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Ranking Study Body Adapter" />
+      <item value="recently study" />
       <item value="前三&#10;" />
       <item value="qian" />
       <item value="qians" />
@@ -54,13 +56,11 @@
       <item value="排行榜" />
       <item value="榜单" />
       <item value="nick Name" />
-      <item value="Suppress Lint" />
-      <item value="switch PPT Video Sync" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3101" />
-        <entry key="ENGLISH" value="3102" />
+        <entry key="CHINESE" value="3103" />
+        <entry key="ENGLISH" value="3104" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
