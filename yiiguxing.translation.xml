@@ -2,10 +2,15 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="893" />
+    <option name="newTranslationDialogWidth" value="887" />
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="排行&#10;" />
+      <item value="pai'h" />
+      <item value="排行" />
+      <item value="排行榜" />
+      <item value="排行榜&#10;" />
       <item value="renewal" />
       <item value="renewal Vip" />
       <item value="set On Tag Click Listener" />
@@ -51,11 +56,6 @@
       <item value="set Adapters" />
       <item value="the index where adapters added" />
       <item value="Add adapters in &lt;code&gt;position&lt;code&gt;" />
-      <item value="Sparse Array" />
-      <item value="m Index Ary" />
-      <item value="the relative position in sub adapter by the absoulte position in DelegaterAdapter. Return -1 if no sub adapter founded." />
-      <item value="Adapter Data Observer" />
-      <item value="on View Recycled" />
     </histories>
     <option name="languageScores">
       <map>
