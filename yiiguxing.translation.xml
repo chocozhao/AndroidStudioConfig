@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="895" />
+    <option name="newTranslationDialogWidth" value="893" />
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="圆" />
+      <item value="yuan" />
       <item value="state pressed" />
       <item value="translation Z" />
       <item value="elevation" />
@@ -54,8 +56,6 @@
       <item value="calculate Next Scale" />
       <item value="hot" />
       <item value="热&#10;" />
-      <item value="热门&#10;" />
-      <item value="热门&#10;&#10;" />
     </histories>
     <option name="languageScores">
       <map>
