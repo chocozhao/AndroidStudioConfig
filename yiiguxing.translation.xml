@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="renewal" />
+      <item value="renewal Vip" />
       <item value="set On Tag Click Listener" />
       <item value="Private property" />
       <item value="recently Study" />
@@ -54,13 +56,11 @@
       <item value="the relative position in sub adapter by the absoulte position in DelegaterAdapter. Return -1 if no sub adapter founded." />
       <item value="Adapter Data Observer" />
       <item value="on View Recycled" />
-      <item value="Virtual Layout Adapter" />
-      <item value="Delegate Adapter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3110" />
-        <entry key="ENGLISH" value="3111" />
+        <entry key="CHINESE" value="3112" />
+        <entry key="ENGLISH" value="3113" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
