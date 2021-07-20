@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="LAYER TYPE SOFTWARE" />
       <item value="排行&#10;" />
       <item value="pai'h" />
       <item value="排行" />
@@ -21,7 +22,6 @@
       <item value="state pressed" />
       <item value="translation Z" />
       <item value="elevation" />
-      <item value="LAYER TYPE SOFTWARE" />
       <item value="Ranking Study Body Adapter" />
       <item value="recently study" />
       <item value="前三&#10;" />
@@ -59,8 +59,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3112" />
-        <entry key="ENGLISH" value="3113" />
+        <entry key="CHINESE" value="3114" />
+        <entry key="ENGLISH" value="3115" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
