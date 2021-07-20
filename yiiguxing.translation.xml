@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="set On Tag Click Listener" />
       <item value="Private property" />
       <item value="recently Study" />
       <item value="圆" />
@@ -55,12 +56,11 @@
       <item value="on View Recycled" />
       <item value="Virtual Layout Adapter" />
       <item value="Delegate Adapter" />
-      <item value="calculate Next Scale" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3109" />
-        <entry key="ENGLISH" value="3110" />
+        <entry key="CHINESE" value="3110" />
+        <entry key="ENGLISH" value="3111" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
