@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="317" />
     <histories>
       <item value="shadow Radius" />
+      <item value="shadow Margin" />
       <item value="corner Radius" />
       <item value="shadow Round Radius" />
       <item value="layout shadow Radius" />
@@ -55,12 +56,11 @@
       <item value="ymsf" />
       <item value="view the only view, no binding is required" />
       <item value="return an adapter that only contains one item, and using SimpleLayoutHelper" />
-      <item value="Simple View Adapter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3127" />
-        <entry key="ENGLISH" value="3128" />
+        <entry key="CHINESE" value="3129" />
+        <entry key="ENGLISH" value="3130" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
