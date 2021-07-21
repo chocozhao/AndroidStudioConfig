@@ -6,7 +6,10 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="shadow Round Radius" />
       <item value="shadow Radius" />
+      <item value="layout shadow Radius" />
+      <item value="layout shadow Round Radius" />
       <item value="Ranking Study Title Adapter" />
       <item value="corner Radius" />
       <item value="foreground Color" />
@@ -53,14 +56,11 @@
       <item value="view the only view, no binding is required" />
       <item value="return an adapter that only contains one item, and using SimpleLayoutHelper" />
       <item value="Simple View Adapter" />
-      <item value="Virtual Layout Manager" />
-      <item value="LayoutHelper contains only one view" />
-      <item value="since" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3118" />
-        <entry key="ENGLISH" value="3119" />
+        <entry key="CHINESE" value="3123" />
+        <entry key="ENGLISH" value="3124" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
