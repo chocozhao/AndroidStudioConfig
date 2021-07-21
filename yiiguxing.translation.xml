@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="corner Radius" />
+      <item value="foreground Color" />
       <item value="LAYER TYPE SOFTWARE" />
       <item value="排行&#10;" />
       <item value="pai'h" />
@@ -54,13 +56,11 @@
       <item value="since" />
       <item value="update Layout Helper" />
       <item value="set Adapters" />
-      <item value="the index where adapters added" />
-      <item value="Add adapters in &lt;code&gt;position&lt;code&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3114" />
-        <entry key="ENGLISH" value="3115" />
+        <entry key="CHINESE" value="3116" />
+        <entry key="ENGLISH" value="3117" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
