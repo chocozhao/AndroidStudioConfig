@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="ACTION UP" />
+      <item value="IME ACTION SEND" />
+      <item value="KEYCODE ENTER" />
       <item value="reference" />
       <item value="shadow Radius" />
       <item value="shadow Margin" />
@@ -53,14 +56,11 @@
       <item value="set Animation With Default" />
       <item value="open Load Animation" />
       <item value="add On Item Touch Listener" />
-      <item value="can Release Videos" />
-      <item value="ymsf" />
-      <item value="view the only view, no binding is required" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3130" />
-        <entry key="ENGLISH" value="3131" />
+        <entry key="CHINESE" value="3133" />
+        <entry key="ENGLISH" value="3134" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
