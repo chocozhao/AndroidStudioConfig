@@ -6,12 +6,12 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="corner Radius" />
       <item value="shadow Round Radius" />
       <item value="shadow Radius" />
       <item value="layout shadow Radius" />
       <item value="layout shadow Round Radius" />
       <item value="Ranking Study Title Adapter" />
-      <item value="corner Radius" />
       <item value="foreground Color" />
       <item value="LAYER TYPE SOFTWARE" />
       <item value="排行&#10;" />
@@ -59,8 +59,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3123" />
-        <entry key="ENGLISH" value="3124" />
+        <entry key="CHINESE" value="3124" />
+        <entry key="ENGLISH" value="3125" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
