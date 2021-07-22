@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="done" />
       <item value="Connection to the Internet denied." />
       <item value="ACTION UP" />
       <item value="IME ACTION SEND" />
@@ -55,7 +56,6 @@
       <item value="renewal Vip Info" />
       <item value="tv Select Advisory" />
       <item value="set Animation With Default" />
-      <item value="open Load Animation" />
     </histories>
     <option name="languageScores">
       <map>
