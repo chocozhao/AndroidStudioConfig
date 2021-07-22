@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="title Enabled" />
+      <item value="reference" />
+      <item value="expanded Title Margin" />
+      <item value="status Bar Scrim" />
       <item value="layout scroll Flags" />
       <item value="title Text Appearance" />
       <item value="navigation Content Description" />
@@ -15,7 +19,6 @@
       <item value="ACTION UP" />
       <item value="IME ACTION SEND" />
       <item value="KEYCODE ENTER" />
-      <item value="reference" />
       <item value="shadow Radius" />
       <item value="shadow Margin" />
       <item value="corner Radius" />
@@ -53,14 +56,11 @@
       <item value="container Corner Radius" />
       <item value="Shadow" />
       <item value="Limit" />
-      <item value="Ranking" />
-      <item value="年级选书" />
-      <item value="年级" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3138" />
-        <entry key="ENGLISH" value="3139" />
+        <entry key="CHINESE" value="3140" />
+        <entry key="ENGLISH" value="3141" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
