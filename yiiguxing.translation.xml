@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="317" />
     <histories>
       <item value="title Enabled" />
+      <item value="expanded Title Text Appearance" />
       <item value="reference" />
       <item value="expanded Title Margin" />
       <item value="status Bar Scrim" />
@@ -55,12 +56,11 @@
       <item value="is Valid Scrolled" />
       <item value="container Corner Radius" />
       <item value="Shadow" />
-      <item value="Limit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3140" />
-        <entry key="ENGLISH" value="3141" />
+        <entry key="CHINESE" value="3142" />
+        <entry key="ENGLISH" value="3143" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
