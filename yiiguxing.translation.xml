@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="layout scroll Flags" />
+      <item value="title Text Appearance" />
+      <item value="navigation Content Description" />
       <item value="INVISIBLE" />
       <item value="done" />
       <item value="Connection to the Internet denied." />
@@ -53,14 +56,11 @@
       <item value="Ranking" />
       <item value="年级选书" />
       <item value="年级" />
-      <item value="Recently Study" />
-      <item value="renewal Vip Info" />
-      <item value="tv Select Advisory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3135" />
-        <entry key="ENGLISH" value="3136" />
+        <entry key="CHINESE" value="3138" />
+        <entry key="ENGLISH" value="3139" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
