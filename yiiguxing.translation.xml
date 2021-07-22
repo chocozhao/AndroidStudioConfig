@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="INVISIBLE" />
       <item value="done" />
       <item value="Connection to the Internet denied." />
       <item value="ACTION UP" />
@@ -55,12 +56,11 @@
       <item value="Recently Study" />
       <item value="renewal Vip Info" />
       <item value="tv Select Advisory" />
-      <item value="set Animation With Default" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3134" />
-        <entry key="ENGLISH" value="3135" />
+        <entry key="CHINESE" value="3135" />
+        <entry key="ENGLISH" value="3136" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
