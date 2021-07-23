@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Paging Item Decoration" />
       <item value="set Enable Refresh" />
       <item value="set Recycled View Pool" />
       <item value="descendant Focusability" />
@@ -55,12 +56,11 @@
       <item value="前三&#10;" />
       <item value="qian" />
       <item value="qians" />
-      <item value="Single Layout Helper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3149" />
-        <entry key="ENGLISH" value="3150" />
+        <entry key="CHINESE" value="3150" />
+        <entry key="ENGLISH" value="3151" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
