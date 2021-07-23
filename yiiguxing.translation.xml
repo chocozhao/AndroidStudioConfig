@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="212" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="nested Scrolling Enabled" />
       <item value="navigation Content Description" />
       <item value="content" />
       <item value="content Inset Start" />
@@ -55,12 +56,11 @@
       <item value="Linked List" />
       <item value="Linear Layout Helper" />
       <item value="Column Layout Helper" />
-      <item value="is Valid Scrolled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3145" />
-        <entry key="ENGLISH" value="3146" />
+        <entry key="CHINESE" value="3146" />
+        <entry key="ENGLISH" value="3147" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
