@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="462" />
     <histories>
+      <item value="Video Play Activity" />
       <item value="can Release Videos" />
       <item value="Recently Study Title" />
       <item value="Ranking Study Body Adapter 1" />
@@ -55,12 +56,11 @@
       <item value="renewal" />
       <item value="renewal Vip" />
       <item value="set On Tag Click Listener" />
-      <item value="Private property" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3158" />
-        <entry key="ENGLISH" value="3159" />
+        <entry key="CHINESE" value="3159" />
+        <entry key="ENGLISH" value="3160" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
