@@ -1,0 +1,31 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/project/githubProject/Company/framework/BJCloud/liveplayer-sdk-ui/src/main/res/layouts/pad/layout-sw600dp/activity_live_room_pad.xml" value="0.277734375" />
+        <entry key="..\:/project/githubProject/Company/framework/BJCloud/liveplayer-sdk-ui/src/main/res/layouts/pad/layout-sw600dp/layout_ppt_menu.xml" value="0.5" />
+        <entry key="..\:/project/githubProject/Company/framework/BJCloud/liveplayer-sdk-ui/src/main/res/layouts/pad/layout/fragment_pad_top_menu.xml" value="0.33" />
+        <entry key="..\:/project/githubProject/Company/framework/app/src/main/res/drawable/bg_fed100_r20.xml" value="0.3572916666666667" />
+        <entry key="..\:/project/githubProject/Company/framework/app/src/main/res/drawable/bg_fed100_r4.xml" value="0.3572916666666667" />
+        <entry key="..\:/project/githubProject/Company/framework/app/src/main/res/drawable/bg_grad_4e6a99_29416f_0_r14tltrbr.xml" value="0.37135416666666665" />
+        <entry key="..\:/project/githubProject/Company/framework/app/src/main/res/drawable/bg_grad_fff2b4_ffdccf_0_r4.xml" value="0.37135416666666665" />
+        <entry key="..\:/project/githubProject/Company/framework/app/src/main/res/drawable/btn_fed100_r22.xml" value="0.3572916666666667" />
+        <entry key="..\:/project/githubProject/Company/framework/app/src/main/res/layouts/mine/layout/activity_course_main.xml" value="0.328125" />
+        <entry key="..\:/project/githubProject/Company/framework/app/src/main/res/layouts/mine/layout/activity_live_combo_detail_tab_fragment.xml" value="0.3421875" />
+        <entry key="..\:/project/githubProject/Company/framework/app/src/main/res/layouts/mine/layout/activity_read_main.xml" value="0.328125" />
+        <entry key="..\:/project/githubProject/Company/framework/app/src/main/res/layouts/mine/layout/fragment_home_course.xml" value="0.3421875" />
+        <entry key="..\:/project/githubProject/Company/framework/app/src/main/res/layouts/mine/layout/fragment_read_select_book.xml" value="0.25" />
+        <entry key="..\:/project/githubProject/Company/framework/app/src/main/res/layouts/mine/layout/item_hot_book.xml" value="0.3703125" />
+        <entry key="..\:/project/githubProject/Company/framework/app/src/main/res/layouts/mine/layout/item_read_select_recent.xml" value="0.3703125" />
+        <entry key="..\:/project/githubProject/Company/framework/app/src/main/res/layouts/mine/layout/item_select_grade_body.xml" value="0.67" />
+        <entry key="..\:/project/githubProject/Company/framework/app/src/main/res/layouts/mine/layout/item_select_grade_title.xml" value="0.24456521739130435" />
+        <entry key="..\:/project/githubProject/Company/framework/app/src/main/res/layouts/mine/layout/item_select_icon.xml" value="0.35625" />
+        <entry key="..\:/project/githubProject/Company/framework/app/src/main/res/layouts/mine/layout/item_select_recently_study_title.xml" value="0.3421875" />
+        <entry key="..\:/project/githubProject/Company/framework/app/src/main/res/layouts/mine/layout/item_select_recommend_title.xml" value="0.35625" />
+        <entry key="..\:/project/githubProject/Company/framework/app/src/main/res/layouts/mine/layout/item_select_recommon_body.xml" value="0.67" />
+        <entry key="..\:/project/githubProject/Company/framework/app/src/main/res/layouts/mine/layout/item_select_tag.xml" value="0.24456521739130435" />
+        <entry key="..\:/project/githubProject/Company/framework/app/src/main/res/layouts/movie/layout/common_list_toolar_backgroud.xml" value="0.3421875" />
+      </map>
+    </option>
+  </component>
+</application>
