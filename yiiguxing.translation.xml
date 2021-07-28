@@ -2,10 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="885" />
+    <option name="newTranslationDialogWidth" value="881" />
     <option name="newTranslationDialogX" value="272" />
-    <option name="newTranslationDialogY" value="462" />
+    <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="同意&#10;" />
+      <item value="tong'yi" />
+      <item value="隐私" />
+      <item value="yin'c" />
       <item value="on Permissions Denied" />
       <item value="Question Show Fragment" />
       <item value="set Over Scroll Mode" />
@@ -52,10 +56,6 @@
       <item value="layout shadow Radius" />
       <item value="layout shadow Round Radius" />
       <item value="Ranking Study Title Adapter" />
-      <item value="foreground Color" />
-      <item value="LAYER TYPE SOFTWARE" />
-      <item value="排行&#10;" />
-      <item value="pai'h" />
     </histories>
     <option name="languageScores">
       <map>
