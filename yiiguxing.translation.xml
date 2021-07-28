@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="881" />
+    <option name="newTranslationDialogWidth" value="879" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="回放" />
+      <item value="hui" />
+      <item value="CHANGELOG" />
       <item value="同意&#10;" />
       <item value="tong'yi" />
       <item value="隐私" />
@@ -53,9 +56,6 @@
       <item value="shadow Margin" />
       <item value="corner Radius" />
       <item value="shadow Round Radius" />
-      <item value="layout shadow Radius" />
-      <item value="layout shadow Round Radius" />
-      <item value="Ranking Study Title Adapter" />
     </histories>
     <option name="languageScores">
       <map>
