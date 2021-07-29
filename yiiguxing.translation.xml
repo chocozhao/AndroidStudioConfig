@@ -6,6 +6,11 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="元素类型 &quot;meta&quot; 必须由匹配的结束标记 &quot;&lt;meta&gt;&quot; 终止。" />
+      <item value="m Expand Spec" />
+      <item value="def Style Res" />
+      <item value="UNSPECIFIED" />
+      <item value="Web View Layout" />
       <item value="register For Context Menu" />
       <item value="mime Type" />
       <item value="fail Url" />
@@ -51,16 +56,11 @@
       <item value="title Enabled" />
       <item value="expanded Title Text Appearance" />
       <item value="reference" />
-      <item value="expanded Title Margin" />
-      <item value="status Bar Scrim" />
-      <item value="layout scroll Flags" />
-      <item value="title Text Appearance" />
-      <item value="INVISIBLE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3175" />
-        <entry key="ENGLISH" value="3176" />
+        <entry key="CHINESE" value="3180" />
+        <entry key="ENGLISH" value="3180" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
