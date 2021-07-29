@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="register For Context Menu" />
       <item value="mime Type" />
       <item value="fail Url" />
       <item value="Assistant" />
@@ -55,12 +56,11 @@
       <item value="layout scroll Flags" />
       <item value="title Text Appearance" />
       <item value="INVISIBLE" />
-      <item value="done" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3174" />
-        <entry key="ENGLISH" value="3175" />
+        <entry key="CHINESE" value="3175" />
+        <entry key="ENGLISH" value="3176" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
