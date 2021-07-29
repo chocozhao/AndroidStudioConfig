@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="mime Type" />
+      <item value="fail Url" />
       <item value="Assistant" />
       <item value="announcement Btn" />
       <item value="pb secondary text" />
@@ -54,13 +56,11 @@
       <item value="title Text Appearance" />
       <item value="INVISIBLE" />
       <item value="done" />
-      <item value="Connection to the Internet denied." />
-      <item value="ACTION UP" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3172" />
-        <entry key="ENGLISH" value="3173" />
+        <entry key="CHINESE" value="3174" />
+        <entry key="ENGLISH" value="3175" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
