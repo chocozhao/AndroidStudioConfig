@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="No running app process found." />
+      <item value="scrollbars" />
       <item value="元素类型 &quot;meta&quot; 必须由匹配的结束标记 &quot;&lt;meta&gt;&quot; 终止。" />
       <item value="m Expand Spec" />
       <item value="def Style Res" />
@@ -54,13 +56,11 @@
       <item value="content" />
       <item value="content Inset Start" />
       <item value="title Enabled" />
-      <item value="expanded Title Text Appearance" />
-      <item value="reference" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3180" />
-        <entry key="ENGLISH" value="3180" />
+        <entry key="CHINESE" value="3181" />
+        <entry key="ENGLISH" value="3182" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
