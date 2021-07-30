@@ -6,6 +6,15 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="exit" />
+      <item value="居中" />
+      <item value="j'hu" />
+      <item value="j" />
+      <item value="jh" />
+      <item value="Move the task containing this activity to the back of the activity stack. The activity's order within the task is unchanged." />
+      <item value="If false then this only works if the activity is the root of a task; if true it will work for any activity in a task." />
+      <item value="If the task was moved (or it was already at the back) true is returned, else false." />
+      <item value="move Task To Back" />
       <item value="No running app process found." />
       <item value="scrollbars" />
       <item value="元素类型 &quot;meta&quot; 必须由匹配的结束标记 &quot;&lt;meta&gt;&quot; 终止。" />
@@ -47,20 +56,11 @@
       <item value="边距" />
       <item value="BI" />
       <item value="B" />
-      <item value="Paging Item Decoration" />
-      <item value="set Enable Refresh" />
-      <item value="set Recycled View Pool" />
-      <item value="descendant Focusability" />
-      <item value="nested Scrolling Enabled" />
-      <item value="navigation Content Description" />
-      <item value="content" />
-      <item value="content Inset Start" />
-      <item value="title Enabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3181" />
-        <entry key="ENGLISH" value="3182" />
+        <entry key="CHINESE" value="3186" />
+        <entry key="ENGLISH" value="3187" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
