@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="SAX Parse Exception" />
       <item value="take" />
       <item value="android.view.WindowManager$BadTokenException:Unable to add window -- token android.os.BinderProxy@556b4dc is not valid; is your activity running?" />
       <item value="exit" />
@@ -55,12 +56,11 @@
       <item value="get Item Offsets" />
       <item value="should keep bottom padding set above" />
       <item value="don't forget about recycling.." />
-      <item value="边距" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3187" />
-        <entry key="ENGLISH" value="3188" />
+        <entry key="CHINESE" value="3188" />
+        <entry key="ENGLISH" value="3189" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
