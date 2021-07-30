@@ -6,6 +6,20 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="continue Count" />
+      <item value="window No Title" />
+      <item value="render cost" />
+      <item value="ren'de'rcost" />
+      <item value="recost" />
+      <item value="cost" />
+      <item value="人的人cost" />
+      <item value="re" />
+      <item value="launch cos" />
+      <item value="launch cost" />
+      <item value="launch " />
+      <item value="launch" />
+      <item value="laun'ch" />
+      <item value="la" />
       <item value="Unsupported Operation Exception" />
       <item value="Invocation Target Exception" />
       <item value="SAX Parse Exception" />
@@ -42,25 +56,11 @@
       <item value="同意&#10;" />
       <item value="tong'yi" />
       <item value="隐私" />
-      <item value="yin'c" />
-      <item value="on Permissions Denied" />
-      <item value="Question Show Fragment" />
-      <item value="set Over Scroll Mode" />
-      <item value="on Permissions Granted" />
-      <item value="Could not determine the dependencies of task ':app:compileDebugJavaWithJavac'. &gt; Could not resolve all task dependencies for configuration ':app:debugCompileClasspath'. &gt; Could not resolve project :videoplayer-core. Required by: project :app &gt; project :videoplayer-ui &gt; Unable to find a matching configuration of project :videoplayer-core: - None of the consumable configurations have attributes." />
-      <item value="Unable to find a matching configuration of project :videoplayer-core: - None of the consumable configurations have attributes." />
-      <item value="Video Play Activity" />
-      <item value="can Release Videos" />
-      <item value="Recently Study Title" />
-      <item value="Ranking Study Body Adapter 1" />
-      <item value="Requested internal only, but not enough space" />
-      <item value="Timetable Adapter" />
-      <item value="get Item Offsets" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3192" />
-        <entry key="ENGLISH" value="3193" />
+        <entry key="CHINESE" value="3193" />
+        <entry key="ENGLISH" value="3194" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
