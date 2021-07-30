@@ -6,6 +6,11 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="CATEGORY HOME" />
+      <item value="FLAG ACTIVITY NEW TASK" />
+      <item value="START" />
+      <item value="LAUNCHER" />
+      <item value="Nexus Launcher Activity" />
       <item value="YM ORIGIN FROM" />
       <item value="continue Count" />
       <item value="window No Title" />
@@ -51,16 +56,11 @@
       <item value="ORIENTATION UNDEFINED" />
       <item value="ORIENTATION PORTRAIT" />
       <item value="ORIENTATION LANDSCAPE" />
-      <item value="回放" />
-      <item value="hui" />
-      <item value="CHANGELOG" />
-      <item value="同意&#10;" />
-      <item value="tong'yi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3194" />
-        <entry key="ENGLISH" value="3195" />
+        <entry key="CHINESE" value="3198" />
+        <entry key="ENGLISH" value="3199" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
