@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="LENGTH SHORT" />
       <item value="Retention" />
       <item value="parsing&#10;" />
       <item value="pars" />
@@ -55,12 +56,11 @@
       <item value="If false then this only works if the activity is the root of a task; if true it will work for any activity in a task." />
       <item value="If the task was moved (or it was already at the back) true is returned, else false." />
       <item value="move Task To Back" />
-      <item value="No running app process found." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3201" />
-        <entry key="ENGLISH" value="3202" />
+        <entry key="CHINESE" value="3202" />
+        <entry key="ENGLISH" value="3203" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
