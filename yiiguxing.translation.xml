@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="init Cobub" />
       <item value="not exported from uid 10367&#10;" />
       <item value="CATEGORY HOME" />
       <item value="FLAG ACTIVITY NEW TASK" />
@@ -55,12 +56,11 @@
       <item value="announcement Btn" />
       <item value="pb secondary text" />
       <item value="ORIENTATION UNDEFINED" />
-      <item value="ORIENTATION PORTRAIT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3198" />
-        <entry key="ENGLISH" value="3199" />
+        <entry key="CHINESE" value="3199" />
+        <entry key="ENGLISH" value="3200" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
