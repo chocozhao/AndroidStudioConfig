@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="not exported from uid 10367&#10;" />
       <item value="CATEGORY HOME" />
       <item value="FLAG ACTIVITY NEW TASK" />
       <item value="START" />
@@ -55,7 +56,6 @@
       <item value="pb secondary text" />
       <item value="ORIENTATION UNDEFINED" />
       <item value="ORIENTATION PORTRAIT" />
-      <item value="ORIENTATION LANDSCAPE" />
     </histories>
     <option name="languageScores">
       <map>
@@ -93,6 +93,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627266183078" />
+    <option name="lastTrimTime" value="1627867779634" />
   </component>
 </application>
