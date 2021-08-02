@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="YM ORIGIN FROM" />
       <item value="init Cobub" />
       <item value="not exported from uid 10367&#10;" />
       <item value="CATEGORY HOME" />
@@ -13,7 +14,6 @@
       <item value="START" />
       <item value="LAUNCHER" />
       <item value="Nexus Launcher Activity" />
-      <item value="YM ORIGIN FROM" />
       <item value="continue Count" />
       <item value="window No Title" />
       <item value="render cost" />
@@ -59,8 +59,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3199" />
-        <entry key="ENGLISH" value="3200" />
+        <entry key="CHINESE" value="3200" />
+        <entry key="ENGLISH" value="3201" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
