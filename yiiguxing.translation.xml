@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="The profiler was unable to parse the trace file. Please make sure the file selected is a valid trace. Alternatively, try importing another file, or report a bug" />
       <item value="Functional Performance Testing for Android &amp; iOS&#10;Monitor every critical user flow for every build of your mobile app.&#10;Pinpoint issues that degrade user experience early in the dev cycle.&#10;Seamlessly integrate with your CI workflow.&#10; or Get Started" />
       <item value="sign in&#10;Functional Performance Testing for Android &amp; iOS&#10;Monitor every critical user flow for every build of your mobile app.&#10;Pinpoint issues that degrade user experience early in the dev cycle.&#10;Seamlessly integrate with your CI workflow.&#10; or Get Started" />
       <item value="sign in&#10;" />
@@ -55,7 +56,6 @@
       <item value="m Expand Spec" />
       <item value="def Style Res" />
       <item value="UNSPECIFIED" />
-      <item value="Web View Layout" />
     </histories>
     <option name="languageScores">
       <map>
