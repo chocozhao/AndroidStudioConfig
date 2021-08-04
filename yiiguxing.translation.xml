@@ -6,8 +6,14 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="Execution failed for task ':app:transformClassesAndResourcesWithProguardForDebug'." />
+      <item value="abandon initialization: installProviders" />
+      <item value="multi Dex Enabled" />
+      <item value="java.lang.RuntimeException: abandon initialization: installProviders" />
+      <item value="there were 2 classes in incorrectly named files." />
       <item value="Please correct the above warnings first." />
+      <item value="keepattributes" />
+      <item value="dontwarn" />
+      <item value="Execution failed for task ':app:transformClassesAndResourcesWithProguardForDebug'." />
       <item value="minify Enabled" />
       <item value="Plugin Load Activity" />
       <item value="LENGTH SHORT" />
@@ -50,17 +56,11 @@
       <item value="Invocation Target Exception" />
       <item value="SAX Parse Exception" />
       <item value="take" />
-      <item value="android.view.WindowManager$BadTokenException:Unable to add window -- token android.os.BinderProxy@556b4dc is not valid; is your activity running?" />
-      <item value="exit" />
-      <item value="居中" />
-      <item value="j'hu" />
-      <item value="j" />
-      <item value="jh" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3206" />
-        <entry key="ENGLISH" value="3207" />
+        <entry key="CHINESE" value="3215" />
+        <entry key="ENGLISH" value="3216" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
