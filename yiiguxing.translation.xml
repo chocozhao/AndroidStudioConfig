@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="877" />
+    <option name="newTranslationDialogWidth" value="875" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="预习" />
+      <item value="预习&#10;" />
       <item value="abandon initialization: installProviders" />
       <item value="multi Dex Enabled" />
       <item value="java.lang.RuntimeException: abandon initialization: installProviders" />
@@ -54,8 +56,6 @@
       <item value="la" />
       <item value="Unsupported Operation Exception" />
       <item value="Invocation Target Exception" />
-      <item value="SAX Parse Exception" />
-      <item value="take" />
     </histories>
     <option name="languageScores">
       <map>
