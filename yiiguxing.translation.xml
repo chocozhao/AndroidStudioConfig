@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="867" />
+    <option name="newTranslationDialogWidth" value="865" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="录音&#10;" />
       <item value="作品" />
       <item value="zuo" />
       <item value="证书" />
@@ -55,7 +56,6 @@
       <item value="render cost" />
       <item value="ren'de'rcost" />
       <item value="recost" />
-      <item value="cost" />
     </histories>
     <option name="languageScores">
       <map>
