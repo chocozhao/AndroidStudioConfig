@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="is Single" />
       <item value="time Stamp" />
       <item value="on Task Progress Update" />
       <item value="on Task Pre Execute" />
@@ -55,12 +56,11 @@
       <item value="START" />
       <item value="LAUNCHER" />
       <item value="Nexus Launcher Activity" />
-      <item value="continue Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3221" />
-        <entry key="ENGLISH" value="3222" />
+        <entry key="CHINESE" value="3222" />
+        <entry key="ENGLISH" value="3223" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
