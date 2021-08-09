@@ -6,6 +6,11 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="PERMISSION WRITE EXTERNAL STORAGE" />
+      <item value="PermissionUtils.PERMISSION_READ_EXTERNAL_STORAGE, PermissionUtils.PERMISSION_WRITE_EXTERNAL_STORAGE" />
+      <item value="PERMISSION READ EXTERNAL STORAGE" />
+      <item value="CALL COVER REQUEST CODE" />
+      <item value="TO RECORD" />
       <item value="play Or Pause" />
       <item value="release" />
       <item value="on Progress Change" />
@@ -51,16 +56,11 @@
       <item value="Please correct the above warnings first." />
       <item value="keepattributes" />
       <item value="dontwarn" />
-      <item value="Execution failed for task ':app:transformClassesAndResourcesWithProguardForDebug'." />
-      <item value="minify Enabled" />
-      <item value="Plugin Load Activity" />
-      <item value="LENGTH SHORT" />
-      <item value="Retention" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3244" />
-        <entry key="ENGLISH" value="3245" />
+        <entry key="CHINESE" value="3249" />
+        <entry key="ENGLISH" value="3250" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
