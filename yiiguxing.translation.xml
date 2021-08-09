@@ -6,10 +6,11 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Chronometer" />
+      <item value="period" />
       <item value="delay" />
       <item value="delay in milliseconds before task is to be executed." />
       <item value="ime in milliseconds between successive task executions." />
-      <item value="period" />
       <item value="count Down Interval" />
       <item value="is Single" />
       <item value="time Stamp" />
@@ -55,12 +56,11 @@
       <item value="&#10;×Public email domains are not allowed, please use your corporate email account to register." />
       <item value="YM ORIGIN FROM" />
       <item value="init Cobub" />
-      <item value="not exported from uid 10367&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3228" />
-        <entry key="ENGLISH" value="3229" />
+        <entry key="CHINESE" value="3232" />
+        <entry key="ENGLISH" value="3233" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
