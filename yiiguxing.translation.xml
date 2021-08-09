@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="play From Media Id" />
+      <item value="is Curr Music Is Paused" />
+      <item value="play Music By Info Direct" />
+      <item value="get Now Playing Song Info" />
       <item value="COMPLETE" />
       <item value="complete" />
       <item value="CALL PICTURE REQUEST CODE" />
@@ -52,15 +56,11 @@
       <item value="音乐&#10;" />
       <item value="正常&#10;" />
       <item value="资料&#10;" />
-      <item value="目录&#10;" />
-      <item value="mu" />
-      <item value="预习" />
-      <item value="预习&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3258" />
-        <entry key="ENGLISH" value="3259" />
+        <entry key="CHINESE" value="3262" />
+        <entry key="ENGLISH" value="3263" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
