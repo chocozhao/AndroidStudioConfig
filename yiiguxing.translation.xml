@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="qian's" />
       <item value="REVERSE" />
       <item value="RESTART" />
       <item value="INFINITE = ValueAnimator.INFINITE;" />
@@ -55,7 +56,6 @@
       <item value="play Or Pause" />
       <item value="release" />
       <item value="on Progress Change" />
-      <item value="current Network Time Clock" />
     </histories>
     <option name="languageScores">
       <map>
