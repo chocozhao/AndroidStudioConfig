@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Illegal State Exception" />
+      <item value="Sound" />
+      <item value="reset" />
       <item value="prepare" />
       <item value="is Playing" />
       <item value="android.media.MediaPlayer._prepare(Native Method)" />
@@ -53,14 +56,11 @@
       <item value="elapsed milliseconds since boot." />
       <item value="完成" />
       <item value="完成&#10;" />
-      <item value="Chronometer" />
-      <item value="period" />
-      <item value="delay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3269" />
-        <entry key="ENGLISH" value="3270" />
+        <entry key="CHINESE" value="3272" />
+        <entry key="ENGLISH" value="3273" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
