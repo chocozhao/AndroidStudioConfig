@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="prepare" />
+      <item value="is Playing" />
       <item value="android.media.MediaPlayer._prepare(Native Method)" />
       <item value="lottie loop" />
       <item value="动画&#10;" />
@@ -54,13 +56,11 @@
       <item value="Chronometer" />
       <item value="period" />
       <item value="delay" />
-      <item value="delay in milliseconds before task is to be executed." />
-      <item value="ime in milliseconds between successive task executions." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3267" />
-        <entry key="ENGLISH" value="3268" />
+        <entry key="CHINESE" value="3269" />
+        <entry key="ENGLISH" value="3270" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
