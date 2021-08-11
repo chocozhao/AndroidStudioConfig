@@ -6,6 +6,12 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="REVERSE" />
+      <item value="RESTART" />
+      <item value="INFINITE = ValueAnimator.INFINITE;" />
+      <item value="count" />
+      <item value="loop" />
+      <item value="get Image Assets Folder" />
       <item value="Unable to parse composition" />
       <item value="if it is called in an invalid state" />
       <item value="Illegal Argument Exception" />
@@ -50,17 +56,11 @@
       <item value="release" />
       <item value="on Progress Change" />
       <item value="current Network Time Clock" />
-      <item value="current Network Time Millis" />
-      <item value="current Time Micro" />
-      <item value="current Thread Time Micro" />
-      <item value="current Thread Time Millis" />
-      <item value="elapsed Realtime Nanos" />
-      <item value="Returns milliseconds since boot, including time spent in sleep." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3275" />
-        <entry key="ENGLISH" value="3276" />
+        <entry key="CHINESE" value="3282" />
+        <entry key="ENGLISH" value="3283" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
