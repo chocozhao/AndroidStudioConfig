@@ -2,16 +2,27 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="861" />
+    <option name="newTranslationDialogWidth" value="851" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="语音" />
+      <item value="t'y" />
+      <item value="积累" />
+      <item value="ji'l" />
+      <item value="计时" />
+      <item value="ji'shi" />
+      <item value="ji'shu" />
+      <item value="重新&#10;" />
+      <item value="Stop" />
+      <item value="开始录音&#10;" />
+      <item value="STOP PAGE" />
+      <item value="COMPLETE" />
       <item value="category" />
       <item value="play From Media Id" />
       <item value="is Curr Music Is Paused" />
       <item value="play Music By Info Direct" />
       <item value="get Now Playing Song Info" />
-      <item value="COMPLETE" />
       <item value="complete" />
       <item value="CALL PICTURE REQUEST CODE" />
       <item value="Audio Source" />
@@ -45,22 +56,11 @@
       <item value="count Down Interval" />
       <item value="is Single" />
       <item value="time Stamp" />
-      <item value="on Task Progress Update" />
-      <item value="on Task Pre Execute" />
-      <item value="on Task Post Execute" />
-      <item value="录音&#10;" />
-      <item value="作品" />
-      <item value="zuo" />
-      <item value="证书" />
-      <item value="set Up Lazy" />
-      <item value="音频&#10;" />
-      <item value="音乐&#10;" />
-      <item value="正常&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3262" />
-        <entry key="ENGLISH" value="3263" />
+        <entry key="CHINESE" value="3265" />
+        <entry key="ENGLISH" value="3266" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
