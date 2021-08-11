@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="851" />
+    <option name="newTranslationDialogWidth" value="849" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="动画&#10;" />
       <item value="语音" />
       <item value="t'y" />
       <item value="积累" />
@@ -55,7 +56,6 @@
       <item value="ime in milliseconds between successive task executions." />
       <item value="count Down Interval" />
       <item value="is Single" />
-      <item value="time Stamp" />
     </histories>
     <option name="languageScores">
       <map>
