@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="843" />
+    <option name="newTranslationDialogWidth" value="837" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="状态&#10;" />
+      <item value="暂停" />
+      <item value="zhan'ting" />
       <item value="音频" />
       <item value="yin'p" />
       <item value="on Before End Time" />
@@ -53,9 +56,6 @@
       <item value="is Curr Music Is Paused" />
       <item value="play Music By Info Direct" />
       <item value="get Now Playing Song Info" />
-      <item value="complete" />
-      <item value="CALL PICTURE REQUEST CODE" />
-      <item value="Audio Source" />
     </histories>
     <option name="languageScores">
       <map>
