@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="on Before End Time" />
+      <item value="gap" />
+      <item value="OVER TIME" />
       <item value="on Prepare Time" />
       <item value="m Prepare Time Length" />
       <item value="录音" />
@@ -53,14 +56,11 @@
       <item value="Audio Source" />
       <item value="CALL PHONE REQUEST CODE" />
       <item value="CALL PICTURE REQUEST CODE 1" />
-      <item value="CALL STORAGE REQUEST CODE" />
-      <item value="SHARE IMAGE REQUEST CODE" />
-      <item value="CALL COVER REQUEST CODE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3286" />
-        <entry key="ENGLISH" value="3287" />
+        <entry key="CHINESE" value="3289" />
+        <entry key="ENGLISH" value="3290" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
