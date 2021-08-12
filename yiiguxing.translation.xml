@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="had Play Completion" />
       <item value="状态&#10;" />
       <item value="暂停" />
       <item value="zhan'ting" />
@@ -55,12 +56,11 @@
       <item value="play From Media Id" />
       <item value="is Curr Music Is Paused" />
       <item value="play Music By Info Direct" />
-      <item value="get Now Playing Song Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3289" />
-        <entry key="ENGLISH" value="3290" />
+        <entry key="CHINESE" value="3290" />
+        <entry key="ENGLISH" value="3291" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
