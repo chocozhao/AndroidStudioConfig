@@ -2,15 +2,16 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="847" />
+    <option name="newTranslationDialogWidth" value="845" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="m Prepare Time Length" />
+      <item value="录音" />
+      <item value="lu" />
       <item value="total File Num" />
       <item value="uploading Media Size" />
       <item value="record" />
-      <item value="录音" />
-      <item value="lu" />
       <item value="qian's" />
       <item value="REVERSE" />
       <item value="RESTART" />
@@ -55,12 +56,11 @@
       <item value="SHARE IMAGE REQUEST CODE" />
       <item value="CALL COVER REQUEST CODE" />
       <item value="PERMISSION WRITE EXTERNAL STORAGE" />
-      <item value="PermissionUtils.PERMISSION_READ_EXTERNAL_STORAGE, PermissionUtils.PERMISSION_WRITE_EXTERNAL_STORAGE" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3284" />
-        <entry key="ENGLISH" value="3284" />
+        <entry key="ENGLISH" value="3285" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
