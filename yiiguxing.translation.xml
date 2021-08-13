@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="m Is Vip Member" />
       <item value="contains Key" />
       <item value="contains Value" />
       <item value="operator" />
@@ -55,12 +56,11 @@
       <item value="Stop" />
       <item value="开始录音&#10;" />
       <item value="STOP PAGE" />
-      <item value="COMPLETE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3293" />
-        <entry key="ENGLISH" value="3294" />
+        <entry key="CHINESE" value="3294" />
+        <entry key="ENGLISH" value="3295" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
