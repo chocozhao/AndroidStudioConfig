@@ -6,10 +6,11 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="stop" />
       <item value="DESTROY PAGE" />
       <item value="STOP PAGE" />
-      <item value="COMPLETE" />
       <item value="OVER TIME" />
+      <item value="COMPLETE" />
       <item value="m Playing" />
       <item value="m Is Vip Member" />
       <item value="contains Key" />
@@ -55,12 +56,11 @@
       <item value="ji'l" />
       <item value="计时" />
       <item value="ji'shi" />
-      <item value="ji'shu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3299" />
-        <entry key="ENGLISH" value="3300" />
+        <entry key="CHINESE" value="3305" />
+        <entry key="ENGLISH" value="3306" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
