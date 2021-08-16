@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="DESTROY PAGE" />
+      <item value="STOP PAGE" />
+      <item value="COMPLETE" />
+      <item value="OVER TIME" />
       <item value="m Playing" />
       <item value="m Is Vip Member" />
       <item value="contains Key" />
@@ -20,7 +24,6 @@
       <item value="yin'p" />
       <item value="on Before End Time" />
       <item value="gap" />
-      <item value="OVER TIME" />
       <item value="on Prepare Time" />
       <item value="m Prepare Time Length" />
       <item value="录音" />
@@ -53,14 +56,11 @@
       <item value="计时" />
       <item value="ji'shi" />
       <item value="ji'shu" />
-      <item value="重新&#10;" />
-      <item value="Stop" />
-      <item value="开始录音&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3295" />
-        <entry key="ENGLISH" value="3296" />
+        <entry key="CHINESE" value="3299" />
+        <entry key="ENGLISH" value="3300" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
