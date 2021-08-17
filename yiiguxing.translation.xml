@@ -6,7 +6,9 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="set Indicator Slider Gap" />
       <item value="set Reveal Width" />
+      <item value="set Page Margin" />
       <item value="set Indicator Slider Width" />
       <item value="联络员&#10;" />
       <item value="screens" />
@@ -54,13 +56,11 @@
       <item value="Illegal State Exception" />
       <item value="Sound" />
       <item value="reset" />
-      <item value="prepare" />
-      <item value="is Playing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3313" />
-        <entry key="ENGLISH" value="3314" />
+        <entry key="CHINESE" value="3320" />
+        <entry key="ENGLISH" value="3321" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
