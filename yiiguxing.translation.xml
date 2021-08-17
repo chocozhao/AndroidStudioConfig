@@ -6,8 +6,8 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
-      <item value="Smart Refresh Layout" />
       <item value="No Such Method Exception" />
+      <item value="Smart Refresh Layout" />
       <item value="自定义" />
       <item value="解决滑动冲突&#10;" />
       <item value="jie" />
@@ -59,8 +59,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3328" />
-        <entry key="ENGLISH" value="3329" />
+        <entry key="CHINESE" value="3329" />
+        <entry key="ENGLISH" value="3330" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
