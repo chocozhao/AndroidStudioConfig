@@ -2,10 +2,16 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="835" />
+    <option name="newTranslationDialogWidth" value="831" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="自定义" />
+      <item value="解决滑动冲突&#10;" />
+      <item value="jie" />
+      <item value="Suppress Lint" />
+      <item value="Clickable View Accessibility" />
+      <item value="is Enabled" />
       <item value="shadow Radius" />
       <item value="corner Radius" />
       <item value="BAIJIAYUN SDK" />
@@ -50,17 +56,11 @@
       <item value="qian's" />
       <item value="REVERSE" />
       <item value="RESTART" />
-      <item value="INFINITE = ValueAnimator.INFINITE;" />
-      <item value="count" />
-      <item value="loop" />
-      <item value="get Image Assets Folder" />
-      <item value="Unable to parse composition" />
-      <item value="if it is called in an invalid state" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3323" />
-        <entry key="ENGLISH" value="3324" />
+        <entry key="CHINESE" value="3326" />
+        <entry key="ENGLISH" value="3327" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
