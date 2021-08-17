@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="837" />
+    <option name="newTranslationDialogWidth" value="835" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="联络员&#10;" />
       <item value="screens" />
       <item value="ll Audio Complete" />
       <item value="sell Status" />
@@ -55,7 +56,6 @@
       <item value="is Playing" />
       <item value="android.media.MediaPlayer._prepare(Native Method)" />
       <item value="lottie loop" />
-      <item value="动画&#10;" />
     </histories>
     <option name="languageScores">
       <map>
