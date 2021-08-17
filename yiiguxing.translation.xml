@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="corner Radius" />
       <item value="No Such Method Exception" />
       <item value="Smart Refresh Layout" />
       <item value="自定义" />
@@ -15,7 +16,6 @@
       <item value="Clickable View Accessibility" />
       <item value="is Enabled" />
       <item value="shadow Radius" />
-      <item value="corner Radius" />
       <item value="BAIJIAYUN SDK" />
       <item value="corners" />
       <item value="set Indicator Slider Gap" />
@@ -59,8 +59,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3329" />
-        <entry key="ENGLISH" value="3330" />
+        <entry key="CHINESE" value="3330" />
+        <entry key="ENGLISH" value="3331" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
