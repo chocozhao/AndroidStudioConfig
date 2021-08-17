@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="set Reveal Width" />
+      <item value="set Indicator Slider Width" />
       <item value="联络员&#10;" />
       <item value="screens" />
       <item value="ll Audio Complete" />
@@ -54,13 +56,11 @@
       <item value="reset" />
       <item value="prepare" />
       <item value="is Playing" />
-      <item value="android.media.MediaPlayer._prepare(Native Method)" />
-      <item value="lottie loop" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3311" />
-        <entry key="ENGLISH" value="3312" />
+        <entry key="CHINESE" value="3313" />
+        <entry key="ENGLISH" value="3314" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
