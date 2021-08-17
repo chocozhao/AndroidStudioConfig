@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="BAIJIAYUN SDK" />
+      <item value="corners" />
       <item value="set Indicator Slider Gap" />
       <item value="set Reveal Width" />
       <item value="set Page Margin" />
@@ -54,13 +56,11 @@
       <item value="if it is called in an invalid state" />
       <item value="Illegal Argument Exception" />
       <item value="Illegal State Exception" />
-      <item value="Sound" />
-      <item value="reset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3320" />
-        <entry key="ENGLISH" value="3321" />
+        <entry key="CHINESE" value="3323" />
+        <entry key="ENGLISH" value="3322" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
