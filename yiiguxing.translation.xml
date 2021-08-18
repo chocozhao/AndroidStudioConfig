@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Parcelable encountered IOException writing serializable object" />
+      <item value="Serializable" />
       <item value="Redundant overriding method" />
       <item value="lateinit" />
       <item value="MAX IMAGE COUNT" />
@@ -54,13 +56,11 @@
       <item value="状态&#10;" />
       <item value="暂停" />
       <item value="zhan'ting" />
-      <item value="音频" />
-      <item value="yin'p" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3331" />
-        <entry key="ENGLISH" value="3332" />
+        <entry key="CHINESE" value="3334" />
+        <entry key="ENGLISH" value="3335" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
