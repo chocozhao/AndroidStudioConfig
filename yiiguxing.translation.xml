@@ -6,6 +6,11 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="null cannot be cast to non-null type" />
+      <item value="Failure delivering result ResultInfo" />
+      <item value="is Hide" />
+      <item value="is Add Stack" />
+      <item value="exit Anim" />
       <item value="Finds a fragment that was identified by the given tag either when inflated from XML or as supplied when added in a transaction. This first searches through fragments that are currently added to the manager's activity; if no such fragment is found, then all fragments currently on the back stack are searched. @return The fragment if found or null otherwise." />
       <item value="request" />
       <item value="请求" />
@@ -51,16 +56,11 @@
       <item value="DESTROY PAGE" />
       <item value="STOP PAGE" />
       <item value="OVER TIME" />
-      <item value="COMPLETE" />
-      <item value="m Playing" />
-      <item value="m Is Vip Member" />
-      <item value="contains Key" />
-      <item value="contains Value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3336" />
-        <entry key="ENGLISH" value="3337" />
+        <entry key="CHINESE" value="3342" />
+        <entry key="ENGLISH" value="3343" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
@@ -74,7 +74,7 @@
         <entry key="CZECH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="KURDISH" value="1" />
-        <entry key="LATIN" value="13" />
+        <entry key="LATIN" value="14" />
         <entry key="ROMANIAN" value="6" />
         <entry key="MALAGASY" value="1" />
         <entry key="MALAY" value="2" />
