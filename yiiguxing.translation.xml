@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="825" />
+    <option name="newTranslationDialogWidth" value="823" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="详情&#10;" />
+      <item value="xiang'q" />
+      <item value="get Simple Name" />
       <item value="null cannot be cast to non-null type" />
       <item value="Failure delivering result ResultInfo" />
       <item value="is Hide" />
@@ -53,14 +56,11 @@
       <item value="category" />
       <item value="audio" />
       <item value="stop" />
-      <item value="DESTROY PAGE" />
-      <item value="STOP PAGE" />
-      <item value="OVER TIME" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3342" />
-        <entry key="ENGLISH" value="3343" />
+        <entry key="CHINESE" value="3343" />
+        <entry key="ENGLISH" value="3344" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
