@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="823" />
+    <option name="newTranslationDialogWidth" value="821" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="The layout &quot;item_preview_image&quot; in layout-land has no declaration in the base layout folder; this can lead to crashes when the resource is queried in a configuration that does not match this qualifier" />
       <item value="set Enlarge Image Res" />
       <item value="Mutable List" />
       <item value="nested Scrolling Enabled" />
@@ -55,7 +56,6 @@
       <item value="set Indicator Slider Width" />
       <item value="联络员&#10;" />
       <item value="screens" />
-      <item value="ll Audio Complete" />
     </histories>
     <option name="languageScores">
       <map>
