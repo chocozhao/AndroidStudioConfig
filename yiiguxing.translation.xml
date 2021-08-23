@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="tv Examination" />
       <item value="correct Answer Index" />
       <item value="letters" />
       <item value="start Window Fullscreen" />
@@ -55,12 +56,11 @@
       <item value="No Such Method Exception" />
       <item value="Smart Refresh Layout" />
       <item value="自定义" />
-      <item value="解决滑动冲突&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3361" />
-        <entry key="ENGLISH" value="3362" />
+        <entry key="CHINESE" value="3362" />
+        <entry key="ENGLISH" value="3363" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
