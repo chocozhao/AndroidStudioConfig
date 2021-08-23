@@ -6,12 +6,14 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
-      <item value="SCREEN ORIENTATION LANDSCAPE" />
       <item value="start Window Fullscreen" />
+      <item value="change Ui To Playing Show" />
+      <item value="show Small Video" />
+      <item value="set Back From Full Screen Listener" />
+      <item value="SCREEN ORIENTATION LANDSCAPE" />
       <item value="perform Click" />
       <item value="Filtrate" />
       <item value="pending&#10;" />
-      <item value="set Back From Full Screen Listener" />
       <item value="auto Full With Size" />
       <item value="is Compatible Land" />
       <item value="bottom" />
@@ -54,13 +56,11 @@
       <item value="解决滑动冲突&#10;" />
       <item value="jie" />
       <item value="Suppress Lint" />
-      <item value="Clickable View Accessibility" />
-      <item value="is Enabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3355" />
-        <entry key="ENGLISH" value="3356" />
+        <entry key="CHINESE" value="3359" />
+        <entry key="ENGLISH" value="3360" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
