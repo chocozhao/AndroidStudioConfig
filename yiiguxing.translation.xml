@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="pending&#10;" />
       <item value="set Back From Full Screen Listener" />
       <item value="auto Full With Size" />
       <item value="is Compatible Land" />
@@ -55,7 +56,6 @@
       <item value="BAIJIAYUN SDK" />
       <item value="corners" />
       <item value="set Indicator Slider Gap" />
-      <item value="set Reveal Width" />
     </histories>
     <option name="languageScores">
       <map>
