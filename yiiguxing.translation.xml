@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Filtrate" />
       <item value="pending&#10;" />
       <item value="set Back From Full Screen Listener" />
       <item value="auto Full With Size" />
@@ -55,12 +56,11 @@
       <item value="shadow Radius" />
       <item value="BAIJIAYUN SDK" />
       <item value="corners" />
-      <item value="set Indicator Slider Gap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3351" />
-        <entry key="ENGLISH" value="3352" />
+        <entry key="CHINESE" value="3352" />
+        <entry key="ENGLISH" value="3353" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
