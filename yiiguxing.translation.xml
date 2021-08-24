@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="get Safe Date Format" />
       <item value="tv Examination" />
       <item value="correct Answer Index" />
       <item value="letters" />
@@ -55,12 +56,11 @@
       <item value="corner Radius" />
       <item value="No Such Method Exception" />
       <item value="Smart Refresh Layout" />
-      <item value="自定义" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3362" />
-        <entry key="ENGLISH" value="3363" />
+        <entry key="CHINESE" value="3363" />
+        <entry key="ENGLISH" value="3364" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
