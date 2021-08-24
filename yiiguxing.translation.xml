@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="819" />
+    <option name="newTranslationDialogWidth" value="817" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="崩溃" />
+      <item value="beng'k" />
       <item value="def Style Attr" />
       <item value="last Get Position" />
       <item value="position Offset" />
@@ -54,8 +56,6 @@
       <item value="请求" />
       <item value="qi" />
       <item value="qiu" />
-      <item value="on Back Pressed" />
-      <item value="Parcelable encountered IOException writing serializable object" />
     </histories>
     <option name="languageScores">
       <map>
