@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="request Layout" />
+      <item value="invalidate" />
+      <item value="get Clip Color" />
+      <item value="LTGRAY" />
       <item value="Dummy" />
       <item value="set Circle Spacing" />
       <item value="get Start Interpolator" />
@@ -52,15 +56,11 @@
       <item value="uncollected" />
       <item value="fill Viewport" />
       <item value="详情&#10;" />
-      <item value="xiang'q" />
-      <item value="get Simple Name" />
-      <item value="null cannot be cast to non-null type" />
-      <item value="Failure delivering result ResultInfo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3385" />
-        <entry key="ENGLISH" value="3386" />
+        <entry key="CHINESE" value="3389" />
+        <entry key="ENGLISH" value="3390" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
