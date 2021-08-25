@@ -6,6 +6,13 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="set Circle Spacing" />
+      <item value="get Start Interpolator" />
+      <item value="is Follow Touch" />
+      <item value="is Touchable" />
+      <item value="get Circle Spacing" />
+      <item value="get Circle Color" />
+      <item value="get Stroke Width" />
       <item value="崩溃" />
       <item value="beng'k" />
       <item value="def Style Attr" />
@@ -49,18 +56,11 @@
       <item value="null cannot be cast to non-null type" />
       <item value="Failure delivering result ResultInfo" />
       <item value="is Hide" />
-      <item value="is Add Stack" />
-      <item value="exit Anim" />
-      <item value="Finds a fragment that was identified by the given tag either when inflated from XML or as supplied when added in a transaction. This first searches through fragments that are currently added to the manager's activity; if no such fragment is found, then all fragments currently on the back stack are searched. @return The fragment if found or null otherwise." />
-      <item value="request" />
-      <item value="请求" />
-      <item value="qi" />
-      <item value="qiu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3377" />
-        <entry key="ENGLISH" value="3378" />
+        <entry key="CHINESE" value="3384" />
+        <entry key="ENGLISH" value="3385" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
