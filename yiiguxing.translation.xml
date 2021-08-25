@@ -6,6 +6,15 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="The x-radius of the oval used to round the corners" />
+      <item value="ANTI ALIAS FLAG" />
+      <item value="圆角矩形" />
+      <item value="yuan'jiao'ju'xing" />
+      <item value="yuan'jiao" />
+      <item value="ju'xing" />
+      <item value="ju" />
+      <item value="draw Round Rect" />
+      <item value="next Left X" />
       <item value="Decelerate Interpolator" />
       <item value="Accelerate Interpolator" />
       <item value="MODE EXACTLY" />
@@ -47,21 +56,12 @@
       <item value="set Indicator Slider Color" />
       <item value="录音&#10;" />
       <item value="get Safe Date Format" />
-      <item value="tv Examination" />
-      <item value="correct Answer Index" />
-      <item value="letters" />
-      <item value="start Window Fullscreen" />
-      <item value="change Ui To Playing Show" />
-      <item value="show Small Video" />
-      <item value="set Back From Full Screen Listener" />
-      <item value="SCREEN ORIENTATION LANDSCAPE" />
-      <item value="perform Click" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3399" />
-        <entry key="ENGLISH" value="3400" />
-        <entry key="ARABIC" value="1" />
+        <entry key="CHINESE" value="3402" />
+        <entry key="ENGLISH" value="3403" />
+        <entry key="ARABIC" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="3" />
