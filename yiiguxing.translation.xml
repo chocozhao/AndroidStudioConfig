@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="817" />
+    <option name="newTranslationDialogWidth" value="813" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="间距" />
+      <item value="间距&#10;" />
       <item value="request Layout" />
       <item value="invalidate" />
       <item value="get Clip Color" />
@@ -54,8 +56,6 @@
       <item value="Mutable List" />
       <item value="nested Scrolling Enabled" />
       <item value="uncollected" />
-      <item value="fill Viewport" />
-      <item value="详情&#10;" />
     </histories>
     <option name="languageScores">
       <map>
