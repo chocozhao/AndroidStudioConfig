@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Decelerate Interpolator" />
+      <item value="Accelerate Interpolator" />
+      <item value="MODE EXACTLY" />
       <item value="draw Slider" />
       <item value="draw Scale Slider" />
       <item value="INDICATOR PADDING" />
@@ -53,14 +56,11 @@
       <item value="set Back From Full Screen Listener" />
       <item value="SCREEN ORIENTATION LANDSCAPE" />
       <item value="perform Click" />
-      <item value="Filtrate" />
-      <item value="pending&#10;" />
-      <item value="auto Full With Size" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3396" />
-        <entry key="ENGLISH" value="3397" />
+        <entry key="CHINESE" value="3399" />
+        <entry key="ENGLISH" value="3400" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
