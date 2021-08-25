@@ -6,6 +6,11 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="draw Slider" />
+      <item value="draw Scale Slider" />
+      <item value="INDICATOR PADDING" />
+      <item value="The radius of the circle to be drawn" />
+      <item value="radius" />
       <item value="set Indicator Slider Gap" />
       <item value="Gap" />
       <item value="间距" />
@@ -51,16 +56,11 @@
       <item value="Filtrate" />
       <item value="pending&#10;" />
       <item value="auto Full With Size" />
-      <item value="is Compatible Land" />
-      <item value="bottom" />
-      <item value="The layout &quot;item_preview_image&quot; in layout-land has no declaration in the base layout folder; this can lead to crashes when the resource is queried in a configuration that does not match this qualifier" />
-      <item value="set Enlarge Image Res" />
-      <item value="Mutable List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3391" />
-        <entry key="ENGLISH" value="3392" />
+        <entry key="CHINESE" value="3396" />
+        <entry key="ENGLISH" value="3397" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
