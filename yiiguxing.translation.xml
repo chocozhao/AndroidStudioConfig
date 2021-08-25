@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="STROKE" />
+      <item value="FILL AND STROKE" />
       <item value="The x-radius of the oval used to round the corners" />
       <item value="ANTI ALIAS FLAG" />
       <item value="圆角矩形" />
@@ -54,13 +56,11 @@
       <item value="set Slide Progress" />
       <item value="dashcircle" />
       <item value="set Indicator Slider Color" />
-      <item value="录音&#10;" />
-      <item value="get Safe Date Format" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3402" />
-        <entry key="ENGLISH" value="3403" />
+        <entry key="CHINESE" value="3404" />
+        <entry key="ENGLISH" value="3405" />
         <entry key="ARABIC" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
