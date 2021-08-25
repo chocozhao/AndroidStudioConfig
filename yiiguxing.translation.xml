@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="request Layout" />
       <item value="FILL" />
       <item value="STROKE" />
       <item value="FILL AND STROKE" />
@@ -30,7 +31,6 @@
       <item value="Gap" />
       <item value="间距" />
       <item value="间距&#10;" />
-      <item value="request Layout" />
       <item value="invalidate" />
       <item value="get Clip Color" />
       <item value="LTGRAY" />
@@ -59,8 +59,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3405" />
-        <entry key="ENGLISH" value="3406" />
+        <entry key="CHINESE" value="3406" />
+        <entry key="ENGLISH" value="3407" />
         <entry key="ARABIC" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
