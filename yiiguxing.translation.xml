@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Analysis" />
+      <item value="Answer" />
       <item value="correct Answer Index" />
       <item value="练" />
       <item value="generating" />
@@ -54,13 +56,11 @@
       <item value="is Touchable" />
       <item value="get Circle Spacing" />
       <item value="get Circle Color" />
-      <item value="get Stroke Width" />
-      <item value="崩溃" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3408" />
-        <entry key="ENGLISH" value="3409" />
+        <entry key="CHINESE" value="3410" />
+        <entry key="ENGLISH" value="3411" />
         <entry key="ARABIC" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
