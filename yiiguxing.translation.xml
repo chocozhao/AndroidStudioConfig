@@ -2,16 +2,17 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="803" />
+    <option name="newTranslationDialogWidth" value="801" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="练" />
+      <item value="generating" />
       <item value="挑战" />
       <item value="tiao'z" />
       <item value="挑战&#10;" />
       <item value="ti" />
       <item value="train" />
-      <item value="练" />
       <item value="l" />
       <item value="l'l" />
       <item value="training" />
@@ -55,12 +56,11 @@
       <item value="get Stroke Width" />
       <item value="崩溃" />
       <item value="beng'k" />
-      <item value="def Style Attr" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3406" />
-        <entry key="ENGLISH" value="3407" />
+        <entry key="CHINESE" value="3407" />
+        <entry key="ENGLISH" value="3408" />
         <entry key="ARABIC" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
