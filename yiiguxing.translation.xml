@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="797" />
+    <option name="newTranslationDialogWidth" value="795" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="答案&#10;" />
+      <item value="da'na" />
       <item value="umeng advertise" />
       <item value="练" />
       <item value="lai'n" />
@@ -54,8 +56,6 @@
       <item value="INDICATOR PADDING" />
       <item value="The radius of the circle to be drawn" />
       <item value="radius" />
-      <item value="set Indicator Slider Gap" />
-      <item value="Gap" />
     </histories>
     <option name="languageScores">
       <map>
