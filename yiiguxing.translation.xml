@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="full Scroll" />
+      <item value="smooth Scroll To" />
       <item value="答案&#10;" />
       <item value="da'na" />
       <item value="umeng advertise" />
@@ -54,13 +56,11 @@
       <item value="draw Slider" />
       <item value="draw Scale Slider" />
       <item value="INDICATOR PADDING" />
-      <item value="The radius of the circle to be drawn" />
-      <item value="radius" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3416" />
-        <entry key="ENGLISH" value="3417" />
+        <entry key="CHINESE" value="3418" />
+        <entry key="ENGLISH" value="3419" />
         <entry key="ARABIC" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
