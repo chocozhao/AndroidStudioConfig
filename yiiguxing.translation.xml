@@ -2,10 +2,17 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="801" />
+    <option name="newTranslationDialogWidth" value="799" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="content" />
+      <item value="回答&#10;" />
+      <item value="简答" />
+      <item value="jian'da" />
+      <item value="答题" />
+      <item value="program Id" />
+      <item value="answer Index" />
       <item value="android Extensions" />
       <item value="experimental" />
       <item value="behind" />
@@ -49,18 +56,11 @@
       <item value="Gap" />
       <item value="间距" />
       <item value="间距&#10;" />
-      <item value="invalidate" />
-      <item value="get Clip Color" />
-      <item value="LTGRAY" />
-      <item value="Dummy" />
-      <item value="set Circle Spacing" />
-      <item value="get Start Interpolator" />
-      <item value="is Follow Touch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3413" />
-        <entry key="ENGLISH" value="3414" />
+        <entry key="CHINESE" value="3416" />
+        <entry key="ENGLISH" value="3417" />
         <entry key="ARABIC" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
