@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="android Extensions" />
+      <item value="experimental" />
       <item value="behind" />
       <item value="Analysis" />
       <item value="Answer" />
@@ -54,13 +56,11 @@
       <item value="set Circle Spacing" />
       <item value="get Start Interpolator" />
       <item value="is Follow Touch" />
-      <item value="is Touchable" />
-      <item value="get Circle Spacing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3411" />
-        <entry key="ENGLISH" value="3412" />
+        <entry key="CHINESE" value="3413" />
+        <entry key="ENGLISH" value="3414" />
         <entry key="ARABIC" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
