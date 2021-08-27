@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="set Had Click Intro" />
+      <item value="start Learn Success" />
       <item value="Barrier" />
       <item value="program Id" />
       <item value="full Scroll" />
@@ -54,13 +56,11 @@
       <item value="Decelerate Interpolator" />
       <item value="Accelerate Interpolator" />
       <item value="MODE EXACTLY" />
-      <item value="draw Slider" />
-      <item value="draw Scale Slider" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3420" />
-        <entry key="ENGLISH" value="3421" />
+        <entry key="CHINESE" value="3422" />
+        <entry key="ENGLISH" value="3423" />
         <entry key="ARABIC" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
