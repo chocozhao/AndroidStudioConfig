@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="text Is Selectable" />
       <item value="set Had Click Intro" />
       <item value="start Learn Success" />
       <item value="Barrier" />
@@ -55,12 +56,11 @@
       <item value="next Left X" />
       <item value="Decelerate Interpolator" />
       <item value="Accelerate Interpolator" />
-      <item value="MODE EXACTLY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3422" />
-        <entry key="ENGLISH" value="3423" />
+        <entry key="CHINESE" value="3423" />
+        <entry key="ENGLISH" value="3424" />
         <entry key="ARABIC" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
