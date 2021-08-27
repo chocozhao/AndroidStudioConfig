@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="program Id" />
       <item value="full Scroll" />
       <item value="smooth Scroll To" />
       <item value="答案&#10;" />
@@ -18,7 +19,6 @@
       <item value="简答" />
       <item value="jian'da" />
       <item value="答题" />
-      <item value="program Id" />
       <item value="answer Index" />
       <item value="android Extensions" />
       <item value="experimental" />
@@ -59,8 +59,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3418" />
-        <entry key="ENGLISH" value="3419" />
+        <entry key="CHINESE" value="3420" />
+        <entry key="ENGLISH" value="3421" />
         <entry key="ARABIC" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
