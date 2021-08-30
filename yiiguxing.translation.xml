@@ -2,10 +2,15 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="793" />
+    <option name="newTranslationDialogWidth" value="789" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="简答&#10;" />
+      <item value="jian'da" />
+      <item value="analyze" />
+      <item value="解析&#10;" />
+      <item value="jie'c" />
       <item value="提交" />
       <item value="tv Examination" />
       <item value="is Draft" />
@@ -24,7 +29,6 @@
       <item value="content" />
       <item value="回答&#10;" />
       <item value="简答" />
-      <item value="jian'da" />
       <item value="答题" />
       <item value="answer Index" />
       <item value="android Extensions" />
@@ -52,10 +56,6 @@
       <item value="ANTI ALIAS FLAG" />
       <item value="圆角矩形" />
       <item value="yuan'jiao'ju'xing" />
-      <item value="yuan'jiao" />
-      <item value="ju'xing" />
-      <item value="ju" />
-      <item value="draw Round Rect" />
     </histories>
     <option name="languageScores">
       <map>
