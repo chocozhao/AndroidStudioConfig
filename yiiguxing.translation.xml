@@ -2,65 +2,65 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="789" />
+    <option name="newTranslationDialogWidth" value="783" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
-      <item value="简答&#10;" />
-      <item value="jian'da" />
-      <item value="analyze" />
-      <item value="解析&#10;" />
-      <item value="jie'c" />
-      <item value="提交" />
+      <item value="A problem occurred evaluating project ':BJCloud:liveplayer-sdk-ui'." />
+      <item value="split" />
+      <item value="begin Index" />
+      <item value="substring" />
+      <item value="contains" />
+      <item value="is Empty" />
+      <item value="Common Event" />
+      <item value="check Coupon" />
+      <item value="Coupon Dialog Presenter" />
+      <item value="message Action" />
+      <item value="message Ext" />
+      <item value="Scheme Filter Youth Activity" />
+      <item value="if Empty" />
+      <item value="Examination" />
       <item value="tv Examination" />
-      <item value="is Draft" />
-      <item value="text Is Selectable" />
-      <item value="set Had Click Intro" />
-      <item value="start Learn Success" />
-      <item value="Barrier" />
-      <item value="program Id" />
-      <item value="full Scroll" />
-      <item value="smooth Scroll To" />
-      <item value="答案&#10;" />
-      <item value="da'na" />
-      <item value="umeng advertise" />
-      <item value="练" />
-      <item value="lai'n" />
-      <item value="content" />
-      <item value="回答&#10;" />
+      <item value="last" />
+      <item value="static" />
+      <item value="get Type Name" />
+      <item value="get Canonical Name" />
+      <item value="canonical Name" />
+      <item value="parameter Types" />
+      <item value="for Name" />
+      <item value="Completion the postcard by route metas" />
+      <item value="arouter-auto-register plugin will generate code inside this method call this method to register all Routers, Interceptors and Providers" />
+      <item value="load Router Map" />
+      <item value="Logistics Center" />
+      <item value="get Priority" />
+      <item value="set Path" />
+      <item value="get Destination" />
+      <item value="is Login Status Tools" />
+      <item value="AROUTER POSTCARD EXTRA NEED LOGIN" />
+      <item value="extra" />
+      <item value="exception Text" />
+      <item value="Route Meta" />
+      <item value="MIN VALUE" />
+      <item value="The decoded bitmap, or null if the image data could not be decoded." />
+      <item value="The input stream that holds the raw data to be decoded into a bitmap." />
+      <item value="Decode an input stream into a bitmap. If the input stream is null, or cannot be used to decode a bitmap, the function returns null. The stream's position will be where ever it was after the encoded data was read." />
+      <item value="get Bit Map By Url" />
+      <item value="筛选" />
+      <item value="shai'x" />
+      <item value="Requested internal only, but not enough space" />
+      <item value="to Sorted Set" />
+      <item value="reverse" />
+      <item value="is No Fast Jump" />
+      <item value="hardware" />
+      <item value="software" />
+      <item value="layer Type" />
       <item value="简答" />
-      <item value="答题" />
-      <item value="answer Index" />
-      <item value="android Extensions" />
-      <item value="experimental" />
-      <item value="behind" />
-      <item value="Analysis" />
-      <item value="Answer" />
-      <item value="correct Answer Index" />
-      <item value="generating" />
-      <item value="挑战" />
-      <item value="tiao'z" />
-      <item value="挑战&#10;" />
-      <item value="ti" />
-      <item value="train" />
-      <item value="l" />
-      <item value="l'l" />
-      <item value="training" />
-      <item value="练习" />
-      <item value="总结&#10;" />
-      <item value="request Layout" />
-      <item value="FILL" />
-      <item value="STROKE" />
-      <item value="FILL AND STROKE" />
-      <item value="The x-radius of the oval used to round the corners" />
-      <item value="ANTI ALIAS FLAG" />
-      <item value="圆角矩形" />
-      <item value="yuan'jiao'ju'xing" />
+      <item value="金丹" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3425" />
-        <entry key="ENGLISH" value="3426" />
+        <entry key="CHINESE" value="3477" />
+        <entry key="ENGLISH" value="3478" />
         <entry key="ARABIC" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
@@ -78,14 +78,14 @@
         <entry key="ROMANIAN" value="6" />
         <entry key="MALAGASY" value="1" />
         <entry key="MALAY" value="2" />
-        <entry key="NORWEGIAN" value="4" />
+        <entry key="NORWEGIAN" value="5" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SWEDISH" value="3" />
         <entry key="SLOVAK" value="1" />
         <entry key="SOMALI" value="1" />
         <entry key="WELSH" value="2" />
         <entry key="SPANISH" value="1" />
-        <entry key="GREEK" value="1" />
+        <entry key="GREEK" value="2" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="5" />
@@ -94,6 +94,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630235221419" />
+    <option name="lastTrimTime" value="1630902799259" />
   </component>
 </application>
