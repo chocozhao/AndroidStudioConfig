@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="vciv et underline show" />
       <item value="确定" />
       <item value="que" />
       <item value="验证码" />
@@ -55,7 +56,6 @@
       <item value="Route Meta" />
       <item value="MIN VALUE" />
       <item value="The decoded bitmap, or null if the image data could not be decoded." />
-      <item value="The input stream that holds the raw data to be decoded into a bitmap." />
     </histories>
     <option name="languageScores">
       <map>
