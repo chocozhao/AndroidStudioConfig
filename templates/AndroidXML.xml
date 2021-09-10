@@ -1,0 +1,7 @@
+<templateSet group="AndroidXML">
+  <template name="tv" value=" &lt;TextView&#10;       android:layout_width=&quot;wrap_content&quot;&#10;       android:layout_height=&quot;wrap_content&quot;&#10;       android:text=&quot;&quot;&#10;       android:textColor=&quot;@color/color222222&quot;&#10;       android:textSize=&quot;@dimen/sp16&quot;&#10;       /&gt;" description="textview" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>
