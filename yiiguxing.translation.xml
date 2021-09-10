@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="get Primary Clip" />
+      <item value="Add the clipboard changed listener." />
       <item value="on Input" />
       <item value="vciv et underline show" />
       <item value="确定" />
@@ -54,13 +56,11 @@
       <item value="AROUTER POSTCARD EXTRA NEED LOGIN" />
       <item value="extra" />
       <item value="exception Text" />
-      <item value="Route Meta" />
-      <item value="MIN VALUE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3485" />
-        <entry key="ENGLISH" value="3486" />
+        <entry key="CHINESE" value="3487" />
+        <entry key="ENGLISH" value="3488" />
         <entry key="ARABIC" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
