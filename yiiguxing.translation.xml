@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="figure" />
       <item value="Return whether input matches regex of exact mobile." />
       <item value="is Mobile Exact" />
       <item value="Lottery Fragment" />
@@ -55,7 +56,6 @@
       <item value="筛选" />
       <item value="shai'x" />
       <item value="Requested internal only, but not enough space" />
-      <item value="to Sorted Set" />
     </histories>
     <option name="languageScores">
       <map>
