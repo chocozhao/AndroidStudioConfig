@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="music Time Long" />
       <item value="adjust Pan" />
       <item value="window Soft Input Mode" />
       <item value="set On Input Listener" />
@@ -55,12 +56,11 @@
       <item value="get Priority" />
       <item value="set Path" />
       <item value="get Destination" />
-      <item value="is Login Status Tools" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3490" />
-        <entry key="ENGLISH" value="3491" />
+        <entry key="CHINESE" value="3491" />
+        <entry key="ENGLISH" value="3492" />
         <entry key="ARABIC" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
