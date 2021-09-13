@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="FORMAT" />
       <item value="music Time Long" />
       <item value="adjust Pan" />
       <item value="window Soft Input Mode" />
@@ -55,12 +56,11 @@
       <item value="Logistics Center" />
       <item value="get Priority" />
       <item value="set Path" />
-      <item value="get Destination" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3491" />
-        <entry key="ENGLISH" value="3492" />
+        <entry key="CHINESE" value="3492" />
+        <entry key="ENGLISH" value="3493" />
         <entry key="ARABIC" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
