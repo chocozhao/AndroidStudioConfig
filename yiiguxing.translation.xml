@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="adjust Pan" />
+      <item value="state Always Hidden" />
       <item value="联系" />
       <item value="注销账号" />
       <item value="注销" />
@@ -13,7 +15,6 @@
       <item value="Logout" />
       <item value="FORMAT" />
       <item value="music Time Long" />
-      <item value="adjust Pan" />
       <item value="window Soft Input Mode" />
       <item value="set On Input Listener" />
       <item value="get Primary Clip" />
@@ -55,12 +56,11 @@
       <item value="canonical Name" />
       <item value="parameter Types" />
       <item value="for Name" />
-      <item value="Completion the postcard by route metas" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3492" />
-        <entry key="ENGLISH" value="3493" />
+        <entry key="CHINESE" value="3494" />
+        <entry key="ENGLISH" value="3495" />
         <entry key="ARABIC" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
