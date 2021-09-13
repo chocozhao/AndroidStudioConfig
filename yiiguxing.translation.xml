@@ -2,13 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="771" />
+    <option name="newTranslationDialogWidth" value="769" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="注销账号" />
+      <item value="注销" />
       <item value="Logou" />
       <item value="Logout" />
-      <item value="注销" />
       <item value="FORMAT" />
       <item value="music Time Long" />
       <item value="adjust Pan" />
@@ -55,7 +56,6 @@
       <item value="for Name" />
       <item value="Completion the postcard by route metas" />
       <item value="arouter-auto-register plugin will generate code inside this method call this method to register all Routers, Interceptors and Providers" />
-      <item value="load Router Map" />
     </histories>
     <option name="languageScores">
       <map>
