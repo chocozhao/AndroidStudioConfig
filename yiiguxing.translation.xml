@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Editable" />
+      <item value="on Text Changed" />
+      <item value="after Text Changed" />
       <item value="Drag Frame Layout" />
       <item value="确认" />
       <item value="关闭" />
@@ -53,14 +56,11 @@
       <item value="message Ext" />
       <item value="Scheme Filter Youth Activity" />
       <item value="if Empty" />
-      <item value="Examination" />
-      <item value="tv Examination" />
-      <item value="last" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3495" />
-        <entry key="ENGLISH" value="3496" />
+        <entry key="CHINESE" value="3499" />
+        <entry key="ENGLISH" value="3500" />
         <entry key="ARABIC" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
