@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Drag Frame Layout" />
       <item value="确认" />
       <item value="关闭" />
       <item value="关闭哦" />
@@ -55,12 +56,11 @@
       <item value="Examination" />
       <item value="tv Examination" />
       <item value="last" />
-      <item value="static" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3494" />
-        <entry key="ENGLISH" value="3495" />
+        <entry key="CHINESE" value="3495" />
+        <entry key="ENGLISH" value="3496" />
         <entry key="ARABIC" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
