@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="765" />
+    <option name="newTranslationDialogWidth" value="763" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="忘记原密码" />
+      <item value="忘记" />
       <item value="Editable" />
       <item value="on Text Changed" />
       <item value="after Text Changed" />
@@ -54,8 +56,6 @@
       <item value="Coupon Dialog Presenter" />
       <item value="message Action" />
       <item value="message Ext" />
-      <item value="Scheme Filter Youth Activity" />
-      <item value="if Empty" />
     </histories>
     <option name="languageScores">
       <map>
