@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="767" />
+    <option name="newTranslationDialogWidth" value="765" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="确认" />
       <item value="关闭" />
       <item value="关闭哦" />
       <item value="取消" />
@@ -55,7 +56,6 @@
       <item value="tv Examination" />
       <item value="last" />
       <item value="static" />
-      <item value="get Type Name" />
     </histories>
     <option name="languageScores">
       <map>
