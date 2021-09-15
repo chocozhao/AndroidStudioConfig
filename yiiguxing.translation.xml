@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="get Need Register" />
       <item value="bind Mobile Single" />
       <item value="忘记原密码" />
       <item value="忘记" />
@@ -55,7 +56,6 @@
       <item value="Common Event" />
       <item value="check Coupon" />
       <item value="Coupon Dialog Presenter" />
-      <item value="message Action" />
     </histories>
     <option name="languageScores">
       <map>
