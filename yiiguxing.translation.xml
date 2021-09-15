@@ -6,6 +6,11 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="isMobileExact" />
+      <item value="Return whether input matches regex of simple mobile." />
+      <item value="is Mobile Simple" />
+      <item value="Regex Utils" />
+      <item value="clickable" />
       <item value="captcha" />
       <item value="bind Mobile Single" />
       <item value="get Need Register" />
@@ -51,11 +56,6 @@
       <item value="A problem occurred evaluating project ':BJCloud:liveplayer-sdk-ui'." />
       <item value="split" />
       <item value="begin Index" />
-      <item value="substring" />
-      <item value="contains" />
-      <item value="is Empty" />
-      <item value="Common Event" />
-      <item value="check Coupon" />
     </histories>
     <option name="languageScores">
       <map>
