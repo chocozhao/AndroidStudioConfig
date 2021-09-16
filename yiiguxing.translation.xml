@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="账号绑定&#10;" />
       <item value="captcha" />
       <item value="FLAG ACTIVITY SINGLE TOP" />
       <item value="isMobileExact" />
@@ -55,7 +56,6 @@
       <item value="stroke" />
       <item value="Scheme Filter Youth Presenter" />
       <item value="A problem occurred evaluating project ':BJCloud:liveplayer-sdk-ui'." />
-      <item value="split" />
     </histories>
     <option name="languageScores">
       <map>
