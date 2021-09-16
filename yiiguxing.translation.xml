@@ -6,13 +6,13 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="captcha" />
       <item value="FLAG ACTIVITY SINGLE TOP" />
       <item value="isMobileExact" />
       <item value="Return whether input matches regex of simple mobile." />
       <item value="is Mobile Simple" />
       <item value="Regex Utils" />
       <item value="clickable" />
-      <item value="captcha" />
       <item value="bind Mobile Single" />
       <item value="get Need Register" />
       <item value="忘记原密码" />
