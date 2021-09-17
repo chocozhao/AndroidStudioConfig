@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="after Text Changed" />
       <item value="on Task Post Execute" />
       <item value="on Task Pre Execute" />
       <item value="delete Oauth" />
@@ -23,7 +24,6 @@
       <item value="忘记" />
       <item value="Editable" />
       <item value="on Text Changed" />
-      <item value="after Text Changed" />
       <item value="Drag Frame Layout" />
       <item value="确认" />
       <item value="关闭" />
@@ -59,8 +59,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3503" />
-        <entry key="ENGLISH" value="3504" />
+        <entry key="CHINESE" value="3504" />
+        <entry key="ENGLISH" value="3505" />
         <entry key="ARABIC" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
