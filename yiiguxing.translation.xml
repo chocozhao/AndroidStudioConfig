@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="is Need Auth On Get User Info" />
       <item value="change Layout Params" />
       <item value="Live Room Single Activity" />
       <item value="after Navigate To Main" />
@@ -55,7 +56,6 @@
       <item value="验证" />
       <item value="sms" />
       <item value="show Soft Input" />
-      <item value="figure" />
     </histories>
     <option name="languageScores">
       <map>
