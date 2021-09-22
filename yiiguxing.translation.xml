@@ -6,12 +6,18 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="CODE ERROR ROOMSERVER LOSE CONNECTION" />
+      <item value="layout constraint Dimension Ratio" />
+      <item value="AUDIO SERVICE" />
+      <item value="on Loading Steps" />
+      <item value="show Red Packet UI" />
+      <item value="action 2 Show Main Screen Notice" />
+      <item value="action Show Announcement Fragment" />
+      <item value="action Navigate To Main" />
       <item value="客服" />
       <item value="ke" />
-      <item value="action Navigate To Main" />
       <item value="navigate To Main" />
       <item value="also" />
-      <item value="on Loading Steps" />
       <item value="switch To Max Screen" />
       <item value="Click Gesture Detector" />
       <item value="enable Clear Screen" />
@@ -50,17 +56,11 @@
       <item value="qu" />
       <item value="adjust Pan" />
       <item value="state Always Hidden" />
-      <item value="联系" />
-      <item value="注销账号" />
-      <item value="注销" />
-      <item value="Logou" />
-      <item value="Logout" />
-      <item value="FORMAT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3513" />
-        <entry key="ENGLISH" value="3514" />
+        <entry key="CHINESE" value="3515" />
+        <entry key="ENGLISH" value="3516" />
         <entry key="ARABIC" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
