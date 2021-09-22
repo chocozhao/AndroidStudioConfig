@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="switch To Max Screen" />
       <item value="Click Gesture Detector" />
       <item value="enable Clear Screen" />
       <item value="switch 2 Max Screen Local" />
@@ -55,7 +56,6 @@
       <item value="get Primary Clip" />
       <item value="Add the clipboard changed listener." />
       <item value="on Input" />
-      <item value="vciv et underline show" />
     </histories>
     <option name="languageScores">
       <map>
