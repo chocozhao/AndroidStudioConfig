@@ -6,6 +6,11 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="dimension Ratio" />
+      <item value="change Layout Params" />
+      <item value="Main Video" />
+      <item value="weight Sum" />
+      <item value="is Aspect Ratio Small" />
       <item value="on Negative" />
       <item value="request Permissions" />
       <item value="show Dialog Fragment" />
@@ -29,7 +34,6 @@
       <item value="Placeholder Item" />
       <item value="place Holder Container" />
       <item value="is Need Auth On Get User Info" />
-      <item value="change Layout Params" />
       <item value="Live Room Single Activity" />
       <item value="after Navigate To Main" />
       <item value="is Use Web RTC" />
@@ -52,15 +56,11 @@
       <item value="Editable" />
       <item value="on Text Changed" />
       <item value="Drag Frame Layout" />
-      <item value="确认" />
-      <item value="关闭" />
-      <item value="关闭哦" />
-      <item value="取消" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3515" />
-        <entry key="ENGLISH" value="3516" />
+        <entry key="CHINESE" value="3516" />
+        <entry key="ENGLISH" value="3517" />
         <entry key="ARABIC" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="3" />
