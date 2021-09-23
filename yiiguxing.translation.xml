@@ -6,13 +6,16 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="set Ratio" />
+      <item value="counter" />
+      <item value="speak Apply" />
+      <item value="is Waiting Record Open" />
+      <item value="request Speak Apply" />
       <item value="Speak Queue VM" />
       <item value="On Speak Apply Count Down Listener" />
       <item value="STUDENT SPEAK APPLY NONE" />
       <item value="show Waiting Teacher Agree" />
       <item value="show Speak Apply Count Down" />
-      <item value="is Waiting Record Open" />
-      <item value="request Speak Apply" />
       <item value="show Hand Up Timeout" />
       <item value="show Speak Closed By Teacher" />
       <item value="rl Speak Wrapper" />
@@ -53,9 +56,6 @@
       <item value="after Text Changed" />
       <item value="on Task Post Execute" />
       <item value="on Task Pre Execute" />
-      <item value="delete Oauth" />
-      <item value="账号绑定&#10;" />
-      <item value="captcha" />
     </histories>
     <option name="languageScores">
       <map>
