@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Checked Text View" />
       <item value="show Hand Up Forbid" />
       <item value="show Hand Up Timeout" />
       <item value="show Speak Apply Canceled" />
@@ -55,7 +56,6 @@
       <item value="Placeholder Item" />
       <item value="place Holder Container" />
       <item value="is Need Auth On Get User Info" />
-      <item value="Live Room Single Activity" />
     </histories>
     <option name="languageScores">
       <map>
