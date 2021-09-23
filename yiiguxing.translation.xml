@@ -6,7 +6,17 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Speak Queue VM" />
+      <item value="On Speak Apply Count Down Listener" />
+      <item value="STUDENT SPEAK APPLY NONE" />
+      <item value="show Waiting Teacher Agree" />
+      <item value="show Speak Apply Count Down" />
+      <item value="is Waiting Record Open" />
+      <item value="request Speak Apply" />
+      <item value="show Hand Up Timeout" />
       <item value="show Speak Closed By Teacher" />
+      <item value="rl Speak Wrapper" />
+      <item value="Live Room Base Activity" />
       <item value="tv Count Down" />
       <item value="weight" />
       <item value="dimension Ratio" />
@@ -46,16 +56,6 @@
       <item value="delete Oauth" />
       <item value="账号绑定&#10;" />
       <item value="captcha" />
-      <item value="FLAG ACTIVITY SINGLE TOP" />
-      <item value="isMobileExact" />
-      <item value="Return whether input matches regex of simple mobile." />
-      <item value="is Mobile Simple" />
-      <item value="Regex Utils" />
-      <item value="clickable" />
-      <item value="bind Mobile Single" />
-      <item value="get Need Register" />
-      <item value="忘记原密码" />
-      <item value="忘记" />
     </histories>
     <option name="languageScores">
       <map>
@@ -94,6 +94,13 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1631497851362" />
+    <option name="lastTrimTime" value="1632386636545" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
   </component>
 </application>
