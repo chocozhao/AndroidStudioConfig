@@ -6,6 +6,13 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="show Hand Up Forbid" />
+      <item value="show Hand Up Timeout" />
+      <item value="show Speak Apply Canceled" />
+      <item value="show Waiting Teacher Agree" />
+      <item value="int STUDENT_SPEAK_APPLY_NONE = 0;" />
+      <item value="STUDENT SPEAK APPLY SPEAKING" />
+      <item value="STUDENT SPEAK APPLY APPLYING" />
       <item value="set Ratio" />
       <item value="counter" />
       <item value="speak Apply" />
@@ -14,9 +21,7 @@
       <item value="Speak Queue VM" />
       <item value="On Speak Apply Count Down Listener" />
       <item value="STUDENT SPEAK APPLY NONE" />
-      <item value="show Waiting Teacher Agree" />
       <item value="show Speak Apply Count Down" />
-      <item value="show Hand Up Timeout" />
       <item value="show Speak Closed By Teacher" />
       <item value="rl Speak Wrapper" />
       <item value="Live Room Base Activity" />
@@ -51,11 +56,6 @@
       <item value="place Holder Container" />
       <item value="is Need Auth On Get User Info" />
       <item value="Live Room Single Activity" />
-      <item value="after Navigate To Main" />
-      <item value="is Use Web RTC" />
-      <item value="after Text Changed" />
-      <item value="on Task Post Execute" />
-      <item value="on Task Pre Execute" />
     </histories>
     <option name="languageScores">
       <map>
