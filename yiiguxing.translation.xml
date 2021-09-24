@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="LENGTH SHORT" />
       <item value="set Text" />
       <item value="set Duration" />
       <item value="hook" />
@@ -55,7 +56,6 @@
       <item value="is Aspect Ratio Small" />
       <item value="on Negative" />
       <item value="request Permissions" />
-      <item value="show Dialog Fragment" />
     </histories>
     <option name="languageScores">
       <map>
