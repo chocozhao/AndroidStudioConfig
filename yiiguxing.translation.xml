@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="hook" />
       <item value="Time unit representing one second." />
       <item value="window Duration" />
       <item value="Composite Disposable" />
@@ -55,7 +56,6 @@
       <item value="show Dialog Fragment" />
       <item value="CODE ERROR ROOMSERVER LOSE CONNECTION" />
       <item value="layout constraint Dimension Ratio" />
-      <item value="AUDIO SERVICE" />
     </histories>
     <option name="languageScores">
       <map>
