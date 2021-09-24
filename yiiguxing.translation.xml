@@ -6,6 +6,14 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Time unit representing one second." />
+      <item value="window Duration" />
+      <item value="Composite Disposable" />
+      <item value="disposables" />
+      <item value="is Waiting Record Open" />
+      <item value="dispose Of Clickable" />
+      <item value="is Disposed" />
+      <item value="throttle First" />
       <item value="show Force Speak" />
       <item value="show Student Menu" />
       <item value="has Read" />
@@ -27,7 +35,6 @@
       <item value="set Ratio" />
       <item value="counter" />
       <item value="speak Apply" />
-      <item value="is Waiting Record Open" />
       <item value="request Speak Apply" />
       <item value="Speak Queue VM" />
       <item value="On Speak Apply Count Down Listener" />
@@ -49,13 +56,6 @@
       <item value="CODE ERROR ROOMSERVER LOSE CONNECTION" />
       <item value="layout constraint Dimension Ratio" />
       <item value="AUDIO SERVICE" />
-      <item value="on Loading Steps" />
-      <item value="show Red Packet UI" />
-      <item value="action 2 Show Main Screen Notice" />
-      <item value="action Show Announcement Fragment" />
-      <item value="action Navigate To Main" />
-      <item value="客服" />
-      <item value="ke" />
     </histories>
     <option name="languageScores">
       <map>
