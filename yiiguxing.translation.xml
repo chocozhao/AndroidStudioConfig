@@ -2,10 +2,15 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="763" />
+    <option name="newTranslationDialogWidth" value="761" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="白" />
+      <item value="bai" />
+      <item value="handsup" />
+      <item value="show Forbidden Hand" />
+      <item value="show Student Menu" />
       <item value="Checked Text View" />
       <item value="show Hand Up Forbid" />
       <item value="show Hand Up Timeout" />
@@ -51,11 +56,6 @@
       <item value="switch To Max Screen" />
       <item value="Click Gesture Detector" />
       <item value="enable Clear Screen" />
-      <item value="switch 2 Max Screen Local" />
-      <item value="is Placeholder Item" />
-      <item value="Placeholder Item" />
-      <item value="place Holder Container" />
-      <item value="is Need Auth On Get User Info" />
     </histories>
     <option name="languageScores">
       <map>
