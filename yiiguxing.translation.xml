@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Permission Deny" />
+      <item value="Normal" />
+      <item value="get Online User VM" />
       <item value="action Attach Local A Video" />
       <item value="is Class Started" />
       <item value="action Presenter In" />
@@ -25,7 +28,6 @@
       <item value="首次" />
       <item value="PERMISSION GRANTED" />
       <item value="CONTACTS" />
-      <item value="Permission Deny" />
       <item value="need Dim" />
       <item value="权限&#10;" />
       <item value="is Practice" />
@@ -54,8 +56,6 @@
       <item value="is Disposed" />
       <item value="throttle First" />
       <item value="show Force Speak" />
-      <item value="show Student Menu" />
-      <item value="has Read" />
     </histories>
     <option name="languageScores">
       <map>
