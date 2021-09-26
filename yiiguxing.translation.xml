@@ -6,8 +6,12 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
-      <item value="notify Local Playable Changed" />
       <item value="action Attach Local A Video" />
+      <item value="is Class Started" />
+      <item value="action Presenter In" />
+      <item value="show Presenter In" />
+      <item value="is Presenter" />
+      <item value="notify Local Playable Changed" />
       <item value="STUDENT SPEAK APPLY NONE" />
       <item value="attach Local A Video" />
       <item value="attach Local Video" />
@@ -52,10 +56,6 @@
       <item value="show Force Speak" />
       <item value="show Student Menu" />
       <item value="has Read" />
-      <item value="is Push Live" />
-      <item value="is Mock Live" />
-      <item value="enable Notice Btn" />
-      <item value="白" />
     </histories>
     <option name="languageScores">
       <map>
