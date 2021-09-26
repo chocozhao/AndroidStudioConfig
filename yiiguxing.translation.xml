@@ -2,10 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="755" />
+    <option name="newTranslationDialogWidth" value="751" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="方法" />
+      <item value="reflex" />
+      <item value="反射" />
+      <item value="g" />
       <item value="内容" />
       <item value="nei" />
       <item value="n" />
@@ -52,10 +56,6 @@
       <item value="Speak Queue VM" />
       <item value="On Speak Apply Count Down Listener" />
       <item value="STUDENT SPEAK APPLY NONE" />
-      <item value="show Speak Apply Count Down" />
-      <item value="show Speak Closed By Teacher" />
-      <item value="rl Speak Wrapper" />
-      <item value="Live Room Base Activity" />
     </histories>
     <option name="languageScores">
       <map>
