@@ -6,6 +6,15 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="notify Local Playable Changed" />
+      <item value="action Attach Local A Video" />
+      <item value="STUDENT SPEAK APPLY NONE" />
+      <item value="attach Local A Video" />
+      <item value="attach Local Video" />
+      <item value="attach Local Audio" />
+      <item value="detach Local A Video" />
+      <item value="enable Auto Speak" />
+      <item value="check Camera And Mic Permission" />
       <item value="grant Results" />
       <item value="first" />
       <item value="首次&#10;" />
@@ -47,15 +56,6 @@
       <item value="is Mock Live" />
       <item value="enable Notice Btn" />
       <item value="白" />
-      <item value="bai" />
-      <item value="handsup" />
-      <item value="show Forbidden Hand" />
-      <item value="Checked Text View" />
-      <item value="show Hand Up Forbid" />
-      <item value="show Hand Up Timeout" />
-      <item value="show Speak Apply Canceled" />
-      <item value="show Waiting Teacher Agree" />
-      <item value="int STUDENT_SPEAK_APPLY_NONE = 0;" />
     </histories>
     <option name="languageScores">
       <map>
