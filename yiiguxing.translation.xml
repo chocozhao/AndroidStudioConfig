@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Permission Deny" />
       <item value="need Dim" />
       <item value="权限&#10;" />
       <item value="is Practice" />
@@ -55,7 +56,6 @@
       <item value="counter" />
       <item value="speak Apply" />
       <item value="request Speak Apply" />
-      <item value="Speak Queue VM" />
     </histories>
     <option name="languageScores">
       <map>
