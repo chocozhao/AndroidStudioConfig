@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="745" />
+    <option name="newTranslationDialogWidth" value="743" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="举手" />
       <item value="detach Local Video" />
       <item value="attach Local Video" />
       <item value="Permission Deny" />
@@ -55,7 +56,6 @@
       <item value="is Waiting Record Open" />
       <item value="dispose Of Clickable" />
       <item value="is Disposed" />
-      <item value="throttle First" />
     </histories>
     <option name="languageScores">
       <map>
