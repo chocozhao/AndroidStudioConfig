@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="detach Local Video" />
+      <item value="attach Local Video" />
       <item value="Permission Deny" />
       <item value="Normal" />
       <item value="get Online User VM" />
@@ -17,7 +19,6 @@
       <item value="notify Local Playable Changed" />
       <item value="STUDENT SPEAK APPLY NONE" />
       <item value="attach Local A Video" />
-      <item value="attach Local Video" />
       <item value="attach Local Audio" />
       <item value="detach Local A Video" />
       <item value="enable Auto Speak" />
@@ -55,7 +56,6 @@
       <item value="dispose Of Clickable" />
       <item value="is Disposed" />
       <item value="throttle First" />
-      <item value="show Force Speak" />
     </histories>
     <option name="languageScores">
       <map>
