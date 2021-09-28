@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="on Task Post Execute" />
+      <item value="on Task Cancel" />
       <item value="on Task Pre Execute" />
       <item value="举手" />
       <item value="detach Local Video" />
@@ -54,8 +56,6 @@
       <item value="window Duration" />
       <item value="Composite Disposable" />
       <item value="disposables" />
-      <item value="is Waiting Record Open" />
-      <item value="dispose Of Clickable" />
     </histories>
     <option name="languageScores">
       <map>
