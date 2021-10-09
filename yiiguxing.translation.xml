@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="get Video Marquee Duration" />
+      <item value="get Video Marquee Interval" />
+      <item value="is Disable Marquee" />
+      <item value="is Enable Prevent Screen Capture" />
       <item value="show Announcement Fragment" />
       <item value="CHANGELOG" />
       <item value="Rate Adapter" />
@@ -52,10 +56,6 @@
       <item value="reflex" />
       <item value="反射" />
       <item value="g" />
-      <item value="内容" />
-      <item value="nei" />
-      <item value="n" />
-      <item value="熊" />
     </histories>
     <option name="languageScores">
       <map>
