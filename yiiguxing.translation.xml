@@ -6,8 +6,11 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
-      <item value="set Play Rate" />
+      <item value="show Announcement Fragment" />
+      <item value="CHANGELOG" />
       <item value="Rate Adapter" />
+      <item value="Bundle Pool" />
+      <item value="set Play Rate" />
       <item value="Definition Adapter" />
       <item value="CUSTOM CODE MENU OPEN RATE" />
       <item value="CUSTOM CODE MENU OPEN DEFINITION" />
@@ -53,9 +56,6 @@
       <item value="nei" />
       <item value="n" />
       <item value="熊" />
-      <item value="wrap In Scroll View" />
-      <item value="Theme Material Dialog Builder" />
-      <item value="stacking Behavior" />
     </histories>
     <option name="languageScores">
       <map>
