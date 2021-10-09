@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="set Video Url" />
       <item value="get Video Marquee Duration" />
       <item value="get Video Marquee Interval" />
       <item value="is Disable Marquee" />
@@ -55,7 +56,6 @@
       <item value="方法" />
       <item value="reflex" />
       <item value="反射" />
-      <item value="g" />
     </histories>
     <option name="languageScores">
       <map>
