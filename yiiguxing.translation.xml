@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Presenter" />
       <item value="is Live Room Initialized" />
       <item value="customer Support Default Exception Message" />
       <item value="LP Partner Config" />
@@ -55,7 +56,6 @@
       <item value="enable Auto Speak" />
       <item value="check Camera And Mic Permission" />
       <item value="grant Results" />
-      <item value="first" />
     </histories>
     <option name="languageScores">
       <map>
