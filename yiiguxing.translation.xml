@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="ERROR HANDLE CONFILICT" />
       <item value="FORCE" />
       <item value="Web Resource Response" />
       <item value="Web View Cache Interceptor" />
@@ -55,7 +56,6 @@
       <item value="CONTACTS" />
       <item value="need Dim" />
       <item value="权限&#10;" />
-      <item value="is Practice" />
     </histories>
     <option name="languageScores">
       <map>
