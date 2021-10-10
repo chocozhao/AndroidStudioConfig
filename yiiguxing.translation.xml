@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="layer Type" />
+      <item value="android:layer Type=&quot;software&quot;" />
       <item value="set Draw During Windows Animating" />
       <item value="Presenter" />
       <item value="is Live Room Initialized" />
@@ -54,8 +56,6 @@
       <item value="attach Local A Video" />
       <item value="attach Local Audio" />
       <item value="detach Local A Video" />
-      <item value="enable Auto Speak" />
-      <item value="check Camera And Mic Permission" />
     </histories>
     <option name="languageScores">
       <map>
