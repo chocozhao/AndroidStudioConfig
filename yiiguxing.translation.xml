@@ -6,6 +6,11 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="is Live Room Initialized" />
+      <item value="customer Support Default Exception Message" />
+      <item value="LP Partner Config" />
+      <item value="get Customer Support Default Exception Message" />
+      <item value="should Show Tech Contact" />
       <item value="live base dialog tech" />
       <item value="ERROR HANDLE CONFILICT" />
       <item value="FORCE" />
@@ -51,11 +56,6 @@
       <item value="check Camera And Mic Permission" />
       <item value="grant Results" />
       <item value="first" />
-      <item value="首次&#10;" />
-      <item value="首次" />
-      <item value="PERMISSION GRANTED" />
-      <item value="CONTACTS" />
-      <item value="need Dim" />
     </histories>
     <option name="languageScores">
       <map>
