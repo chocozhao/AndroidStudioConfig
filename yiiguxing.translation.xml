@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="live base dialog tech" />
       <item value="ERROR HANDLE CONFILICT" />
       <item value="FORCE" />
       <item value="Web Resource Response" />
@@ -55,7 +56,6 @@
       <item value="PERMISSION GRANTED" />
       <item value="CONTACTS" />
       <item value="need Dim" />
-      <item value="权限&#10;" />
     </histories>
     <option name="languageScores">
       <map>
