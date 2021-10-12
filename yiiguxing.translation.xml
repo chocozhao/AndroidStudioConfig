@@ -6,6 +6,12 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="reference topic" />
+      <item value="reference topics" />
+      <item value="reference to'p" />
+      <item value="reference t" />
+      <item value="reference " />
+      <item value="re" />
       <item value="Error: Found item Stringsetting_clear_cache more than one time" />
       <item value="清理缓存" />
       <item value="清理&#10;缓存" />
@@ -50,12 +56,6 @@
       <item value="attach Local Video" />
       <item value="Permission Deny" />
       <item value="Normal" />
-      <item value="get Online User VM" />
-      <item value="action Attach Local A Video" />
-      <item value="is Class Started" />
-      <item value="action Presenter In" />
-      <item value="show Presenter In" />
-      <item value="is Presenter" />
     </histories>
     <option name="languageScores">
       <map>
