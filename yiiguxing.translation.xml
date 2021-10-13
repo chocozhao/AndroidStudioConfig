@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="renderscript Support Mode Enabled" />
       <item value="properties" />
       <item value="proper" />
       <item value="pro" />
@@ -55,7 +56,6 @@
       <item value="on Task Cancel" />
       <item value="on Task Pre Execute" />
       <item value="举手" />
-      <item value="detach Local Video" />
     </histories>
     <option name="languageScores">
       <map>
