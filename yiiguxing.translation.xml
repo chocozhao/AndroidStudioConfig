@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Expression Reporting Avtivity" />
+      <item value="aka" />
+      <item value="AAPT: error: resource colorbase_divider_line (aka com.youthmba.ymbaandroid:colorbase_divider_line) not found." />
       <item value="Interactive Class UI" />
       <item value="renderscript Support Mode Enabled" />
       <item value="properties" />
@@ -53,9 +56,6 @@
       <item value="CUSTOM CODE MENU CLOSE ALL" />
       <item value="Component" />
       <item value="set Subtitle Select View State" />
-      <item value="on Task Post Execute" />
-      <item value="on Task Cancel" />
-      <item value="on Task Pre Execute" />
     </histories>
     <option name="languageScores">
       <map>
