@@ -2,10 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="731" />
+    <option name="newTranslationDialogWidth" value="727" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="推荐" />
+      <item value="须知" />
+      <item value="xu" />
+      <item value="评论" />
       <item value="享" />
       <item value="享受" />
       <item value="xu'a" />
@@ -18,7 +22,6 @@
       <item value="ProviderMultiAdapter " />
       <item value="class Type Str" />
       <item value="Introduction Fragment" />
-      <item value="评论" />
       <item value="免费" />
       <item value="免费&#10;" />
       <item value="the child view to add" />
@@ -53,9 +56,6 @@
       <item value="get Customer Support Default Exception Message" />
       <item value="should Show Tech Contact" />
       <item value="live base dialog tech" />
-      <item value="ERROR HANDLE CONFILICT" />
-      <item value="FORCE" />
-      <item value="Web Resource Response" />
     </histories>
     <option name="languageScores">
       <map>
