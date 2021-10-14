@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="class Type Str" />
+      <item value="Introduction Fragment" />
       <item value="on Create Context Menu" />
       <item value="评论" />
       <item value="免费" />
@@ -54,8 +56,6 @@
       <item value="is Enable Prevent Screen Capture" />
       <item value="show Announcement Fragment" />
       <item value="CHANGELOG" />
-      <item value="Rate Adapter" />
-      <item value="Bundle Pool" />
     </histories>
     <option name="languageScores">
       <map>
