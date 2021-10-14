@@ -2,10 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="739" />
+    <option name="newTranslationDialogWidth" value="735" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="on Create Context Menu" />
+      <item value="评论" />
+      <item value="免费" />
+      <item value="免费&#10;" />
       <item value="the child view to add" />
       <item value="简介" />
       <item value="jian'jie" />
@@ -52,10 +56,6 @@
       <item value="CHANGELOG" />
       <item value="Rate Adapter" />
       <item value="Bundle Pool" />
-      <item value="set Play Rate" />
-      <item value="Definition Adapter" />
-      <item value="CUSTOM CODE MENU OPEN RATE" />
-      <item value="CUSTOM CODE MENU OPEN DEFINITION" />
     </histories>
     <option name="languageScores">
       <map>
