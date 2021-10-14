@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="1 no such provider found，please use addItemProvider() first!" />
       <item value="推荐" />
       <item value="须知" />
       <item value="xu" />
@@ -55,7 +56,6 @@
       <item value="LP Partner Config" />
       <item value="get Customer Support Default Exception Message" />
       <item value="should Show Tech Contact" />
-      <item value="live base dialog tech" />
     </histories>
     <option name="languageScores">
       <map>
