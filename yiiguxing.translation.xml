@@ -2,10 +2,17 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="735" />
+    <option name="newTranslationDialogWidth" value="731" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="享" />
+      <item value="享受" />
+      <item value="xu'a" />
+      <item value="xua'b'n" />
+      <item value="购买" />
+      <item value="购买免费" />
+      <item value="购买f" />
       <item value="on Create Context Menu" />
       <item value="内容&#10;" />
       <item value="ProviderMultiAdapter " />
@@ -49,13 +56,6 @@
       <item value="ERROR HANDLE CONFILICT" />
       <item value="FORCE" />
       <item value="Web Resource Response" />
-      <item value="Web View Cache Interceptor" />
-      <item value="cache Response" />
-      <item value="set Video Url" />
-      <item value="get Video Marquee Duration" />
-      <item value="get Video Marquee Interval" />
-      <item value="is Disable Marquee" />
-      <item value="is Enable Prevent Screen Capture" />
     </histories>
     <option name="languageScores">
       <map>
