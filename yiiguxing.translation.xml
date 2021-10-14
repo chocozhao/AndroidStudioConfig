@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="741" />
+    <option name="newTranslationDialogWidth" value="739" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="简介" />
+      <item value="jian'jie" />
       <item value="Expression Reporting Avtivity" />
       <item value="aka" />
       <item value="AAPT: error: resource colorbase_divider_line (aka com.youthmba.ymbaandroid:colorbase_divider_line) not found." />
@@ -54,8 +56,6 @@
       <item value="CUSTOM CODE MENU OPEN RATE" />
       <item value="CUSTOM CODE MENU OPEN DEFINITION" />
       <item value="CUSTOM CODE MENU CLOSE ALL" />
-      <item value="Component" />
-      <item value="set Subtitle Select View State" />
     </histories>
     <option name="languageScores">
       <map>
@@ -94,7 +94,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633742060182" />
+    <option name="lastTrimTime" value="1634178252763" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
