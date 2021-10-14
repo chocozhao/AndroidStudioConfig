@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="the child view to add" />
       <item value="简介" />
       <item value="jian'jie" />
       <item value="Expression Reporting Avtivity" />
@@ -55,7 +56,6 @@
       <item value="Definition Adapter" />
       <item value="CUSTOM CODE MENU OPEN RATE" />
       <item value="CUSTOM CODE MENU OPEN DEFINITION" />
-      <item value="CUSTOM CODE MENU CLOSE ALL" />
     </histories>
     <option name="languageScores">
       <map>
