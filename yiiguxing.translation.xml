@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="fill Viewport" />
+      <item value="scrollbars" />
+      <item value="hit Test Result" />
       <item value="1 no such provider found，please use addItemProvider() first!" />
       <item value="推荐" />
       <item value="须知" />
@@ -53,9 +56,6 @@
       <item value="Presenter" />
       <item value="is Live Room Initialized" />
       <item value="customer Support Default Exception Message" />
-      <item value="LP Partner Config" />
-      <item value="get Customer Support Default Exception Message" />
-      <item value="should Show Tech Contact" />
     </histories>
     <option name="languageScores">
       <map>
