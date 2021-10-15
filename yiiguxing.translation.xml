@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="723" />
+    <option name="newTranslationDialogWidth" value="719" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="试" />
+      <item value="shi" />
+      <item value="试听" />
       <item value="挑战&#10;" />
       <item value="大纲" />
       <item value="推送" />
@@ -53,9 +56,6 @@
       <item value="on Create Context Menu" />
       <item value="内容&#10;" />
       <item value="ProviderMultiAdapter " />
-      <item value="class Type Str" />
-      <item value="Introduction Fragment" />
-      <item value="免费" />
     </histories>
     <option name="languageScores">
       <map>
