@@ -2,10 +2,17 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="719" />
+    <option name="newTranslationDialogWidth" value="715" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="须知" />
+      <item value="赞" />
+      <item value="知识星球" />
+      <item value="sho" />
+      <item value="球" />
+      <item value="知识" />
+      <item value="精选" />
       <item value="试" />
       <item value="shi" />
       <item value="试听" />
@@ -43,19 +50,12 @@
       <item value="scrollbars" />
       <item value="hit Test Result" />
       <item value="1 no such provider found，please use addItemProvider() first!" />
-      <item value="须知" />
       <item value="xu" />
       <item value="评论" />
       <item value="享" />
       <item value="享受" />
       <item value="xu'a" />
       <item value="xua'b'n" />
-      <item value="购买" />
-      <item value="购买免费" />
-      <item value="购买f" />
-      <item value="on Create Context Menu" />
-      <item value="内容&#10;" />
-      <item value="ProviderMultiAdapter " />
     </histories>
     <option name="languageScores">
       <map>
