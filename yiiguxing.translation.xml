@@ -6,9 +6,15 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="省" />
+      <item value="sheng" />
+      <item value="you" />
+      <item value="健身" />
+      <item value="jian's" />
+      <item value="会员备注" />
+      <item value="会员" />
       <item value="优惠" />
       <item value="优惠价" />
-      <item value="you" />
       <item value="原价" />
       <item value="yuan'jai" />
       <item value="benefit" />
@@ -50,12 +56,6 @@
       <item value="pro" />
       <item value="reference topic" />
       <item value="reference topics" />
-      <item value="reference to'p" />
-      <item value="reference t" />
-      <item value="reference " />
-      <item value="re" />
-      <item value="Error: Found item Stringsetting_clear_cache more than one time" />
-      <item value="清理缓存" />
     </histories>
     <option name="languageScores">
       <map>
