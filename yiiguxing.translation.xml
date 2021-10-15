@@ -2,10 +2,19 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="727" />
+    <option name="newTranslationDialogWidth" value="725" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="优惠" />
+      <item value="优惠价" />
+      <item value="you" />
+      <item value="原价" />
+      <item value="yuan'jai" />
+      <item value="benefit" />
+      <item value="current" />
+      <item value="origin" />
+      <item value="primary Price" />
       <item value="推荐" />
       <item value="fill Viewport" />
       <item value="scrollbars" />
@@ -47,15 +56,6 @@
       <item value="re" />
       <item value="Error: Found item Stringsetting_clear_cache more than one time" />
       <item value="清理缓存" />
-      <item value="清理&#10;缓存" />
-      <item value="qing'li缓存" />
-      <item value="缓存" />
-      <item value="layer Type" />
-      <item value="android:layer Type=&quot;software&quot;" />
-      <item value="set Draw During Windows Animating" />
-      <item value="Presenter" />
-      <item value="is Live Room Initialized" />
-      <item value="customer Support Default Exception Message" />
     </histories>
     <option name="languageScores">
       <map>
