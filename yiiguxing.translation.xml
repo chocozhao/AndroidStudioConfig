@@ -2,10 +2,22 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="715" />
+    <option name="newTranslationDialogWidth" value="709" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="购买" />
+      <item value="will Be Live" />
+      <item value="status" />
+      <item value="状态&#10;" />
+      <item value="装填" />
+      <item value="开始" />
+      <item value="直播课程" />
+      <item value="直播" />
+      <item value="时间" />
+      <item value="试听" />
+      <item value="关于" />
+      <item value="光宇" />
       <item value="须知" />
       <item value="赞" />
       <item value="知识星球" />
@@ -15,7 +27,6 @@
       <item value="精选" />
       <item value="试" />
       <item value="shi" />
-      <item value="试听" />
       <item value="挑战&#10;" />
       <item value="大纲" />
       <item value="推送" />
@@ -45,17 +56,6 @@
       <item value="current" />
       <item value="origin" />
       <item value="primary Price" />
-      <item value="推荐" />
-      <item value="fill Viewport" />
-      <item value="scrollbars" />
-      <item value="hit Test Result" />
-      <item value="1 no such provider found，please use addItemProvider() first!" />
-      <item value="xu" />
-      <item value="评论" />
-      <item value="享" />
-      <item value="享受" />
-      <item value="xu'a" />
-      <item value="xua'b'n" />
     </histories>
     <option name="languageScores">
       <map>
