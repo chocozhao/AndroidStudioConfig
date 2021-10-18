@@ -2,10 +2,15 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="709" />
+    <option name="newTranslationDialogWidth" value="707" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="课后小结" />
+      <item value="题数" />
+      <item value="题shu" />
+      <item value="题" />
+      <item value="ti'shu" />
       <item value="购买" />
       <item value="will Be Live" />
       <item value="status" />
@@ -51,11 +56,6 @@
       <item value="优惠" />
       <item value="优惠价" />
       <item value="原价" />
-      <item value="yuan'jai" />
-      <item value="benefit" />
-      <item value="current" />
-      <item value="origin" />
-      <item value="primary Price" />
     </histories>
     <option name="languageScores">
       <map>
