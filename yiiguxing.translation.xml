@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="cparagraph" />
+      <item value="attachments" />
       <item value="sort" />
       <item value="Home Purchased Sift Popup Window" />
       <item value="recent Buy" />
@@ -54,8 +56,6 @@
       <item value="notic" />
       <item value="notice" />
       <item value="通知" />
-      <item value="群" />
-      <item value="qun" />
     </histories>
     <option name="languageScores">
       <map>
