@@ -2,10 +2,16 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="707" />
+    <option name="newTranslationDialogWidth" value="705" />
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="试听" />
+      <item value="尝试" />
+      <item value="c" />
+      <item value="auditio" />
+      <item value="audition" />
+      <item value="详情" />
       <item value="课后小结" />
       <item value="题数" />
       <item value="题shu" />
@@ -20,7 +26,6 @@
       <item value="直播课程" />
       <item value="直播" />
       <item value="时间" />
-      <item value="试听" />
       <item value="关于" />
       <item value="光宇" />
       <item value="须知" />
@@ -51,11 +56,6 @@
       <item value="sheng" />
       <item value="you" />
       <item value="健身" />
-      <item value="jian's" />
-      <item value="会员备注" />
-      <item value="优惠" />
-      <item value="优惠价" />
-      <item value="原价" />
     </histories>
     <option name="languageScores">
       <map>
