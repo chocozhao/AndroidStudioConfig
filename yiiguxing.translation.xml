@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="liveDate" />
       <item value="cparagraph" />
       <item value="attachments" />
       <item value="sort" />
@@ -55,7 +56,6 @@
       <item value="星球" />
       <item value="notic" />
       <item value="notice" />
-      <item value="通知" />
     </histories>
     <option name="languageScores">
       <map>
@@ -94,7 +94,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634178252763" />
+    <option name="lastTrimTime" value="1634625626542" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
