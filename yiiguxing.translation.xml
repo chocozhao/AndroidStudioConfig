@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="lesson" />
+      <item value="lessonId" />
       <item value="liveDate" />
       <item value="cparagraph" />
       <item value="attachments" />
@@ -54,8 +56,6 @@
       <item value="简介" />
       <item value="show Share Point" />
       <item value="星球" />
-      <item value="notic" />
-      <item value="notice" />
     </histories>
     <option name="languageScores">
       <map>
