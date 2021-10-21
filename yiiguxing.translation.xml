@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="703" />
-    <option name="newTranslationDialogX" value="272" />
+    <option name="newTranslationDialogWidth" value="701" />
+    <option name="newTranslationDialogX" value="62" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="详情" />
       <item value="SUMMARY LEVEL 1" />
       <item value="scrollbars" />
       <item value="none" />
@@ -26,7 +27,6 @@
       <item value="c" />
       <item value="auditio" />
       <item value="audition" />
-      <item value="详情" />
       <item value="课后小结" />
       <item value="题数" />
       <item value="题shu" />
