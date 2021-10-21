@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="scrollbars" />
+      <item value="none" />
+      <item value="Header Scroll Helper" />
       <item value="gold" />
       <item value="lesson" />
       <item value="lessonId" />
@@ -53,9 +56,6 @@
       <item value="推送" />
       <item value="推送&#10;" />
       <item value="a'tong" />
-      <item value="会员" />
-      <item value="简介" />
-      <item value="show Share Point" />
     </histories>
     <option name="languageScores">
       <map>
