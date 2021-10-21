@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="272" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="SUMMARY LEVEL 1" />
       <item value="scrollbars" />
       <item value="none" />
       <item value="Header Scroll Helper" />
@@ -55,7 +56,6 @@
       <item value="大纲" />
       <item value="推送" />
       <item value="推送&#10;" />
-      <item value="a'tong" />
     </histories>
     <option name="languageScores">
       <map>
