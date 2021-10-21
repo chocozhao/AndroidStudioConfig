@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="701" />
+    <option name="newTranslationDialogWidth" value="699" />
     <option name="newTranslationDialogX" value="62" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="留言" />
       <item value="lateinit property context has not been initialized" />
       <item value="详情" />
       <item value="SUMMARY LEVEL 1" />
@@ -55,7 +56,6 @@
       <item value="shi" />
       <item value="挑战&#10;" />
       <item value="大纲" />
-      <item value="推送" />
     </histories>
     <option name="languageScores">
       <map>
