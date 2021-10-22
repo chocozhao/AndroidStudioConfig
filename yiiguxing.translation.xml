@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="62" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Parameter specified as non-null is null: method kotlin.jvm.internal.Intrinsics.checkNotNullParameter, parameter content" />
       <item value="垂直" />
       <item value="写&#10;" />
       <item value="留言" />
@@ -55,7 +56,6 @@
       <item value="知识" />
       <item value="精选" />
       <item value="试" />
-      <item value="shi" />
     </histories>
     <option name="languageScores">
       <map>
