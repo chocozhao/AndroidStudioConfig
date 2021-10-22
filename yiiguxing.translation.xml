@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="62" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="REVIEW" />
       <item value="Common Live And Project Comment Fragment" />
       <item value="Please first implements LoadMoreModule" />
       <item value="Parameter specified as non-null is null: method kotlin.jvm.internal.Intrinsics.checkNotNullParameter, parameter content" />
@@ -55,7 +56,6 @@
       <item value="知识星球" />
       <item value="sho" />
       <item value="球" />
-      <item value="知识" />
     </histories>
     <option name="languageScores">
       <map>
