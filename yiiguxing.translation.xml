@@ -6,6 +6,11 @@
     <option name="newTranslationDialogX" value="62" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="get Speak Queue VM" />
+      <item value="start Expand Anim" />
+      <item value="set Circle Background By User Number" />
+      <item value="activity live room pad room full screen container" />
+      <item value="Award View" />
       <item value="Before update your uncommitted changes were saved to shelf. Update is not complete, you have unresolved merges in your working tree Resolve conflicts, complete update and restore changes manually." />
       <item value="Move or commit them before merge" />
       <item value="unable to unlink old 'liveplayer-sdk-ui/gradle.properties': Invalid argument" />
@@ -51,11 +56,6 @@
       <item value="课后小结" />
       <item value="题数" />
       <item value="题shu" />
-      <item value="题" />
-      <item value="ti'shu" />
-      <item value="购买" />
-      <item value="will Be Live" />
-      <item value="status" />
     </histories>
     <option name="languageScores">
       <map>
