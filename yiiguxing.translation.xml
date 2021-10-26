@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="62" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Before update your uncommitted changes were saved to shelf. Update is not complete, you have unresolved merges in your working tree Resolve conflicts, complete update and restore changes manually." />
+      <item value="Move or commit them before merge" />
+      <item value="unable to unlink old 'liveplayer-sdk-ui/gradle.properties': Invalid argument" />
       <item value="Sparse Array" />
       <item value="is Fixed View Type" />
       <item value="add Item Provider" />
@@ -53,9 +56,6 @@
       <item value="购买" />
       <item value="will Be Live" />
       <item value="status" />
-      <item value="状态&#10;" />
-      <item value="装填" />
-      <item value="开始" />
     </histories>
     <option name="languageScores">
       <map>
