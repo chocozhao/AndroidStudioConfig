@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="62" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="attribute" />
       <item value="on Responder Click" />
       <item value="show Drawing Status" />
       <item value="bonus points iv" />
@@ -55,7 +56,6 @@
       <item value="买" />
       <item value="试听" />
       <item value="尝试" />
-      <item value="c" />
     </histories>
     <option name="languageScores">
       <map>
