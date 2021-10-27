@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="62" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="set Recall Status" />
       <item value="cloud Record Status 2" />
       <item value="warn" />
       <item value="attribute" />
@@ -55,7 +56,6 @@
       <item value="Home Purchased Sift Popup Window" />
       <item value="recent Buy" />
       <item value="总数&#10;" />
-      <item value="买" />
     </histories>
     <option name="languageScores">
       <map>
