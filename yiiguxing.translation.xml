@@ -6,10 +6,11 @@
     <option name="newTranslationDialogX" value="62" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
-      <item value="request User Update" />
+      <item value="on Responder Click" />
       <item value="show Drawing Status" />
-      <item value="init ZXYBSDK" />
       <item value="bonus points iv" />
+      <item value="request User Update" />
+      <item value="init ZXYBSDK" />
       <item value="get Speak Queue VM" />
       <item value="start Expand Anim" />
       <item value="set Circle Background By User Number" />
@@ -55,7 +56,6 @@
       <item value="试听" />
       <item value="尝试" />
       <item value="c" />
-      <item value="auditio" />
     </histories>
     <option name="languageScores">
       <map>
