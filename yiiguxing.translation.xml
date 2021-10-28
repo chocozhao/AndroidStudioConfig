@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="62" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="writingboard ble container" />
       <item value="action Show Ble Dialog" />
       <item value="show Force Speak Deny By Server" />
       <item value="disposable Of Bonus Points Timer" />
@@ -55,7 +56,6 @@
       <item value="Header Scroll Helper" />
       <item value="gold" />
       <item value="lesson" />
-      <item value="lessonId" />
     </histories>
     <option name="languageScores">
       <map>
