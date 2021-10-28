@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="62" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="show Drawing Status" />
       <item value="action Show PPT Manager" />
       <item value="support Action Bar" />
       <item value="Wrapper" />
@@ -22,7 +23,6 @@
       <item value="cloud Record Status 2" />
       <item value="warn" />
       <item value="attribute" />
-      <item value="show Drawing Status" />
       <item value="bonus points iv" />
       <item value="request User Update" />
       <item value="init ZXYBSDK" />
