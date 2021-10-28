@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="62" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="show Speak Apply Agreed" />
+      <item value="show Speak Apply Count Down" />
+      <item value="show Waiting Teacher Agree" />
       <item value="show Auto Speak" />
       <item value="motion Event" />
       <item value="activity live room pad room full screen container" />
@@ -53,9 +56,6 @@
       <item value="no" />
       <item value="get Def Item View Type" />
       <item value="protected" />
-      <item value="REVIEW" />
-      <item value="Common Live And Project Comment Fragment" />
-      <item value="Please first implements LoadMoreModule" />
     </histories>
     <option name="languageScores">
       <map>
