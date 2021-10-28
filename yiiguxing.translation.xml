@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="62" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Wrapper" />
+      <item value="rl Speak Wrapper" />
       <item value="on Responder Click" />
       <item value="message Container" />
       <item value="tv Reference" />
@@ -54,8 +56,6 @@
       <item value="liveDate" />
       <item value="cparagraph" />
       <item value="attachments" />
-      <item value="sort" />
-      <item value="Home Purchased Sift Popup Window" />
     </histories>
     <option name="languageScores">
       <map>
