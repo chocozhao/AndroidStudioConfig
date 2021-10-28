@@ -6,6 +6,11 @@
     <option name="newTranslationDialogX" value="62" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="activity live room pad room full screen container" />
+      <item value="show Not Forbidden Hand" />
+      <item value="show Forbidden Hand" />
+      <item value="enable All Toolbar Item" />
+      <item value="show Speak Apply Disagreed" />
       <item value="show Dialog Fragment" />
       <item value="handsup List" />
       <item value="tv Count Down" />
@@ -32,7 +37,6 @@
       <item value="get Speak Queue VM" />
       <item value="start Expand Anim" />
       <item value="set Circle Background By User Number" />
-      <item value="activity live room pad room full screen container" />
       <item value="Award View" />
       <item value="Before update your uncommitted changes were saved to shelf. Update is not complete, you have unresolved merges in your working tree Resolve conflicts, complete update and restore changes manually." />
       <item value="Move or commit them before merge" />
@@ -52,10 +56,6 @@
       <item value="Please first implements LoadMoreModule" />
       <item value="Parameter specified as non-null is null: method kotlin.jvm.internal.Intrinsics.checkNotNullParameter, parameter content" />
       <item value="垂直" />
-      <item value="写&#10;" />
-      <item value="留言" />
-      <item value="lateinit property context has not been initialized" />
-      <item value="详情" />
     </histories>
     <option name="languageScores">
       <map>
