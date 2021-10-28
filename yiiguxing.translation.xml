@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="62" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="action Show PPT Manager" />
+      <item value="support Action Bar" />
       <item value="Wrapper" />
       <item value="rl Speak Wrapper" />
       <item value="Progress Circle View" />
@@ -54,8 +56,6 @@
       <item value="SUMMARY LEVEL 1" />
       <item value="scrollbars" />
       <item value="none" />
-      <item value="Header Scroll Helper" />
-      <item value="gold" />
     </histories>
     <option name="languageScores">
       <map>
