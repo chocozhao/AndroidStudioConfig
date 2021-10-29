@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="62" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="update Media State" />
+      <item value="Permission Deny" />
       <item value="show Speak Apply Agreed" />
       <item value="show Speak Apply Count Down" />
       <item value="show Waiting Teacher Agree" />
@@ -54,8 +56,6 @@
       <item value="notic" />
       <item value="notice" />
       <item value="no" />
-      <item value="get Def Item View Type" />
-      <item value="protected" />
     </histories>
     <option name="languageScores">
       <map>
