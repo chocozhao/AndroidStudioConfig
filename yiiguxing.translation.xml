@@ -6,6 +6,13 @@
     <option name="newTranslationDialogX" value="62" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="disabled" />
+      <item value="single Line" />
+      <item value="square" />
+      <item value="gold" />
+      <item value="gradientblack" />
+      <item value="transparent" />
+      <item value="redirect" />
       <item value="例子&#10;" />
       <item value="isolate" />
       <item value="For control over item selection of both touch and mouse driven selection" />
@@ -49,13 +56,6 @@
       <item value="set Circle Background By User Number" />
       <item value="Award View" />
       <item value="Before update your uncommitted changes were saved to shelf. Update is not complete, you have unresolved merges in your working tree Resolve conflicts, complete update and restore changes manually." />
-      <item value="Move or commit them before merge" />
-      <item value="unable to unlink old 'liveplayer-sdk-ui/gradle.properties': Invalid argument" />
-      <item value="Sparse Array" />
-      <item value="is Fixed View Type" />
-      <item value="add Item Provider" />
-      <item value="add Footer Node Provider" />
-      <item value="add Node Provider" />
     </histories>
     <option name="languageScores">
       <map>
