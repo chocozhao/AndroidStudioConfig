@@ -4,8 +4,11 @@
     <option name="newTranslationDialogHeight" value="463" />
     <option name="newTranslationDialogWidth" value="691" />
     <option name="newTranslationDialogX" value="322" />
-    <option name="newTranslationDialogY" value="633" />
+    <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="clear Last Check Draw Item" />
+      <item value="switch 2 Full Screen Observer" />
+      <item value="enable Video Menu Btn" />
       <item value="trust" />
       <item value="trust&#10;" />
       <item value="tr" />
@@ -53,9 +56,6 @@
       <item value="Wrapper" />
       <item value="rl Speak Wrapper" />
       <item value="Progress Circle View" />
-      <item value="writingboard ble container" />
-      <item value="action Show Ble Dialog" />
-      <item value="show Force Speak Deny By Server" />
     </histories>
     <option name="languageScores">
       <map>
