@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="62" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Process terminated" />
       <item value="get Item View Type" />
       <item value="continue Upload Queue" />
       <item value="send Image Message" />
@@ -55,7 +56,6 @@
       <item value="disposable Of Bonus Points Timer" />
       <item value="on Responder Click" />
       <item value="tv Reference" />
-      <item value="set Recall Status" />
     </histories>
     <option name="languageScores">
       <map>
