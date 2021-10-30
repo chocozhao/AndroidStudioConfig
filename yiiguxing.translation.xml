@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="693" />
-    <option name="newTranslationDialogX" value="62" />
-    <option name="newTranslationDialogY" value="317" />
+    <option name="newTranslationDialogWidth" value="691" />
+    <option name="newTranslationDialogX" value="322" />
+    <option name="newTranslationDialogY" value="633" />
     <histories>
+      <item value="trust" />
+      <item value="trust&#10;" />
+      <item value="tr" />
       <item value="Process terminated" />
       <item value="get Item View Type" />
       <item value="continue Upload Queue" />
@@ -53,9 +56,6 @@
       <item value="writingboard ble container" />
       <item value="action Show Ble Dialog" />
       <item value="show Force Speak Deny By Server" />
-      <item value="disposable Of Bonus Points Timer" />
-      <item value="on Responder Click" />
-      <item value="tv Reference" />
     </histories>
     <option name="languageScores">
       <map>
