@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="322" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="starts With" />
       <item value="clear Last Check Draw Item" />
       <item value="switch 2 Full Screen Observer" />
       <item value="enable Video Menu Btn" />
@@ -55,7 +56,6 @@
       <item value="support Action Bar" />
       <item value="Wrapper" />
       <item value="rl Speak Wrapper" />
-      <item value="Progress Circle View" />
     </histories>
     <option name="languageScores">
       <map>
@@ -94,7 +94,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635149572289" />
+    <option name="lastTrimTime" value="1635925124570" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
