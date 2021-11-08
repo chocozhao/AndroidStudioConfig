@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="322" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="ExoPlayer error Unable to connect to" />
+      <item value="State indicating this item is currently in an error state. The error code should also be set when entering this state." />
+      <item value="STATE ERROR" />
       <item value="starts With" />
       <item value="clear Last Check Draw Item" />
       <item value="switch 2 Full Screen Observer" />
@@ -53,9 +56,6 @@
       <item value="tv Count Down" />
       <item value="show Drawing Status" />
       <item value="action Show PPT Manager" />
-      <item value="support Action Bar" />
-      <item value="Wrapper" />
-      <item value="rl Speak Wrapper" />
     </histories>
     <option name="languageScores">
       <map>
@@ -94,7 +94,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635925124570" />
+    <option name="lastTrimTime" value="1636357157167" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
