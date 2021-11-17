@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="322" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="set No More Data" />
       <item value="finish Load More" />
       <item value="LESSON" />
       <item value="ExoPlayer error Unable to connect to" />
@@ -55,7 +56,6 @@
       <item value="show Speak Apply Disagreed" />
       <item value="show Dialog Fragment" />
       <item value="handsup List" />
-      <item value="tv Count Down" />
     </histories>
     <option name="languageScores">
       <map>
