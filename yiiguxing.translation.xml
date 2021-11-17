@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="322" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Deprecated" />
       <item value="知识" />
       <item value="set No More Data" />
       <item value="finish Load More" />
@@ -55,7 +56,6 @@
       <item value="show Forbidden Hand" />
       <item value="enable All Toolbar Item" />
       <item value="show Speak Apply Disagreed" />
-      <item value="show Dialog Fragment" />
     </histories>
     <option name="languageScores">
       <map>
