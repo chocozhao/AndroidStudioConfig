@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="322" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="finish Load More" />
       <item value="LESSON" />
       <item value="ExoPlayer error Unable to connect to" />
       <item value="State indicating this item is currently in an error state. The error code should also be set when entering this state." />
@@ -55,7 +56,6 @@
       <item value="show Dialog Fragment" />
       <item value="handsup List" />
       <item value="tv Count Down" />
-      <item value="show Drawing Status" />
     </histories>
     <option name="languageScores">
       <map>
@@ -94,7 +94,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636357157167" />
+    <option name="lastTrimTime" value="1637114032028" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
