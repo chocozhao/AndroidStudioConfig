@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="322" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="小结" />
       <item value="BEGIN" />
       <item value="ARRAY" />
       <item value="java.lang.IllegalStateException: Expected BEGIN_OBJECT but was BEGIN_ARRAY at line 1 column 21 path .data" />
@@ -55,7 +56,6 @@
       <item value="For control over item selection of both touch and mouse driven selection" />
       <item value="update Media State" />
       <item value="Permission Deny" />
-      <item value="show Speak Apply Agreed" />
     </histories>
     <option name="languageScores">
       <map>
