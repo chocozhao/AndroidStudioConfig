@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="322" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="item Decoration Count" />
       <item value="小结" />
       <item value="BEGIN" />
       <item value="ARRAY" />
@@ -55,7 +56,6 @@
       <item value="isolate" />
       <item value="For control over item selection of both touch and mouse driven selection" />
       <item value="update Media State" />
-      <item value="Permission Deny" />
     </histories>
     <option name="languageScores">
       <map>
