@@ -6,13 +6,13 @@
     <option name="newTranslationDialogX" value="322" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="show Choice" />
       <item value="content Equals" />
       <item value="item Decoration Count" />
       <item value="小结" />
       <item value="BEGIN" />
       <item value="ARRAY" />
       <item value="java.lang.IllegalStateException: Expected BEGIN_OBJECT but was BEGIN_ARRAY at line 1 column 21 path .data" />
-      <item value="show Choice" />
       <item value="DOMAIN NAME" />
       <item value="Only one Domain-Name in the headers&quot;" />
       <item value="obtain Domain Name From Headers" />
