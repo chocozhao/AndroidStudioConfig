@@ -2,10 +2,48 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="689" />
+    <option name="newTranslationDialogWidth" value="687" />
     <option name="newTranslationDialogX" value="322" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path" />
+      <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 pa" />
+      <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column1 " />
+      <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column1" />
+      <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column" />
+      <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 colu" />
+      <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 col" />
+      <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 c" />
+      <item value="Use JsonReader.setLenient(true) to accept malformed JSON at" />
+      <item value="Use JsonReader.setLenient(true) to accept malformed JSON a" />
+      <item value="Use JsonReader.setLenient(true) to accept malformed JSON " />
+      <item value="Use JsonReader.setLenient(true) to accept malformed J" />
+      <item value="Use JsonReader.setLenient(true) to accept malformed " />
+      <item value="Use JsonReader.setLenient(true) to accept malformed" />
+      <item value="Use JsonReader.setLenient(true) to accept malform" />
+      <item value="Use JsonReader.setLenient(true) to accept malformd" />
+      <item value="Use JsonReader.setLenient(true) to accept malforn" />
+      <item value="Use JsonReader.setLenient(true) to accept malforem" />
+      <item value="Use JsonReader.setLenient(true) to accept malfr" />
+      <item value="Use JsonReader.setLenient(true) to a" />
+      <item value="Use JsonReader.setLenient(true)" />
+      <item value="Use JsonReader.setLenient(ter)" />
+      <item value="Use JsonReader.setLenient(t)" />
+      <item value="Use JsonReader.setLenient()" />
+      <item value="Use JsonReader.setLenient(" />
+      <item value="Use JsonReader.setLenient(0" />
+      <item value="Use JsonReader.setLenient" />
+      <item value="Use JsonReader.setLenient " />
+      <item value="Use JsonReader.s" />
+      <item value="Use JsonReader." />
+      <item value="Use JsonReader。" />
+      <item value="Use JsonReader" />
+      <item value="Use Json " />
+      <item value="Use Json" />
+      <item value="Use J" />
+      <item value="Use " />
+      <item value="Use" />
+      <item value="User" />
       <item value="Extract the default group failed, the path must be start with '' and contain more than 2 ''!" />
       <item value="show Choice" />
       <item value="content Equals" />
@@ -18,44 +56,6 @@
       <item value="Only one Domain-Name in the headers&quot;" />
       <item value="obtain Domain Name From Headers" />
       <item value="LOG BASE URL" />
-      <item value="fetch Domain" />
-      <item value="Deprecated" />
-      <item value="知识" />
-      <item value="set No More Data" />
-      <item value="finish Load More" />
-      <item value="LESSON" />
-      <item value="ExoPlayer error Unable to connect to" />
-      <item value="State indicating this item is currently in an error state. The error code should also be set when entering this state." />
-      <item value="STATE ERROR" />
-      <item value="starts With" />
-      <item value="clear Last Check Draw Item" />
-      <item value="switch 2 Full Screen Observer" />
-      <item value="enable Video Menu Btn" />
-      <item value="trust" />
-      <item value="trust&#10;" />
-      <item value="tr" />
-      <item value="Process terminated" />
-      <item value="get Item View Type" />
-      <item value="continue Upload Queue" />
-      <item value="send Image Message" />
-      <item value="is Private Chat Mode" />
-      <item value="get Name From Message" />
-      <item value="notify Item Change" />
-      <item value="notify Data Set Changed" />
-      <item value="Text Line Height Span" />
-      <item value="message Container" />
-      <item value="add Refrence Message" />
-      <item value="is Class Started" />
-      <item value="Gradient Drawable" />
-      <item value="disabled" />
-      <item value="single Line" />
-      <item value="square" />
-      <item value="gold" />
-      <item value="gradientblack" />
-      <item value="transparent" />
-      <item value="redirect" />
-      <item value="例子&#10;" />
-      <item value="isolate" />
     </histories>
     <option name="languageScores">
       <map>
