@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="322" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value=" As a last resort. In the android studio, try Analyze -&gt; Inspect Code -&gt; Whole project. Wait until the inspection is over and then correct errors in &quot;General&quot; section and possible ones in other sections." />
+      <item value="I got such error after a simple try of code refactoring. It has happened nor after some library was connected neither any changes in gradle. It looked like something in my code was wrong but the compiler could not found the issue. That's why I double checked all changes that I did and found that I had changed somehow method signature in the interface but had not changed it in class that implements it. I got this error twice during one day and decided to share my experience. I hope that it is a temporary compiler bug.&#10;&#10;Solution 1 Possible solution is to go to File -&gt; Settings -&gt; Compiler -&gt; and add &quot;--stacktrace --debug&quot; to Command-line Options. Read log and try to found the answer of what went wrong.&#10;&#10;In new Android Studio 3.1.+, you can enable/disable console log details by pressing &quot;Toggle View&quot; on &quot;Build&quot; tab. There you can find the details. Pay attention that both modes can be useful for investigation of the problem's reason. See: https://stackoverflow.com/a/49717363/" />
       <item value="&gt; Could not create an instance of type com.novoda.release.internal.compat.gradle5_3.AndroidSoftwareComponentCompat_Gradle_5_3." />
       <item value="publish" />
       <item value="The 'kotlin-android-extensions' Gradle plugin is deprecated. Please use this migration guide (https:goo.glekotlin-android-extensions-deprecation) to start working with View Binding (https:developer.android.comtopiclibrariesview-binding) and the 'kotlin-parcelize' plugin." />
@@ -54,8 +56,6 @@
       <item value="Use JsonReader.setLenient(true)" />
       <item value="Use JsonReader.setLenient(ter)" />
       <item value="Use JsonReader.setLenient(t)" />
-      <item value="Use JsonReader.setLenient()" />
-      <item value="Use JsonReader.setLenient(" />
     </histories>
     <option name="languageScores">
       <map>
