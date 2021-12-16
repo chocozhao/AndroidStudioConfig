@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="322" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="&quot;Some kotlin libraries attached to this project were compiled in a newer kotlin compiler" />
       <item value="&quot;Some kotlin libraries attached to this project were compiled in a newer kotlin compiler and can not be read ,please update kotlin plugin" />
       <item value="&quot;Some kotlin libraries attached to this project were compiled in a newer kotlin compiler and can not be read ,please update kotlin pl" />
       <item value="&quot;Some kotlin libraries attached to this project were compiled in a newer kotlin compiler and can not be read ,please update kotlin " />
@@ -18,7 +19,6 @@
       <item value="&quot;Some kotlin libraries attached to this project were compiled in a newer kotlin compiler and can" />
       <item value="&quot;Some kotlin libraries attached to this project were compiled in a newer kotlin compiler and " />
       <item value="&quot;Some kotlin libraries attached to this project were compiled in a newer kotlin compiler a" />
-      <item value="&quot;Some kotlin libraries attached to this project were compiled in a newer kotlin compiler" />
       <item value="Android studio update kotlin plugin no updates found" />
       <item value="e: C:Usersyouthmba.gradlecachesmodules-2files-2.1org.jetbrains.kotlinkotlin-stdlib-common1.6.07857e365f925cfa060f941c1357cda1f8790502ckotlin-stdlib-common-1.6.0.jar!META-INFkotlin-stdlib-common.kotlin_module: Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.6.0, expected version is 1.4.2." />
       <item value="C:Usersyouthmba.gradlecachesmodules-2files-2.1androidx.annotationannotation1.4.0-alpha018c16c0d1fad0d41cdac0394c7fa16a25a4210248annotation-1.4.0-alpha01.jar!META-INFannotation.kotlin_module: Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.6.0, expected version is 1.4.2." />
