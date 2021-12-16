@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="322" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="A failure occurred while executing org.jetbrains.kotlin.compilerRunner.GradleCompilerRunnerWithWorkersGradleKotlinCompilerWorkAction" />
       <item value="Compilation error. See log for more details" />
       <item value="[org.gradle.internal.buildevents.Build Exception Reporter]" />
       <item value="No signature of method: build_697uvw0b4o6ztjcb8uyvcgrsb.android() is applicable for argument types:" />
@@ -55,7 +56,6 @@
       <item value="调整" />
       <item value="tiao'z" />
       <item value="ti" />
-      <item value="'kotlin.jvm.JvmStatic' was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.6.0, expected version is 1.4.2." />
     </histories>
     <option name="languageScores">
       <map>
