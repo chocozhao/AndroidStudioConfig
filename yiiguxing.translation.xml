@@ -6,9 +6,13 @@
     <option name="newTranslationDialogX" value="322" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.6.0, expected version is 1.4.2." />
+      <item value="compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.6.0, expected version is 1.4.2" />
+      <item value="Failed to apply plugin [id 'kotlin-android']" />
+      <item value="org.gradle.api.internal.plugins.PluginApplicationException: Failed to apply plugin [id 'kotlin-android']" />
+      <item value="The 'kotlin-android-extensions' Gradle plugin is deprecated. Please use this migration guide (https:goo.glekotlin-android-extensions-deprecation) to start working with View Binding (https:developer.android.comtopiclibrariesview-binding) and the 'kotlin-parcelize' plugin." />
       <item value="expected version is 1.4.2." />
       <item value="Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.6.0" />
-      <item value="Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.6.0, expected version is 1.4.2." />
       <item value="Runtime JAR files in the classpath should have the same version. These files were found in the classpath" />
       <item value="Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.6.0, expected" />
       <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path" />
@@ -52,10 +56,6 @@
       <item value="Extract the default group failed, the path must be start with '' and contain more than 2 ''!" />
       <item value="show Choice" />
       <item value="content Equals" />
-      <item value="item Decoration Count" />
-      <item value="小结" />
-      <item value="BEGIN" />
-      <item value="ARRAY" />
     </histories>
     <option name="languageScores">
       <map>
