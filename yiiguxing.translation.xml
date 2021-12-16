@@ -6,6 +6,11 @@
     <option name="newTranslationDialogX" value="322" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="expected version is 1.4.2." />
+      <item value="Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.6.0" />
+      <item value="Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.6.0, expected version is 1.4.2." />
+      <item value="Runtime JAR files in the classpath should have the same version. These files were found in the classpath" />
+      <item value="Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.6.0, expected" />
       <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path" />
       <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 pa" />
       <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column1 " />
@@ -51,11 +56,6 @@
       <item value="小结" />
       <item value="BEGIN" />
       <item value="ARRAY" />
-      <item value="java.lang.IllegalStateException: Expected BEGIN_OBJECT but was BEGIN_ARRAY at line 1 column 21 path .data" />
-      <item value="DOMAIN NAME" />
-      <item value="Only one Domain-Name in the headers&quot;" />
-      <item value="obtain Domain Name From Headers" />
-      <item value="LOG BASE URL" />
     </histories>
     <option name="languageScores">
       <map>
