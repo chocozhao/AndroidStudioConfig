@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="322" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Unresolved reference: " />
       <item value="Some kotlin libraries attached to this project were compiled in a newer kotlin compiler with a newer kotlin and can not be read" />
       <item value="Some kotlin libraries attached to this project were compiled in a newer kotlin compiler with a newer kotlin and can not " />
       <item value="Some kotlin libraries attached to this project were compiled in a newer kotlin compiler with a newer kotlin and can not" />
@@ -55,7 +56,6 @@
       <item value="you have t" />
       <item value="you have th" />
       <item value="you have " />
-      <item value="you ho" />
     </histories>
     <option name="languageScores">
       <map>
