@@ -2,10 +2,24 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="463" />
-    <option name="newTranslationDialogWidth" value="679" />
+    <option name="newTranslationDialogWidth" value="677" />
     <option name="newTranslationDialogX" value="322" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="unsupported format plugin version" />
+      <item value="unsupported format plugin v" />
+      <item value="unsupported format plugin " />
+      <item value="unsupported format plugin" />
+      <item value="unsupported format p'lu" />
+      <item value="unsupported format" />
+      <item value="unsupported forma" />
+      <item value="unsupported " />
+      <item value="unsupport" />
+      <item value="unsu'p'po't" />
+      <item value="unsu'p" />
+      <item value="unsu" />
+      <item value="uns" />
+      <item value="un" />
       <item value="Unresolved reference: " />
       <item value="Some kotlin libraries attached to this project were compiled in a newer kotlin compiler with a newer kotlin and can not be read" />
       <item value="Some kotlin libraries attached to this project were compiled in a newer kotlin compiler with a newer kotlin and can not " />
@@ -42,20 +56,6 @@
       <item value="&quot;Some kotlin libraries attached to this project were compiled in a newer kotlin compiler and " />
       <item value="&quot;Some kotlin libraries attached to this project were compiled in a newer kotlin compiler a" />
       <item value="Android studio update kotlin plugin no updates found" />
-      <item value="e: C:Usersyouthmba.gradlecachesmodules-2files-2.1org.jetbrains.kotlinkotlin-stdlib-common1.6.07857e365f925cfa060f941c1357cda1f8790502ckotlin-stdlib-common-1.6.0.jar!META-INFkotlin-stdlib-common.kotlin_module: Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.6.0, expected version is 1.4.2." />
-      <item value="C:Usersyouthmba.gradlecachesmodules-2files-2.1androidx.annotationannotation1.4.0-alpha018c16c0d1fad0d41cdac0394c7fa16a25a4210248annotation-1.4.0-alpha01.jar!META-INFannotation.kotlin_module: Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.6.0, expected version is 1.4.2." />
-      <item value="you have the latest version of the plugin installed" />
-      <item value="you have the latest version of the plugin instal" />
-      <item value="you have the latest version of the plugin in" />
-      <item value="you have the latest version of the plu" />
-      <item value="you have the latest version of the pl" />
-      <item value="you have the latest version of the " />
-      <item value="you have the latest version of ht" />
-      <item value="you have the latest version of " />
-      <item value="you have the " />
-      <item value="you have t" />
-      <item value="you have th" />
-      <item value="you have " />
     </histories>
     <option name="languageScores">
       <map>
