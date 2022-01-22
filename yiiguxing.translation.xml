@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="322" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="content Equals" />
+      <item value="Install device drivers. If you want to connect a device for testing, then you need to install the appropriate USB drivers. For more information, read the online documentation." />
       <item value="Android Studio detected 13 device(s)." />
       <item value="New Api" />
       <item value="fill Viewport" />
@@ -54,8 +56,6 @@
       <item value="&quot;Some kotlin libraries attached to this project were compiled in a newer kotlin compiler and can not be read ,please u" />
       <item value="&quot;Some kotlin libraries attached to this project were compiled in a newer kotlin compiler and can not be read ,p" />
       <item value="&quot;Some kotlin libraries attached to this project were compiled in a newer kotlin compiler and can not be read ," />
-      <item value="&quot;Some kotlin libraries attached to this project were compiled in a newer kotlin compiler and can not be read " />
-      <item value="&quot;Some kotlin libraries attached to this project were compiled in a newer kotlin compiler and can not be re" />
     </histories>
     <option name="languageScores">
       <map>
