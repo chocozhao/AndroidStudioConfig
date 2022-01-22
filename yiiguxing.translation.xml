@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="322" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Android Studio detected 13 device(s)." />
       <item value="New Api" />
       <item value="fill Viewport" />
       <item value="Outline" />
@@ -55,7 +56,6 @@
       <item value="&quot;Some kotlin libraries attached to this project were compiled in a newer kotlin compiler and can not be read ," />
       <item value="&quot;Some kotlin libraries attached to this project were compiled in a newer kotlin compiler and can not be read " />
       <item value="&quot;Some kotlin libraries attached to this project were compiled in a newer kotlin compiler and can not be re" />
-      <item value="&quot;Some kotlin libraries attached to this project were compiled in a newer kotlin compiler and can" />
     </histories>
     <option name="languageScores">
       <map>
