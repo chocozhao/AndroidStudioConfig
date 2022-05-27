@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="322" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="stay" />
       <item value="Already have a pending vsync event. There should only be one at a time." />
       <item value="Core Component Factory" />
       <item value="Class Not Found Exception" />
@@ -55,7 +56,6 @@
       <item value="&quot;Some kotlin libraries attached to this project were compiled in a newer kotlin compiler" />
       <item value="&quot;Some kotlin libraries attached to this project were compiled in a newer kotlin compiler and can not be read ,please update kotlin plugin" />
       <item value="&quot;Some kotlin libraries attached to this project were compiled in a newer kotlin compiler and can not be read ,please update kotlin pl" />
-      <item value="&quot;Some kotlin libraries attached to this project were compiled in a newer kotlin compiler and can not be read ,please update kotlin " />
     </histories>
     <option name="languageScores">
       <map>
