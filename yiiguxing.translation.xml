@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="322" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="set Enter Skip View Id And Delegate" />
+      <item value="delay Init" />
+      <item value="init Third Service" />
       <item value="stay" />
       <item value="Already have a pending vsync event. There should only be one at a time." />
       <item value="Core Component Factory" />
@@ -53,9 +56,6 @@
       <item value="No signature of method: build_697uvw0b4o6ztjcb8uyvcgrsb.android() is applicable for argument types:" />
       <item value="Could not create an instance of type com.novoda.release.internal.compat.gradle5_3.AndroidSoftwareComponentCompat_Gradle_5_3." />
       <item value="usagecontext" />
-      <item value="&quot;Some kotlin libraries attached to this project were compiled in a newer kotlin compiler" />
-      <item value="&quot;Some kotlin libraries attached to this project were compiled in a newer kotlin compiler and can not be read ,please update kotlin plugin" />
-      <item value="&quot;Some kotlin libraries attached to this project were compiled in a newer kotlin compiler and can not be read ,please update kotlin pl" />
     </histories>
     <option name="languageScores">
       <map>
@@ -94,7 +94,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653387644352" />
+    <option name="lastTrimTime" value="1662101917100" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
