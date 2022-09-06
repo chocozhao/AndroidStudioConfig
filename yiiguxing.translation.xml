@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="322" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="Code insight and background tasks are disabled" />
       <item value="init Third Service" />
       <item value="set Enable Full Log" />
       <item value="set Host" />
@@ -55,7 +56,6 @@
       <item value="Some kotlin libraries attached to this project were compiled in a newer kotlin compiler w" />
       <item value="Some kotlin libraries attached to this project were compiled in a newer kotlin compilerw" />
       <item value="Some kotlin libraries attached to this project were compiled in a newer kotlin compiler" />
-      <item value="A failure occurred while executing org.jetbrains.kotlin.compilerRunner.GradleCompilerRunnerWithWorkersGradleKotlinCompilerWorkAction" />
     </histories>
     <option name="languageScores">
       <map>
