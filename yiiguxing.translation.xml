@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="322" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="init Third Service" />
       <item value="set Enable Full Log" />
       <item value="set Host" />
       <item value="kill Process Safely" />
@@ -13,7 +14,6 @@
       <item value="pre Init" />
       <item value="set Enter Skip View Id And Delegate" />
       <item value="delay Init" />
-      <item value="init Third Service" />
       <item value="stay" />
       <item value="Already have a pending vsync event. There should only be one at a time." />
       <item value="Core Component Factory" />
