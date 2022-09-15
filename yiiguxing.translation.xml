@@ -6,6 +6,11 @@
     <option name="newTranslationDialogX" value="322" />
     <option name="newTranslationDialogY" value="317" />
     <histories>
+      <item value="PERMISSION READ EXTERNAL STORAGE" />
+      <item value="PERMISSION WRITE EXTERNAL STORAGE" />
+      <item value="rationale" />
+      <item value="READ EXTERNAL STORAGE" />
+      <item value="show Terms" />
       <item value="WAKE LOCK" />
       <item value="Code insight and background tasks are disabled" />
       <item value="init Third Service" />
@@ -51,11 +56,6 @@
       <item value="Some kotlin libraries attached to this project were compiled in a newer kotlin compiler with a newer " />
       <item value="Some kotlin libraries attached to this project were compiled in a newer kotlin compiler with a " />
       <item value="Some kotlin libraries attached to this project were compiled in a newer kotlin compiler with a" />
-      <item value="Some kotlin libraries attached to this project were compiled in a newer kotlin compiler with a&#10;" />
-      <item value="Some kotlin libraries attached to this project were compiled in a newer kotlin compiler with a&#10; " />
-      <item value="Some kotlin libraries attached to this project were compiled in a newer kotlin compiler with" />
-      <item value="Some kotlin libraries attached to this project were compiled in a newer kotlin compiler w" />
-      <item value="Some kotlin libraries attached to this project were compiled in a newer kotlin compilerw" />
     </histories>
     <option name="languageScores">
       <map>
